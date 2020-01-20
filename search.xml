@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>my-first-hexo-page</title>
+    <url>/my-first-hexo-page.html</url>
+    <content><![CDATA[<p>哈哈</p>
+]]></content>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客SEO学习</title>
     <url>/blog-seo.html</url>
     <content><![CDATA[<p>还有好多要用：</p>
