@@ -47,8 +47,6 @@
             
             <tag> 标签2 </tag>
             
-            <tag> 标签3 </tag>
-            
         </tags>
       
     </entry>
@@ -116,7 +114,7 @@
     
     
     <entry>
-      <title>categories</title>
+      <title>文章分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
       
@@ -127,7 +125,7 @@
     
     
     <entry>
-      <title>tags</title>
+      <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       

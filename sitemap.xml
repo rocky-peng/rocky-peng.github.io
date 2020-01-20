@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.qseasy.cn/blog-seo.html</loc>
+    
+    <lastmod>2020-01-20T07:26:10.719Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.qseasy.cn/categories/index.html</loc>
+    
+    <lastmod>2020-01-20T07:24:49.803Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.qseasy.cn/tags/index.html</loc>
     
-    <lastmod>2020-01-20T07:22:58.771Z</lastmod>
+    <lastmod>2020-01-20T07:24:38.112Z</lastmod>
     
   </url>
   
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>http://blog.qseasy.cn/categories/index.html</loc>
-    
-    <lastmod>2020-01-20T07:19:44.548Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.qseasy.cn/my-first-hexo-page.html</loc>
     
     <lastmod>2020-01-20T07:08:51.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.qseasy.cn/blog-seo.html</loc>
-    
-    <lastmod>2020-01-20T05:49:49.176Z</lastmod>
     
   </url>
   
