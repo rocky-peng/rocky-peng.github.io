@@ -214,7 +214,9 @@
 <p><img src="http://img.leyongzuche.com/xiaoshujiang/1546077439717.jpg" alt="enter description here"></p>
 ]]></content>
       <categories>
-        <category>分类1,分类2,分类3</category>
+        <category>分类1</category>
+        <category>分类2</category>
+        <category>分类3</category>
       </categories>
       <tags>
         <tag>标签1</tag>
