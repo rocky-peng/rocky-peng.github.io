@@ -89,11 +89,7 @@
       
       <categories>
           
-          <category> 分类1 </category>
-          
-          <category> 分类2 </category>
-          
-          <category> 分类3 </category>
+          <category> 分类1,分类2,分类3 </category>
           
       </categories>
       
