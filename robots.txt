@@ -1,16 +1,20 @@
 User-agent: *
 Allow: /
+Allow: /2020/
 Allow: /archives/
+Allow: /assets/
 Allow: /categories/
+Allow: /css/
+Allow: /images/
+Allow: /js/
+Allow: /lib/
 Allow: /tags/
+
 Allow: /resources/
-Disallow: /vendors/
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /vendors/
-Disallow: /fancybox/
+Allow: /vendors/
+Allow: /fonts/
+Allow: /vendors/
+Allow: /fancybox/
 
 Sitemap: https://blog.qseasy.cn/sitemap.xml
 Sitemap: https://blog.qseasy.cn/baidusitemap.xml
-
