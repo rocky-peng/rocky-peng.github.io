@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.qseasy.cn/test.html</loc>
+    
+    <lastmod>2020-01-20T07:21:57.650Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.qseasy.cn/categories/index.html</loc>
     
     <lastmod>2020-01-20T07:19:44.548Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://blog.qseasy.cn/my-first-hexo-page.html</loc>
     
     <lastmod>2020-01-20T07:08:51.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.qseasy.cn/test.html</loc>
-    
-    <lastmod>2020-01-20T07:04:12.182Z</lastmod>
     
   </url>
   
