@@ -7,7 +7,6 @@
 <meta name="generator" content="Hexo 4.2.0">
 <meta name="360-site-verification" content="2f9b300957197437cd9b4b4f5e4f4d4f" />
 <meta name="keywords" content="Java技术杂烩,Java,深入理解JVM虚拟机,NIO,中间件,阿里中间件团队博客,CSDN,Java程序员,Linux" />
-<meta name="description" content="本博客会不定期更新Java相关的技术文章，涵盖了Java工程师实际工作中可能遇到的各种技术" />
   <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
@@ -35,7 +34,7 @@
     sidebar: {"position":"right","display":"post","padding":18,"offset":12,"onmobile":true},
     copycode: {"enable":true,"show_result":true,"style":null},
     back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
-    bookmark: {"enable":true,"color":"#222","save":"manual"},
+    bookmark: {"enable":true,"color":"#222","save":"auto"},
     fancybox: true,
     mediumzoom: false,
     lazyload: false,
@@ -48,18 +47,18 @@
       hits: {"per_page":10},
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
-    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
     path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
   };
 </script>
 
-  <meta name="description" content="本博客会不定期更新Java相关的技术文章，涵盖了Java工程师实际工作中可能遇到的各种技术">
+  <meta name="description" content="本博客会不定期更新Java相关的技术文章，涵盖Java工程师实际工作中可能遇到的各种技术">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Java技术杂烩">
 <meta property="og:url" content="http://blog.qseasy.cn/tags/nginx/index.html">
 <meta property="og:site_name" content="Java技术杂烩">
-<meta property="og:description" content="本博客会不定期更新Java相关的技术文章，涵盖了Java工程师实际工作中可能遇到的各种技术">
+<meta property="og:description" content="本博客会不定期更新Java相关的技术文章，涵盖Java工程师实际工作中可能遇到的各种技术">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:author" content="Java技术杂烩">
 <meta property="article:tag" content="Java技术杂烩">
@@ -142,7 +141,7 @@
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
-        <h1 class="site-subtitle" itemprop="description">本博客会不定期更新Java相关的技术文章，涵盖了Java工程师实际工作中可能遇到的各种技术</h1>
+        <h1 class="site-subtitle" itemprop="description">不定期更新Java相关的技术文章，涵盖Java工程师实际工作中可能遇到的各种技术</h1>
       
   </div>
 
@@ -166,27 +165,47 @@
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
-
-  </li>
-        <li class="menu-item menu-item-tags">
-
-    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档<span class="badge">16</span></a>
 
   </li>
         <li class="menu-item menu-item-categories">
 
-    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类<span class="badge">3</span></a>
 
   </li>
-        <li class="menu-item menu-item-sitemap">
+        <li class="menu-item menu-item-tags">
 
-    <a href="/sitemap.xml" rel="section"><i class="fa fa-fw fa-sitemap"></i>站点地图</a>
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签<span class="badge">54</span></a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
   </ul>
 
 </nav>
+  <div class="site-search">
+    <div class="popup search-popup">
+    <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocorrect="off" autocapitalize="none"
+           placeholder="搜索..." spellcheck="false"
+           type="text" id="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result"></div>
+
+</div>
+<div class="search-pop-overlay"></div>
+
+  </div>
 </div>
     </header>
 
@@ -197,6 +216,8 @@
   </div>
   <div class="reading-progress-bar"></div>
   <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+  <a href="https://github.com/rocky-peng" class="github-corner" title="Follow me on GitHub" aria-label="Follow me on GitHub" rel="noopener" target="_blank"><svg width="80" height="80" viewBox="0 0 250 250" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a>
 
 
     <main class="main">
@@ -307,7 +328,7 @@
       <div class="site-overview-wrap sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <p class="site-author-name" itemprop="name">Java技术杂烩</p>
-  <div class="site-description" itemprop="description">本博客会不定期更新Java相关的技术文章，涵盖了Java工程师实际工作中可能遇到的各种技术</div>
+  <div class="site-description" itemprop="description">本博客会不定期更新Java相关的技术文章，涵盖Java工程师实际工作中可能遇到的各种技术</div>
 </div>
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
@@ -366,12 +387,10 @@
   </span>
   <span class="author" itemprop="copyrightHolder">Java技术杂烩</span>
 </div>
-  <div class="theme-info">主题 – <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v7.7.0
-  </div>
 
 
 
-   <br/>
+   <div>
    <script>
    var _hmt = _hmt || [];
    (function() {
@@ -382,6 +401,7 @@
    })();
    </script>
    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1278584828'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/z_stat.php%3Fid%3D1278584828%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+   </div>
 
 
 
@@ -458,6 +478,10 @@ document.write('<script src="' + src + '" id="sozz"><\/script>');
   </script>
 
 
+
+
+  
+<script src="/js/local-search.js"></script>
 
 
 
