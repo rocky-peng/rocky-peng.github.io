@@ -1,6 +1,579 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>BTrace入门</title>
+    <url>/Btrace%E5%85%A5%E9%97%A8.html</url>
+    <content><![CDATA[<p>概念性的东西自行网上查阅吧。</p>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>现在btrace项目已经迁移到了github上了。这点可以从官网（ <a href="https://kenai.com/projects/btrace/downloads/directory/releases/latest" target="_blank" rel="noopener">https://kenai.com/projects/btrace/downloads/directory/releases/latest</a> ）上看出。</p>
+<p>点开这个链接就会跳转到btrace项目的github地址：<a href="https://github.com/btraceio/btrace" target="_blank" rel="noopener">https://github.com/btraceio/btrace</a> </p>
+<p>下面直接给出下载地址：<a href="https://github.com/btraceio/btrace/releases" target="_blank" rel="noopener">https://github.com/btraceio/btrace/releases</a><br>我这里下载的版本是 <a href="https://github.com/btraceio/btrace/releases/download/v1.3.8.1/btrace-bin-1.3.8.1.tgz" target="_blank" rel="noopener">https://github.com/btraceio/btrace/releases/download/v1.3.8.1/btrace-bin-1.3.8.1.tgz</a></p>
+<p>下面的安装步骤主要就是设置环境变量，其实也可以不设置。这里设置下只是为方便执行命令而已。另外各种操作系统设置环境变量的方法也有所不同，我这里是采用的 mac 系统，采用的终端软件我也改变了一下，所以需要各自根据自己的实际情况进行设置。</p>
+<p>下载完成后，执行：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">mkdir btrace</span><br><span class="line">tar -zxvf btrace-bin-1.3.8.1.tgz -C btrace</span><br></pre></td></tr></table></figure>
+
+<p>假设btrace路径为 : /Applications/btrace<br>下面只需要设置 BTRACE_HOME 和 PATH 两个环境变量即可。</p>
+<p>注意我这里修改的文件是~/.zshrc文件。这个要看各自使用的操作系统以及所使用的terminal客户端而定。具体是哪个文件请各自查阅相关资料。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">vim ~&#x2F;.zshrc</span><br></pre></td></tr></table></figure>
+<p>拉到文件末尾，添加以下代码：（建议不要去修改已有的配置，只需要在末尾追加即可）</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">export BTRACE_HOME&#x3D;&quot;&#x2F;Applications&#x2F;btrace&quot;</span><br><span class="line">export PATH&#x3D;$BTRACE_HOME&#x2F;bin:$PATH</span><br></pre></td></tr></table></figure>
+<p>保存文件，执行：</p>
+<a id="more"></a>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">source ~&#x2F;.zshrc</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="基本用法"><a href="#基本用法" class="headerlink" title="基本用法"></a>基本用法</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">btrace pid btrace脚本</span><br></pre></td></tr></table></figure>
+
+<h2 id="编写测试类"><a href="#编写测试类" class="headerlink" title="编写测试类"></a>编写测试类</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">package com.btrace;</span><br><span class="line"></span><br><span class="line">import java.util.Random;</span><br><span class="line">import java.util.UUID;</span><br><span class="line"></span><br><span class="line">public class RemoteClass &#123;</span><br><span class="line"></span><br><span class="line">    public String f1(String a, int b) &#123;</span><br><span class="line">        System.out.println(a + &quot; &quot; + b);</span><br><span class="line">        return a;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">        RemoteClass rc &#x3D; new RemoteClass();</span><br><span class="line">        while (true) &#123;</span><br><span class="line">            rc.f1(UUID.randomUUID().toString(), new Random().nextInt());</span><br><span class="line">            try &#123;</span><br><span class="line">                Thread.sleep(500);</span><br><span class="line">            &#125; catch (InterruptedException e) &#123;</span><br><span class="line"></span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">然后启动main方法，并找到pid</span><br><span class="line">jps -ml</span><br><span class="line"></span><br><span class="line">我这里的pid 为：13705</span><br></pre></td></tr></table></figure>
+
+<h2 id="编写btrace脚本"><a href="#编写btrace脚本" class="headerlink" title="编写btrace脚本"></a>编写btrace脚本</h2><ul>
+<li><p>我这里的脚本保存路径为：/Users/xxx/Desktop/btrace_script</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd &#x2F;Users&#x2F;xxx&#x2F;Desktop&#x2F;btrace_script</span><br></pre></td></tr></table></figure>
+<h3 id="Btrace初体验"><a href="#Btrace初体验" class="headerlink" title="Btrace初体验"></a>Btrace初体验</h3></li>
+<li><p>功能: 每次执行完f1后，打印 “Hello BTrace”</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import com.sun.btrace.annotations.*;</span><br><span class="line">import static com.sun.btrace.BTraceUtils.*;</span><br><span class="line">import java.lang.reflect.Field;</span><br><span class="line"></span><br><span class="line">@BTrace public class HelloBtrace &#123;</span><br><span class="line"></span><br><span class="line">  @OnMethod(</span><br><span class="line">    clazz&#x3D;&quot;com.btrace.RemoteClass&quot;,</span><br><span class="line">    method&#x3D;&quot;f1&quot;</span><br><span class="line">  ) </span><br><span class="line">  public static void onF1() &#123;</span><br><span class="line">    println(&quot;Hello BTrace&quot;);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>  保存为：HelloBtrace.java</p>
+</li>
+<li><p>执行脚本:</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">btrace 13705 HelloBtrace.java</span><br></pre></td></tr></table></figure>
+<p>  <img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1578279063986.png" alt="enter description here"></p>
+</li>
+</ul>
+<h3 id="获取方法参数"><a href="#获取方法参数" class="headerlink" title="获取方法参数"></a>获取方法参数</h3><ul>
+<li><p>功能：得到参数</p>
+</li>
+<li><p>注意：参数的定义，顺序，个数保持一致。（个数我这边测试是必须保持相同的，至于类型，顺序是否必须保持一致就没有测试了）</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">import com.sun.btrace.annotations.*;</span><br><span class="line">import static com.sun.btrace.BTraceUtils.*;</span><br><span class="line">import java.lang.reflect.Field;</span><br><span class="line"></span><br><span class="line">@BTrace public class HelloBtrace &#123;</span><br><span class="line"></span><br><span class="line">  @OnMethod(</span><br><span class="line">    clazz&#x3D;&quot;com.btrace.RemoteClass&quot;,</span><br><span class="line">    method&#x3D;&quot;f1&quot;</span><br><span class="line">  ) </span><br><span class="line">  public static void onF1(String a,int b) &#123;</span><br><span class="line">  	println(str(a));</span><br><span class="line">  	println(str(b));</span><br><span class="line">    println(&quot;&quot;);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li><p>执行脚本:</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">btrace 13705 HelloBtrace.java</span><br></pre></td></tr></table></figure>
+<p>  <img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1578279109778.png" alt="enter description here"></p>
+</li>
+</ul>
+<h3 id="获取方法返回值"><a href="#获取方法返回值" class="headerlink" title="获取方法返回值"></a>获取方法返回值</h3><ul>
+<li><p>功能：获取方法的返回值</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import com.sun.btrace.annotations.*;</span><br><span class="line">import static com.sun.btrace.BTraceUtils.*;</span><br><span class="line">import java.lang.reflect.Field;</span><br><span class="line"></span><br><span class="line">@BTrace public class HelloBtrace &#123;</span><br><span class="line"></span><br><span class="line">  @OnMethod(</span><br><span class="line">    clazz&#x3D;&quot;com.btrace.RemoteClass&quot;,</span><br><span class="line">    method&#x3D;&quot;f1&quot;,</span><br><span class="line">    location&#x3D;@Location(Kind.RETURN)</span><br><span class="line">  ) </span><br><span class="line">  public static void onF1(String a,int b,@Return String result) &#123;</span><br><span class="line">  	println(str(a));</span><br><span class="line">  	println(str(b));</span><br><span class="line">  	println(str(result));</span><br><span class="line">    println(&quot;&quot;);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li><p>执行脚本:</p>
+  <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">btrace 13705 HelloBtrace.java</span><br></pre></td></tr></table></figure>
+
+<p>  <img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1578279137016.png" alt="enter description here"></p>
+</li>
+</ul>
+<h3 id="更多功能"><a href="#更多功能" class="headerlink" title="更多功能"></a>更多功能</h3><ul>
+<li>参考1：<a href="https://kenai.com/projects/btrace/pages/UserGuide" target="_blank" rel="noopener">https://kenai.com/projects/btrace/pages/UserGuide</a></li>
+<li>参考2：btrace的安装目录下有个 samples 文件夹，里面有各种示例</li>
+</ul>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>对Btrace的用法主要就是学习用提供的各种注解，以及com.sun.btrace.BTraceUtils类提供的各种功能。</p>
+<p>如果想要了解各个注解的文档，可以参考：<a href="https://btrace.kenai.com/javadoc/1.2/com/sun/btrace/annotations/package-summary.html" target="_blank" rel="noopener">https://btrace.kenai.com/javadoc/1.2/com/sun/btrace/annotations/package-summary.html</a></p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>btrace</tag>
+        <tag>java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cordova+Umi项目搭建步骤</title>
+    <url>/Cordova+Umi%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4.html</url>
+    <content><![CDATA[<h2 id="项目搭建"><a href="#项目搭建" class="headerlink" title="项目搭建"></a>项目搭建</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># 创建 cordova 项目： cordova-demo</span><br><span class="line">cordova create cordova-demo com.example.hello CordovaDemo</span><br><span class="line"># 上面的命令会自动创建 cordova-demo 目录</span><br><span class="line"></span><br><span class="line"># 开始创建umi项目</span><br><span class="line">cd cordova-demo</span><br><span class="line">mkdir myapp-a &amp;&amp; cd myapp-a</span><br><span class="line">yarn create umi</span><br><span class="line"></span><br><span class="line"># 选择app</span><br><span class="line"># 不启用typescript</span><br><span class="line"># 勾选antd dva</span><br><span class="line"># 回车</span><br><span class="line"></span><br><span class="line"># 执行完后，执行</span><br><span class="line"></span><br><span class="line">yarn or npm install</span><br><span class="line"></span><br><span class="line"># 修改 .umirc.js 在 export default &#123; 中添加下面三行代码</span><br><span class="line">  outputPath: &#39;..&#x2F;www&#x2F;&#39;,</span><br><span class="line">  publicPath: &#39;.&#x2F;&#39;,</span><br><span class="line">  history: &#39;hash&#39;,</span><br><span class="line"></span><br><span class="line"># 然后执行</span><br><span class="line">npm run build</span><br><span class="line"></span><br><span class="line">&lt;!-- more --&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># 上面执行完后，会将 cordova-demo 目录中原有的www目录给删掉，然后重新创建www目录，存放的是umi项目的打包后的文件</span><br><span class="line"></span><br><span class="line"># 这个时候返回cordova-demo目录</span><br><span class="line">cd ..</span><br><span class="line"></span><br><span class="line"># 测试 cordova android</span><br><span class="line"></span><br><span class="line">cordova platform add android</span><br><span class="line">cordova build android</span><br><span class="line"></span><br><span class="line"># 添加 .gitignore 文件</span><br><span class="line"></span><br><span class="line">在 cordova-demo 创建 .gitignore 文件，内容如下：</span><br><span class="line"></span><br><span class="line">.idea</span><br><span class="line">node_modules</span><br><span class="line">plugins</span><br><span class="line">platforms</span><br><span class="line">www</span><br><span class="line"></span><br><span class="line">在 myapp-a 创建 .gitignore 文件，内容如下：</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># dependencies</span><br><span class="line">&#x2F;node_modules</span><br><span class="line">&#x2F;npm-debug.log*</span><br><span class="line">&#x2F;yarn-error.log</span><br><span class="line">&#x2F;yarn.lock</span><br><span class="line">&#x2F;package-lock.json</span><br><span class="line"></span><br><span class="line"># production</span><br><span class="line">&#x2F;dist</span><br><span class="line"></span><br><span class="line"># misc</span><br><span class="line">.DS_Store</span><br><span class="line"></span><br><span class="line"># umi</span><br><span class="line">.umi</span><br><span class="line">.umi-production</span><br><span class="line"></span><br><span class="line">结束</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="扩展资料"><a href="#扩展资料" class="headerlink" title="扩展资料"></a>扩展资料</h2><p>cordova : <a href="https://cordova.apache.org/docs/en/latest/guide/cli/index.html" target="_blank" rel="noopener">https://cordova.apache.org/docs/en/latest/guide/cli/index.html</a> </p>
+<p>umi: <a href="https://umijs.org/zh/guide/create-umi-app.html#%E5%88%9B%E5%BB%BA-umi-%E9%A1%B9%E7%9B%AE" target="_blank" rel="noopener">https://umijs.org/zh/guide/create-umi-app.html#%E5%88%9B%E5%BB%BA-umi-%E9%A1%B9%E7%9B%AE</a></p>
+<h2 id="cordova-打包"><a href="#cordova-打包" class="headerlink" title="cordova 打包"></a>cordova 打包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">debug包</span><br><span class="line"></span><br><span class="line">cordova build android -- --gradleArg&#x3D;-PcdvVersionCode&#x3D;2</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">release包</span><br><span class="line">cordova build android --release -- --gradleArg&#x3D;-PcdvVersionCode&#x3D;2</span><br><span class="line"></span><br><span class="line">传递参数给gradle</span><br><span class="line">-- --gradleArg&#x3D;-PcdvVersionCode&#x3D;2 --gradleArg&#x3D;-PVERSION_NAME&#x3D;2.2.2</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>cordova</tag>
+        <tag>umi</tag>
+        <tag>android</tag>
+        <tag>ios</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PasteImageIntoMarkdown插件开发记录</title>
+    <url>/PasteImageIntoMarkdown%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.html</url>
+    <content><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>由于这段时间需要经常使用markdown写一些文档，<br>本来之前用过其他软件，但是总有点不是那么顺手。于是开始尝试使用idea写，写完后可以很方便的提交到仓库。<br>于是找了半天找到了插件叫Paste Image Into Markdown. 但这个插件只能支持吧图片保存到一个相对路径，<br>于是接着网上搜索，也找到一个能把图片上传到七牛云的，但貌似很久没维护现在已经不能用了，于是干脆自己动手了。</p>
+<p>写完后我找到了Paste Image Into Markdown插件的github仓库，本想提交上去，但提交上去后，仓库作者迟迟即不<br>接受也不拒绝，回复我说那个仓库是他的一个爱好，让我耐心等，于是干脆自己上传了。</p>
+<h2 id="功能增强"><a href="#功能增强" class="headerlink" title="功能增强"></a>功能增强</h2><p>在那个仓库的基础上我进行了一些功能修改，主要有以下几点：</p>
+<ol>
+<li>支持把图片上传到七牛云（原仓库不支持）</li>
+<li>支持把图片保存到工程相对路径（原仓库也有，做了一些修改）</li>
+<li>支持一次性粘贴多张磁盘图片，包括gif图片（原仓库支持粘贴单张磁盘图片样，但有bug）</li>
+<li>把设置选项统一集成在了idea的设置里</li>
+</ol>
+<p>下面有时间要做的是支持：</p>
+<ol>
+<li>阿里云存储</li>
+<li>腾讯云存储</li>
+</ol>
+<a id="more"></a>
+
+<h2 id="插件名称"><a href="#插件名称" class="headerlink" title="插件名称"></a>插件名称</h2><p>新的插件名称和原插件名称一幕一样，只是没有空格(😂)，叫：PasteImageIntoMarkdown </p>
+<p><img src="http://img.ljd.leyongleshi.com/markdown/184418301430157.png" alt=""></p>
+<h2 id="插件仓库"><a href="#插件仓库" class="headerlink" title="插件仓库"></a>插件仓库</h2><p>github: <a href="https://github.com/rocky-peng/PasteImageToMarkdown/" target="_blank" rel="noopener">https://github.com/rocky-peng/PasteImageToMarkdown</a></p>
+<p>欢迎各位大佬吐槽</p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>idea plugin</tag>
+        <tag>markdown</tag>
+        <tag>图片</tag>
+        <tag>七牛</tag>
+        <tag>腾讯云</tag>
+        <tag>阿里云</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>NGINX负载均衡配置</title>
+    <url>/NGINX.html</url>
+    <content><![CDATA[<h2 id="感性体验下负载均衡配置"><a href="#感性体验下负载均衡配置" class="headerlink" title="感性体验下负载均衡配置"></a>感性体验下负载均衡配置</h2><ol>
+<li><p>本地启动两个jetty</p>
+<p> 要达到的效果：通过nginx开启80端口，在浏览通过localhost来访问jetttyA 和 jettyB 提供的服务。</p>
+</li>
+</ol>
+<pre><code><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">jettyA   localhsot:6000    首页输出:6000</span><br><span class="line">jettyB   localhsot:7000    首页输出:7000</span><br></pre></td></tr></table></figure></code></pre><ol start="2">
+<li>进入nginx配置文件目录 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd &#x2F;etc&#x2F;nginx</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/WeChatad950e5ad0c63b5869efc740570cfa47.png" alt=""></p>
+<ol start="3">
+<li>修改 nginx.conf <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在http节点下新增如下配置：</span><br><span class="line"></span><br><span class="line">upstream lyzc &#123;</span><br><span class="line">         ip_hash;</span><br><span class="line">         server localhost:6000;</span><br><span class="line">         server localhost:7000;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line"> 这个配置即为负载均衡的配置，但现在还没有使用。</span><br><span class="line"> </span><br><span class="line"> lyzc ：对集群的命名，可以为域名，名称自己确定</span><br><span class="line"> ip_hash :  负载均衡算法，可以不写（不写的情况默认为轮询算法）</span><br><span class="line"> server : 配置提供服务的机器节点信息，可以任意多个</span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> 然后在server节点下，修改或添加location的配置如下：</span><br><span class="line"> </span><br><span class="line"> location &#x2F; &#123;</span><br><span class="line">             proxy_pass http:&#x2F;&#x2F;lyzc;</span><br><span class="line">     &#125;</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h2 id="安装nginx"><a href="#安装nginx" class="headerlink" title="安装nginx"></a>安装nginx</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install nginx</span><br><span class="line"></span><br><span class="line">配置文件在  &#x2F;etc&#x2F;nginx目录</span><br><span class="line"></span><br><span class="line">cd &#x2F;etc&#x2F;nginx</span><br><span class="line"></span><br><span class="line">cp nginx.conf  nginx.conf.bak</span><br><span class="line"></span><br><span class="line">修改 nginx.conf 文件：参考其他配置</span><br></pre></td></tr></table></figure>
+
+
+<p><img src="http://img.ljd.leyongleshi.com/pasteimageintomarkdown/2020-01-20/174639793938027.jpeg" alt=""><br><img src="http://img.ljd.leyongleshi.com/pasteimageintomarkdown/2020-01-20/174641437784643.jpeg" alt=""></p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
+        <tag>负载均衡</tag>
+        <tag>ip_hash</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Oh My ZSH的安装</title>
+    <url>/Oh%20My%20ZSH.html</url>
+    <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install git</span><br><span class="line"></span><br><span class="line">yum install zsh</span><br><span class="line"></span><br><span class="line">sh -c &quot;$(curl -fsSL https:&#x2F;&#x2F;raw.github.com&#x2F;robbyrussell&#x2F;oh-my-zsh&#x2F;master&#x2F;tools&#x2F;install.sh)&quot;</span><br><span class="line"></span><br><span class="line">centos7修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;hostname        重启</span><br><span class="line"></span><br><span class="line">----</span><br><span class="line"></span><br><span class="line">centos6修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;sysconfig&#x2F;network  </span><br><span class="line">添加一行：</span><br><span class="line">HOSTNAME&#x3D;您的主机名</span><br></pre></td></tr></table></figure>
+
+<h2 id="更改"><a href="#更改" class="headerlink" title="更改"></a>更改</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd ~&#x2F;.oh-my-zsh&#x2F;themes</span><br><span class="line"></span><br><span class="line">echo $ZSH_THEME          &#x2F;&#x2F;输出 : robbyrussell</span><br><span class="line"></span><br><span class="line">cp robbyrussell.zsh-theme myrobbyrussell.zsh-theme</span><br><span class="line"></span><br><span class="line">vim myrobbyrussell.zsh-theme</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; 修改PROMPT的值为：</span><br><span class="line">PROMPT&#x3D;&#39;%&#123;$fg[green]%&#125;%m@%&#123;$fg[magenta]%&#125;%(?..%?%1v)%n:%&#123;$reset_color%&#125;%&#123;$fg[cyan]%&#125;%~# &#39;</span><br><span class="line"></span><br><span class="line">保存退出</span><br><span class="line"></span><br><span class="line">修改~&#x2F;.zshrc文件中ZSH_THEME的值myrobbyrussell</span><br></pre></td></tr></table></figure>
+
+<a id="more"></a>
+
+<h1 id="安装JDK"><a href="#安装JDK" class="headerlink" title="安装JDK"></a>安装JDK</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">修改 ~&#x2F;.zshrc文件，在末尾处添加：</span><br><span class="line"></span><br><span class="line">export JAVA_8_HOME&#x3D;&#x2F;jdk1.8.0_181</span><br><span class="line"></span><br><span class="line">alias jdk8&#x3D;&#39;export JAVA_HOME&#x3D;$JAVA_8_HOME&#39;</span><br><span class="line">export JAVA_HOME&#x3D;$JAVA_8_HOME</span><br><span class="line">export CLASSPATH&#x3D;.:$JAVA_HOME&#x2F;lib:$JAVA_HOME&#x2F;jre&#x2F;lib</span><br><span class="line"></span><br><span class="line">export PATH&#x3D;$JAVA_HOME&#x2F;bin:$PATH</span><br><span class="line"></span><br><span class="line">保存退出，执行：</span><br><span class="line"></span><br><span class="line">source ~&#x2F;.zshrc</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>zsh</tag>
+        <tag>oh my zsh</tag>
+        <tag>git</tag>
+        <tag>centos</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>搭建vpn的办法</title>
+    <url>/Shadowsock%20Server%E9%85%8D%E7%BD%AE.html</url>
+    <content><![CDATA[<p>其实方法很简单：</p>
+<p>腾讯云-&gt;竞价实例-&gt;中国香港-&gt;流量计费(100M) ，两三个小时才几毛钱</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip </span><br><span class="line"></span><br><span class="line">pip install shadowsocks</span><br><span class="line"></span><br><span class="line">sudo mkdir &#x2F;etc&#x2F;shadowsocks</span><br><span class="line"></span><br><span class="line">sudo vi &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json</span><br><span class="line"></span><br><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;0.0.0.0&quot;,</span><br><span class="line">    &quot;server_port&quot;:12345,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;123456789WAXqsz&quot;,</span><br><span class="line">    &quot;timeout&quot;:1200,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: true,</span><br><span class="line">    &quot;workers&quot;:3</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d start</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d stop</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>腾讯云</tag>
+        <tag>vpn</tag>
+        <tag>几毛钱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spring Cloud（一）：服务治理技术概览【Finchley 版】</title>
+    <url>/Spring%20Cloud%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E6%8A%80%E6%9C%AF%E6%A6%82%E8%A7%88%E3%80%90Finchley%20%E7%89%88%E3%80%91.html</url>
+    <content><![CDATA[<h2 id="CAP-定理"><a href="#CAP-定理" class="headerlink" title="CAP 定理"></a>CAP 定理</h2><ul>
+<li><p>C—— 数据一致性，A—— 服务可用性，P—— 服务对网络分区故障的容错性。</p>
+</li>
+<li><p>这三个特性在任何分布式系统中不能同时满足，最多同时满足两个。</p>
+</li>
+</ul>
+<h3 id="Zookeeper"><a href="#Zookeeper" class="headerlink" title="Zookeeper"></a>Zookeeper</h3><p>Zookeeper 保证的是 CP，即任何时刻对 Zookeeper 的访问请求能得到一致的数据结果，同时系统对网络分割具备容错性，但是它不能保证每次服务请求的可用性。从实际情况来分析，在使用 Zookeeper 获取服务列表时，如果 zookeeper 正在选主，或者 Zookeeper 集群中半数以上机器不可用，那么将就无法获得数据了。所以说，Zookeeper 不能保证服务可用性。</p>
+<h3 id="Zureka"><a href="#Zureka" class="headerlink" title="Zureka"></a>Zureka</h3><p>Eureka 遵守的就是 AP 原则。在它的实现中，节点之间是相互平等的，部分注册中心的节点挂掉也不会对集群造成影响，即使集群只剩一个节点存活，也可以正常提供发现服务。</p>
+<a id="more"></a>
+
+<h3 id="Consul"><a href="#Consul" class="headerlink" title="Consul"></a>Consul</h3><p><strong><code>Spring Cloud目前支持得最好的就是 Eureka，其次是 Consul，最后是 Zookeeper</code></strong></p>
+<h2 id="Netflix-和-Spring-Cloud的关系"><a href="#Netflix-和-Spring-Cloud的关系" class="headerlink" title="Netflix 和 Spring Cloud的关系"></a>Netflix 和 Spring Cloud的关系</h2><p>netflix 是一家互联网流媒体播放商巨头，拥有巨大的访问量。使得其对微服务架构下的方方面面都有涉猎，孵化出众多项目，最后开源给社区。Spring Cloud对其进行进一步封装，形成现在的spring cloud netflix众多子项目</p>
+<h2 id="Eureka"><a href="#Eureka" class="headerlink" title="Eureka"></a>Eureka</h2><ol>
+<li>Eureka Server就相当于 zk </li>
+<li>Eureka Client可以分为两类：service provider  /  service consumer<ul>
+<li>service consumer和service provider没有严格的界限，实际情况可能某个服务节点既是service consumer也是service provider.</li>
+</ul>
+</li>
+</ol>
+<p>三者的关系如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567666888699.png" alt=""></p>
+<h2 id="Eureka-Server集群"><a href="#Eureka-Server集群" class="headerlink" title="Eureka Server集群"></a>Eureka Server集群</h2><p>可以运行多个Eureka Server实例来组建Eureka Server集群。不像zk那样，实例间会有master/slave之分，存在leader的选举，eureka server实例之间是互相平等的。</p>
+<p>对某个eureka server的所有操作都会复制到该实例已知的其他eureka server实例之中。如果某个eureka server实例不可用，eureka client则会自动切换到另外一台eureka server实例进行相关操作。当eureka server实例恢复后，则又会重新对eureka client提供服务。</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1567670479317.png" alt=""></p>
+<p>某个eureka server启动后，会首先尝试从已知的eureka server实例中获取注册表信息，完成初始化</p>
+<p>eureka server和servcie provider直接会通过心跳机制定时更新注册表信息。如果一定时间内，eureka server没有收到service provider的心跳信息，则会将该service provider从注册表中移除。</p>
+<p>如果某个eureka server实例在短时间内丢失了过多心跳信息，这个时候该实例将会进入<strong><code>自我保护模式</code></strong> ，在自我保护模式下，该eureka server实例不会再注销任何service provider节点。</p>
+<h3 id="自我保护模式"><a href="#自我保护模式" class="headerlink" title="自我保护模式"></a>自我保护模式</h3><p>默认情况下如果某个 eureka server 实例每分钟收到的心跳信息低于一个阈值，并且持续15分钟，该eureka server则会进入自我保护模式。</p>
+<p>自我保护模式下，该eureka server实例不会再注销任何service provider节点。</p>
+<p>当eureka server实例收到的心跳数量恢复到阈值之上，则会退出自我保护模式。</p>
+<p>自我保护模式的设计思想就是：宁愿保留错误的service provider信息也不盲目注销任何可能健康的service provider.</p>
+<p>这样的设计思想就会导致service consumer可能拿到不可用的服务节点信息，因此要求service consumer要有容错机制，不如重试、断路器等。</p>
+<p>eureka server的自我保护模式是可关闭的，通过<code>eureka.server.enable-self-preservation = false</code>来禁用</p>
+<h2 id="Service-Provider"><a href="#Service-Provider" class="headerlink" title="Service Provider"></a>Service Provider</h2><p>service provider在启动的时候，会向eureka server提供自己的ip、端口和服务列表等信息。 eureka server会维护一个注册表来保存这些信息，该注册表结构为一个嵌套的map，如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">private final ConcurrentHashMap&lt;String,Map&lt;String,Lease&lt;InstannceInfo&gt;&gt;&gt; registry &#x3D; new ConcurrentHashMap&lt;String,Map&lt;String,Lease&lt;InstanceInfo&gt;&gt;&gt;&gt;();</span><br></pre></td></tr></table></figure>
+
+<p>当service provider实例的状态发生改变的时候，会向eureka server实例同步自己的服务信息，同时会执行replicateToPeers操作把信息同步给其他eureka server实例。</p>
+<h3 id="续约与注销"><a href="#续约与注销" class="headerlink" title="续约与注销"></a>续约与注销</h3><p>servcie provider启动后会定期向eureka server发送心跳信息已达到续约的目的。</p>
+<p>如果某个eureka server实例在一定时间内没有收到service provider的心跳信息，则会把改service provider从注册表中注销剔除。</p>
+<h2 id="Service-Consumer"><a href="#Service-Consumer" class="headerlink" title="Service Consumer"></a>Service Consumer</h2><p>service consumer在启动后会从eureka server中获取所有实例的注册信息并缓存在本地。这些缓存信息每隔30s更新一次。因此即便所有eureka实例都不可用，service consumer还是可以利用本地的缓存信息和service provider进行通信    </p>
+<p>由于service consumer获取的服务实例信息可能是不可用的，所以service consumer需要有容错机制，比如请求重试、断路器    。spring cloud都提供了对应的工具：</p>
+<ol>
+<li>ribbon：实现客户端的负载均衡</li>
+<li>hystrix：断路器</li>
+<li>feign：restful web service客户端，整合了ribbon和hystrix。</li>
+</ol>
+<h3 id="Ribbon"><a href="#Ribbon" class="headerlink" title="Ribbon"></a>Ribbon</h3><p>由以下几部分组成</p>
+<ol>
+<li><p>ServerList：服务器列表，有不同的实现类</p>
+</li>
+<li><p>ServerListFilter：服务器列表过滤器，也有不同的实现类</p>
+</li>
+<li><p>IPing：服务实例探测器，有不同的实现类</p>
+</li>
+<li><p>IRule：负载均衡策略，提供有 轮询、随机、响应时间加权等，类结构如下：<br> <img src="http://img.leyongzuche.com/xiaoshujiang/1567675356115.png" alt=""></p>
+</li>
+<li><p>RestClient：rest web service 请求工具</p>
+</li>
+</ol>
+<h3 id="Hystrix"><a href="#Hystrix" class="headerlink" title="Hystrix"></a>Hystrix</h3><h4 id="雪崩效应"><a href="#雪崩效应" class="headerlink" title="雪崩效应"></a>雪崩效应</h4><p>当某个基础服务不可用的时候，依赖于该服务的其他服务可能产生级联故障，进而导致整个服务故障的事件成为雪崩效应</p>
+<p>在微服务中会有雪崩效应，在缓存集群中也可能发生雪崩效应</p>
+<p>为了解决这个问题，则诞生了hystrix。</p>
+<h4 id="hystrix的设计思想"><a href="#hystrix的设计思想" class="headerlink" title="hystrix的设计思想"></a>hystrix的设计思想</h4><p>当连续调用某个服务N次都不响应的时候，hystrix则会启用，启用它会给服务器调用方返回一个符合预期的可处理的响应结果(fallback)，而不是让调用方长时间等待或则抛出一个调用方无法处理的异常，从而避免级联影响整体服务导致雪崩。</p>
+<p>注意：<br>    1. 在失败率较低的情况下，hystrix并不会启用，因此hystrix还是会把故障返回给客户端。<br>    2. hystrix启用后返回的fallback是可有开发者定制的。</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1567677525913.png" alt=""></p>
+<h4 id="hystrix调用监控"><a href="#hystrix调用监控" class="headerlink" title="hystrix调用监控"></a>hystrix调用监控</h4><p>hystrix会记录每分钟请求了多少次、多少失败、多少成功的等等信息，并且提供了可视化的工具hystrix dashboard对监控数据进行展示。图形化界面的含义如下：</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1567677912788.png" alt=""></p>
+<h3 id="Feign"><a href="#Feign" class="headerlink" title="Feign"></a>Feign</h3><p>feign整合了ribbon和hystrix，因此我们不需要再显式的使用这两个组件。</p>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><blockquote>
+<p><a href="https://windmt.com/2018/04/14/spring-cloud-1-services-governance/" target="_blank" rel="noopener">Spring Cloud（一）：服务治理技术概览【Finchley 版】</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>cap</tag>
+        <tag>zookeeper</tag>
+        <tag>zureka</tag>
+        <tag>consul</tag>
+        <tag>netflix</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>SpringCloud总体认识</title>
+    <url>/SpringCloud%E6%80%BB%E4%BD%93%E8%AE%A4%E8%AF%86.html</url>
+    <content><![CDATA[<p>spring cloud 是微服务分布式部署的一套解决方案。它涵盖了很多组件，比如配置中心、服务发现注册、负载均衡、阻断器、消息总线、数据监控等，这些组件都是为微服务分布式部署中几乎都会遇到的问题。</p>
+<p>微服务：通俗的讲就是功能相关的的一个集合作为一个服务单独进行部署，那么很多个这样的集合就构成了微服务。用专业一点的俗语讲就是把满足    srp(single_responsibility_principle)原则的的服务。<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567652226572.png" alt=""></p>
+<h2 id="Spring-Cloud与Dubbo的区别"><a href="#Spring-Cloud与Dubbo的区别" class="headerlink" title="Spring Cloud与Dubbo的区别"></a>Spring Cloud与Dubbo的区别</h2><ol>
+<li>微服务涵盖范围不同：dubbo专注于服务治理，只涵盖了微服务架构的某些方面。而spring cloud涵盖了微服务架构的方方面面。</li>
+</ol>
+<a id="more"></a>
+
+<ol start="2">
+<li>服务调用方式不同：spring cloud基于http协议进行调用，dubbo基于tcp协议调用，所以dubbo在代码上调用方和服务方依赖性强<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567651256882.png" alt=""></li>
+</ol>
+<h2 id="Eureka（服务发现注册中心）"><a href="#Eureka（服务发现注册中心）" class="headerlink" title="Eureka（服务发现注册中心）"></a>Eureka（服务发现注册中心）</h2><p>和zookeeper / consul 类似</p>
+<h2 id="Hystrix（熔断器）"><a href="#Hystrix（熔断器）" class="headerlink" title="Hystrix（熔断器）"></a>Hystrix（熔断器）</h2><p>Hystrix 会在某个服务连续调用 N 次不响应的情况下，立即通知调用端调用失败，避免调用端持续等待而影响了整体服务。Hystrix 间隔时间会再次检查此服务，如果服务恢复将继续提供服务。<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567657974409.png" alt=""><br>熔断监控工具：<br>Hystrix Dashbord和Turbine。 turbine用于各个在微服务中收集熔断数据， hystrix dashbord则用于展示这些数据。显示效果如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567651457335.png" alt=""></p>
+<h2 id="Spring-Cloud-Config（配置中心）"><a href="#Spring-Cloud-Config（配置中心）" class="headerlink" title="Spring Cloud Config（配置中心）"></a>Spring Cloud Config（配置中心）</h2><p>配置的集中化管理，当配置在服务运行期间发生改变的时候可以通过refresh功能刷新配置。生产环境建议配置中心集群化部署已保证其高可用性。</p>
+<h2 id="Spring-Cloud-Bus-通讯组件"><a href="#Spring-Cloud-Bus-通讯组件" class="headerlink" title="Spring Cloud Bus (通讯组件)"></a>Spring Cloud Bus (通讯组件)</h2><p>通过spring cloud bus可以连接各个微服务节点，当需要给多个或者所有服务节点发送某个信息的时候，即可通过spring cloud bus来完成。</p>
+<p>比如：当某个配置发生改变后，需要通知对应的服务实例刷新配置，这个时候可以通过sprIng cloud bus来完成。其工作原理如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567650883117.png" alt=""></p>
+<h2 id="Spring-Cloud-Zuul-（服务网关）"><a href="#Spring-Cloud-Zuul-（服务网关）" class="headerlink" title="Spring Cloud Zuul （服务网关）"></a>Spring Cloud Zuul （服务网关）</h2><p><img src="http://img.leyongzuche.com/xiaoshujiang/1567651695489.png" alt=""></p>
+<p>请求转发，感觉有点类似nginx的角色</p>
+<h2 id="Spring-Cloud-Sleuth-（链路跟踪）"><a href="#Spring-Cloud-Sleuth-（链路跟踪）" class="headerlink" title="Spring Cloud Sleuth （链路跟踪）"></a>Spring Cloud Sleuth （链路跟踪）</h2><p>分布式链路跟踪需要 Sleuth+Zipkin 结合来实现。</p>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><blockquote>
+<p><a href="https://windmt.com/2018/04/14/spring-cloud-0-microservices/" target="_blank" rel="noopener">Spring Cloud（零）：微服务的那些事儿</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>zookeeper</tag>
+        <tag>spring cloud</tag>
+        <tag>dubbo</tag>
+        <tag>euerka</tag>
+        <tag>hystrix</tag>
+        <tag>zuul</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sync的实现原理探究</title>
+    <url>/synchronized%E5%8E%9F%E7%90%86%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.html</url>
+    <content><![CDATA[<p>sync是jvm的内置锁，底层是通过对象监视器来实现。而对象监视器的底层实现是通过<strong>cas+自旋</strong>或者<strong>操作系统的互斥量</strong>来实现的。通过javap -c 命令可以查看到sync方法前后有成对的monitorenter/monitorexit指令。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cas: compare and swap ，比对并交换。</span><br><span class="line">这个操作是cpu指令级的功能，可以保证原子性。</span><br><span class="line">这个操作需要三个参数：1.数据存放的地址Addr  2.原来的值A  3.期望改变后的值B。</span><br><span class="line">只有当Addr数据为A的时候才会成功把值更改为B</span><br></pre></td></tr></table></figure>
+
+<p>在jvm早期中，sync是通过操作系统的互斥量来实现的，这就会涉及到操作系统的用户态和内核态的切换，这是非常消耗系统资源的操作。所以后来引入了轻量级锁，即通过cas+自旋的方式来实现。</p>
+<p>那么执行同步代码块的线程是如何进行同步的呢？它们总有一个共同的存储锁信息的地方吧？ 是的，那就是对象的<strong>mark word</strong>。 </p>
+<p>对象的mark word在什么地方呢？<br>在对象的对象头里。这里扩展下对象在jvm中的内存结构：</p>
+<a id="more"></a>
+
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1571975239780.png" alt="对象结构"></p>
+<p>我们重点关注下对象头中的mark word，那么mark word的结构又是怎样的呢？32位jvm中如下：<br><img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1573116670788.png" alt="mark word结构"></p>
+<p>线程就是通过对象的mark word来进行同步的。</p>
+<p>在上图可以看到mark word中记录了对象锁的状态，分为无锁、偏向锁、轻量级锁、重量级锁。这几种状态的转变规则为无锁-&gt;偏向锁-&gt;轻量级锁-&gt;重量级锁，这个规则称之为锁的升级。<strong>注意：锁只能升级不能降级。但偏向锁可以降级为无锁，其他的不行。</strong></p>
+<h2 id="锁的升级过程"><a href="#锁的升级过程" class="headerlink" title="锁的升级过程"></a>锁的升级过程</h2><p>见图：</p>
+<p><img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1573126539162.png" alt="sync锁的升级过程"></p>
+<p>这张图用文字描述清楚感觉太费劲，文字还多，说不定吃力不讨好，所以这个图要慢慢品，细细品，多次品。品的时候建议假设有多个线程在竞争锁。</p>
+<p>品的时候有个难点可能是偏向锁的撤销那，<strong>偏向锁的撤销是在有锁竞争的情况下才会撤销</strong>。为什么呢 ？我们优先要明白偏向锁的设计目的是什么？ 因为可能存在这种情况：这个同步代码块只有一个线程在访问。如果没有偏向锁，那么根据上图这个线程会多次进行cas操作，这个显然是没有必要的，于是为了优化就设计了偏向锁。使得在只有一个线程访问同步代码块的时候，只需要比对之前偏向的线程是不是自己，如果是，则获得锁。</p>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>sync的对象不要使用String Integer  Long等基础对象，因为这些对象存在缓存原因，可能锁到其他线程用的对象。</p>
+<h2 id="扩展"><a href="#扩展" class="headerlink" title="扩展"></a>扩展</h2><h3 id="矛盾1"><a href="#矛盾1" class="headerlink" title="矛盾1"></a>矛盾1</h3><p>A: 重量级锁中的阻塞(挂起线程/恢复线程): 需要转入内核态中完成，有很大的性能影响。</p>
+<p>B: 锁大多数情况都是在很短的时间执行完成。</p>
+<p>解决方案: 引入轻量锁(通过自旋来完成锁竞争)。</p>
+<h3 id="矛盾2"><a href="#矛盾2" class="headerlink" title="矛盾2"></a>矛盾2</h3><p>A: 轻量级锁中的自旋: 占用CPU时间，增加CPU的消耗(因此在多核处理器上优势更明显)。</p>
+<p>B: 如果某锁始终是被长期占用，导致自旋如果没有把握好，白白浪费CPU资源。</p>
+<p>解决方案: JDK5中引入默认自旋次数为10(用户可以通过-XX:PreBlockSpin进行修改)， JDK6中更是引入了自适应自旋（简单来说如果自旋成功概率高，就会允许等待更长的时间（如100次自旋），如果失败率很高，那很有可能就不做自旋，直接升级为重量级锁，实际场景中，HotSpot认为最佳时间应该是一个线程上下文切换的时间，而是否自旋以及自旋次数更是与对CPUs的负载、CPUs是否处于节电模式等息息相关的)。</p>
+<h3 id="矛盾3"><a href="#矛盾3" class="headerlink" title="矛盾3"></a>矛盾3</h3><p>A: 项目中代码块中可能绝大情况下都是多线程访问。</p>
+<p>B: 每次都是先偏向锁然后过渡到轻量锁，而偏向锁能用到的又很少。</p>
+<p>解决方案: 可以使用-XX:-UseBiasedLocking=false禁用偏向锁。</p>
+<h3 id="矛盾4"><a href="#矛盾4" class="headerlink" title="矛盾4"></a>矛盾4</h3><p>A: 代码中JDK原生或其他的工具方法中带有大量的加锁。</p>
+<p>B: 实际过程中，很有可能很多加锁是无效的(如局部变量作为锁，由于每次都是新对象新锁，所以没有意义)。</p>
+<p>解决方法: 引入<strong>锁削除</strong>(虚拟机即时编译器(JIT)运行时，依据逃逸分析的数据检测到不可能存在竞争的锁，就自动将该锁消除)。</p>
+<h3 id="矛盾5"><a href="#矛盾5" class="headerlink" title="矛盾5"></a>矛盾5</h3><p>A: 为了让锁颗粒度更小，或者原生方法中带有锁，很有可能在一个频繁执行(如循环)中对同一对象加锁。</p>
+<p>B: 由于在频繁的执行中，反复的加锁和解锁，这种频繁的锁竞争带来很大的性能损耗。</p>
+<p>解决方法: 引入<strong>锁扩大/锁膨胀</strong>(会自动将锁的范围拓展到操作序列(如循环)外, 可以理解为将一些反复的锁合为一个锁放在它们外部)。    </p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>多线程</tag>
+        <tag>cas</tag>
+        <tag>监视器</tag>
+        <tag>synchronized</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Thread &amp; ExecutorService &amp; ThreadPoolExecutor 总览</title>
+    <url>/Thread_ExecutorService_ThreadPoolExecutor.html</url>
+    <content><![CDATA[<h2 id="ExecutorService"><a href="#ExecutorService" class="headerlink" title="ExecutorService"></a>ExecutorService</h2><h3 id="类方法"><a href="#类方法" class="headerlink" title="类方法"></a>类方法</h3><p><img src="http://img.leyongzuche.com/xiaoshujiang/1567394916529.png" alt="enter description here"></p>
+<ol>
+<li><p>shutdown<br> 允许已经提交的任务（尚未开始执行和已经开始执行的）继续执行</p>
+</li>
+<li><p>shutdownNow<br> 尚未开始执行的任务不再执行，同时尝试终止正在执行的任务（调用线程的Thread.interrupt方法）</p>
+</li>
+<li><p>无论是shutdown 还是shutdownNow，两个的执行都会阻止新的任务提交</p>
+</li>
+<li><p>一个ExecutorService一旦termination，表明没有正在执行的任务，没有等待执行的任务，也不会有新的任务可以被提交。</p>
+</li>
+<li><p>如果一个ExecutorService不再使用，应该调用shutdown方法来回收资源。</p>
+</li>
+<li><p>submit方法（三个重载方法）</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">返回的Future对象可以用来取消任务和等待任务执行完成</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>invokeAny和invokeAll方法</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">用户批量执行任务，</span><br><span class="line">invokeAny：会阻塞当前线程，直到某个任务完成。并返回这个任务相关的Future对象</span><br><span class="line">invokeAll：会阻塞当前线程，直到所有任务完成。</span><br></pre></td></tr></table></figure></li>
+<li><p>两阶段shutdown</p>
+<ol>
+<li><p>先执行shutdown方法</p>
+</li>
+<li><p>调用awaitTermination方法</p>
+</li>
+<li><p>再调用shutdownNow方法</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">void shutdownAndAwaitTermination(ExecutorService pool) &#123;</span><br><span class="line">   pool.shutdown(); &#x2F;&#x2F; Disable new tasks from being submitted</span><br><span class="line">   try &#123;</span><br><span class="line">     &#x2F;&#x2F; Wait a while for existing tasks to terminate</span><br><span class="line">     if (!pool.awaitTermination(60, TimeUnit.SECONDS)) &#123;</span><br><span class="line">       pool.shutdownNow(); &#x2F;&#x2F; Cancel currently executing tasks</span><br><span class="line">       &#x2F;&#x2F; Wait a while for tasks to respond to being cancelled</span><br><span class="line">       if (!pool.awaitTermination(60, TimeUnit.SECONDS))</span><br><span class="line">           System.err.println(&quot;Pool did not terminate&quot;);</span><br><span class="line">     &#125;</span><br><span class="line">   &#125; catch (InterruptedException ie) &#123;</span><br><span class="line">     &#x2F;&#x2F; (Re-)Cancel if current thread also interrupted</span><br><span class="line">     pool.shutdownNow();</span><br><span class="line">     &#x2F;&#x2F; Preserve interrupt status</span><br><span class="line">     Thread.currentThread().interrupt();</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+<li><p>isShutdown和isTerminated分别对应于两个状态：关闭状态，终结状态</p>
+</li>
+</ol>
+<a id="more"></a>
+
+<h2 id="Thread"><a href="#Thread" class="headerlink" title="Thread"></a>Thread</h2><ol>
+<li><p>interrupt方法<br> 如果执行a.interrupt方法后，如果a线程（注意是a线程，不是调用线程）抛出了InterruptedException异常，那么a的中断状态会被清除。如果不是抛出InterruptedException异常，那么a的中断状态都会被设置（如果是线程a自己调用了a.interrupt方法，那么a不会抛出InterruptedException异常，所以a的中断状态会被设置）。一般情况下如果抛出了InterruptedException异常，则可以在catch块里自己调用下Thread.currentThread().interrupt()方法。</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">while(!Thread.currentThread().isInterrupted())&#123;</span><br><span class="line">	try&#123;</span><br><span class="line">		Thread.sleep(1000);</span><br><span class="line">	&#125;catch(InterruptedException e)&#123;</span><br><span class="line">	   &#x2F;&#x2F;没有这行代码的话，可能永远不会退出循环</span><br><span class="line">		Thread.currentThread().interrupt();</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>如果线程a当前存在中断状态，然后a执行 LockSupport.park()方法，这个方法会立即返回。</p>
+</li>
+<li><p>interrupted方法<br> 执行a.interrupted方法会返回a线程的中断状态，同时会清除a线程的中断状态</p>
+</li>
+<li><p>isInterrupted方法<br> 执行a.interrupted方法会返回a线程的中断状态，不会清除a线程的中断状态</p>
+</li>
+<li><p>join方法<br> 线程b执行a.join方法后，线程b进入WAITING状态，将等待a线程执行完毕，然后b才会继续执行</p>
+</li>
+<li><p>sleep方法<br> 哪个线程执行的sleep方法就让哪个线程sleep。比如线程b执行a.sleep方法，那么进入sleep的线程并不是a线程，而是b线程。也就是说sleep方法是让执行sleep方法的线程sleep。<br> Thread.sleep方法==Thread.currentThread().sleep方法</p>
+</li>
+<li><p>线程状态<br> 在等待池中的线程的状态不一定是 WAITING 或 TIMED_WATING ，也可能是BLOCKED状态。<br> 当执行notifyAll方法后，会唤醒等待池中的所有线程，此时等待池中所有线程的状态为Runnable，然后这些线程会去竞争锁，没有得到锁的线程将进入BLOCKED状态。</p>
+</li>
+<li><p>CPU的cas指令并非是把数据的读取，修改，写入三个操作作为一个原子操作。只是在修改前回去比对实际的值和期望的值。某个线程在执行cas操作期间，其他线程仍然可以进行读取和写入。</p>
+</li>
+<li><p>不是所有CPU都支持CAS，在某些平台，jvm中cas的实现仍然是锁机制</p>
+</li>
+<li><p>某个线程执行了Unsafe.park方法后，该线程进入WAITING状态。</p>
+</li>
+<li><p>线程状态<br>new,runable,waiting,timed-waiting,blocked,terminated</p>
+</li>
+</ol>
+<p><img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1578364761227.png" alt=""></p>
+<ol start="11">
+<li><p>守护线程</p>
+<ul>
+<li>main线程挂了，守护线程跟着挂</li>
+<li>某个某个线程是守护线程，那么执行路径中的try-finnally，fiannally方法jvm不保证能执行</li>
+</ul>
+</li>
+<li><p>非守护线程：main线程挂了，非守护线程可以继续执行</p>
+</li>
+<li><p>notify &amp; wait 标准范式</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在Object类的源码中给出了这两个方法的是否范例。</span><br><span class="line"></span><br><span class="line">等待方：</span><br><span class="line">1. 获得锁</span><br><span class="line">2. 在循环里判断条件是否满足，不满足则执行wait方法</span><br><span class="line">3. 条件满足跳出循环，执行业务逻辑</span><br><span class="line"></span><br><span class="line">sync(obj)&#123;</span><br><span class="line">	while(!condition)&#123;</span><br><span class="line">		obj.wait();</span><br><span class="line">	&#125;</span><br><span class="line">	&#x2F;&#x2F;do something</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">通知方：</span><br><span class="line">1. 获得锁</span><br><span class="line">2. 改变condition</span><br><span class="line">3. 通知等待方</span><br><span class="line"></span><br><span class="line">sync(obj)&#123;</span><br><span class="line">	condition &#x3D; true;</span><br><span class="line">	obj.notify() &#x2F;&#x2F; obj.notifyAll();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>yield()/sleep()/wait()/nofity()对锁的有何影响？</p>
+<ul>
+<li>yield方法执行后只会让出cpu，但不会释放锁</li>
+<li>sleep方法也不会释放锁</li>
+<li>执行wait方法前必须先获得锁，执行后将会释放锁。当wait方法返回后将会重新获得锁</li>
+<li>执行notify方法前必须先获得锁，执行后不会释放锁</li>
+</ul>
+</li>
+<li><p>sync的对象不要用String、Integer、Long等基础的对象，因为共享原因可能锁到别人用的值。</p>
+</li>
+</ol>
+<h2 id="ThreadPoolExecutor"><a href="#ThreadPoolExecutor" class="headerlink" title="ThreadPoolExecutor"></a>ThreadPoolExecutor</h2><ol>
+<li><p>core pool size  及 max pool size </p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">一个新的任务提交哪些情况下会创建新的线程：</span><br><span class="line">    1. 已创建的的线程数小于corePoolSize（即便有线程是空闲的）</span><br><span class="line">    2. 已创建的线程数大于corePoolSize小于maxPoolSize，同时任务队列已经满的情况下，也会创建新的线程</span><br><span class="line"></span><br><span class="line">可以动态改变这两个的值：setCorePoolSize  以及 setMaximumPoolSize</span><br><span class="line"></span><br><span class="line">如果corePoolSize&#x3D;&#x3D;maxinumPoolSize，那么则创建了一个固定大小的线程池</span><br></pre></td></tr></table></figure></li>
+<li><p>keep alive time</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">如果已创建的线程大于了corePoolSize，并且如果有线程的空闲时间大于了keepAliveTime，那么这些线程会被kill掉直到剩下corePoolSize个线程。</span><br><span class="line"></span><br><span class="line">可以动态设置：setKeepAliveTime方法</span><br><span class="line"></span><br><span class="line">默认情况下keep-alive策略只会针对已创建线程数大于corePoolSize的情况下</span><br><span class="line"></span><br><span class="line">可以通过执行allowCoreThreadTimeOut(boolean)让keep-alive策略应用在已创建线程数小于corePoolSize的情况下。</span><br></pre></td></tr></table></figure></li>
+<li><p>BlockingQueue</p>
+<ol>
+<li><p>如果已创建线程数小于corePoolSize，那么会创建新的线程来执行当前提交的任务，而不是进入阻塞队列</p>
+</li>
+<li><p>如果已创建线程数大于等于corePoolSize,会尝试先进入阻塞队列，如果进入失败（其实就是队列已满），则会在maxPoolSize条件下创建新的线程来执行当前提交的任务。如果不满足maxPoolSize条件，那么就会执行 拒绝执行策略（默认的拒绝执行策略见下）</p>
+</li>
+<li><p>通常有三种入队列策略</p>
+<ol>
+<li><p>直接传递给线程（Direct handoffs）</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">比如：SychronousQueue</span><br><span class="line"></span><br><span class="line">感觉可以理解为这个入队列会总是失败，就相当于没有这个队列一样。这样就能在maxPoolSize条件下尽可能快的创建（或选择空闲的线程）来执行新提交的任务。</span><br><span class="line"></span><br><span class="line">如果提交的任务有互相的依赖性，可以考虑使用这种队列。</span><br><span class="line"></span><br><span class="line">public static ExecutorService newCachedThreadPool() &#123;</span><br><span class="line">    return new ThreadPoolExecutor(0, Integer.MAX_VALUE,</span><br><span class="line">                                  60L, TimeUnit.SECONDS,</span><br><span class="line">                                  new SynchronousQueue&lt;Runnable&gt;());</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">这个线程池，如果有洪水般的任务进来，那么就会瞬间创建大量的线程，这是很危险的，所以一般建议不使用这个工厂方法，虽然当任务减少后，线程的个数也会在60秒后一一回收。</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>无界队列（Unbounded Queue）</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">比如：LinkedBlockingQueue</span><br><span class="line"></span><br><span class="line">可以理解为如果有任务需要入队列，那么总会入队成功。</span><br><span class="line">因此按照创建新线程的条件，理论上不会有超过corePoolSize个数的线程。也就是说理论上线程数最多为corePoolSize，因此maxPoolSize的设置也就显得没有意义了。</span><br><span class="line"></span><br><span class="line">如果提交的任务互相间没有依赖性，可以考虑使用这种队列</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>有界队列（Bounded Queue）</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">比如：ArrayBlockingQueue</span><br><span class="line"></span><br><span class="line">如果使用有限个maxPoolSize,那么使用这种队列可以防止资源的耗尽。</span><br><span class="line"></span><br><span class="line">使用长队列和小的线程池，可以降低CPU使用率，降低系统资源的消耗，以及降低线程上下文切换的消耗，但是会导致低吞吐量。如果任务频繁的阻塞，系统可能会创建比允许的线程数多的线程。</span><br><span class="line"></span><br><span class="line">使用短队列和大的线程池，可以提高CPU使用率，但也有可能导致吞吐量下降。</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p>拒绝执行策略（我自己的叫法，实际上就是 RejectedExceptionHandler ）</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/WeChat66d74b3f9a9b50dc5ab3c1607f21ebd3.png" alt="enter description here" title="WeChat66d74b3f9a9b50dc5ab3c1607f21ebd3"></p>
+<ol>
+<li>ThreadPoolExecutor.AbortPolicy<br> 抛出RejectedExecutionException异常 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">    throw new RejectedExecutionException(&quot;Task &quot; + r.toString() +</span><br><span class="line">                                         &quot; rejected from &quot; +</span><br><span class="line">                                         e.toString());</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>ThreadPoolExecutor.CallerRunsPolicy<br> 在调用线程上执行（哪个线程提交的任务就哪个线程执行） <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">    if (!e.isShutdown()) &#123;</span><br><span class="line">        r.run();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>ThreadPoolExecutor.DiscardPolicy<br> 直接放弃 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>ThreadPoolExecutor.DiscardOldestPolicy<br> 放弃当前队列中第一个任务 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">    if (!e.isShutdown()) &#123;</span><br><span class="line">        e.getQueue().poll();</span><br><span class="line">        e.execute(r);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+<li><p>Finalization</p>
+ <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">一个在程序中不再被引用的线程池如果同时没有剩余的线程，那么这个线程池会被自动的shutdown.</span><br><span class="line"></span><br><span class="line">因此如果你想即便在忘记执行shutdown方法的时候仍能正常关闭线程池，那么建议设置一个有限的keepAliveTime（针对大于线程数大于corePoolSize的那些线程），同时也执行下 allowCoreThreadTimeOut(boolean) .</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Worker</p>
+<ol>
+<li>如果任务发生异常，完成的任务数仍然加一.</li>
+<li></li>
+</ol>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>Thread</tag>
+        <tag>ExecutorService</tag>
+        <tag>ThreadPoolExecutor</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RSA加密解密多语言实现方案</title>
+    <url>/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html</url>
+    <content><![CDATA[<h2 id="生成相关文件"><a href="#生成相关文件" class="headerlink" title="生成相关文件"></a>生成相关文件</h2><ol>
+<li><p>生成模长为1024bit的私钥文件private_key.pem</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd rsa_multi_language</span><br><span class="line"></span><br><span class="line">openssl genrsa -out private_key.pem 1024</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成IOS证书</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1. 生成证书请求文件rsaCertReq-IOS.csr</span><br><span class="line">openssl req -new -key private_key.pem -out rsaCerReq-IOS.csr</span><br><span class="line"></span><br><span class="line">2. 生成证书rsaCert.crt，并设置有效时间为10年</span><br><span class="line">openssl x509 -req -days 36500 -in rsaCerReq-IOS.csr -signkey private_key.pem -out rsaCert-IOS.crt</span><br><span class="line"></span><br><span class="line">3. 生成供iOS使用的公钥文件public_key.der</span><br><span class="line">openssl x509 -outform der -in rsaCert-IOS.crt -out public_key-IOS.der</span><br><span class="line"></span><br><span class="line">4. 生成供iOS使用的私钥文件private_key.p12</span><br><span class="line">openssl pkcs12 -export -out private_key-IOS.p12 -inkey private_key.pem -in rsaCert-IOS.crt</span><br><span class="line"></span><br><span class="line">密码：sirenbang</span><br></pre></td></tr></table></figure>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1548730872046.jpg" alt="openssl req -new -key private_key.pem -out rsaCerReq-IOS.csr"></p>
+</li>
+</ol>
+<ol start="3">
+<li>生成供Java使用的私钥pkcs8_private_key.pem<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">openssl pkcs8 -topk8 -in private_key.pem -out pkcs8_private_key.pem -nocrypt</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<a id="more"></a>
+
+<ol start="4">
+<li><p>生成通用公钥rsa_public_key.pem</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">openssl rsa -in private_key.pem -out rsa_public_key.pem -pubout</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成rsa公钥 供python等使用 py_public_key.pem</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">openssl rsa -in private_key.pem -RSAPublicKey_out -out py_public_key.pem</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><h3 id="JAVA代码"><a href="#JAVA代码" class="headerlink" title="JAVA代码"></a>JAVA代码</h3><p>工具类：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import org.bouncycastle.asn1.ASN1Sequence;</span><br><span class="line">import org.bouncycastle.asn1.pkcs.RSAPrivateKeyStructure;</span><br><span class="line">import org.bouncycastle.jce.provider.BouncyCastleProvider;</span><br><span class="line">import sun.misc.BASE64Decoder;</span><br><span class="line"></span><br><span class="line">import javax.crypto.Cipher;</span><br><span class="line">import java.io.BufferedReader;</span><br><span class="line">import java.io.InputStream;</span><br><span class="line">import java.io.InputStreamReader;</span><br><span class="line">import java.security.Key;</span><br><span class="line">import java.security.KeyFactory;</span><br><span class="line">import java.security.interfaces.RSAPrivateKey;</span><br><span class="line">import java.security.interfaces.RSAPublicKey;</span><br><span class="line">import java.security.spec.PKCS8EncodedKeySpec;</span><br><span class="line">import java.security.spec.RSAPrivateKeySpec;</span><br><span class="line">import java.security.spec.X509EncodedKeySpec;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">public class RSAEncryptUtils &#123;</span><br><span class="line"></span><br><span class="line">    public static RSAPublicKey loadPublicKey(InputStream in) &#123;</span><br><span class="line">        return loadPublicKey(readKeyAsString(in));</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static RSAPublicKey loadPublicKey(String publicKeyStr) &#123;</span><br><span class="line">        try &#123;</span><br><span class="line">            BASE64Decoder base64Decoder &#x3D; new BASE64Decoder();</span><br><span class="line">            byte[] buffer &#x3D; base64Decoder.decodeBuffer(publicKeyStr);</span><br><span class="line">            KeyFactory keyFactory &#x3D; KeyFactory.getInstance(&quot;RSA&quot;);</span><br><span class="line">            X509EncodedKeySpec keySpec &#x3D; new X509EncodedKeySpec(buffer);</span><br><span class="line">            return (RSAPublicKey) keyFactory.generatePublic(keySpec);</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            throw new RuntimeException(e);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static RSAPrivateKey loadPrivateKey(InputStream in) &#123;</span><br><span class="line">        return loadPrivateKey(readKeyAsString(in));</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static RSAPrivateKey loadPrivateKey(String privateKeyStr) &#123;</span><br><span class="line">        &#x2F;&#x2F;pkcs8</span><br><span class="line">        try &#123;</span><br><span class="line">            BASE64Decoder base64Decoder &#x3D; new BASE64Decoder();</span><br><span class="line">            byte[] buffer &#x3D; base64Decoder.decodeBuffer(privateKeyStr);</span><br><span class="line">            PKCS8EncodedKeySpec keySpec &#x3D; new PKCS8EncodedKeySpec(buffer);</span><br><span class="line">            KeyFactory keyFactory &#x3D; KeyFactory.getInstance(&quot;RSA&quot;);</span><br><span class="line">            return (RSAPrivateKey) keyFactory.generatePrivate(keySpec);</span><br><span class="line">        &#125; catch (Exception ex) &#123;</span><br><span class="line">            &#x2F;&#x2F;pkcs1</span><br><span class="line">            try &#123;</span><br><span class="line">                RSAPrivateKeyStructure asn1PrivKey &#x3D; new RSAPrivateKeyStructure((ASN1Sequence) ASN1Sequence.fromByteArray(new BASE64Decoder().decodeBuffer(privateKeyStr)));</span><br><span class="line">                RSAPrivateKeySpec rsaPrivKeySpec &#x3D; new RSAPrivateKeySpec(asn1PrivKey.getModulus(), asn1PrivKey.getPrivateExponent());</span><br><span class="line">                KeyFactory keyFactory &#x3D; KeyFactory.getInstance(&quot;RSA&quot;);</span><br><span class="line">                return (RSAPrivateKey) keyFactory.generatePrivate(rsaPrivKeySpec);</span><br><span class="line">            &#125; catch (Exception e) &#123;</span><br><span class="line">                throw new RuntimeException(e);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static byte[] encrypt(Key publicOrPrivateKey, byte[] data) &#123;</span><br><span class="line">        return endecrypt(publicOrPrivateKey, data, Cipher.ENCRYPT_MODE);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static byte[] decrypt(Key publicOrPrivateKey, byte[] data) &#123;</span><br><span class="line">        return endecrypt(publicOrPrivateKey, data, Cipher.DECRYPT_MODE);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    private static byte[] endecrypt(Key publicOrPrivateKey, byte[] data, int mode) &#123;</span><br><span class="line">        if (publicOrPrivateKey &#x3D;&#x3D; null) &#123;</span><br><span class="line">            throw new RuntimeException(&quot;加密或公钥不能为空&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">        Cipher cipher &#x3D; null;</span><br><span class="line">        try &#123;</span><br><span class="line">            cipher &#x3D; Cipher.getInstance(&quot;RSA&#x2F;ECB&#x2F;PKCS1Padding&quot;, new BouncyCastleProvider());</span><br><span class="line">            cipher.init(mode, publicOrPrivateKey);</span><br><span class="line">            byte[] output &#x3D; cipher.doFinal(data);</span><br><span class="line">            return output;</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            throw new RuntimeException(e);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    private static String readKeyAsString(InputStream in) &#123;</span><br><span class="line">        try &#123;</span><br><span class="line">            BufferedReader br &#x3D; new BufferedReader(new InputStreamReader(in));</span><br><span class="line">            String readLine &#x3D; null;</span><br><span class="line">            StringBuilder sb &#x3D; new StringBuilder();</span><br><span class="line">            while ((readLine &#x3D; br.readLine()) !&#x3D; null) &#123;</span><br><span class="line">                if (readLine.charAt(0) &#x3D;&#x3D; &#39;-&#39;) &#123;</span><br><span class="line">                    continue;</span><br><span class="line">                &#125; else &#123;</span><br><span class="line">                    sb.append(readLine);</span><br><span class="line">                    sb.append(&#39;\r&#39;);</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            return sb.toString();</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            throw new RuntimeException(e);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>测试类：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import sun.misc.BASE64Decoder;</span><br><span class="line">import sun.misc.BASE64Encoder;</span><br><span class="line"></span><br><span class="line">import java.security.interfaces.RSAPrivateKey;</span><br><span class="line">import java.security.interfaces.RSAPublicKey;</span><br><span class="line"></span><br><span class="line">public class RSAEncryptTest &#123;</span><br><span class="line"></span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line"></span><br><span class="line">        RSAPublicKey rsaPublicKey &#x3D; RSAEncryptUtils.loadPublicKey(RSAEncryptUtils.class.getResourceAsStream(&quot;&#x2F;rsa_public_key.pem&quot;));</span><br><span class="line">        RSAPrivateKey rsaPrivateKey &#x3D; RSAEncryptUtils.loadPrivateKey(RSAEncryptUtils.class.getResourceAsStream(&quot;&#x2F;pkcs8_private_key.pem&quot;));</span><br><span class="line"></span><br><span class="line">        &#x2F;&#x2F;测试字符串</span><br><span class="line">        String encryptStr &#x3D; &quot;aabbcc123我的&quot;;</span><br><span class="line">        System.out.println(&quot;原始字符串:&quot; + encryptStr + &quot;\n\n&quot;);</span><br><span class="line">        try &#123;</span><br><span class="line">            &#x2F;&#x2F;加密</span><br><span class="line">            byte[] cipher &#x3D; RSAEncryptUtils.encrypt(rsaPublicKey, encryptStr.getBytes());</span><br><span class="line">            String encode &#x3D; new BASE64Encoder().encode(cipher);</span><br><span class="line">            System.out.println(&quot;公钥加密后:&quot; + encode);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">            cipher &#x3D; (new BASE64Decoder().decodeBuffer(encode));</span><br><span class="line">            &#x2F;&#x2F;解密</span><br><span class="line">            byte[] plainText &#x3D; RSAEncryptUtils.decrypt(rsaPrivateKey, cipher);</span><br><span class="line">            System.out.println(&quot;私钥解密后:&quot; + new String(plainText));</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            System.err.println(e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        System.out.println(&quot;\n\n&quot;);</span><br><span class="line"></span><br><span class="line">        try &#123;</span><br><span class="line">            &#x2F;&#x2F;加密</span><br><span class="line">            byte[] cipher &#x3D; RSAEncryptUtils.encrypt(rsaPrivateKey, encryptStr.getBytes());</span><br><span class="line">            String encode &#x3D; new BASE64Encoder().encode(cipher);</span><br><span class="line">            System.out.println(&quot;私钥加密后:&quot; + encode);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">            cipher &#x3D; (new BASE64Decoder().decodeBuffer(encode));</span><br><span class="line">            &#x2F;&#x2F;解密</span><br><span class="line">            byte[] plainText &#x3D; RSAEncryptUtils.decrypt(rsaPublicKey, cipher);</span><br><span class="line">            System.out.println(&quot;公钥解密后:&quot; + new String(plainText));</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            System.err.println(e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>java代码运行结果：</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1548744107744.jpg" alt="java代码运行结果"></p>
+<h3 id="IOS代码"><a href="#IOS代码" class="headerlink" title="IOS代码"></a>IOS代码</h3><p>RSAEncryptor.h ：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">#import &lt;Foundation&#x2F;Foundation.h&gt;</span><br><span class="line"></span><br><span class="line">@interface RSAEncryptor : NSObject</span><br><span class="line">&#x2F;**</span><br><span class="line"> *  加密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str   需要加密的字符串</span><br><span class="line"> *  @param path  &#39;.der&#39;格式的公钥文件路径</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKeyWithContentsOfFile:(NSString *)path;</span><br><span class="line"></span><br><span class="line">&#x2F;**</span><br><span class="line"> *  解密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str       需要解密的字符串</span><br><span class="line"> *  @param path      &#39;.p12&#39;格式的私钥文件路径</span><br><span class="line"> *  @param password  私钥文件密码</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKeyWithContentsOfFile:(NSString *)path password:(NSString *)password;</span><br><span class="line"></span><br><span class="line">&#x2F;**</span><br><span class="line"> *  加密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str    需要加密的字符串</span><br><span class="line"> *  @param pubKey 公钥字符串</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKey:(NSString *)pubKey;</span><br><span class="line"></span><br><span class="line">&#x2F;**</span><br><span class="line"> *  解密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str     需要解密的字符串</span><br><span class="line"> *  @param privKey 私钥字符串</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKey:(NSString *)privKey;</span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+
+<p>RSAEncryptor.m ：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">#import &quot;RSAEncryptor.h&quot;</span><br><span class="line">#import &lt;Security&#x2F;Security.h&gt;</span><br><span class="line"></span><br><span class="line">static NSString *base64_encode_data(NSData *data)&#123;</span><br><span class="line">    data &#x3D; [data base64EncodedDataWithOptions:0];</span><br><span class="line">    NSString *ret &#x3D; [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">static NSData *base64_decode(NSString *str)&#123;</span><br><span class="line">    NSData *data &#x3D; [[NSData alloc] initWithBase64EncodedString:str options:NSDataBase64DecodingIgnoreUnknownCharacters];</span><br><span class="line">    return data;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">@implementation RSAEncryptor</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;加密</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKeyWithContentsOfFile:(NSString *)path&#123;</span><br><span class="line">    if (!str || !path)  return nil;</span><br><span class="line">    return [self encryptString:str publicKeyRef:[self getPublicKeyRefWithContentsOfFile:path]];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;获取公钥</span><br><span class="line">+ (SecKeyRef)getPublicKeyRefWithContentsOfFile:(NSString *)filePath&#123;</span><br><span class="line">    NSData *certData &#x3D; [NSData dataWithContentsOfFile:filePath];</span><br><span class="line">    if (!certData) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecCertificateRef cert &#x3D; SecCertificateCreateWithData(NULL, (CFDataRef)certData);</span><br><span class="line">    SecKeyRef key &#x3D; NULL;</span><br><span class="line">    SecTrustRef trust &#x3D; NULL;</span><br><span class="line">    SecPolicyRef policy &#x3D; NULL;</span><br><span class="line">    if (cert !&#x3D; NULL) &#123;</span><br><span class="line">        policy &#x3D; SecPolicyCreateBasicX509();</span><br><span class="line">        if (policy) &#123;</span><br><span class="line">            if (SecTrustCreateWithCertificates((CFTypeRef)cert, policy, &amp;trust) &#x3D;&#x3D; noErr) &#123;</span><br><span class="line">                SecTrustResultType result;</span><br><span class="line">                if (SecTrustEvaluate(trust, &amp;result) &#x3D;&#x3D; noErr) &#123;</span><br><span class="line">                    key &#x3D; SecTrustCopyPublicKey(trust);</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    if (policy) CFRelease(policy);</span><br><span class="line">    if (trust) CFRelease(trust);</span><br><span class="line">    if (cert) CFRelease(cert);</span><br><span class="line">    return key;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKeyRef:(SecKeyRef)publicKeyRef&#123;</span><br><span class="line">    if(![str dataUsingEncoding:NSUTF8StringEncoding])&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    if(!publicKeyRef)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    NSData *data &#x3D; [self encryptData:[str dataUsingEncoding:NSUTF8StringEncoding] withKeyRef:publicKeyRef];</span><br><span class="line">    NSString *ret &#x3D; base64_encode_data(data);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#pragma mark - 使用&#39;.12&#39;私钥文件解密</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;解密</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKeyWithContentsOfFile:(NSString *)path password:(NSString *)password&#123;</span><br><span class="line">    if (!str || !path) return nil;</span><br><span class="line">    if (!password) password &#x3D; @&quot;&quot;;</span><br><span class="line">    return [self decryptString:str privateKeyRef:[self getPrivateKeyRefWithContentsOfFile:path password:password]];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;获取私钥</span><br><span class="line">+ (SecKeyRef)getPrivateKeyRefWithContentsOfFile:(NSString *)filePath password:(NSString*)password&#123;</span><br><span class="line">    </span><br><span class="line">    NSData *p12Data &#x3D; [NSData dataWithContentsOfFile:filePath];</span><br><span class="line">    if (!p12Data) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecKeyRef privateKeyRef &#x3D; NULL;</span><br><span class="line">    NSMutableDictionary * options &#x3D; [[NSMutableDictionary alloc] init];</span><br><span class="line">    [options setObject: password forKey:(__bridge id)kSecImportExportPassphrase];</span><br><span class="line">    CFArrayRef items &#x3D; CFArrayCreate(NULL, 0, 0, NULL);</span><br><span class="line">    OSStatus securityError &#x3D; SecPKCS12Import((__bridge CFDataRef) p12Data, (__bridge CFDictionaryRef)options, &amp;items);</span><br><span class="line">    if (securityError &#x3D;&#x3D; noErr &amp;&amp; CFArrayGetCount(items) &gt; 0) &#123;</span><br><span class="line">        CFDictionaryRef identityDict &#x3D; CFArrayGetValueAtIndex(items, 0);</span><br><span class="line">        SecIdentityRef identityApp &#x3D; (SecIdentityRef)CFDictionaryGetValue(identityDict, kSecImportItemIdentity);</span><br><span class="line">        securityError &#x3D; SecIdentityCopyPrivateKey(identityApp, &amp;privateKeyRef);</span><br><span class="line">        if (securityError !&#x3D; noErr) &#123;</span><br><span class="line">            privateKeyRef &#x3D; NULL;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    CFRelease(items);</span><br><span class="line">    </span><br><span class="line">    return privateKeyRef;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKeyRef:(SecKeyRef)privKeyRef&#123;</span><br><span class="line">    NSData *data &#x3D; [[NSData alloc] initWithBase64EncodedString:str options:NSDataBase64DecodingIgnoreUnknownCharacters];</span><br><span class="line">    if (!privKeyRef) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    data &#x3D; [self decryptData:data withKeyRef:privKeyRef];</span><br><span class="line">    NSString *ret &#x3D; [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#pragma mark - 使用公钥字符串加密</span><br><span class="line"></span><br><span class="line">&#x2F;* START: Encryption with RSA public key *&#x2F;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;使用公钥字符串加密</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKey:(NSString *)pubKey&#123;</span><br><span class="line">    NSData *data &#x3D; [self encryptData:[str dataUsingEncoding:NSUTF8StringEncoding] publicKey:pubKey];</span><br><span class="line">    NSString *ret &#x3D; base64_encode_data(data);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)encryptData:(NSData *)data publicKey:(NSString *)pubKey&#123;</span><br><span class="line">    if(!data || !pubKey)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecKeyRef keyRef &#x3D; [self addPublicKey:pubKey];</span><br><span class="line">    if(!keyRef)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return [self encryptData:data withKeyRef:keyRef];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (SecKeyRef)addPublicKey:(NSString *)key&#123;</span><br><span class="line">    NSRange spos &#x3D; [key rangeOfString:@&quot;-----BEGIN PUBLIC KEY-----&quot;];</span><br><span class="line">    NSRange epos &#x3D; [key rangeOfString:@&quot;-----END PUBLIC KEY-----&quot;];</span><br><span class="line">    if(spos.location !&#x3D; NSNotFound &amp;&amp; epos.location !&#x3D; NSNotFound)&#123;</span><br><span class="line">        NSUInteger s &#x3D; spos.location + spos.length;</span><br><span class="line">        NSUInteger e &#x3D; epos.location;</span><br><span class="line">        NSRange range &#x3D; NSMakeRange(s, e-s);</span><br><span class="line">        key &#x3D; [key substringWithRange:range];</span><br><span class="line">    &#125;</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\r&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\n&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\t&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot; &quot;  withString:@&quot;&quot;];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; This will be base64 encoded, decode it.</span><br><span class="line">    NSData *data &#x3D; base64_decode(key);</span><br><span class="line">    data &#x3D; [self stripPublicKeyHeader:data];</span><br><span class="line">    if(!data)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;a tag to read&#x2F;write keychain storage</span><br><span class="line">    NSString *tag &#x3D; @&quot;RSAUtil_PubKey&quot;;</span><br><span class="line">    NSData *d_tag &#x3D; [NSData dataWithBytes:[tag UTF8String] length:[tag length]];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Delete any old lingering key with the same tag</span><br><span class="line">    NSMutableDictionary *publicKey &#x3D; [[NSMutableDictionary alloc] init];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecClassKey forKey:(__bridge id)kSecClass];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    [publicKey setObject:d_tag forKey:(__bridge id)kSecAttrApplicationTag];</span><br><span class="line">    SecItemDelete((__bridge CFDictionaryRef)publicKey);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Add persistent version of the key to system keychain</span><br><span class="line">    [publicKey setObject:data forKey:(__bridge id)kSecValueData];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecAttrKeyClassPublic forKey:(__bridge id)</span><br><span class="line">     kSecAttrKeyClass];</span><br><span class="line">    [publicKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)</span><br><span class="line">     kSecReturnPersistentRef];</span><br><span class="line">    </span><br><span class="line">    CFTypeRef persistKey &#x3D; nil;</span><br><span class="line">    OSStatus status &#x3D; SecItemAdd((__bridge CFDictionaryRef)publicKey, &amp;persistKey);</span><br><span class="line">    if (persistKey !&#x3D; nil)&#123;</span><br><span class="line">        CFRelease(persistKey);</span><br><span class="line">    &#125;</span><br><span class="line">    if ((status !&#x3D; noErr) &amp;&amp; (status !&#x3D; errSecDuplicateItem)) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    [publicKey removeObjectForKey:(__bridge id)kSecValueData];</span><br><span class="line">    [publicKey removeObjectForKey:(__bridge id)kSecReturnPersistentRef];</span><br><span class="line">    [publicKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)kSecReturnRef];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now fetch the SecKeyRef version of the key</span><br><span class="line">    SecKeyRef keyRef &#x3D; nil;</span><br><span class="line">    status &#x3D; SecItemCopyMatching((__bridge CFDictionaryRef)publicKey, (CFTypeRef *)&amp;keyRef);</span><br><span class="line">    if(status !&#x3D; noErr)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return keyRef;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)stripPublicKeyHeader:(NSData *)d_key&#123;</span><br><span class="line">    &#x2F;&#x2F; Skip ASN.1 public key header</span><br><span class="line">    if (d_key &#x3D;&#x3D; nil) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned long len &#x3D; [d_key length];</span><br><span class="line">    if (!len) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned char *c_key &#x3D; (unsigned char *)[d_key bytes];</span><br><span class="line">    unsigned int  idx     &#x3D; 0;</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx++] !&#x3D; 0x30) return(nil);</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx] &gt; 0x80) idx +&#x3D; c_key[idx] - 0x80 + 1;</span><br><span class="line">    else idx++;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; PKCS #1 rsaEncryption szOID_RSA_RSA</span><br><span class="line">    static unsigned char seqiod[] &#x3D;</span><br><span class="line">    &#123; 0x30,   0x0d, 0x06, 0x09, 0x2a, 0x86, 0x48, 0x86, 0xf7, 0x0d, 0x01, 0x01,</span><br><span class="line">        0x01, 0x05, 0x00 &#125;;</span><br><span class="line">    if (memcmp(&amp;c_key[idx], seqiod, 15)) return(nil);</span><br><span class="line">    </span><br><span class="line">    idx +&#x3D; 15;</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx++] !&#x3D; 0x03) return(nil);</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx] &gt; 0x80) idx +&#x3D; c_key[idx] - 0x80 + 1;</span><br><span class="line">    else idx++;</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx++] !&#x3D; &#39;\0&#39;) return(nil);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now make a new NSData from this buffer</span><br><span class="line">    return ([NSData dataWithBytes:&amp;c_key[idx] length:len - idx]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)encryptData:(NSData *)data withKeyRef:(SecKeyRef) keyRef&#123;</span><br><span class="line">    const uint8_t *srcbuf &#x3D; (const uint8_t *)[data bytes];</span><br><span class="line">    size_t srclen &#x3D; (size_t)data.length;</span><br><span class="line">    </span><br><span class="line">    size_t block_size &#x3D; SecKeyGetBlockSize(keyRef) * sizeof(uint8_t);</span><br><span class="line">    void *outbuf &#x3D; malloc(block_size);</span><br><span class="line">    size_t src_block_size &#x3D; block_size - 11;</span><br><span class="line">    </span><br><span class="line">    NSMutableData *ret &#x3D; [[NSMutableData alloc] init];</span><br><span class="line">    for(int idx&#x3D;0; idx&lt;srclen; idx+&#x3D;src_block_size)&#123;</span><br><span class="line">        &#x2F;&#x2F;NSLog(@&quot;%d&#x2F;%d block_size: %d&quot;, idx, (int)srclen, (int)block_size);</span><br><span class="line">        size_t data_len &#x3D; srclen - idx;</span><br><span class="line">        if(data_len &gt; src_block_size)&#123;</span><br><span class="line">            data_len &#x3D; src_block_size;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        size_t outlen &#x3D; block_size;</span><br><span class="line">        OSStatus status &#x3D; noErr;</span><br><span class="line">        status &#x3D; SecKeyEncrypt(keyRef,</span><br><span class="line">                               kSecPaddingPKCS1,</span><br><span class="line">                               srcbuf + idx,</span><br><span class="line">                               data_len,</span><br><span class="line">                               outbuf,</span><br><span class="line">                               &amp;outlen</span><br><span class="line">                               );</span><br><span class="line">        if (status !&#x3D; 0) &#123;</span><br><span class="line">            NSLog(@&quot;SecKeyEncrypt fail. Error Code: %d&quot;, status);</span><br><span class="line">            ret &#x3D; nil;</span><br><span class="line">            break;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            [ret appendBytes:outbuf length:outlen];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    free(outbuf);</span><br><span class="line">    CFRelease(keyRef);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;* END: Encryption with RSA public key *&#x2F;</span><br><span class="line"></span><br><span class="line">#pragma mark - 使用私钥字符串解密</span><br><span class="line"></span><br><span class="line">&#x2F;* START: Decryption with RSA private key *&#x2F;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;使用私钥字符串解密</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKey:(NSString *)privKey&#123;</span><br><span class="line">    if (!str) return nil;</span><br><span class="line">    NSData *data &#x3D; [[NSData alloc] initWithBase64EncodedString:str options:NSDataBase64DecodingIgnoreUnknownCharacters];</span><br><span class="line">    data &#x3D; [self decryptData:data privateKey:privKey];</span><br><span class="line">    NSString *ret &#x3D; [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)decryptData:(NSData *)data privateKey:(NSString *)privKey&#123;</span><br><span class="line">    if(!data || !privKey)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecKeyRef keyRef &#x3D; [self addPrivateKey:privKey];</span><br><span class="line">    if(!keyRef)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return [self decryptData:data withKeyRef:keyRef];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (SecKeyRef)addPrivateKey:(NSString *)key&#123;</span><br><span class="line">    NSRange spos &#x3D; [key rangeOfString:@&quot;-----BEGIN RSA PRIVATE KEY-----&quot;];</span><br><span class="line">    NSRange epos &#x3D; [key rangeOfString:@&quot;-----END RSA PRIVATE KEY-----&quot;];</span><br><span class="line">    if(spos.location !&#x3D; NSNotFound &amp;&amp; epos.location !&#x3D; NSNotFound)&#123;</span><br><span class="line">        NSUInteger s &#x3D; spos.location + spos.length;</span><br><span class="line">        NSUInteger e &#x3D; epos.location;</span><br><span class="line">        NSRange range &#x3D; NSMakeRange(s, e-s);</span><br><span class="line">        key &#x3D; [key substringWithRange:range];</span><br><span class="line">    &#125;</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\r&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\n&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\t&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot; &quot;  withString:@&quot;&quot;];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; This will be base64 encoded, decode it.</span><br><span class="line">    NSData *data &#x3D; base64_decode(key);</span><br><span class="line">    data &#x3D; [self stripPrivateKeyHeader:data];</span><br><span class="line">    if(!data)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;a tag to read&#x2F;write keychain storage</span><br><span class="line">    NSString *tag &#x3D; @&quot;RSAUtil_PrivKey&quot;;</span><br><span class="line">    NSData *d_tag &#x3D; [NSData dataWithBytes:[tag UTF8String] length:[tag length]];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Delete any old lingering key with the same tag</span><br><span class="line">    NSMutableDictionary *privateKey &#x3D; [[NSMutableDictionary alloc] init];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecClassKey forKey:(__bridge id)kSecClass];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    [privateKey setObject:d_tag forKey:(__bridge id)kSecAttrApplicationTag];</span><br><span class="line">    SecItemDelete((__bridge CFDictionaryRef)privateKey);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Add persistent version of the key to system keychain</span><br><span class="line">    [privateKey setObject:data forKey:(__bridge id)kSecValueData];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecAttrKeyClassPrivate forKey:(__bridge id)</span><br><span class="line">     kSecAttrKeyClass];</span><br><span class="line">    [privateKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)</span><br><span class="line">     kSecReturnPersistentRef];</span><br><span class="line">    </span><br><span class="line">    CFTypeRef persistKey &#x3D; nil;</span><br><span class="line">    OSStatus status &#x3D; SecItemAdd((__bridge CFDictionaryRef)privateKey, &amp;persistKey);</span><br><span class="line">    if (persistKey !&#x3D; nil)&#123;</span><br><span class="line">        CFRelease(persistKey);</span><br><span class="line">    &#125;</span><br><span class="line">    if ((status !&#x3D; noErr) &amp;&amp; (status !&#x3D; errSecDuplicateItem)) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    [privateKey removeObjectForKey:(__bridge id)kSecValueData];</span><br><span class="line">    [privateKey removeObjectForKey:(__bridge id)kSecReturnPersistentRef];</span><br><span class="line">    [privateKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)kSecReturnRef];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now fetch the SecKeyRef version of the key</span><br><span class="line">    SecKeyRef keyRef &#x3D; nil;</span><br><span class="line">    status &#x3D; SecItemCopyMatching((__bridge CFDictionaryRef)privateKey, (CFTypeRef *)&amp;keyRef);</span><br><span class="line">    if(status !&#x3D; noErr)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return keyRef;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)stripPrivateKeyHeader:(NSData *)d_key&#123;</span><br><span class="line">    &#x2F;&#x2F; Skip ASN.1 private key header</span><br><span class="line">    if (d_key &#x3D;&#x3D; nil) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned long len &#x3D; [d_key length];</span><br><span class="line">    if (!len) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned char *c_key &#x3D; (unsigned char *)[d_key bytes];</span><br><span class="line">    unsigned int  idx     &#x3D; 22; &#x2F;&#x2F;magic byte at offset 22</span><br><span class="line">    </span><br><span class="line">    if (0x04 !&#x3D; c_key[idx++]) return nil;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;calculate length of the key</span><br><span class="line">    unsigned int c_len &#x3D; c_key[idx++];</span><br><span class="line">    int det &#x3D; c_len &amp; 0x80;</span><br><span class="line">    if (!det) &#123;</span><br><span class="line">        c_len &#x3D; c_len &amp; 0x7f;</span><br><span class="line">    &#125; else &#123;</span><br><span class="line">        int byteCount &#x3D; c_len &amp; 0x7f;</span><br><span class="line">        if (byteCount + idx &gt; len) &#123;</span><br><span class="line">            &#x2F;&#x2F;rsa length field longer than buffer</span><br><span class="line">            return nil;</span><br><span class="line">        &#125;</span><br><span class="line">        unsigned int accum &#x3D; 0;</span><br><span class="line">        unsigned char *ptr &#x3D; &amp;c_key[idx];</span><br><span class="line">        idx +&#x3D; byteCount;</span><br><span class="line">        while (byteCount) &#123;</span><br><span class="line">            accum &#x3D; (accum &lt;&lt; 8) + *ptr;</span><br><span class="line">            ptr++;</span><br><span class="line">            byteCount--;</span><br><span class="line">        &#125;</span><br><span class="line">        c_len &#x3D; accum;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now make a new NSData from this buffer</span><br><span class="line">    return [d_key subdataWithRange:NSMakeRange(idx, c_len)];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)decryptData:(NSData *)data withKeyRef:(SecKeyRef) keyRef&#123;</span><br><span class="line">    const uint8_t *srcbuf &#x3D; (const uint8_t *)[data bytes];</span><br><span class="line">    size_t srclen &#x3D; (size_t)data.length;</span><br><span class="line">    </span><br><span class="line">    size_t block_size &#x3D; SecKeyGetBlockSize(keyRef) * sizeof(uint8_t);</span><br><span class="line">    UInt8 *outbuf &#x3D; malloc(block_size);</span><br><span class="line">    size_t src_block_size &#x3D; block_size;</span><br><span class="line">    </span><br><span class="line">    NSMutableData *ret &#x3D; [[NSMutableData alloc] init];</span><br><span class="line">    for(int idx&#x3D;0; idx&lt;srclen; idx+&#x3D;src_block_size)&#123;</span><br><span class="line">        &#x2F;&#x2F;NSLog(@&quot;%d&#x2F;%d block_size: %d&quot;, idx, (int)srclen, (int)block_size);</span><br><span class="line">        size_t data_len &#x3D; srclen - idx;</span><br><span class="line">        if(data_len &gt; src_block_size)&#123;</span><br><span class="line">            data_len &#x3D; src_block_size;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        size_t outlen &#x3D; block_size;</span><br><span class="line">        OSStatus status &#x3D; noErr;</span><br><span class="line">        status &#x3D; SecKeyDecrypt(keyRef,</span><br><span class="line">                               kSecPaddingNone,</span><br><span class="line">                               srcbuf + idx,</span><br><span class="line">                               data_len,</span><br><span class="line">                               outbuf,</span><br><span class="line">                               &amp;outlen</span><br><span class="line">                               );</span><br><span class="line">        if (status !&#x3D; 0) &#123;</span><br><span class="line">            NSLog(@&quot;SecKeyEncrypt fail. Error Code: %d&quot;, status);</span><br><span class="line">            ret &#x3D; nil;</span><br><span class="line">            break;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            &#x2F;&#x2F;the actual decrypted data is in the middle, locate it!</span><br><span class="line">            int idxFirstZero &#x3D; -1;</span><br><span class="line">            int idxNextZero &#x3D; (int)outlen;</span><br><span class="line">            for ( int i &#x3D; 0; i &lt; outlen; i++ ) &#123;</span><br><span class="line">                if ( outbuf[i] &#x3D;&#x3D; 0 ) &#123;</span><br><span class="line">                    if ( idxFirstZero &lt; 0 ) &#123;</span><br><span class="line">                        idxFirstZero &#x3D; i;</span><br><span class="line">                    &#125; else &#123;</span><br><span class="line">                        idxNextZero &#x3D; i;</span><br><span class="line">                        break;</span><br><span class="line">                    &#125;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            </span><br><span class="line">            [ret appendBytes:&amp;outbuf[idxFirstZero+1] length:idxNextZero-idxFirstZero-1];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    free(outbuf);</span><br><span class="line">    CFRelease(keyRef);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;* END: Decryption with RSA private key *&#x2F;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+
+<p>测试代码（ViewController.m）：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">#import &quot;ViewController.h&quot;</span><br><span class="line">#import &quot;RSAEncryptor.h&quot;</span><br><span class="line"></span><br><span class="line">@interface ViewController ()</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@implementation ViewController</span><br><span class="line"></span><br><span class="line">- (void)viewDidLoad &#123;</span><br><span class="line">    [super viewDidLoad];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;原始字符串</span><br><span class="line">    NSString *originalString &#x3D; @&quot;aabbcc123我的&quot;;</span><br><span class="line">    NSString *public_key_path &#x3D; [[NSBundle mainBundle] pathForResource:@&quot;public_key-IOS.der&quot; ofType:nil];</span><br><span class="line">    NSString *private_key_path &#x3D; [[NSBundle mainBundle] pathForResource:@&quot;private_key-IOS.p12&quot; ofType:nil];</span><br><span class="line">    </span><br><span class="line">    NSLog(@&quot;原始字符串:%@\n&quot;, originalString);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;使用公钥加密</span><br><span class="line">    NSString *encryptStr &#x3D; [RSAEncryptor encryptString:originalString publicKeyWithContentsOfFile:public_key_path];</span><br><span class="line">    NSLog(@&quot;使用公钥加密后:%@\n&quot;, encryptStr);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;使用私钥解密</span><br><span class="line">    NSLog(@&quot;使用私钥解密后:%@\n\n&quot;, [RSAEncryptor decryptString:encryptStr privateKeyWithContentsOfFile:private_key_path password:@&quot;sirenbang&quot;]);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;通过java代码使用公钥加密后的字符串</span><br><span class="line">    NSString * encryptedStrByJavaWithPublicKey &#x3D; @&quot;aDuXxkcEK4RZqt47GRM33Op77pFZMgb7VmVrlcWPO5jQMAIkE+7RS2zXNPX4uSwXafAFYG4y99vOwrgl8J5IMDo&#x2F;7uvQtilb66z2oCUfXfWyXAt2gkJue4nJkcjiTKvNGUj4t3672pbo3DyGwGvY&#x2F;2F1Ydc76Wwo96DN&#x2F;rlkt5E&#x3D;&quot;;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;解密java语言使用公钥加密后的字符串</span><br><span class="line">    NSLog(@&quot;java语言使用公钥加密后:%@\n&quot;, encryptedStrByJavaWithPublicKey);</span><br><span class="line">    NSLog(@&quot;解密后的字符串:%@&quot;, [RSAEncryptor decryptString:encryptedStrByJavaWithPublicKey privateKeyWithContentsOfFile:private_key_path password:@&quot;sirenbang&quot;]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">- (void)didReceiveMemoryWarning &#123;</span><br><span class="line">    [super didReceiveMemoryWarning];</span><br><span class="line">    &#x2F;&#x2F; Dispose of any resources that can be recreated.</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+<p>IOS代码运行结果：</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1548745689483.jpg" alt="IOS代码运行结果"></p>
+<h3 id="Python代码"><a href="#Python代码" class="headerlink" title="Python代码"></a>Python代码</h3><p>python代码没有验证过，但应该没啥问题</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import rsa</span><br><span class="line">import base64</span><br><span class="line"></span><br><span class="line"># 导入key</span><br><span class="line">with open(&#39;py_public_key.pem&#39;) as publickfile:</span><br><span class="line">    p &#x3D; publickfile.read()</span><br><span class="line">    pubkey &#x3D; rsa.PublicKey.load_pkcs1(p)</span><br><span class="line"></span><br><span class="line">with open(&#39;private_key.pem&#39;) as privatefile:</span><br><span class="line">    p &#x3D; privatefile.read()</span><br><span class="line">    privkey &#x3D; rsa.PrivateKey.load_pkcs1(p)</span><br><span class="line"></span><br><span class="line">bob_pub &#x3D; pubkey</span><br><span class="line">bob_priv &#x3D; privkey</span><br><span class="line"></span><br><span class="line">message &#x3D; &quot;&quot;&quot;&#123;&quot;id&quot;: &quot;49187f817657ecd9d472562b16c0ec7c&quot;,&quot;ip&quot;: &quot;180.168.161.194&quot;,&quot;user-agent&quot;: &quot;iOS8.1 iPhone 5s&quot;,&quot;ts&quot;: &quot;1478879016008&quot;,&quot;channel&quot;: &quot;iOS&quot;&#125;&quot;&quot;&quot;</span><br><span class="line"></span><br><span class="line"># 数据分割函数</span><br><span class="line">def format_str(string, width):</span><br><span class="line">    format_list &#x3D; [string[x:x+width] for x in range(0,len(string),width)]</span><br><span class="line">    return format_list</span><br><span class="line"># 按大小分割数据</span><br><span class="line">str_list &#x3D; format_str(message,117)</span><br><span class="line"></span><br><span class="line"># 加密</span><br><span class="line">data_list &#x3D; []</span><br><span class="line">for _str in str_list:</span><br><span class="line">    data_list.append(base64.encodestring(rsa.encrypt(_str, bob_pub)))</span><br><span class="line"></span><br><span class="line"># 解密</span><br><span class="line">_data_list &#x3D; []</span><br><span class="line">for data in data_list.append:</span><br><span class="line">    _data_list.append(rsa.decrypt(base64.decodestring(data), bob_priv))</span><br><span class="line"></span><br><span class="line">_message &#x3D; &quot;&quot;.join(_data_list.append)</span><br><span class="line">print _message</span><br></pre></td></tr></table></figure>
+
+
+
+
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>非对称加密</tag>
+        <tag>RSA</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>简易版配置中心&amp;原理窥探</title>
     <url>/%E7%AE%80%E6%98%93%E7%89%88%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83&amp;%E5%88%9D%E6%8E%A2%E5%8E%9F%E7%90%86.html</url>
     <content><![CDATA[<h2 id="本地配置的情况"><a href="#本地配置的情况" class="headerlink" title="本地配置的情况"></a>本地配置的情况</h2><p>一般情况下，在开始一个新的项目的时候，可能我们多半会把配置信息写在工程目录下，使用不同的文件来配置不同环境下的配置。比如：</p>

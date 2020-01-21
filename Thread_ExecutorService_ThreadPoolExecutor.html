@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 4.2.0">
+<meta name="360-site-verification" content="2f9b300957197437cd9b4b4f5e4f4d4f" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="t4Y8JAU_4NuiSRV5RN32xUy8iUI-6Z871ju5S9AtHes">
+  <meta name="msvalidate.01" content="877BD6E82C48AE44EECA2906D93A151D">
+  <meta name="yandex-verification" content="ca8109c579d4c386">
+  <meta name="baidu-site-verification" content="rF78Z52yg2">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
+
+
+<script id="hexo-configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    hostname: new URL('http://blog.qseasy.cn').hostname,
+    root: '/',
+    scheme: 'Muse',
+    version: '7.7.0',
+    exturl: false,
+    sidebar: {"position":"right","display":"post","padding":18,"offset":12,"onmobile":true},
+    copycode: {"enable":true,"show_result":true,"style":null},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    bookmark: {"enable":true,"color":"#222","save":"manual"},
+    fancybox: true,
+    mediumzoom: false,
+    lazyload: false,
+    pangu: false,
+    comments: {"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},
+    algolia: {
+      appID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    path: 'search.xml',
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
+  };
+</script>
+
+  <meta name="description" content="ExecutorService类方法  shutdown 允许已经提交的任务（尚未开始执行和已经开始执行的）继续执行  shutdownNow 尚未开始执行的任务不再执行，同时尝试终止正在执行的任务（调用线程的Thread.interrupt方法）  无论是shutdown 还是shutdownNow，两个的执行都会阻止新的任务提交  一个ExecutorService一旦termination，">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Thread &amp; ExecutorService &amp; ThreadPoolExecutor 总览">
+<meta property="og:url" content="http://blog.qseasy.cn/Thread_ExecutorService_ThreadPoolExecutor.html">
+<meta property="og:site_name" content="Java技术杂烩">
+<meta property="og:description" content="ExecutorService类方法  shutdown 允许已经提交的任务（尚未开始执行和已经开始执行的）继续执行  shutdownNow 尚未开始执行的任务不再执行，同时尝试终止正在执行的任务（调用线程的Thread.interrupt方法）  无论是shutdown 还是shutdownNow，两个的执行都会阻止新的任务提交  一个ExecutorService一旦termination，">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://img.leyongzuche.com/xiaoshujiang/1567394916529.png">
+<meta property="og:image" content="https://img.ljd.leyongleshi.com/xiaoshujiang/1578364761227.png">
+<meta property="og:image" content="http://img.leyongzuche.com/xiaoshujiang/WeChat66d74b3f9a9b50dc5ab3c1607f21ebd3.png">
+<meta property="article:published_time" content="2020-01-20T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-01-21T01:21:25.632Z">
+<meta property="article:author" content="Java技术杂烩">
+<meta property="article:tag" content="Java">
+<meta property="article:tag" content="Thread">
+<meta property="article:tag" content="ExecutorService">
+<meta property="article:tag" content="ThreadPoolExecutor">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://img.leyongzuche.com/xiaoshujiang/1567394916529.png">
+
+<link rel="canonical" href="http://blog.qseasy.cn/Thread_ExecutorService_ThreadPoolExecutor.html">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome: false,
+    isPost: true
+  };
+</script>
+
+  <title>Thread & ExecutorService & ThreadPoolExecutor 总览 | Java技术杂烩</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111606315-2"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-111606315-2');
+      }
+    </script>
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-meta">
+
+    <div>
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Java技术杂烩</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+        <h1 class="site-subtitle" itemprop="description">不定期更新Java相关的技术文章</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+</div>
+
+
+<nav class="site-nav">
+  
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-fw fa-sitemap"></i>站点地图</a>
+
+  </li>
+  </ul>
+
+</nav>
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content">
+            
+
+  <div class="posts-expand">
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://blog.qseasy.cn/Thread_ExecutorService_ThreadPoolExecutor.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Java技术杂烩">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Java技术杂烩">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          Thread & ExecutorService & ThreadPoolExecutor 总览
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-01-21 00:00:00 / 修改时间：09:21:25" itemprop="dateCreated datePublished" datetime="2020-01-21T00:00:00+08:00">2020-01-21</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Java/" itemprop="url" rel="index">
+                    <span itemprop="name">Java</span>
+                  </a>
+                </span>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-text">作者&nbsp;傻傻分不清楚</span>
+            </span>
+
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="fa fa-comment-o"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/Thread_ExecutorService_ThreadPoolExecutor.html#comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/Thread_ExecutorService_ThreadPoolExecutor.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h2 id="ExecutorService"><a href="#ExecutorService" class="headerlink" title="ExecutorService"></a>ExecutorService</h2><h3 id="类方法"><a href="#类方法" class="headerlink" title="类方法"></a>类方法</h3><p><img src="http://img.leyongzuche.com/xiaoshujiang/1567394916529.png" alt="enter description here"></p>
+<ol>
+<li><p>shutdown<br> 允许已经提交的任务（尚未开始执行和已经开始执行的）继续执行</p>
+</li>
+<li><p>shutdownNow<br> 尚未开始执行的任务不再执行，同时尝试终止正在执行的任务（调用线程的Thread.interrupt方法）</p>
+</li>
+<li><p>无论是shutdown 还是shutdownNow，两个的执行都会阻止新的任务提交</p>
+</li>
+<li><p>一个ExecutorService一旦termination，表明没有正在执行的任务，没有等待执行的任务，也不会有新的任务可以被提交。</p>
+</li>
+<li><p>如果一个ExecutorService不再使用，应该调用shutdown方法来回收资源。</p>
+</li>
+<li><p>submit方法（三个重载方法）</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">返回的Future对象可以用来取消任务和等待任务执行完成</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>invokeAny和invokeAll方法</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">用户批量执行任务，</span><br><span class="line">invokeAny：会阻塞当前线程，直到某个任务完成。并返回这个任务相关的Future对象</span><br><span class="line">invokeAll：会阻塞当前线程，直到所有任务完成。</span><br></pre></td></tr></table></figure></li>
+<li><p>两阶段shutdown</p>
+<ol>
+<li><p>先执行shutdown方法</p>
+</li>
+<li><p>调用awaitTermination方法</p>
+</li>
+<li><p>再调用shutdownNow方法</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">void shutdownAndAwaitTermination(ExecutorService pool) &#123;</span><br><span class="line">   pool.shutdown(); &#x2F;&#x2F; Disable new tasks from being submitted</span><br><span class="line">   try &#123;</span><br><span class="line">     &#x2F;&#x2F; Wait a while for existing tasks to terminate</span><br><span class="line">     if (!pool.awaitTermination(60, TimeUnit.SECONDS)) &#123;</span><br><span class="line">       pool.shutdownNow(); &#x2F;&#x2F; Cancel currently executing tasks</span><br><span class="line">       &#x2F;&#x2F; Wait a while for tasks to respond to being cancelled</span><br><span class="line">       if (!pool.awaitTermination(60, TimeUnit.SECONDS))</span><br><span class="line">           System.err.println(&quot;Pool did not terminate&quot;);</span><br><span class="line">     &#125;</span><br><span class="line">   &#125; catch (InterruptedException ie) &#123;</span><br><span class="line">     &#x2F;&#x2F; (Re-)Cancel if current thread also interrupted</span><br><span class="line">     pool.shutdownNow();</span><br><span class="line">     &#x2F;&#x2F; Preserve interrupt status</span><br><span class="line">     Thread.currentThread().interrupt();</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+<li><p>isShutdown和isTerminated分别对应于两个状态：关闭状态，终结状态</p>
+</li>
+</ol>
+<a id="more"></a>
+
+<h2 id="Thread"><a href="#Thread" class="headerlink" title="Thread"></a>Thread</h2><ol>
+<li><p>interrupt方法<br> 如果执行a.interrupt方法后，如果a线程（注意是a线程，不是调用线程）抛出了InterruptedException异常，那么a的中断状态会被清除。如果不是抛出InterruptedException异常，那么a的中断状态都会被设置（如果是线程a自己调用了a.interrupt方法，那么a不会抛出InterruptedException异常，所以a的中断状态会被设置）。一般情况下如果抛出了InterruptedException异常，则可以在catch块里自己调用下Thread.currentThread().interrupt()方法。</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">while(!Thread.currentThread().isInterrupted())&#123;</span><br><span class="line">	try&#123;</span><br><span class="line">		Thread.sleep(1000);</span><br><span class="line">	&#125;catch(InterruptedException e)&#123;</span><br><span class="line">	   &#x2F;&#x2F;没有这行代码的话，可能永远不会退出循环</span><br><span class="line">		Thread.currentThread().interrupt();</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>如果线程a当前存在中断状态，然后a执行 LockSupport.park()方法，这个方法会立即返回。</p>
+</li>
+<li><p>interrupted方法<br> 执行a.interrupted方法会返回a线程的中断状态，同时会清除a线程的中断状态</p>
+</li>
+<li><p>isInterrupted方法<br> 执行a.interrupted方法会返回a线程的中断状态，不会清除a线程的中断状态</p>
+</li>
+<li><p>join方法<br> 线程b执行a.join方法后，线程b进入WAITING状态，将等待a线程执行完毕，然后b才会继续执行</p>
+</li>
+<li><p>sleep方法<br> 哪个线程执行的sleep方法就让哪个线程sleep。比如线程b执行a.sleep方法，那么进入sleep的线程并不是a线程，而是b线程。也就是说sleep方法是让执行sleep方法的线程sleep。<br> Thread.sleep方法==Thread.currentThread().sleep方法</p>
+</li>
+<li><p>线程状态<br> 在等待池中的线程的状态不一定是 WAITING 或 TIMED_WATING ，也可能是BLOCKED状态。<br> 当执行notifyAll方法后，会唤醒等待池中的所有线程，此时等待池中所有线程的状态为Runnable，然后这些线程会去竞争锁，没有得到锁的线程将进入BLOCKED状态。</p>
+</li>
+<li><p>CPU的cas指令并非是把数据的读取，修改，写入三个操作作为一个原子操作。只是在修改前回去比对实际的值和期望的值。某个线程在执行cas操作期间，其他线程仍然可以进行读取和写入。</p>
+</li>
+<li><p>不是所有CPU都支持CAS，在某些平台，jvm中cas的实现仍然是锁机制</p>
+</li>
+<li><p>某个线程执行了Unsafe.park方法后，该线程进入WAITING状态。</p>
+</li>
+<li><p>线程状态<br>new,runable,waiting,timed-waiting,blocked,terminated</p>
+</li>
+</ol>
+<p><img src="https://img.ljd.leyongleshi.com/xiaoshujiang/1578364761227.png" alt=""></p>
+<ol start="11">
+<li><p>守护线程</p>
+<ul>
+<li>main线程挂了，守护线程跟着挂</li>
+<li>某个某个线程是守护线程，那么执行路径中的try-finnally，fiannally方法jvm不保证能执行</li>
+</ul>
+</li>
+<li><p>非守护线程：main线程挂了，非守护线程可以继续执行</p>
+</li>
+<li><p>notify &amp; wait 标准范式</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">在Object类的源码中给出了这两个方法的是否范例。</span><br><span class="line"></span><br><span class="line">等待方：</span><br><span class="line">1. 获得锁</span><br><span class="line">2. 在循环里判断条件是否满足，不满足则执行wait方法</span><br><span class="line">3. 条件满足跳出循环，执行业务逻辑</span><br><span class="line"></span><br><span class="line">sync(obj)&#123;</span><br><span class="line">	while(!condition)&#123;</span><br><span class="line">		obj.wait();</span><br><span class="line">	&#125;</span><br><span class="line">	&#x2F;&#x2F;do something</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">通知方：</span><br><span class="line">1. 获得锁</span><br><span class="line">2. 改变condition</span><br><span class="line">3. 通知等待方</span><br><span class="line"></span><br><span class="line">sync(obj)&#123;</span><br><span class="line">	condition &#x3D; true;</span><br><span class="line">	obj.notify() &#x2F;&#x2F; obj.notifyAll();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>yield()/sleep()/wait()/nofity()对锁的有何影响？</p>
+<ul>
+<li>yield方法执行后只会让出cpu，但不会释放锁</li>
+<li>sleep方法也不会释放锁</li>
+<li>执行wait方法前必须先获得锁，执行后将会释放锁。当wait方法返回后将会重新获得锁</li>
+<li>执行notify方法前必须先获得锁，执行后不会释放锁</li>
+</ul>
+</li>
+<li><p>sync的对象不要用String、Integer、Long等基础的对象，因为共享原因可能锁到别人用的值。</p>
+</li>
+</ol>
+<h2 id="ThreadPoolExecutor"><a href="#ThreadPoolExecutor" class="headerlink" title="ThreadPoolExecutor"></a>ThreadPoolExecutor</h2><ol>
+<li><p>core pool size  及 max pool size </p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">一个新的任务提交哪些情况下会创建新的线程：</span><br><span class="line">    1. 已创建的的线程数小于corePoolSize（即便有线程是空闲的）</span><br><span class="line">    2. 已创建的线程数大于corePoolSize小于maxPoolSize，同时任务队列已经满的情况下，也会创建新的线程</span><br><span class="line"></span><br><span class="line">可以动态改变这两个的值：setCorePoolSize  以及 setMaximumPoolSize</span><br><span class="line"></span><br><span class="line">如果corePoolSize&#x3D;&#x3D;maxinumPoolSize，那么则创建了一个固定大小的线程池</span><br></pre></td></tr></table></figure></li>
+<li><p>keep alive time</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">如果已创建的线程大于了corePoolSize，并且如果有线程的空闲时间大于了keepAliveTime，那么这些线程会被kill掉直到剩下corePoolSize个线程。</span><br><span class="line"></span><br><span class="line">可以动态设置：setKeepAliveTime方法</span><br><span class="line"></span><br><span class="line">默认情况下keep-alive策略只会针对已创建线程数大于corePoolSize的情况下</span><br><span class="line"></span><br><span class="line">可以通过执行allowCoreThreadTimeOut(boolean)让keep-alive策略应用在已创建线程数小于corePoolSize的情况下。</span><br></pre></td></tr></table></figure></li>
+<li><p>BlockingQueue</p>
+<ol>
+<li><p>如果已创建线程数小于corePoolSize，那么会创建新的线程来执行当前提交的任务，而不是进入阻塞队列</p>
+</li>
+<li><p>如果已创建线程数大于等于corePoolSize,会尝试先进入阻塞队列，如果进入失败（其实就是队列已满），则会在maxPoolSize条件下创建新的线程来执行当前提交的任务。如果不满足maxPoolSize条件，那么就会执行 拒绝执行策略（默认的拒绝执行策略见下）</p>
+</li>
+<li><p>通常有三种入队列策略</p>
+<ol>
+<li><p>直接传递给线程（Direct handoffs）</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">比如：SychronousQueue</span><br><span class="line"></span><br><span class="line">感觉可以理解为这个入队列会总是失败，就相当于没有这个队列一样。这样就能在maxPoolSize条件下尽可能快的创建（或选择空闲的线程）来执行新提交的任务。</span><br><span class="line"></span><br><span class="line">如果提交的任务有互相的依赖性，可以考虑使用这种队列。</span><br><span class="line"></span><br><span class="line">public static ExecutorService newCachedThreadPool() &#123;</span><br><span class="line">    return new ThreadPoolExecutor(0, Integer.MAX_VALUE,</span><br><span class="line">                                  60L, TimeUnit.SECONDS,</span><br><span class="line">                                  new SynchronousQueue&lt;Runnable&gt;());</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">这个线程池，如果有洪水般的任务进来，那么就会瞬间创建大量的线程，这是很危险的，所以一般建议不使用这个工厂方法，虽然当任务减少后，线程的个数也会在60秒后一一回收。</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>无界队列（Unbounded Queue）</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">比如：LinkedBlockingQueue</span><br><span class="line"></span><br><span class="line">可以理解为如果有任务需要入队列，那么总会入队成功。</span><br><span class="line">因此按照创建新线程的条件，理论上不会有超过corePoolSize个数的线程。也就是说理论上线程数最多为corePoolSize，因此maxPoolSize的设置也就显得没有意义了。</span><br><span class="line"></span><br><span class="line">如果提交的任务互相间没有依赖性，可以考虑使用这种队列</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>有界队列（Bounded Queue）</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">比如：ArrayBlockingQueue</span><br><span class="line"></span><br><span class="line">如果使用有限个maxPoolSize,那么使用这种队列可以防止资源的耗尽。</span><br><span class="line"></span><br><span class="line">使用长队列和小的线程池，可以降低CPU使用率，降低系统资源的消耗，以及降低线程上下文切换的消耗，但是会导致低吞吐量。如果任务频繁的阻塞，系统可能会创建比允许的线程数多的线程。</span><br><span class="line"></span><br><span class="line">使用短队列和大的线程池，可以提高CPU使用率，但也有可能导致吞吐量下降。</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p>拒绝执行策略（我自己的叫法，实际上就是 RejectedExceptionHandler ）</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/WeChat66d74b3f9a9b50dc5ab3c1607f21ebd3.png" alt="enter description here" title="WeChat66d74b3f9a9b50dc5ab3c1607f21ebd3"></p>
+<ol>
+<li>ThreadPoolExecutor.AbortPolicy<br> 抛出RejectedExecutionException异常 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">    throw new RejectedExecutionException(&quot;Task &quot; + r.toString() +</span><br><span class="line">                                         &quot; rejected from &quot; +</span><br><span class="line">                                         e.toString());</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>ThreadPoolExecutor.CallerRunsPolicy<br> 在调用线程上执行（哪个线程提交的任务就哪个线程执行） <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">    if (!e.isShutdown()) &#123;</span><br><span class="line">        r.run();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>ThreadPoolExecutor.DiscardPolicy<br> 直接放弃 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li>ThreadPoolExecutor.DiscardOldestPolicy<br> 放弃当前队列中第一个任务 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">public void rejectedExecution(Runnable r, ThreadPoolExecutor e) &#123;</span><br><span class="line">    if (!e.isShutdown()) &#123;</span><br><span class="line">        e.getQueue().poll();</span><br><span class="line">        e.execute(r);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+</ol>
+</li>
+<li><p>Finalization</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">一个在程序中不再被引用的线程池如果同时没有剩余的线程，那么这个线程池会被自动的shutdown.</span><br><span class="line"></span><br><span class="line">因此如果你想即便在忘记执行shutdown方法的时候仍能正常关闭线程池，那么建议设置一个有限的keepAliveTime（针对大于线程数大于corePoolSize的那些线程），同时也执行下 allowCoreThreadTimeOut(boolean) .</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>Worker</p>
+<ol>
+<li>如果任务发生异常，完成的任务数仍然加一.</li>
+<li></li>
+</ol>
+</li>
+</ol>
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div>坚持原创技术分享，感谢您的支持和鼓励！</div>
+  <button disable="enable" onclick="var qr = document.getElementById(&quot;qr&quot;); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wechatpay.jpeg" alt="Java技术杂烩 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="/images/alipay.jpeg" alt="Java技术杂烩 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Java/" rel="tag"># Java</a>
+              <a href="/tags/Thread/" rel="tag"># Thread</a>
+              <a href="/tags/ExecutorService/" rel="tag"># ExecutorService</a>
+              <a href="/tags/ThreadPoolExecutor/" rel="tag"># ThreadPoolExecutor</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html" rel="prev" title="RSA加密解密多语言实现方案">
+      <i class="fa fa-chevron-left"></i> RSA加密解密多语言实现方案
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/synchronized%E5%8E%9F%E7%90%86%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.html" rel="next" title="Sync的实现原理探究">
+      Sync的实现原理探究 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+  </div>
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let activeClass = CONFIG.comments.activeClass;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#ExecutorService"><span class="nav-number">1.</span> <span class="nav-text">ExecutorService</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#类方法"><span class="nav-number">1.1.</span> <span class="nav-text">类方法</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Thread"><span class="nav-number">2.</span> <span class="nav-text">Thread</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#ThreadPoolExecutor"><span class="nav-number">3.</span> <span class="nav-text">ThreadPoolExecutor</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Java技术杂烩</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">16</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">54</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/rocky-peng" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;rocky-peng" rel="noopener" target="_blank"><i class="fa fa-fw fa-github"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:rocky.peng@qq.com" title="E-Mail → mailto:rocky.peng@qq.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+<div class="copyright">
+  
+  &copy; 2015 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Java技术杂烩</span>
+</div>
+  <div class="theme-info">主题 – <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v7.7.0
+  </div>
+
+
+
+   <br/>
+   <script>
+   var _hmt = _hmt || [];
+   (function() {
+     var hm = document.createElement("script");
+     hm.src = "https://hm.baidu.com/hm.js?9734b723ff50f15179d39682ca1e8920";
+     var s = document.getElementsByTagName("script")[0];
+     s.parentNode.insertBefore(hm, s);
+   })();
+   </script>
+   <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1278584828'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/z_stat.php%3Fid%3D1278584828%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+
+
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+(function(){
+var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+<script src="/js/bookmark.js"></script>
+
+
+
+
+  
+  <script>
+    (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      bp.src = (curProtocol === 'https') ? 'https://zz.bdstatic.com/linksubmit/push.js' : 'http://push.zhanzhang.baidu.com/push.js';
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el: '#valine-comments',
+      verify: false,
+      notify: false,
+      appId: 'nEGHeaqWsU1pYa1aSBYc4ODz-gzGzoHsz',
+      appKey: 'spRY5aPsw5dhQsvkXqVK1m8e',
+      placeholder: "砸鸡蛋还是点个赞呀😏",
+      avatar: 'wavatar',
+      meta: guest,
+      pageSize: '10' || 10,
+      visitor: false,
+      lang: 'zh-cn' || 'zh-cn',
+      path: location.pathname,
+      recordIP: true,
+      serverURLs: ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 4.2.0">
+<meta name="360-site-verification" content="2f9b300957197437cd9b4b4f5e4f4d4f" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+  <meta name="google-site-verification" content="t4Y8JAU_4NuiSRV5RN32xUy8iUI-6Z871ju5S9AtHes">
+  <meta name="msvalidate.01" content="877BD6E82C48AE44EECA2906D93A151D">
+  <meta name="yandex-verification" content="ca8109c579d4c386">
+  <meta name="baidu-site-verification" content="rF78Z52yg2">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
+
+
+<script id="hexo-configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    hostname: new URL('http://blog.qseasy.cn').hostname,
+    root: '/',
+    scheme: 'Muse',
+    version: '7.7.0',
+    exturl: false,
+    sidebar: {"position":"right","display":"post","padding":18,"offset":12,"onmobile":true},
+    copycode: {"enable":true,"show_result":true,"style":null},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    bookmark: {"enable":true,"color":"#222","save":"manual"},
+    fancybox: true,
+    mediumzoom: false,
+    lazyload: false,
+    pangu: false,
+    comments: {"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},
+    algolia: {
+      appID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    path: 'search.xml',
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
+  };
+</script>
+
+  <meta name="description" content="生成相关文件 生成模长为1024bit的私钥文件private_key.pem 123cd rsa_multi_languageopenssl genrsa -out private_key.pem 1024  生成IOS证书 123456789101112131. 生成证书请求文件rsaCertReq-IOS.csropenssl req -new -key private_key.pem -o">
+<meta property="og:type" content="article">
+<meta property="og:title" content="RSA加密解密多语言实现方案">
+<meta property="og:url" content="http://blog.qseasy.cn/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html">
+<meta property="og:site_name" content="Java技术杂烩">
+<meta property="og:description" content="生成相关文件 生成模长为1024bit的私钥文件private_key.pem 123cd rsa_multi_languageopenssl genrsa -out private_key.pem 1024  生成IOS证书 123456789101112131. 生成证书请求文件rsaCertReq-IOS.csropenssl req -new -key private_key.pem -o">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://img.leyongzuche.com/xiaoshujiang/1548730872046.jpg">
+<meta property="og:image" content="http://img.leyongzuche.com/xiaoshujiang/1548744107744.jpg">
+<meta property="og:image" content="http://img.leyongzuche.com/xiaoshujiang/1548745689483.jpg">
+<meta property="article:published_time" content="2020-01-20T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-01-21T01:26:52.435Z">
+<meta property="article:author" content="Java技术杂烩">
+<meta property="article:tag" content="非对称加密">
+<meta property="article:tag" content="RSA">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://img.leyongzuche.com/xiaoshujiang/1548730872046.jpg">
+
+<link rel="canonical" href="http://blog.qseasy.cn/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome: false,
+    isPost: true
+  };
+</script>
+
+  <title>RSA加密解密多语言实现方案 | Java技术杂烩</title>
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111606315-2"></script>
+    <script>
+      if (CONFIG.hostname === location.hostname) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-111606315-2');
+      }
+    </script>
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-meta">
+
+    <div>
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Java技术杂烩</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+        <h1 class="site-subtitle" itemprop="description">不定期更新Java相关的技术文章</h1>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+</div>
+
+
+<nav class="site-nav">
+  
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>归档</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-fw fa-sitemap"></i>站点地图</a>
+
+  </li>
+  </ul>
+
+</nav>
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+  <a role="button" class="book-mark-link book-mark-link-fixed"></a>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content">
+            
+
+  <div class="posts-expand">
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://blog.qseasy.cn/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Java技术杂烩">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Java技术杂烩">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          RSA加密解密多语言实现方案
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-01-21 00:00:00 / 修改时间：09:26:52" itemprop="dateCreated datePublished" datetime="2020-01-21T00:00:00+08:00">2020-01-21</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%9D%82%E9%A1%B9/" itemprop="url" rel="index">
+                    <span itemprop="name">杂项</span>
+                  </a>
+                </span>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-text">作者&nbsp;傻傻分不清楚</span>
+            </span>
+
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="fa fa-comment-o"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html#comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/RSA%20%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h2 id="生成相关文件"><a href="#生成相关文件" class="headerlink" title="生成相关文件"></a>生成相关文件</h2><ol>
+<li><p>生成模长为1024bit的私钥文件private_key.pem</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cd rsa_multi_language</span><br><span class="line"></span><br><span class="line">openssl genrsa -out private_key.pem 1024</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成IOS证书</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">1. 生成证书请求文件rsaCertReq-IOS.csr</span><br><span class="line">openssl req -new -key private_key.pem -out rsaCerReq-IOS.csr</span><br><span class="line"></span><br><span class="line">2. 生成证书rsaCert.crt，并设置有效时间为10年</span><br><span class="line">openssl x509 -req -days 36500 -in rsaCerReq-IOS.csr -signkey private_key.pem -out rsaCert-IOS.crt</span><br><span class="line"></span><br><span class="line">3. 生成供iOS使用的公钥文件public_key.der</span><br><span class="line">openssl x509 -outform der -in rsaCert-IOS.crt -out public_key-IOS.der</span><br><span class="line"></span><br><span class="line">4. 生成供iOS使用的私钥文件private_key.p12</span><br><span class="line">openssl pkcs12 -export -out private_key-IOS.p12 -inkey private_key.pem -in rsaCert-IOS.crt</span><br><span class="line"></span><br><span class="line">密码：sirenbang</span><br></pre></td></tr></table></figure>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1548730872046.jpg" alt="openssl req -new -key private_key.pem -out rsaCerReq-IOS.csr"></p>
+</li>
+</ol>
+<ol start="3">
+<li>生成供Java使用的私钥pkcs8_private_key.pem<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">openssl pkcs8 -topk8 -in private_key.pem -out pkcs8_private_key.pem -nocrypt</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<a id="more"></a>
+
+<ol start="4">
+<li><p>生成通用公钥rsa_public_key.pem</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">openssl rsa -in private_key.pem -out rsa_public_key.pem -pubout</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>生成rsa公钥 供python等使用 py_public_key.pem</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">openssl rsa -in private_key.pem -RSAPublicKey_out -out py_public_key.pem</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><h3 id="JAVA代码"><a href="#JAVA代码" class="headerlink" title="JAVA代码"></a>JAVA代码</h3><p>工具类：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br></pre></td><td class="code"><pre><span class="line">import org.bouncycastle.asn1.ASN1Sequence;</span><br><span class="line">import org.bouncycastle.asn1.pkcs.RSAPrivateKeyStructure;</span><br><span class="line">import org.bouncycastle.jce.provider.BouncyCastleProvider;</span><br><span class="line">import sun.misc.BASE64Decoder;</span><br><span class="line"></span><br><span class="line">import javax.crypto.Cipher;</span><br><span class="line">import java.io.BufferedReader;</span><br><span class="line">import java.io.InputStream;</span><br><span class="line">import java.io.InputStreamReader;</span><br><span class="line">import java.security.Key;</span><br><span class="line">import java.security.KeyFactory;</span><br><span class="line">import java.security.interfaces.RSAPrivateKey;</span><br><span class="line">import java.security.interfaces.RSAPublicKey;</span><br><span class="line">import java.security.spec.PKCS8EncodedKeySpec;</span><br><span class="line">import java.security.spec.RSAPrivateKeySpec;</span><br><span class="line">import java.security.spec.X509EncodedKeySpec;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">public class RSAEncryptUtils &#123;</span><br><span class="line"></span><br><span class="line">    public static RSAPublicKey loadPublicKey(InputStream in) &#123;</span><br><span class="line">        return loadPublicKey(readKeyAsString(in));</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static RSAPublicKey loadPublicKey(String publicKeyStr) &#123;</span><br><span class="line">        try &#123;</span><br><span class="line">            BASE64Decoder base64Decoder &#x3D; new BASE64Decoder();</span><br><span class="line">            byte[] buffer &#x3D; base64Decoder.decodeBuffer(publicKeyStr);</span><br><span class="line">            KeyFactory keyFactory &#x3D; KeyFactory.getInstance(&quot;RSA&quot;);</span><br><span class="line">            X509EncodedKeySpec keySpec &#x3D; new X509EncodedKeySpec(buffer);</span><br><span class="line">            return (RSAPublicKey) keyFactory.generatePublic(keySpec);</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            throw new RuntimeException(e);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static RSAPrivateKey loadPrivateKey(InputStream in) &#123;</span><br><span class="line">        return loadPrivateKey(readKeyAsString(in));</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static RSAPrivateKey loadPrivateKey(String privateKeyStr) &#123;</span><br><span class="line">        &#x2F;&#x2F;pkcs8</span><br><span class="line">        try &#123;</span><br><span class="line">            BASE64Decoder base64Decoder &#x3D; new BASE64Decoder();</span><br><span class="line">            byte[] buffer &#x3D; base64Decoder.decodeBuffer(privateKeyStr);</span><br><span class="line">            PKCS8EncodedKeySpec keySpec &#x3D; new PKCS8EncodedKeySpec(buffer);</span><br><span class="line">            KeyFactory keyFactory &#x3D; KeyFactory.getInstance(&quot;RSA&quot;);</span><br><span class="line">            return (RSAPrivateKey) keyFactory.generatePrivate(keySpec);</span><br><span class="line">        &#125; catch (Exception ex) &#123;</span><br><span class="line">            &#x2F;&#x2F;pkcs1</span><br><span class="line">            try &#123;</span><br><span class="line">                RSAPrivateKeyStructure asn1PrivKey &#x3D; new RSAPrivateKeyStructure((ASN1Sequence) ASN1Sequence.fromByteArray(new BASE64Decoder().decodeBuffer(privateKeyStr)));</span><br><span class="line">                RSAPrivateKeySpec rsaPrivKeySpec &#x3D; new RSAPrivateKeySpec(asn1PrivKey.getModulus(), asn1PrivKey.getPrivateExponent());</span><br><span class="line">                KeyFactory keyFactory &#x3D; KeyFactory.getInstance(&quot;RSA&quot;);</span><br><span class="line">                return (RSAPrivateKey) keyFactory.generatePrivate(rsaPrivKeySpec);</span><br><span class="line">            &#125; catch (Exception e) &#123;</span><br><span class="line">                throw new RuntimeException(e);</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static byte[] encrypt(Key publicOrPrivateKey, byte[] data) &#123;</span><br><span class="line">        return endecrypt(publicOrPrivateKey, data, Cipher.ENCRYPT_MODE);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static byte[] decrypt(Key publicOrPrivateKey, byte[] data) &#123;</span><br><span class="line">        return endecrypt(publicOrPrivateKey, data, Cipher.DECRYPT_MODE);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    private static byte[] endecrypt(Key publicOrPrivateKey, byte[] data, int mode) &#123;</span><br><span class="line">        if (publicOrPrivateKey &#x3D;&#x3D; null) &#123;</span><br><span class="line">            throw new RuntimeException(&quot;加密或公钥不能为空&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">        Cipher cipher &#x3D; null;</span><br><span class="line">        try &#123;</span><br><span class="line">            cipher &#x3D; Cipher.getInstance(&quot;RSA&#x2F;ECB&#x2F;PKCS1Padding&quot;, new BouncyCastleProvider());</span><br><span class="line">            cipher.init(mode, publicOrPrivateKey);</span><br><span class="line">            byte[] output &#x3D; cipher.doFinal(data);</span><br><span class="line">            return output;</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            throw new RuntimeException(e);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    private static String readKeyAsString(InputStream in) &#123;</span><br><span class="line">        try &#123;</span><br><span class="line">            BufferedReader br &#x3D; new BufferedReader(new InputStreamReader(in));</span><br><span class="line">            String readLine &#x3D; null;</span><br><span class="line">            StringBuilder sb &#x3D; new StringBuilder();</span><br><span class="line">            while ((readLine &#x3D; br.readLine()) !&#x3D; null) &#123;</span><br><span class="line">                if (readLine.charAt(0) &#x3D;&#x3D; &#39;-&#39;) &#123;</span><br><span class="line">                    continue;</span><br><span class="line">                &#125; else &#123;</span><br><span class="line">                    sb.append(readLine);</span><br><span class="line">                    sb.append(&#39;\r&#39;);</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            return sb.toString();</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            throw new RuntimeException(e);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>测试类：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br></pre></td><td class="code"><pre><span class="line">import sun.misc.BASE64Decoder;</span><br><span class="line">import sun.misc.BASE64Encoder;</span><br><span class="line"></span><br><span class="line">import java.security.interfaces.RSAPrivateKey;</span><br><span class="line">import java.security.interfaces.RSAPublicKey;</span><br><span class="line"></span><br><span class="line">public class RSAEncryptTest &#123;</span><br><span class="line"></span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line"></span><br><span class="line">        RSAPublicKey rsaPublicKey &#x3D; RSAEncryptUtils.loadPublicKey(RSAEncryptUtils.class.getResourceAsStream(&quot;&#x2F;rsa_public_key.pem&quot;));</span><br><span class="line">        RSAPrivateKey rsaPrivateKey &#x3D; RSAEncryptUtils.loadPrivateKey(RSAEncryptUtils.class.getResourceAsStream(&quot;&#x2F;pkcs8_private_key.pem&quot;));</span><br><span class="line"></span><br><span class="line">        &#x2F;&#x2F;测试字符串</span><br><span class="line">        String encryptStr &#x3D; &quot;aabbcc123我的&quot;;</span><br><span class="line">        System.out.println(&quot;原始字符串:&quot; + encryptStr + &quot;\n\n&quot;);</span><br><span class="line">        try &#123;</span><br><span class="line">            &#x2F;&#x2F;加密</span><br><span class="line">            byte[] cipher &#x3D; RSAEncryptUtils.encrypt(rsaPublicKey, encryptStr.getBytes());</span><br><span class="line">            String encode &#x3D; new BASE64Encoder().encode(cipher);</span><br><span class="line">            System.out.println(&quot;公钥加密后:&quot; + encode);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">            cipher &#x3D; (new BASE64Decoder().decodeBuffer(encode));</span><br><span class="line">            &#x2F;&#x2F;解密</span><br><span class="line">            byte[] plainText &#x3D; RSAEncryptUtils.decrypt(rsaPrivateKey, cipher);</span><br><span class="line">            System.out.println(&quot;私钥解密后:&quot; + new String(plainText));</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            System.err.println(e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        System.out.println(&quot;\n\n&quot;);</span><br><span class="line"></span><br><span class="line">        try &#123;</span><br><span class="line">            &#x2F;&#x2F;加密</span><br><span class="line">            byte[] cipher &#x3D; RSAEncryptUtils.encrypt(rsaPrivateKey, encryptStr.getBytes());</span><br><span class="line">            String encode &#x3D; new BASE64Encoder().encode(cipher);</span><br><span class="line">            System.out.println(&quot;私钥加密后:&quot; + encode);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">            cipher &#x3D; (new BASE64Decoder().decodeBuffer(encode));</span><br><span class="line">            &#x2F;&#x2F;解密</span><br><span class="line">            byte[] plainText &#x3D; RSAEncryptUtils.decrypt(rsaPublicKey, cipher);</span><br><span class="line">            System.out.println(&quot;公钥解密后:&quot; + new String(plainText));</span><br><span class="line">        &#125; catch (Exception e) &#123;</span><br><span class="line">            System.err.println(e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>java代码运行结果：</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1548744107744.jpg" alt="java代码运行结果"></p>
+<h3 id="IOS代码"><a href="#IOS代码" class="headerlink" title="IOS代码"></a>IOS代码</h3><p>RSAEncryptor.h ：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">#import &lt;Foundation&#x2F;Foundation.h&gt;</span><br><span class="line"></span><br><span class="line">@interface RSAEncryptor : NSObject</span><br><span class="line">&#x2F;**</span><br><span class="line"> *  加密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str   需要加密的字符串</span><br><span class="line"> *  @param path  &#39;.der&#39;格式的公钥文件路径</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKeyWithContentsOfFile:(NSString *)path;</span><br><span class="line"></span><br><span class="line">&#x2F;**</span><br><span class="line"> *  解密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str       需要解密的字符串</span><br><span class="line"> *  @param path      &#39;.p12&#39;格式的私钥文件路径</span><br><span class="line"> *  @param password  私钥文件密码</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKeyWithContentsOfFile:(NSString *)path password:(NSString *)password;</span><br><span class="line"></span><br><span class="line">&#x2F;**</span><br><span class="line"> *  加密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str    需要加密的字符串</span><br><span class="line"> *  @param pubKey 公钥字符串</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKey:(NSString *)pubKey;</span><br><span class="line"></span><br><span class="line">&#x2F;**</span><br><span class="line"> *  解密方法</span><br><span class="line"> *</span><br><span class="line"> *  @param str     需要解密的字符串</span><br><span class="line"> *  @param privKey 私钥字符串</span><br><span class="line"> *&#x2F;</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKey:(NSString *)privKey;</span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+
+<p>RSAEncryptor.m ：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br><span class="line">156</span><br><span class="line">157</span><br><span class="line">158</span><br><span class="line">159</span><br><span class="line">160</span><br><span class="line">161</span><br><span class="line">162</span><br><span class="line">163</span><br><span class="line">164</span><br><span class="line">165</span><br><span class="line">166</span><br><span class="line">167</span><br><span class="line">168</span><br><span class="line">169</span><br><span class="line">170</span><br><span class="line">171</span><br><span class="line">172</span><br><span class="line">173</span><br><span class="line">174</span><br><span class="line">175</span><br><span class="line">176</span><br><span class="line">177</span><br><span class="line">178</span><br><span class="line">179</span><br><span class="line">180</span><br><span class="line">181</span><br><span class="line">182</span><br><span class="line">183</span><br><span class="line">184</span><br><span class="line">185</span><br><span class="line">186</span><br><span class="line">187</span><br><span class="line">188</span><br><span class="line">189</span><br><span class="line">190</span><br><span class="line">191</span><br><span class="line">192</span><br><span class="line">193</span><br><span class="line">194</span><br><span class="line">195</span><br><span class="line">196</span><br><span class="line">197</span><br><span class="line">198</span><br><span class="line">199</span><br><span class="line">200</span><br><span class="line">201</span><br><span class="line">202</span><br><span class="line">203</span><br><span class="line">204</span><br><span class="line">205</span><br><span class="line">206</span><br><span class="line">207</span><br><span class="line">208</span><br><span class="line">209</span><br><span class="line">210</span><br><span class="line">211</span><br><span class="line">212</span><br><span class="line">213</span><br><span class="line">214</span><br><span class="line">215</span><br><span class="line">216</span><br><span class="line">217</span><br><span class="line">218</span><br><span class="line">219</span><br><span class="line">220</span><br><span class="line">221</span><br><span class="line">222</span><br><span class="line">223</span><br><span class="line">224</span><br><span class="line">225</span><br><span class="line">226</span><br><span class="line">227</span><br><span class="line">228</span><br><span class="line">229</span><br><span class="line">230</span><br><span class="line">231</span><br><span class="line">232</span><br><span class="line">233</span><br><span class="line">234</span><br><span class="line">235</span><br><span class="line">236</span><br><span class="line">237</span><br><span class="line">238</span><br><span class="line">239</span><br><span class="line">240</span><br><span class="line">241</span><br><span class="line">242</span><br><span class="line">243</span><br><span class="line">244</span><br><span class="line">245</span><br><span class="line">246</span><br><span class="line">247</span><br><span class="line">248</span><br><span class="line">249</span><br><span class="line">250</span><br><span class="line">251</span><br><span class="line">252</span><br><span class="line">253</span><br><span class="line">254</span><br><span class="line">255</span><br><span class="line">256</span><br><span class="line">257</span><br><span class="line">258</span><br><span class="line">259</span><br><span class="line">260</span><br><span class="line">261</span><br><span class="line">262</span><br><span class="line">263</span><br><span class="line">264</span><br><span class="line">265</span><br><span class="line">266</span><br><span class="line">267</span><br><span class="line">268</span><br><span class="line">269</span><br><span class="line">270</span><br><span class="line">271</span><br><span class="line">272</span><br><span class="line">273</span><br><span class="line">274</span><br><span class="line">275</span><br><span class="line">276</span><br><span class="line">277</span><br><span class="line">278</span><br><span class="line">279</span><br><span class="line">280</span><br><span class="line">281</span><br><span class="line">282</span><br><span class="line">283</span><br><span class="line">284</span><br><span class="line">285</span><br><span class="line">286</span><br><span class="line">287</span><br><span class="line">288</span><br><span class="line">289</span><br><span class="line">290</span><br><span class="line">291</span><br><span class="line">292</span><br><span class="line">293</span><br><span class="line">294</span><br><span class="line">295</span><br><span class="line">296</span><br><span class="line">297</span><br><span class="line">298</span><br><span class="line">299</span><br><span class="line">300</span><br><span class="line">301</span><br><span class="line">302</span><br><span class="line">303</span><br><span class="line">304</span><br><span class="line">305</span><br><span class="line">306</span><br><span class="line">307</span><br><span class="line">308</span><br><span class="line">309</span><br><span class="line">310</span><br><span class="line">311</span><br><span class="line">312</span><br><span class="line">313</span><br><span class="line">314</span><br><span class="line">315</span><br><span class="line">316</span><br><span class="line">317</span><br><span class="line">318</span><br><span class="line">319</span><br><span class="line">320</span><br><span class="line">321</span><br><span class="line">322</span><br><span class="line">323</span><br><span class="line">324</span><br><span class="line">325</span><br><span class="line">326</span><br><span class="line">327</span><br><span class="line">328</span><br><span class="line">329</span><br><span class="line">330</span><br><span class="line">331</span><br><span class="line">332</span><br><span class="line">333</span><br><span class="line">334</span><br><span class="line">335</span><br><span class="line">336</span><br><span class="line">337</span><br><span class="line">338</span><br><span class="line">339</span><br><span class="line">340</span><br><span class="line">341</span><br><span class="line">342</span><br><span class="line">343</span><br><span class="line">344</span><br><span class="line">345</span><br><span class="line">346</span><br><span class="line">347</span><br><span class="line">348</span><br><span class="line">349</span><br><span class="line">350</span><br><span class="line">351</span><br><span class="line">352</span><br><span class="line">353</span><br><span class="line">354</span><br><span class="line">355</span><br><span class="line">356</span><br><span class="line">357</span><br><span class="line">358</span><br><span class="line">359</span><br><span class="line">360</span><br><span class="line">361</span><br><span class="line">362</span><br><span class="line">363</span><br><span class="line">364</span><br><span class="line">365</span><br><span class="line">366</span><br><span class="line">367</span><br><span class="line">368</span><br><span class="line">369</span><br><span class="line">370</span><br><span class="line">371</span><br><span class="line">372</span><br><span class="line">373</span><br><span class="line">374</span><br><span class="line">375</span><br><span class="line">376</span><br><span class="line">377</span><br><span class="line">378</span><br><span class="line">379</span><br><span class="line">380</span><br><span class="line">381</span><br><span class="line">382</span><br><span class="line">383</span><br><span class="line">384</span><br><span class="line">385</span><br><span class="line">386</span><br><span class="line">387</span><br><span class="line">388</span><br><span class="line">389</span><br><span class="line">390</span><br><span class="line">391</span><br><span class="line">392</span><br><span class="line">393</span><br><span class="line">394</span><br><span class="line">395</span><br><span class="line">396</span><br><span class="line">397</span><br><span class="line">398</span><br><span class="line">399</span><br><span class="line">400</span><br><span class="line">401</span><br><span class="line">402</span><br><span class="line">403</span><br><span class="line">404</span><br><span class="line">405</span><br><span class="line">406</span><br><span class="line">407</span><br><span class="line">408</span><br><span class="line">409</span><br><span class="line">410</span><br><span class="line">411</span><br><span class="line">412</span><br><span class="line">413</span><br><span class="line">414</span><br><span class="line">415</span><br><span class="line">416</span><br><span class="line">417</span><br><span class="line">418</span><br><span class="line">419</span><br><span class="line">420</span><br><span class="line">421</span><br><span class="line">422</span><br><span class="line">423</span><br><span class="line">424</span><br><span class="line">425</span><br><span class="line">426</span><br><span class="line">427</span><br><span class="line">428</span><br><span class="line">429</span><br><span class="line">430</span><br><span class="line">431</span><br><span class="line">432</span><br><span class="line">433</span><br><span class="line">434</span><br><span class="line">435</span><br><span class="line">436</span><br><span class="line">437</span><br><span class="line">438</span><br><span class="line">439</span><br><span class="line">440</span><br><span class="line">441</span><br><span class="line">442</span><br><span class="line">443</span><br><span class="line">444</span><br><span class="line">445</span><br><span class="line">446</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">#import &quot;RSAEncryptor.h&quot;</span><br><span class="line">#import &lt;Security&#x2F;Security.h&gt;</span><br><span class="line"></span><br><span class="line">static NSString *base64_encode_data(NSData *data)&#123;</span><br><span class="line">    data &#x3D; [data base64EncodedDataWithOptions:0];</span><br><span class="line">    NSString *ret &#x3D; [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">static NSData *base64_decode(NSString *str)&#123;</span><br><span class="line">    NSData *data &#x3D; [[NSData alloc] initWithBase64EncodedString:str options:NSDataBase64DecodingIgnoreUnknownCharacters];</span><br><span class="line">    return data;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">@implementation RSAEncryptor</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;加密</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKeyWithContentsOfFile:(NSString *)path&#123;</span><br><span class="line">    if (!str || !path)  return nil;</span><br><span class="line">    return [self encryptString:str publicKeyRef:[self getPublicKeyRefWithContentsOfFile:path]];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;获取公钥</span><br><span class="line">+ (SecKeyRef)getPublicKeyRefWithContentsOfFile:(NSString *)filePath&#123;</span><br><span class="line">    NSData *certData &#x3D; [NSData dataWithContentsOfFile:filePath];</span><br><span class="line">    if (!certData) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecCertificateRef cert &#x3D; SecCertificateCreateWithData(NULL, (CFDataRef)certData);</span><br><span class="line">    SecKeyRef key &#x3D; NULL;</span><br><span class="line">    SecTrustRef trust &#x3D; NULL;</span><br><span class="line">    SecPolicyRef policy &#x3D; NULL;</span><br><span class="line">    if (cert !&#x3D; NULL) &#123;</span><br><span class="line">        policy &#x3D; SecPolicyCreateBasicX509();</span><br><span class="line">        if (policy) &#123;</span><br><span class="line">            if (SecTrustCreateWithCertificates((CFTypeRef)cert, policy, &amp;trust) &#x3D;&#x3D; noErr) &#123;</span><br><span class="line">                SecTrustResultType result;</span><br><span class="line">                if (SecTrustEvaluate(trust, &amp;result) &#x3D;&#x3D; noErr) &#123;</span><br><span class="line">                    key &#x3D; SecTrustCopyPublicKey(trust);</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    if (policy) CFRelease(policy);</span><br><span class="line">    if (trust) CFRelease(trust);</span><br><span class="line">    if (cert) CFRelease(cert);</span><br><span class="line">    return key;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKeyRef:(SecKeyRef)publicKeyRef&#123;</span><br><span class="line">    if(![str dataUsingEncoding:NSUTF8StringEncoding])&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    if(!publicKeyRef)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    NSData *data &#x3D; [self encryptData:[str dataUsingEncoding:NSUTF8StringEncoding] withKeyRef:publicKeyRef];</span><br><span class="line">    NSString *ret &#x3D; base64_encode_data(data);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#pragma mark - 使用&#39;.12&#39;私钥文件解密</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;解密</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKeyWithContentsOfFile:(NSString *)path password:(NSString *)password&#123;</span><br><span class="line">    if (!str || !path) return nil;</span><br><span class="line">    if (!password) password &#x3D; @&quot;&quot;;</span><br><span class="line">    return [self decryptString:str privateKeyRef:[self getPrivateKeyRefWithContentsOfFile:path password:password]];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;获取私钥</span><br><span class="line">+ (SecKeyRef)getPrivateKeyRefWithContentsOfFile:(NSString *)filePath password:(NSString*)password&#123;</span><br><span class="line">    </span><br><span class="line">    NSData *p12Data &#x3D; [NSData dataWithContentsOfFile:filePath];</span><br><span class="line">    if (!p12Data) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecKeyRef privateKeyRef &#x3D; NULL;</span><br><span class="line">    NSMutableDictionary * options &#x3D; [[NSMutableDictionary alloc] init];</span><br><span class="line">    [options setObject: password forKey:(__bridge id)kSecImportExportPassphrase];</span><br><span class="line">    CFArrayRef items &#x3D; CFArrayCreate(NULL, 0, 0, NULL);</span><br><span class="line">    OSStatus securityError &#x3D; SecPKCS12Import((__bridge CFDataRef) p12Data, (__bridge CFDictionaryRef)options, &amp;items);</span><br><span class="line">    if (securityError &#x3D;&#x3D; noErr &amp;&amp; CFArrayGetCount(items) &gt; 0) &#123;</span><br><span class="line">        CFDictionaryRef identityDict &#x3D; CFArrayGetValueAtIndex(items, 0);</span><br><span class="line">        SecIdentityRef identityApp &#x3D; (SecIdentityRef)CFDictionaryGetValue(identityDict, kSecImportItemIdentity);</span><br><span class="line">        securityError &#x3D; SecIdentityCopyPrivateKey(identityApp, &amp;privateKeyRef);</span><br><span class="line">        if (securityError !&#x3D; noErr) &#123;</span><br><span class="line">            privateKeyRef &#x3D; NULL;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    CFRelease(items);</span><br><span class="line">    </span><br><span class="line">    return privateKeyRef;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKeyRef:(SecKeyRef)privKeyRef&#123;</span><br><span class="line">    NSData *data &#x3D; [[NSData alloc] initWithBase64EncodedString:str options:NSDataBase64DecodingIgnoreUnknownCharacters];</span><br><span class="line">    if (!privKeyRef) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    data &#x3D; [self decryptData:data withKeyRef:privKeyRef];</span><br><span class="line">    NSString *ret &#x3D; [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#pragma mark - 使用公钥字符串加密</span><br><span class="line"></span><br><span class="line">&#x2F;* START: Encryption with RSA public key *&#x2F;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;使用公钥字符串加密</span><br><span class="line">+ (NSString *)encryptString:(NSString *)str publicKey:(NSString *)pubKey&#123;</span><br><span class="line">    NSData *data &#x3D; [self encryptData:[str dataUsingEncoding:NSUTF8StringEncoding] publicKey:pubKey];</span><br><span class="line">    NSString *ret &#x3D; base64_encode_data(data);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)encryptData:(NSData *)data publicKey:(NSString *)pubKey&#123;</span><br><span class="line">    if(!data || !pubKey)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecKeyRef keyRef &#x3D; [self addPublicKey:pubKey];</span><br><span class="line">    if(!keyRef)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return [self encryptData:data withKeyRef:keyRef];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (SecKeyRef)addPublicKey:(NSString *)key&#123;</span><br><span class="line">    NSRange spos &#x3D; [key rangeOfString:@&quot;-----BEGIN PUBLIC KEY-----&quot;];</span><br><span class="line">    NSRange epos &#x3D; [key rangeOfString:@&quot;-----END PUBLIC KEY-----&quot;];</span><br><span class="line">    if(spos.location !&#x3D; NSNotFound &amp;&amp; epos.location !&#x3D; NSNotFound)&#123;</span><br><span class="line">        NSUInteger s &#x3D; spos.location + spos.length;</span><br><span class="line">        NSUInteger e &#x3D; epos.location;</span><br><span class="line">        NSRange range &#x3D; NSMakeRange(s, e-s);</span><br><span class="line">        key &#x3D; [key substringWithRange:range];</span><br><span class="line">    &#125;</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\r&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\n&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\t&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot; &quot;  withString:@&quot;&quot;];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; This will be base64 encoded, decode it.</span><br><span class="line">    NSData *data &#x3D; base64_decode(key);</span><br><span class="line">    data &#x3D; [self stripPublicKeyHeader:data];</span><br><span class="line">    if(!data)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;a tag to read&#x2F;write keychain storage</span><br><span class="line">    NSString *tag &#x3D; @&quot;RSAUtil_PubKey&quot;;</span><br><span class="line">    NSData *d_tag &#x3D; [NSData dataWithBytes:[tag UTF8String] length:[tag length]];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Delete any old lingering key with the same tag</span><br><span class="line">    NSMutableDictionary *publicKey &#x3D; [[NSMutableDictionary alloc] init];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecClassKey forKey:(__bridge id)kSecClass];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    [publicKey setObject:d_tag forKey:(__bridge id)kSecAttrApplicationTag];</span><br><span class="line">    SecItemDelete((__bridge CFDictionaryRef)publicKey);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Add persistent version of the key to system keychain</span><br><span class="line">    [publicKey setObject:data forKey:(__bridge id)kSecValueData];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecAttrKeyClassPublic forKey:(__bridge id)</span><br><span class="line">     kSecAttrKeyClass];</span><br><span class="line">    [publicKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)</span><br><span class="line">     kSecReturnPersistentRef];</span><br><span class="line">    </span><br><span class="line">    CFTypeRef persistKey &#x3D; nil;</span><br><span class="line">    OSStatus status &#x3D; SecItemAdd((__bridge CFDictionaryRef)publicKey, &amp;persistKey);</span><br><span class="line">    if (persistKey !&#x3D; nil)&#123;</span><br><span class="line">        CFRelease(persistKey);</span><br><span class="line">    &#125;</span><br><span class="line">    if ((status !&#x3D; noErr) &amp;&amp; (status !&#x3D; errSecDuplicateItem)) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    [publicKey removeObjectForKey:(__bridge id)kSecValueData];</span><br><span class="line">    [publicKey removeObjectForKey:(__bridge id)kSecReturnPersistentRef];</span><br><span class="line">    [publicKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)kSecReturnRef];</span><br><span class="line">    [publicKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now fetch the SecKeyRef version of the key</span><br><span class="line">    SecKeyRef keyRef &#x3D; nil;</span><br><span class="line">    status &#x3D; SecItemCopyMatching((__bridge CFDictionaryRef)publicKey, (CFTypeRef *)&amp;keyRef);</span><br><span class="line">    if(status !&#x3D; noErr)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return keyRef;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)stripPublicKeyHeader:(NSData *)d_key&#123;</span><br><span class="line">    &#x2F;&#x2F; Skip ASN.1 public key header</span><br><span class="line">    if (d_key &#x3D;&#x3D; nil) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned long len &#x3D; [d_key length];</span><br><span class="line">    if (!len) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned char *c_key &#x3D; (unsigned char *)[d_key bytes];</span><br><span class="line">    unsigned int  idx     &#x3D; 0;</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx++] !&#x3D; 0x30) return(nil);</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx] &gt; 0x80) idx +&#x3D; c_key[idx] - 0x80 + 1;</span><br><span class="line">    else idx++;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; PKCS #1 rsaEncryption szOID_RSA_RSA</span><br><span class="line">    static unsigned char seqiod[] &#x3D;</span><br><span class="line">    &#123; 0x30,   0x0d, 0x06, 0x09, 0x2a, 0x86, 0x48, 0x86, 0xf7, 0x0d, 0x01, 0x01,</span><br><span class="line">        0x01, 0x05, 0x00 &#125;;</span><br><span class="line">    if (memcmp(&amp;c_key[idx], seqiod, 15)) return(nil);</span><br><span class="line">    </span><br><span class="line">    idx +&#x3D; 15;</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx++] !&#x3D; 0x03) return(nil);</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx] &gt; 0x80) idx +&#x3D; c_key[idx] - 0x80 + 1;</span><br><span class="line">    else idx++;</span><br><span class="line">    </span><br><span class="line">    if (c_key[idx++] !&#x3D; &#39;\0&#39;) return(nil);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now make a new NSData from this buffer</span><br><span class="line">    return ([NSData dataWithBytes:&amp;c_key[idx] length:len - idx]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)encryptData:(NSData *)data withKeyRef:(SecKeyRef) keyRef&#123;</span><br><span class="line">    const uint8_t *srcbuf &#x3D; (const uint8_t *)[data bytes];</span><br><span class="line">    size_t srclen &#x3D; (size_t)data.length;</span><br><span class="line">    </span><br><span class="line">    size_t block_size &#x3D; SecKeyGetBlockSize(keyRef) * sizeof(uint8_t);</span><br><span class="line">    void *outbuf &#x3D; malloc(block_size);</span><br><span class="line">    size_t src_block_size &#x3D; block_size - 11;</span><br><span class="line">    </span><br><span class="line">    NSMutableData *ret &#x3D; [[NSMutableData alloc] init];</span><br><span class="line">    for(int idx&#x3D;0; idx&lt;srclen; idx+&#x3D;src_block_size)&#123;</span><br><span class="line">        &#x2F;&#x2F;NSLog(@&quot;%d&#x2F;%d block_size: %d&quot;, idx, (int)srclen, (int)block_size);</span><br><span class="line">        size_t data_len &#x3D; srclen - idx;</span><br><span class="line">        if(data_len &gt; src_block_size)&#123;</span><br><span class="line">            data_len &#x3D; src_block_size;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        size_t outlen &#x3D; block_size;</span><br><span class="line">        OSStatus status &#x3D; noErr;</span><br><span class="line">        status &#x3D; SecKeyEncrypt(keyRef,</span><br><span class="line">                               kSecPaddingPKCS1,</span><br><span class="line">                               srcbuf + idx,</span><br><span class="line">                               data_len,</span><br><span class="line">                               outbuf,</span><br><span class="line">                               &amp;outlen</span><br><span class="line">                               );</span><br><span class="line">        if (status !&#x3D; 0) &#123;</span><br><span class="line">            NSLog(@&quot;SecKeyEncrypt fail. Error Code: %d&quot;, status);</span><br><span class="line">            ret &#x3D; nil;</span><br><span class="line">            break;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            [ret appendBytes:outbuf length:outlen];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    free(outbuf);</span><br><span class="line">    CFRelease(keyRef);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;* END: Encryption with RSA public key *&#x2F;</span><br><span class="line"></span><br><span class="line">#pragma mark - 使用私钥字符串解密</span><br><span class="line"></span><br><span class="line">&#x2F;* START: Decryption with RSA private key *&#x2F;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F;使用私钥字符串解密</span><br><span class="line">+ (NSString *)decryptString:(NSString *)str privateKey:(NSString *)privKey&#123;</span><br><span class="line">    if (!str) return nil;</span><br><span class="line">    NSData *data &#x3D; [[NSData alloc] initWithBase64EncodedString:str options:NSDataBase64DecodingIgnoreUnknownCharacters];</span><br><span class="line">    data &#x3D; [self decryptData:data privateKey:privKey];</span><br><span class="line">    NSString *ret &#x3D; [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)decryptData:(NSData *)data privateKey:(NSString *)privKey&#123;</span><br><span class="line">    if(!data || !privKey)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    SecKeyRef keyRef &#x3D; [self addPrivateKey:privKey];</span><br><span class="line">    if(!keyRef)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return [self decryptData:data withKeyRef:keyRef];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (SecKeyRef)addPrivateKey:(NSString *)key&#123;</span><br><span class="line">    NSRange spos &#x3D; [key rangeOfString:@&quot;-----BEGIN RSA PRIVATE KEY-----&quot;];</span><br><span class="line">    NSRange epos &#x3D; [key rangeOfString:@&quot;-----END RSA PRIVATE KEY-----&quot;];</span><br><span class="line">    if(spos.location !&#x3D; NSNotFound &amp;&amp; epos.location !&#x3D; NSNotFound)&#123;</span><br><span class="line">        NSUInteger s &#x3D; spos.location + spos.length;</span><br><span class="line">        NSUInteger e &#x3D; epos.location;</span><br><span class="line">        NSRange range &#x3D; NSMakeRange(s, e-s);</span><br><span class="line">        key &#x3D; [key substringWithRange:range];</span><br><span class="line">    &#125;</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\r&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\n&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot;\t&quot; withString:@&quot;&quot;];</span><br><span class="line">    key &#x3D; [key stringByReplacingOccurrencesOfString:@&quot; &quot;  withString:@&quot;&quot;];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; This will be base64 encoded, decode it.</span><br><span class="line">    NSData *data &#x3D; base64_decode(key);</span><br><span class="line">    data &#x3D; [self stripPrivateKeyHeader:data];</span><br><span class="line">    if(!data)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;a tag to read&#x2F;write keychain storage</span><br><span class="line">    NSString *tag &#x3D; @&quot;RSAUtil_PrivKey&quot;;</span><br><span class="line">    NSData *d_tag &#x3D; [NSData dataWithBytes:[tag UTF8String] length:[tag length]];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Delete any old lingering key with the same tag</span><br><span class="line">    NSMutableDictionary *privateKey &#x3D; [[NSMutableDictionary alloc] init];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecClassKey forKey:(__bridge id)kSecClass];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    [privateKey setObject:d_tag forKey:(__bridge id)kSecAttrApplicationTag];</span><br><span class="line">    SecItemDelete((__bridge CFDictionaryRef)privateKey);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Add persistent version of the key to system keychain</span><br><span class="line">    [privateKey setObject:data forKey:(__bridge id)kSecValueData];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecAttrKeyClassPrivate forKey:(__bridge id)</span><br><span class="line">     kSecAttrKeyClass];</span><br><span class="line">    [privateKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)</span><br><span class="line">     kSecReturnPersistentRef];</span><br><span class="line">    </span><br><span class="line">    CFTypeRef persistKey &#x3D; nil;</span><br><span class="line">    OSStatus status &#x3D; SecItemAdd((__bridge CFDictionaryRef)privateKey, &amp;persistKey);</span><br><span class="line">    if (persistKey !&#x3D; nil)&#123;</span><br><span class="line">        CFRelease(persistKey);</span><br><span class="line">    &#125;</span><br><span class="line">    if ((status !&#x3D; noErr) &amp;&amp; (status !&#x3D; errSecDuplicateItem)) &#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    [privateKey removeObjectForKey:(__bridge id)kSecValueData];</span><br><span class="line">    [privateKey removeObjectForKey:(__bridge id)kSecReturnPersistentRef];</span><br><span class="line">    [privateKey setObject:[NSNumber numberWithBool:YES] forKey:(__bridge id)kSecReturnRef];</span><br><span class="line">    [privateKey setObject:(__bridge id) kSecAttrKeyTypeRSA forKey:(__bridge id)kSecAttrKeyType];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now fetch the SecKeyRef version of the key</span><br><span class="line">    SecKeyRef keyRef &#x3D; nil;</span><br><span class="line">    status &#x3D; SecItemCopyMatching((__bridge CFDictionaryRef)privateKey, (CFTypeRef *)&amp;keyRef);</span><br><span class="line">    if(status !&#x3D; noErr)&#123;</span><br><span class="line">        return nil;</span><br><span class="line">    &#125;</span><br><span class="line">    return keyRef;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)stripPrivateKeyHeader:(NSData *)d_key&#123;</span><br><span class="line">    &#x2F;&#x2F; Skip ASN.1 private key header</span><br><span class="line">    if (d_key &#x3D;&#x3D; nil) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned long len &#x3D; [d_key length];</span><br><span class="line">    if (!len) return(nil);</span><br><span class="line">    </span><br><span class="line">    unsigned char *c_key &#x3D; (unsigned char *)[d_key bytes];</span><br><span class="line">    unsigned int  idx     &#x3D; 22; &#x2F;&#x2F;magic byte at offset 22</span><br><span class="line">    </span><br><span class="line">    if (0x04 !&#x3D; c_key[idx++]) return nil;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;calculate length of the key</span><br><span class="line">    unsigned int c_len &#x3D; c_key[idx++];</span><br><span class="line">    int det &#x3D; c_len &amp; 0x80;</span><br><span class="line">    if (!det) &#123;</span><br><span class="line">        c_len &#x3D; c_len &amp; 0x7f;</span><br><span class="line">    &#125; else &#123;</span><br><span class="line">        int byteCount &#x3D; c_len &amp; 0x7f;</span><br><span class="line">        if (byteCount + idx &gt; len) &#123;</span><br><span class="line">            &#x2F;&#x2F;rsa length field longer than buffer</span><br><span class="line">            return nil;</span><br><span class="line">        &#125;</span><br><span class="line">        unsigned int accum &#x3D; 0;</span><br><span class="line">        unsigned char *ptr &#x3D; &amp;c_key[idx];</span><br><span class="line">        idx +&#x3D; byteCount;</span><br><span class="line">        while (byteCount) &#123;</span><br><span class="line">            accum &#x3D; (accum &lt;&lt; 8) + *ptr;</span><br><span class="line">            ptr++;</span><br><span class="line">            byteCount--;</span><br><span class="line">        &#125;</span><br><span class="line">        c_len &#x3D; accum;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F; Now make a new NSData from this buffer</span><br><span class="line">    return [d_key subdataWithRange:NSMakeRange(idx, c_len)];</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">+ (NSData *)decryptData:(NSData *)data withKeyRef:(SecKeyRef) keyRef&#123;</span><br><span class="line">    const uint8_t *srcbuf &#x3D; (const uint8_t *)[data bytes];</span><br><span class="line">    size_t srclen &#x3D; (size_t)data.length;</span><br><span class="line">    </span><br><span class="line">    size_t block_size &#x3D; SecKeyGetBlockSize(keyRef) * sizeof(uint8_t);</span><br><span class="line">    UInt8 *outbuf &#x3D; malloc(block_size);</span><br><span class="line">    size_t src_block_size &#x3D; block_size;</span><br><span class="line">    </span><br><span class="line">    NSMutableData *ret &#x3D; [[NSMutableData alloc] init];</span><br><span class="line">    for(int idx&#x3D;0; idx&lt;srclen; idx+&#x3D;src_block_size)&#123;</span><br><span class="line">        &#x2F;&#x2F;NSLog(@&quot;%d&#x2F;%d block_size: %d&quot;, idx, (int)srclen, (int)block_size);</span><br><span class="line">        size_t data_len &#x3D; srclen - idx;</span><br><span class="line">        if(data_len &gt; src_block_size)&#123;</span><br><span class="line">            data_len &#x3D; src_block_size;</span><br><span class="line">        &#125;</span><br><span class="line">        </span><br><span class="line">        size_t outlen &#x3D; block_size;</span><br><span class="line">        OSStatus status &#x3D; noErr;</span><br><span class="line">        status &#x3D; SecKeyDecrypt(keyRef,</span><br><span class="line">                               kSecPaddingNone,</span><br><span class="line">                               srcbuf + idx,</span><br><span class="line">                               data_len,</span><br><span class="line">                               outbuf,</span><br><span class="line">                               &amp;outlen</span><br><span class="line">                               );</span><br><span class="line">        if (status !&#x3D; 0) &#123;</span><br><span class="line">            NSLog(@&quot;SecKeyEncrypt fail. Error Code: %d&quot;, status);</span><br><span class="line">            ret &#x3D; nil;</span><br><span class="line">            break;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            &#x2F;&#x2F;the actual decrypted data is in the middle, locate it!</span><br><span class="line">            int idxFirstZero &#x3D; -1;</span><br><span class="line">            int idxNextZero &#x3D; (int)outlen;</span><br><span class="line">            for ( int i &#x3D; 0; i &lt; outlen; i++ ) &#123;</span><br><span class="line">                if ( outbuf[i] &#x3D;&#x3D; 0 ) &#123;</span><br><span class="line">                    if ( idxFirstZero &lt; 0 ) &#123;</span><br><span class="line">                        idxFirstZero &#x3D; i;</span><br><span class="line">                    &#125; else &#123;</span><br><span class="line">                        idxNextZero &#x3D; i;</span><br><span class="line">                        break;</span><br><span class="line">                    &#125;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            </span><br><span class="line">            [ret appendBytes:&amp;outbuf[idxFirstZero+1] length:idxNextZero-idxFirstZero-1];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    </span><br><span class="line">    free(outbuf);</span><br><span class="line">    CFRelease(keyRef);</span><br><span class="line">    return ret;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">&#x2F;* END: Decryption with RSA private key *&#x2F;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+
+<p>测试代码（ViewController.m）：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">#import &quot;ViewController.h&quot;</span><br><span class="line">#import &quot;RSAEncryptor.h&quot;</span><br><span class="line"></span><br><span class="line">@interface ViewController ()</span><br><span class="line"></span><br><span class="line">@end</span><br><span class="line"></span><br><span class="line">@implementation ViewController</span><br><span class="line"></span><br><span class="line">- (void)viewDidLoad &#123;</span><br><span class="line">    [super viewDidLoad];</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;原始字符串</span><br><span class="line">    NSString *originalString &#x3D; @&quot;aabbcc123我的&quot;;</span><br><span class="line">    NSString *public_key_path &#x3D; [[NSBundle mainBundle] pathForResource:@&quot;public_key-IOS.der&quot; ofType:nil];</span><br><span class="line">    NSString *private_key_path &#x3D; [[NSBundle mainBundle] pathForResource:@&quot;private_key-IOS.p12&quot; ofType:nil];</span><br><span class="line">    </span><br><span class="line">    NSLog(@&quot;原始字符串:%@\n&quot;, originalString);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;使用公钥加密</span><br><span class="line">    NSString *encryptStr &#x3D; [RSAEncryptor encryptString:originalString publicKeyWithContentsOfFile:public_key_path];</span><br><span class="line">    NSLog(@&quot;使用公钥加密后:%@\n&quot;, encryptStr);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;使用私钥解密</span><br><span class="line">    NSLog(@&quot;使用私钥解密后:%@\n\n&quot;, [RSAEncryptor decryptString:encryptStr privateKeyWithContentsOfFile:private_key_path password:@&quot;sirenbang&quot;]);</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;通过java代码使用公钥加密后的字符串</span><br><span class="line">    NSString * encryptedStrByJavaWithPublicKey &#x3D; @&quot;aDuXxkcEK4RZqt47GRM33Op77pFZMgb7VmVrlcWPO5jQMAIkE+7RS2zXNPX4uSwXafAFYG4y99vOwrgl8J5IMDo&#x2F;7uvQtilb66z2oCUfXfWyXAt2gkJue4nJkcjiTKvNGUj4t3672pbo3DyGwGvY&#x2F;2F1Ydc76Wwo96DN&#x2F;rlkt5E&#x3D;&quot;;</span><br><span class="line">    </span><br><span class="line">    &#x2F;&#x2F;解密java语言使用公钥加密后的字符串</span><br><span class="line">    NSLog(@&quot;java语言使用公钥加密后:%@\n&quot;, encryptedStrByJavaWithPublicKey);</span><br><span class="line">    NSLog(@&quot;解密后的字符串:%@&quot;, [RSAEncryptor decryptString:encryptedStrByJavaWithPublicKey privateKeyWithContentsOfFile:private_key_path password:@&quot;sirenbang&quot;]);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">- (void)didReceiveMemoryWarning &#123;</span><br><span class="line">    [super didReceiveMemoryWarning];</span><br><span class="line">    &#x2F;&#x2F; Dispose of any resources that can be recreated.</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">@end</span><br></pre></td></tr></table></figure>
+<p>IOS代码运行结果：</p>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/1548745689483.jpg" alt="IOS代码运行结果"></p>
+<h3 id="Python代码"><a href="#Python代码" class="headerlink" title="Python代码"></a>Python代码</h3><p>python代码没有验证过，但应该没啥问题</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><span class="line">import rsa</span><br><span class="line">import base64</span><br><span class="line"></span><br><span class="line"># 导入key</span><br><span class="line">with open(&#39;py_public_key.pem&#39;) as publickfile:</span><br><span class="line">    p &#x3D; publickfile.read()</span><br><span class="line">    pubkey &#x3D; rsa.PublicKey.load_pkcs1(p)</span><br><span class="line"></span><br><span class="line">with open(&#39;private_key.pem&#39;) as privatefile:</span><br><span class="line">    p &#x3D; privatefile.read()</span><br><span class="line">    privkey &#x3D; rsa.PrivateKey.load_pkcs1(p)</span><br><span class="line"></span><br><span class="line">bob_pub &#x3D; pubkey</span><br><span class="line">bob_priv &#x3D; privkey</span><br><span class="line"></span><br><span class="line">message &#x3D; &quot;&quot;&quot;&#123;&quot;id&quot;: &quot;49187f817657ecd9d472562b16c0ec7c&quot;,&quot;ip&quot;: &quot;180.168.161.194&quot;,&quot;user-agent&quot;: &quot;iOS8.1 iPhone 5s&quot;,&quot;ts&quot;: &quot;1478879016008&quot;,&quot;channel&quot;: &quot;iOS&quot;&#125;&quot;&quot;&quot;</span><br><span class="line"></span><br><span class="line"># 数据分割函数</span><br><span class="line">def format_str(string, width):</span><br><span class="line">    format_list &#x3D; [string[x:x+width] for x in range(0,len(string),width)]</span><br><span class="line">    return format_list</span><br><span class="line"># 按大小分割数据</span><br><span class="line">str_list &#x3D; format_str(message,117)</span><br><span class="line"></span><br><span class="line"># 加密</span><br><span class="line">data_list &#x3D; []</span><br><span class="line">for _str in str_list:</span><br><span class="line">    data_list.append(base64.encodestring(rsa.encrypt(_str, bob_pub)))</span><br><span class="line"></span><br><span class="line"># 解密</span><br><span class="line">_data_list &#x3D; []</span><br><span class="line">for data in data_list.append:</span><br><span class="line">    _data_list.append(rsa.decrypt(base64.decodestring(data), bob_priv))</span><br><span class="line"></span><br><span class="line">_message &#x3D; &quot;&quot;.join(_data_list.append)</span><br><span class="line">print _message</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div>坚持原创技术分享，感谢您的支持和鼓励！</div>
+  <button disable="enable" onclick="var qr = document.getElementById(&quot;qr&quot;); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wechatpay.jpeg" alt="Java技术杂烩 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div style="display: inline-block;">
+        <img src="/images/alipay.jpeg" alt="Java技术杂烩 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E9%9D%9E%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86/" rel="tag"># 非对称加密</a>
+              <a href="/tags/RSA/" rel="tag"># RSA</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/%E7%AE%80%E6%98%93%E7%89%88%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83&%E5%88%9D%E6%8E%A2%E5%8E%9F%E7%90%86.html" rel="prev" title="简易版配置中心&原理窥探">
+      <i class="fa fa-chevron-left"></i> 简易版配置中心&原理窥探
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/Thread_ExecutorService_ThreadPoolExecutor.html" rel="next" title="Thread & ExecutorService & ThreadPoolExecutor 总览">
+      Thread & ExecutorService & ThreadPoolExecutor 总览 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+  </div>
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let activeClass = CONFIG.comments.activeClass;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#生成相关文件"><span class="nav-number">1.</span> <span class="nav-text">生成相关文件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#代码"><span class="nav-number">2.</span> <span class="nav-text">代码</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#JAVA代码"><span class="nav-number">2.1.</span> <span class="nav-text">JAVA代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#IOS代码"><span class="nav-number">2.2.</span> <span class="nav-text">IOS代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Python代码"><span class="nav-number">2.3.</span> <span class="nav-text">Python代码</span></a></li></ol></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Java技术杂烩</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">16</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">54</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/rocky-peng" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;rocky-peng" rel="noopener" target="_blank"><i class="fa fa-fw fa-github"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:rocky.peng@qq.com" title="E-Mail → mailto:rocky.peng@qq.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+<div class="copyright">
+  
+  &copy; 2015 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Java技术杂烩</span>
+</div>
+  <div class="theme-info">主题 – <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v7.7.0
+  </div>
+
+
+
+   <br/>
+   <script>
+   var _hmt = _hmt || [];
+   (function() {
+     var hm = document.createElement("script");
+     hm.src = "https://hm.baidu.com/hm.js?9734b723ff50f15179d39682ca1e8920";
+     var s = document.getElementsByTagName("script")[0];
+     s.parentNode.insertBefore(hm, s);
+   })();
+   </script>
+   <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1278584828'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/z_stat.php%3Fid%3D1278584828%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+
+
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+<script>
+(function(){
+var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+<script src="/js/bookmark.js"></script>
+
+
+
+
+  
+  <script>
+    (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      bp.src = (curProtocol === 'https') ? 'https://zz.bdstatic.com/linksubmit/push.js' : 'http://push.zhanzhang.baidu.com/push.js';
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+    })();
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el: '#valine-comments',
+      verify: false,
+      notify: false,
+      appId: 'nEGHeaqWsU1pYa1aSBYc4ODz-gzGzoHsz',
+      appKey: 'spRY5aPsw5dhQsvkXqVK1m8e',
+      placeholder: "砸鸡蛋还是点个赞呀😏",
+      avatar: 'wavatar',
+      meta: guest,
+      pageSize: '10' || 10,
+      visitor: false,
+      lang: 'zh-cn' || 'zh-cn',
+      path: location.pathname,
+      recordIP: true,
+      serverURLs: ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
