@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.qseasy.cn/NGINX.html</loc>
+    <loc>http://blog.qseasy.cn/%E4%BD%8E%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BAVPN%E7%9A%84%E5%8A%9E%E6%B3%95.html</loc>
+    
+    <lastmod>2020-01-21T01:38:52.741Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.qseasy.cn/NGINX%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E9%85%8D%E7%BD%AE.html</loc>
     
     <lastmod>2020-01-21T01:34:28.617Z</lastmod>
     
@@ -26,13 +33,6 @@
     <loc>http://blog.qseasy.cn/Oh%20My%20ZSH.html</loc>
     
     <lastmod>2020-01-21T01:29:51.606Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.qseasy.cn/Shadowsock%20Server%E9%85%8D%E7%BD%AE.html</loc>
-    
-    <lastmod>2020-01-21T01:26:52.439Z</lastmod>
     
   </url>
   

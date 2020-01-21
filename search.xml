@@ -133,36 +133,6 @@
       </tags>
   </entry>
   <entry>
-    <title>NGINX负载均衡配置</title>
-    <url>/NGINX.html</url>
-    <content><![CDATA[<h2 id="感性体验下负载均衡配置"><a href="#感性体验下负载均衡配置" class="headerlink" title="感性体验下负载均衡配置"></a>感性体验下负载均衡配置</h2><ol>
-<li><p>本地启动两个jetty</p>
-<p> 要达到的效果：通过nginx开启80端口，在浏览通过localhost来访问jetttyA 和 jettyB 提供的服务。</p>
-</li>
-</ol>
-<pre><code><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">jettyA   localhsot:6000    首页输出:6000</span><br><span class="line">jettyB   localhsot:7000    首页输出:7000</span><br></pre></td></tr></table></figure></code></pre><ol start="2">
-<li>进入nginx配置文件目录 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd &#x2F;etc&#x2F;nginx</span><br></pre></td></tr></table></figure>
-
-</li>
-</ol>
-<p><img src="http://img.leyongzuche.com/xiaoshujiang/WeChatad950e5ad0c63b5869efc740570cfa47.png" alt=""></p>
-<ol start="3">
-<li>修改 nginx.conf <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在http节点下新增如下配置：</span><br><span class="line"></span><br><span class="line">upstream lyzc &#123;</span><br><span class="line">         ip_hash;</span><br><span class="line">         server localhost:6000;</span><br><span class="line">         server localhost:7000;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line"> 这个配置即为负载均衡的配置，但现在还没有使用。</span><br><span class="line"> </span><br><span class="line"> lyzc ：对集群的命名，可以为域名，名称自己确定</span><br><span class="line"> ip_hash :  负载均衡算法，可以不写（不写的情况默认为轮询算法）</span><br><span class="line"> server : 配置提供服务的机器节点信息，可以任意多个</span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> 然后在server节点下，修改或添加location的配置如下：</span><br><span class="line"> </span><br><span class="line"> location &#x2F; &#123;</span><br><span class="line">             proxy_pass http:&#x2F;&#x2F;lyzc;</span><br><span class="line">     &#125;</span><br></pre></td></tr></table></figure>
-
-</li>
-</ol>
-<h2 id="安装nginx"><a href="#安装nginx" class="headerlink" title="安装nginx"></a>安装nginx</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install nginx</span><br><span class="line"></span><br><span class="line">配置文件在  &#x2F;etc&#x2F;nginx目录</span><br><span class="line"></span><br><span class="line">cd &#x2F;etc&#x2F;nginx</span><br><span class="line"></span><br><span class="line">cp nginx.conf  nginx.conf.bak</span><br><span class="line"></span><br><span class="line">修改 nginx.conf 文件：参考其他配置</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>nginx</tag>
-        <tag>负载均衡</tag>
-        <tag>ip_hash</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Oh My ZSH的安装</title>
     <url>/Oh%20My%20ZSH.html</url>
     <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install git</span><br><span class="line"></span><br><span class="line">yum install zsh</span><br><span class="line"></span><br><span class="line">sh -c &quot;$(curl -fsSL https:&#x2F;&#x2F;raw.github.com&#x2F;robbyrussell&#x2F;oh-my-zsh&#x2F;master&#x2F;tools&#x2F;install.sh)&quot;</span><br><span class="line"></span><br><span class="line">centos7修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;hostname        重启</span><br><span class="line"></span><br><span class="line">----</span><br><span class="line"></span><br><span class="line">centos6修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;sysconfig&#x2F;network  </span><br><span class="line">添加一行：</span><br><span class="line">HOSTNAME&#x3D;您的主机名</span><br></pre></td></tr></table></figure>
@@ -181,22 +151,6 @@
         <tag>oh my zsh</tag>
         <tag>git</tag>
         <tag>centos</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>搭建vpn的办法</title>
-    <url>/Shadowsock%20Server%E9%85%8D%E7%BD%AE.html</url>
-    <content><![CDATA[<p>其实方法很简单：</p>
-<p>腾讯云-&gt;竞价实例-&gt;中国香港-&gt;流量计费(100M) ，两三个小时才几毛钱</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip </span><br><span class="line"></span><br><span class="line">pip install shadowsocks</span><br><span class="line"></span><br><span class="line">sudo mkdir &#x2F;etc&#x2F;shadowsocks</span><br><span class="line"></span><br><span class="line">sudo vi &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json</span><br><span class="line"></span><br><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;0.0.0.0&quot;,</span><br><span class="line">    &quot;server_port&quot;:12345,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;123456789WAXqsz&quot;,</span><br><span class="line">    &quot;timeout&quot;:1200,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: true,</span><br><span class="line">    &quot;workers&quot;:3</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d start</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d stop</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>腾讯云</tag>
-        <tag>vpn</tag>
-        <tag>几毛钱</tag>
       </tags>
   </entry>
   <entry>
@@ -568,6 +522,52 @@
       <tags>
         <tag>非对称加密</tag>
         <tag>RSA</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>低成本搭建VPN的办法</title>
+    <url>/%E4%BD%8E%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BAVPN%E7%9A%84%E5%8A%9E%E6%B3%95.html</url>
+    <content><![CDATA[<p>其实方法很简单：</p>
+<p>腾讯云-&gt;竞价实例-&gt;中国香港-&gt;流量计费(100M) ，两三个小时才几毛钱</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip </span><br><span class="line"></span><br><span class="line">pip install shadowsocks</span><br><span class="line"></span><br><span class="line">sudo mkdir &#x2F;etc&#x2F;shadowsocks</span><br><span class="line"></span><br><span class="line">sudo vi &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json</span><br><span class="line"></span><br><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;0.0.0.0&quot;,</span><br><span class="line">    &quot;server_port&quot;:12345,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;123456789WAXqsz&quot;,</span><br><span class="line">    &quot;timeout&quot;:1200,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: true,</span><br><span class="line">    &quot;workers&quot;:3</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d start</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d stop</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>腾讯云</tag>
+        <tag>vpn</tag>
+        <tag>几毛钱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>NGINX负载均衡配置</title>
+    <url>/NGINX%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E9%85%8D%E7%BD%AE.html</url>
+    <content><![CDATA[<h2 id="感性体验下负载均衡配置"><a href="#感性体验下负载均衡配置" class="headerlink" title="感性体验下负载均衡配置"></a>感性体验下负载均衡配置</h2><ol>
+<li><p>本地启动两个jetty</p>
+<p> 要达到的效果：通过nginx开启80端口，在浏览通过localhost来访问jetttyA 和 jettyB 提供的服务。</p>
+</li>
+</ol>
+<pre><code><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">jettyA   localhsot:6000    首页输出:6000</span><br><span class="line">jettyB   localhsot:7000    首页输出:7000</span><br></pre></td></tr></table></figure></code></pre><ol start="2">
+<li>进入nginx配置文件目录 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd &#x2F;etc&#x2F;nginx</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<p><img src="http://img.leyongzuche.com/xiaoshujiang/WeChatad950e5ad0c63b5869efc740570cfa47.png" alt=""></p>
+<ol start="3">
+<li>修改 nginx.conf <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">在http节点下新增如下配置：</span><br><span class="line"></span><br><span class="line">upstream lyzc &#123;</span><br><span class="line">         ip_hash;</span><br><span class="line">         server localhost:6000;</span><br><span class="line">         server localhost:7000;</span><br><span class="line">    &#125;</span><br><span class="line"> </span><br><span class="line"> 这个配置即为负载均衡的配置，但现在还没有使用。</span><br><span class="line"> </span><br><span class="line"> lyzc ：对集群的命名，可以为域名，名称自己确定</span><br><span class="line"> ip_hash :  负载均衡算法，可以不写（不写的情况默认为轮询算法）</span><br><span class="line"> server : 配置提供服务的机器节点信息，可以任意多个</span><br><span class="line"> </span><br><span class="line"> </span><br><span class="line"> 然后在server节点下，修改或添加location的配置如下：</span><br><span class="line"> </span><br><span class="line"> location &#x2F; &#123;</span><br><span class="line">             proxy_pass http:&#x2F;&#x2F;lyzc;</span><br><span class="line">     &#125;</span><br></pre></td></tr></table></figure>
+
+</li>
+</ol>
+<h2 id="安装nginx"><a href="#安装nginx" class="headerlink" title="安装nginx"></a>安装nginx</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install nginx</span><br><span class="line"></span><br><span class="line">配置文件在  &#x2F;etc&#x2F;nginx目录</span><br><span class="line"></span><br><span class="line">cd &#x2F;etc&#x2F;nginx</span><br><span class="line"></span><br><span class="line">cp nginx.conf  nginx.conf.bak</span><br><span class="line"></span><br><span class="line">修改 nginx.conf 文件：参考其他配置</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>nginx</tag>
+        <tag>负载均衡</tag>
+        <tag>ip_hash</tag>
       </tags>
   </entry>
   <entry>
