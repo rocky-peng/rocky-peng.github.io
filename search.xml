@@ -142,29 +142,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Oh My ZSH的安装</title>
-    <url>/Oh%20My%20ZSH.html</url>
-    <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install git</span><br><span class="line"></span><br><span class="line">yum install zsh</span><br><span class="line"></span><br><span class="line">sh -c &quot;$(curl -fsSL https:&#x2F;&#x2F;raw.github.com&#x2F;robbyrussell&#x2F;oh-my-zsh&#x2F;master&#x2F;tools&#x2F;install.sh)&quot;</span><br><span class="line"></span><br><span class="line">centos7修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;hostname        重启</span><br><span class="line"></span><br><span class="line">----</span><br><span class="line"></span><br><span class="line">centos6修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;sysconfig&#x2F;network  </span><br><span class="line">添加一行：</span><br><span class="line">HOSTNAME&#x3D;您的主机名</span><br></pre></td></tr></table></figure>
-
-<a id="more"></a>
-
-<h2 id="更改"><a href="#更改" class="headerlink" title="更改"></a>更改</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd ~&#x2F;.oh-my-zsh&#x2F;themes</span><br><span class="line"></span><br><span class="line">echo $ZSH_THEME          &#x2F;&#x2F;输出 : robbyrussell</span><br><span class="line"></span><br><span class="line">cp robbyrussell.zsh-theme myrobbyrussell.zsh-theme</span><br><span class="line"></span><br><span class="line">vim myrobbyrussell.zsh-theme</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; 修改PROMPT的值为：</span><br><span class="line">PROMPT&#x3D;&#39;%&#123;$fg[green]%&#125;%m@%&#123;$fg[magenta]%&#125;%(?..%?%1v)%n:%&#123;$reset_color%&#125;%&#123;$fg[cyan]%&#125;%~# &#39;</span><br><span class="line"></span><br><span class="line">保存退出</span><br><span class="line"></span><br><span class="line">修改~&#x2F;.zshrc文件中ZSH_THEME的值myrobbyrussell</span><br></pre></td></tr></table></figure>
-
-
-
-<h1 id="安装JDK"><a href="#安装JDK" class="headerlink" title="安装JDK"></a>安装JDK</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">修改 ~&#x2F;.zshrc文件，在末尾处添加：</span><br><span class="line"></span><br><span class="line">export JAVA_8_HOME&#x3D;&#x2F;jdk1.8.0_181</span><br><span class="line"></span><br><span class="line">alias jdk8&#x3D;&#39;export JAVA_HOME&#x3D;$JAVA_8_HOME&#39;</span><br><span class="line">export JAVA_HOME&#x3D;$JAVA_8_HOME</span><br><span class="line">export CLASSPATH&#x3D;.:$JAVA_HOME&#x2F;lib:$JAVA_HOME&#x2F;jre&#x2F;lib</span><br><span class="line"></span><br><span class="line">export PATH&#x3D;$JAVA_HOME&#x2F;bin:$PATH</span><br><span class="line"></span><br><span class="line">保存退出，执行：</span><br><span class="line"></span><br><span class="line">source ~&#x2F;.zshrc</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>zsh</tag>
-        <tag>oh my zsh</tag>
-        <tag>git</tag>
-        <tag>centos</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Cordova+Umi项目搭建步骤</title>
     <url>/Cordova+Umi%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4.html</url>
     <content><![CDATA[<h2 id="项目搭建"><a href="#项目搭建" class="headerlink" title="项目搭建"></a>项目搭建</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># 创建 cordova 项目： cordova-demo</span><br><span class="line">cordova create cordova-demo com.example.hello CordovaDemo</span><br><span class="line"># 上面的命令会自动创建 cordova-demo 目录</span><br><span class="line"></span><br><span class="line"># 开始创建umi项目</span><br><span class="line">cd cordova-demo</span><br><span class="line">mkdir myapp-a &amp;&amp; cd myapp-a</span><br><span class="line">yarn create umi</span><br><span class="line"></span><br><span class="line"># 选择app</span><br><span class="line"># 不启用typescript</span><br><span class="line"># 勾选antd dva</span><br><span class="line"># 回车</span><br><span class="line"></span><br><span class="line"># 执行完后，执行</span><br><span class="line"></span><br><span class="line">yarn or npm install</span><br><span class="line"></span><br><span class="line"># 修改 .umirc.js 在 export default &#123; 中添加下面三行代码</span><br><span class="line">  outputPath: &#39;..&#x2F;www&#x2F;&#39;,</span><br><span class="line">  publicPath: &#39;.&#x2F;&#39;,</span><br><span class="line">  history: &#39;hash&#39;,</span><br><span class="line"></span><br><span class="line"># 然后执行</span><br><span class="line">npm run build</span><br><span class="line"></span><br><span class="line"># 上面执行完后，会将 cordova-demo 目录中原有的www目录给删掉，然后重新创建www目录，存放的是umi项目的打包后的文件</span><br><span class="line"></span><br><span class="line"># 这个时候返回cordova-demo目录</span><br><span class="line">cd ..</span><br><span class="line"></span><br><span class="line"># 测试 cordova android</span><br><span class="line"></span><br><span class="line">cordova platform add android</span><br><span class="line">cordova build android</span><br><span class="line"></span><br><span class="line"># 添加 .gitignore 文件</span><br><span class="line"></span><br><span class="line">在 cordova-demo 创建 .gitignore 文件，内容如下：</span><br><span class="line"></span><br><span class="line">.idea</span><br><span class="line">node_modules</span><br><span class="line">plugins</span><br><span class="line">platforms</span><br><span class="line">www</span><br><span class="line"></span><br><span class="line">在 myapp-a 创建 .gitignore 文件，内容如下：</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"># dependencies</span><br><span class="line">&#x2F;node_modules</span><br><span class="line">&#x2F;npm-debug.log*</span><br><span class="line">&#x2F;yarn-error.log</span><br><span class="line">&#x2F;yarn.lock</span><br><span class="line">&#x2F;package-lock.json</span><br><span class="line"></span><br><span class="line"># production</span><br><span class="line">&#x2F;dist</span><br><span class="line"></span><br><span class="line"># misc</span><br><span class="line">.DS_Store</span><br><span class="line"></span><br><span class="line"># umi</span><br><span class="line">.umi</span><br><span class="line">.umi-production</span><br><span class="line"></span><br><span class="line">结束</span><br></pre></td></tr></table></figure>
@@ -183,42 +160,6 @@
         <tag>umi</tag>
         <tag>android</tag>
         <tag>ios</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PasteImageIntoMarkdown插件开发记录</title>
-    <url>/PasteImageIntoMarkdown%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.html</url>
-    <content><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>由于这段时间需要经常使用markdown写一些文档，<br>本来之前用过其他软件，但是总有点不是那么顺手。于是开始尝试使用idea写，写完后可以很方便的提交到仓库。<br>于是找了半天找到了插件叫Paste Image Into Markdown. 但这个插件只能支持吧图片保存到一个相对路径，<br>于是接着网上搜索，也找到一个能把图片上传到七牛云的，但貌似很久没维护现在已经不能用了，于是干脆自己动手了。</p>
-<p>写完后我找到了Paste Image Into Markdown插件的github仓库，本想提交上去，但提交上去后，仓库作者迟迟即不<br>接受也不拒绝，回复我说那个仓库是他的一个爱好，让我耐心等，于是干脆自己上传了。</p>
-<a id="more"></a>
-
-<h2 id="功能增强"><a href="#功能增强" class="headerlink" title="功能增强"></a>功能增强</h2><p>在那个仓库的基础上我进行了一些功能修改，主要有以下几点：</p>
-<ol>
-<li>支持把图片上传到七牛云（原仓库不支持）</li>
-<li>支持把图片保存到工程相对路径（原仓库也有，做了一些修改）</li>
-<li>支持一次性粘贴多张磁盘图片，包括gif图片（原仓库支持粘贴单张磁盘图片样，但有bug）</li>
-<li>把设置选项统一集成在了idea的设置里</li>
-</ol>
-<p>下面有时间要做的是支持：</p>
-<ol>
-<li>阿里云存储</li>
-<li>腾讯云存储</li>
-</ol>
-<h2 id="插件名称"><a href="#插件名称" class="headerlink" title="插件名称"></a>插件名称</h2><p>新的插件名称和原插件名称一幕一样，只是没有空格(😂)，叫：PasteImageIntoMarkdown </p>
-<p><img src="http://img.ljd.leyongleshi.com/markdown/184418301430157.png" alt=""></p>
-<h2 id="插件仓库"><a href="#插件仓库" class="headerlink" title="插件仓库"></a>插件仓库</h2><p>github: <a href="https://github.com/rocky-peng/PasteImageToMarkdown/" target="_blank" rel="noopener">https://github.com/rocky-peng/PasteImageToMarkdown</a></p>
-<p>欢迎各位大佬吐槽</p>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>idea plugin</tag>
-        <tag>markdown</tag>
-        <tag>图片</tag>
-        <tag>七牛</tag>
-        <tag>腾讯云</tag>
-        <tag>阿里云</tag>
       </tags>
   </entry>
   <entry>
@@ -297,44 +238,6 @@
       </tags>
   </entry>
   <entry>
-    <title>SpringCloud总体认识</title>
-    <url>/SpringCloud%E6%80%BB%E4%BD%93%E8%AE%A4%E8%AF%86.html</url>
-    <content><![CDATA[<p>spring cloud 是微服务分布式部署的一套解决方案。它涵盖了很多组件，比如配置中心、服务发现注册、负载均衡、阻断器、消息总线、数据监控等，这些组件都是为微服务分布式部署中几乎都会遇到的问题。</p>
-<p>微服务：通俗的讲就是功能相关的的一个集合作为一个服务单独进行部署，那么很多个这样的集合就构成了微服务。用专业一点的俗语讲就是把满足    srp(single_responsibility_principle)原则的的服务。<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567652226572.png" alt=""></p>
-<h2 id="Spring-Cloud与Dubbo的区别"><a href="#Spring-Cloud与Dubbo的区别" class="headerlink" title="Spring Cloud与Dubbo的区别"></a>Spring Cloud与Dubbo的区别</h2><ol>
-<li>微服务涵盖范围不同：dubbo专注于服务治理，只涵盖了微服务架构的某些方面。而spring cloud涵盖了微服务架构的方方面面。</li>
-</ol>
-<a id="more"></a>
-
-<ol start="2">
-<li>服务调用方式不同：spring cloud基于http协议进行调用，dubbo基于tcp协议调用，所以dubbo在代码上调用方和服务方依赖性强<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567651256882.png" alt=""></li>
-</ol>
-<h2 id="Eureka（服务发现注册中心）"><a href="#Eureka（服务发现注册中心）" class="headerlink" title="Eureka（服务发现注册中心）"></a>Eureka（服务发现注册中心）</h2><p>和zookeeper / consul 类似</p>
-<h2 id="Hystrix（熔断器）"><a href="#Hystrix（熔断器）" class="headerlink" title="Hystrix（熔断器）"></a>Hystrix（熔断器）</h2><p>Hystrix 会在某个服务连续调用 N 次不响应的情况下，立即通知调用端调用失败，避免调用端持续等待而影响了整体服务。Hystrix 间隔时间会再次检查此服务，如果服务恢复将继续提供服务。<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567657974409.png" alt=""><br>熔断监控工具：<br>Hystrix Dashbord和Turbine。 turbine用于各个在微服务中收集熔断数据， hystrix dashbord则用于展示这些数据。显示效果如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567651457335.png" alt=""></p>
-<h2 id="Spring-Cloud-Config（配置中心）"><a href="#Spring-Cloud-Config（配置中心）" class="headerlink" title="Spring Cloud Config（配置中心）"></a>Spring Cloud Config（配置中心）</h2><p>配置的集中化管理，当配置在服务运行期间发生改变的时候可以通过refresh功能刷新配置。生产环境建议配置中心集群化部署已保证其高可用性。</p>
-<h2 id="Spring-Cloud-Bus-通讯组件"><a href="#Spring-Cloud-Bus-通讯组件" class="headerlink" title="Spring Cloud Bus (通讯组件)"></a>Spring Cloud Bus (通讯组件)</h2><p>通过spring cloud bus可以连接各个微服务节点，当需要给多个或者所有服务节点发送某个信息的时候，即可通过spring cloud bus来完成。</p>
-<p>比如：当某个配置发生改变后，需要通知对应的服务实例刷新配置，这个时候可以通过sprIng cloud bus来完成。其工作原理如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567650883117.png" alt=""></p>
-<h2 id="Spring-Cloud-Zuul-（服务网关）"><a href="#Spring-Cloud-Zuul-（服务网关）" class="headerlink" title="Spring Cloud Zuul （服务网关）"></a>Spring Cloud Zuul （服务网关）</h2><p><img src="http://img.leyongzuche.com/xiaoshujiang/1567651695489.png" alt=""></p>
-<p>请求转发，感觉有点类似nginx的角色</p>
-<h2 id="Spring-Cloud-Sleuth-（链路跟踪）"><a href="#Spring-Cloud-Sleuth-（链路跟踪）" class="headerlink" title="Spring Cloud Sleuth （链路跟踪）"></a>Spring Cloud Sleuth （链路跟踪）</h2><p>分布式链路跟踪需要 Sleuth+Zipkin 结合来实现。</p>
-<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><blockquote>
-<p><a href="https://windmt.com/2018/04/14/spring-cloud-0-microservices/" target="_blank" rel="noopener">Spring Cloud（零）：微服务的那些事儿</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>java</tag>
-        <tag>spring cloud</tag>
-        <tag>dubbo</tag>
-        <tag>euerka</tag>
-        <tag>hystrix</tag>
-        <tag>zuul</tag>
-        <tag>zookeeper</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>NGINX负载均衡配置</title>
     <url>/NGINX%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E9%85%8D%E7%BD%AE.html</url>
     <content><![CDATA[<h2 id="感性体验下负载均衡配置"><a href="#感性体验下负载均衡配置" class="headerlink" title="感性体验下负载均衡配置"></a>感性体验下负载均衡配置</h2><ol>
@@ -364,6 +267,65 @@
         <tag>nginx</tag>
         <tag>负载均衡</tag>
         <tag>ip_hash</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Oh My ZSH的安装</title>
+    <url>/Oh%20My%20ZSH.html</url>
+    <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install git</span><br><span class="line"></span><br><span class="line">yum install zsh</span><br><span class="line"></span><br><span class="line">sh -c &quot;$(curl -fsSL https:&#x2F;&#x2F;raw.github.com&#x2F;robbyrussell&#x2F;oh-my-zsh&#x2F;master&#x2F;tools&#x2F;install.sh)&quot;</span><br><span class="line"></span><br><span class="line">centos7修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;hostname        重启</span><br><span class="line"></span><br><span class="line">----</span><br><span class="line"></span><br><span class="line">centos6修改主机名</span><br><span class="line">vim &#x2F;etc&#x2F;sysconfig&#x2F;network  </span><br><span class="line">添加一行：</span><br><span class="line">HOSTNAME&#x3D;您的主机名</span><br></pre></td></tr></table></figure>
+
+<a id="more"></a>
+
+<h2 id="更改"><a href="#更改" class="headerlink" title="更改"></a>更改</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd ~&#x2F;.oh-my-zsh&#x2F;themes</span><br><span class="line"></span><br><span class="line">echo $ZSH_THEME          &#x2F;&#x2F;输出 : robbyrussell</span><br><span class="line"></span><br><span class="line">cp robbyrussell.zsh-theme myrobbyrussell.zsh-theme</span><br><span class="line"></span><br><span class="line">vim myrobbyrussell.zsh-theme</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; 修改PROMPT的值为：</span><br><span class="line">PROMPT&#x3D;&#39;%&#123;$fg[green]%&#125;%m@%&#123;$fg[magenta]%&#125;%(?..%?%1v)%n:%&#123;$reset_color%&#125;%&#123;$fg[cyan]%&#125;%~# &#39;</span><br><span class="line"></span><br><span class="line">保存退出</span><br><span class="line"></span><br><span class="line">修改~&#x2F;.zshrc文件中ZSH_THEME的值myrobbyrussell</span><br></pre></td></tr></table></figure>
+
+
+
+<h1 id="安装JDK"><a href="#安装JDK" class="headerlink" title="安装JDK"></a>安装JDK</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">修改 ~&#x2F;.zshrc文件，在末尾处添加：</span><br><span class="line"></span><br><span class="line">export JAVA_8_HOME&#x3D;&#x2F;jdk1.8.0_181</span><br><span class="line"></span><br><span class="line">alias jdk8&#x3D;&#39;export JAVA_HOME&#x3D;$JAVA_8_HOME&#39;</span><br><span class="line">export JAVA_HOME&#x3D;$JAVA_8_HOME</span><br><span class="line">export CLASSPATH&#x3D;.:$JAVA_HOME&#x2F;lib:$JAVA_HOME&#x2F;jre&#x2F;lib</span><br><span class="line"></span><br><span class="line">export PATH&#x3D;$JAVA_HOME&#x2F;bin:$PATH</span><br><span class="line"></span><br><span class="line">保存退出，执行：</span><br><span class="line"></span><br><span class="line">source ~&#x2F;.zshrc</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>zsh</tag>
+        <tag>oh my zsh</tag>
+        <tag>git</tag>
+        <tag>centos</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PasteImageIntoMarkdown插件开发记录</title>
+    <url>/PasteImageIntoMarkdown%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.html</url>
+    <content><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>由于这段时间需要经常使用markdown写一些文档，<br>本来之前用过其他软件，但是总有点不是那么顺手。于是开始尝试使用idea写，写完后可以很方便的提交到仓库。<br>于是找了半天找到了插件叫Paste Image Into Markdown. 但这个插件只能支持吧图片保存到一个相对路径，<br>于是接着网上搜索，也找到一个能把图片上传到七牛云的，但貌似很久没维护现在已经不能用了，于是干脆自己动手了。</p>
+<p>写完后我找到了Paste Image Into Markdown插件的github仓库，本想提交上去，但提交上去后，仓库作者迟迟即不<br>接受也不拒绝，回复我说那个仓库是他的一个爱好，让我耐心等，于是干脆自己上传了。</p>
+<a id="more"></a>
+
+<h2 id="功能增强"><a href="#功能增强" class="headerlink" title="功能增强"></a>功能增强</h2><p>在那个仓库的基础上我进行了一些功能修改，主要有以下几点：</p>
+<ol>
+<li>支持把图片上传到七牛云（原仓库不支持）</li>
+<li>支持把图片保存到工程相对路径（原仓库也有，做了一些修改）</li>
+<li>支持一次性粘贴多张磁盘图片，包括gif图片（原仓库支持粘贴单张磁盘图片样，但有bug）</li>
+<li>把设置选项统一集成在了idea的设置里</li>
+</ol>
+<p>下面有时间要做的是支持：</p>
+<ol>
+<li>阿里云存储</li>
+<li>腾讯云存储</li>
+</ol>
+<h2 id="插件名称"><a href="#插件名称" class="headerlink" title="插件名称"></a>插件名称</h2><p>新的插件名称和原插件名称一幕一样，只是没有空格(😂)，叫：PasteImageIntoMarkdown </p>
+<p><img src="http://img.ljd.leyongleshi.com/markdown/184418301430157.png" alt=""></p>
+<h2 id="插件仓库"><a href="#插件仓库" class="headerlink" title="插件仓库"></a>插件仓库</h2><p>github: <a href="https://github.com/rocky-peng/PasteImageToMarkdown/" target="_blank" rel="noopener">https://github.com/rocky-peng/PasteImageToMarkdown</a></p>
+<p>欢迎各位大佬吐槽</p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>idea plugin</tag>
+        <tag>markdown</tag>
+        <tag>图片</tag>
+        <tag>七牛</tag>
+        <tag>腾讯云</tag>
+        <tag>阿里云</tag>
       </tags>
   </entry>
   <entry>
@@ -453,6 +415,60 @@
       </tags>
   </entry>
   <entry>
+    <title>SpringCloud总体认识</title>
+    <url>/SpringCloud%E6%80%BB%E4%BD%93%E8%AE%A4%E8%AF%86.html</url>
+    <content><![CDATA[<p>spring cloud 是微服务分布式部署的一套解决方案。它涵盖了很多组件，比如配置中心、服务发现注册、负载均衡、阻断器、消息总线、数据监控等，这些组件都是为微服务分布式部署中几乎都会遇到的问题。</p>
+<p>微服务：通俗的讲就是功能相关的的一个集合作为一个服务单独进行部署，那么很多个这样的集合就构成了微服务。用专业一点的俗语讲就是把满足    srp(single_responsibility_principle)原则的的服务。<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567652226572.png" alt=""></p>
+<h2 id="Spring-Cloud与Dubbo的区别"><a href="#Spring-Cloud与Dubbo的区别" class="headerlink" title="Spring Cloud与Dubbo的区别"></a>Spring Cloud与Dubbo的区别</h2><ol>
+<li>微服务涵盖范围不同：dubbo专注于服务治理，只涵盖了微服务架构的某些方面。而spring cloud涵盖了微服务架构的方方面面。</li>
+</ol>
+<a id="more"></a>
+
+<ol start="2">
+<li>服务调用方式不同：spring cloud基于http协议进行调用，dubbo基于tcp协议调用，所以dubbo在代码上调用方和服务方依赖性强<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567651256882.png" alt=""></li>
+</ol>
+<h2 id="Eureka（服务发现注册中心）"><a href="#Eureka（服务发现注册中心）" class="headerlink" title="Eureka（服务发现注册中心）"></a>Eureka（服务发现注册中心）</h2><p>和zookeeper / consul 类似</p>
+<h2 id="Hystrix（熔断器）"><a href="#Hystrix（熔断器）" class="headerlink" title="Hystrix（熔断器）"></a>Hystrix（熔断器）</h2><p>Hystrix 会在某个服务连续调用 N 次不响应的情况下，立即通知调用端调用失败，避免调用端持续等待而影响了整体服务。Hystrix 间隔时间会再次检查此服务，如果服务恢复将继续提供服务。<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567657974409.png" alt=""><br>熔断监控工具：<br>Hystrix Dashbord和Turbine。 turbine用于各个在微服务中收集熔断数据， hystrix dashbord则用于展示这些数据。显示效果如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567651457335.png" alt=""></p>
+<h2 id="Spring-Cloud-Config（配置中心）"><a href="#Spring-Cloud-Config（配置中心）" class="headerlink" title="Spring Cloud Config（配置中心）"></a>Spring Cloud Config（配置中心）</h2><p>配置的集中化管理，当配置在服务运行期间发生改变的时候可以通过refresh功能刷新配置。生产环境建议配置中心集群化部署已保证其高可用性。</p>
+<h2 id="Spring-Cloud-Bus-通讯组件"><a href="#Spring-Cloud-Bus-通讯组件" class="headerlink" title="Spring Cloud Bus (通讯组件)"></a>Spring Cloud Bus (通讯组件)</h2><p>通过spring cloud bus可以连接各个微服务节点，当需要给多个或者所有服务节点发送某个信息的时候，即可通过spring cloud bus来完成。</p>
+<p>比如：当某个配置发生改变后，需要通知对应的服务实例刷新配置，这个时候可以通过sprIng cloud bus来完成。其工作原理如下：<br><img src="http://img.leyongzuche.com/xiaoshujiang/1567650883117.png" alt=""></p>
+<h2 id="Spring-Cloud-Zuul-（服务网关）"><a href="#Spring-Cloud-Zuul-（服务网关）" class="headerlink" title="Spring Cloud Zuul （服务网关）"></a>Spring Cloud Zuul （服务网关）</h2><p><img src="http://img.leyongzuche.com/xiaoshujiang/1567651695489.png" alt=""></p>
+<p>请求转发，感觉有点类似nginx的角色</p>
+<h2 id="Spring-Cloud-Sleuth-（链路跟踪）"><a href="#Spring-Cloud-Sleuth-（链路跟踪）" class="headerlink" title="Spring Cloud Sleuth （链路跟踪）"></a>Spring Cloud Sleuth （链路跟踪）</h2><p>分布式链路跟踪需要 Sleuth+Zipkin 结合来实现。</p>
+<h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><blockquote>
+<p><a href="https://windmt.com/2018/04/14/spring-cloud-0-microservices/" target="_blank" rel="noopener">Spring Cloud（零）：微服务的那些事儿</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>java</tag>
+        <tag>spring cloud</tag>
+        <tag>dubbo</tag>
+        <tag>euerka</tag>
+        <tag>hystrix</tag>
+        <tag>zuul</tag>
+        <tag>zookeeper</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>低成本搭建VPN的办法</title>
+    <url>/%E4%BD%8E%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BAVPN%E7%9A%84%E5%8A%9E%E6%B3%95.html</url>
+    <content><![CDATA[<p>其实方法很简单：</p>
+<p>腾讯云-&gt;竞价实例-&gt;中国香港-&gt;流量计费(100M) ，两三个小时才几毛钱</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip </span><br><span class="line"></span><br><span class="line">pip install shadowsocks</span><br><span class="line"></span><br><span class="line">sudo mkdir &#x2F;etc&#x2F;shadowsocks</span><br><span class="line"></span><br><span class="line">sudo vi &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json</span><br><span class="line"></span><br><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;0.0.0.0&quot;,</span><br><span class="line">    &quot;server_port&quot;:12345,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;123456789WAXqsz&quot;,</span><br><span class="line">    &quot;timeout&quot;:1200,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: true,</span><br><span class="line">    &quot;workers&quot;:3</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d start</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d stop</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>腾讯云</tag>
+        <tag>vpn</tag>
+        <tag>几毛钱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Sync的实现原理探究</title>
     <url>/synchronized%E5%8E%9F%E7%90%86%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.html</url>
     <content><![CDATA[<p>sync是jvm的内置锁，底层是通过对象监视器来实现。而对象监视器的底层实现是通过<strong>cas+自旋</strong>或者<strong>操作系统的互斥量</strong>来实现的。通过javap -c 命令可以查看到sync方法前后有成对的monitorenter/monitorexit指令。</p>
@@ -498,22 +514,6 @@
         <tag>cas</tag>
         <tag>监视器</tag>
         <tag>synchronized</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>低成本搭建VPN的办法</title>
-    <url>/%E4%BD%8E%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BAVPN%E7%9A%84%E5%8A%9E%E6%B3%95.html</url>
-    <content><![CDATA[<p>其实方法很简单：</p>
-<p>腾讯云-&gt;竞价实例-&gt;中国香港-&gt;流量计费(100M) ，两三个小时才几毛钱</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">yum install python-setuptools &amp;&amp; easy_install pip </span><br><span class="line"></span><br><span class="line">pip install shadowsocks</span><br><span class="line"></span><br><span class="line">sudo mkdir &#x2F;etc&#x2F;shadowsocks</span><br><span class="line"></span><br><span class="line">sudo vi &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json</span><br><span class="line"></span><br><span class="line">&#123;</span><br><span class="line">    &quot;server&quot;:&quot;0.0.0.0&quot;,</span><br><span class="line">    &quot;server_port&quot;:12345,</span><br><span class="line">    &quot;local_address&quot;: &quot;127.0.0.1&quot;,</span><br><span class="line">    &quot;local_port&quot;:1080,</span><br><span class="line">    &quot;password&quot;:&quot;123456789WAXqsz&quot;,</span><br><span class="line">    &quot;timeout&quot;:1200,</span><br><span class="line">    &quot;method&quot;:&quot;aes-256-cfb&quot;,</span><br><span class="line">    &quot;fast_open&quot;: true,</span><br><span class="line">    &quot;workers&quot;:3</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d start</span><br><span class="line"></span><br><span class="line">ssserver -c &#x2F;etc&#x2F;shadowsocks&#x2F;shadowsocks.json -d stop</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>腾讯云</tag>
-        <tag>vpn</tag>
-        <tag>几毛钱</tag>
       </tags>
   </entry>
   <entry>
