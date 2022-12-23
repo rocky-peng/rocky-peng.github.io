@@ -114,7 +114,14 @@ export default hopeTheme({
     },
   },
 
+  contributors: false,
+
   plugins: {
+    copyCode: {
+      showInMobile:true
+    },
+    copyright:true,
+    photoSwipe:true,
     blog: true,
 
     // If you don’t need comment feature, you can remove following option

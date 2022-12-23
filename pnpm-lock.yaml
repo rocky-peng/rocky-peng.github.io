@@ -4,8 +4,6 @@ specifiers:
   '@vuepress/client': 2.0.0-beta.59
   vue: ^3.2.45
   vuepress: 2.0.0-beta.59
-  vuepress-plugin-copy-code2: 2.0.0-beta.143
-  vuepress-plugin-copyright2: 2.0.0-beta.143
   vuepress-plugin-search-pro: 2.0.0-beta.143
   vuepress-theme-hope: 2.0.0-beta.143
 
@@ -13,8 +11,6 @@ devDependencies:
   '@vuepress/client': 2.0.0-beta.59
   vue: 3.2.45
   vuepress: 2.0.0-beta.59_zuhh5cekyzsqox63zj3ccba2ny
-  vuepress-plugin-copy-code2: 2.0.0-beta.143_vuepress@2.0.0-beta.59
-  vuepress-plugin-copyright2: 2.0.0-beta.143_vuepress@2.0.0-beta.59
   vuepress-plugin-search-pro: 2.0.0-beta.143_vuepress@2.0.0-beta.59
   vuepress-theme-hope: 2.0.0-beta.143_vuepress@2.0.0-beta.59
 
