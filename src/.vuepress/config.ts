@@ -1,4 +1,5 @@
 import { defineUserConfig } from "vuepress";
+import { copyrightPlugin } from "vuepress-plugin-copyright2";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -25,4 +26,12 @@ export default defineUserConfig({
   theme,
 
   shouldPrefetch: false,
+  plugins: [
+    copyrightPlugin({
+      // 插件选项
+      author: "棉花糖",
+      license: "MIT",
+      global: true,
+    }),
+  ],
 });
