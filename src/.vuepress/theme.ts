@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "http://justsoso.fun",
 
   author: {
     name: "Rocky",
-    url: "http://www.justsoso.fun",
+    url: "http://justsoso.fun",
   },
 
   iconAssets: "iconfont",
