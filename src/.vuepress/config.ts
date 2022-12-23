@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
   port: 8081,
   locales: {
-    "/": {
+    /*"/": {
       lang: "en-US",
       title: "Blog Demo",
       description: "A blog demo for vuepress-theme-hope",
@@ -14,7 +14,12 @@ export default defineUserConfig({
       lang: "zh-CN",
       title: "博客演示",
       description: "vuepress-theme-hope 的博客演示",
-    },
+    },*/
+    "/": {
+      lang: "zh-CN",
+      title: "博客演示",
+      description: "vuepress-theme-hope 的博客演示",
+    }
   },
 
   theme,
