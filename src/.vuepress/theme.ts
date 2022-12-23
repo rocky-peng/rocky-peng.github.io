@@ -117,6 +117,8 @@ export default hopeTheme({
   contributors: false,
 
   plugins: {
+    sitemap:true,
+    seo:true,
     copyCode: {
       showInMobile:true
     },
