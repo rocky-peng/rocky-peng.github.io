@@ -118,7 +118,9 @@ export default hopeTheme({
 
   plugins: {
     sitemap:true,
-    seo:true,
+    seo:{
+      canonical: 'http://justsoso.fun/'
+    },
     copyCode: {
       showInMobile:true
     },
