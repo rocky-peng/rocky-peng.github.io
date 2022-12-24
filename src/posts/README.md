@@ -1,5 +1,7 @@
 ---
 title: POSTS
+index: true
+
 ---
 
 
