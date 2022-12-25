@@ -13,15 +13,15 @@ export const zhNavbar = navbar([
     link: "/java-stack/"
   },
   {
-    text: "DEMO",
+    text: "其他",
     icon: "discover",
-    link: "/demo/"
+    link: "/other/"
   },
-  {
+  /*{
     text: "POSTS",
     icon: "discover",
     link: "/posts/",
-    /*children: [
+    /!*children: [
       {
         text: "苹果",
         icon: "edit",
@@ -56,8 +56,8 @@ export const zhNavbar = navbar([
       { text: "火龙果", icon: "edit", link: "dragonfruit" },
       "tomato",
       "strawberry",
-    ],*/
-  },
+    ],*!/
+  },*/
  /* {
     text: "V2 文档",
     icon: "note",
