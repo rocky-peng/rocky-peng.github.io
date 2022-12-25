@@ -20,7 +20,7 @@ date: 2017-03-11
 5. 如果一个ExecutorService不再使用，应该调用shutdown方法来回收资源。
 
 6. submit方法（三个重载方法）
-    ```
+    ```java
     返回的Future对象可以用来取消任务和等待任务执行完成
 	
 	最终内部都调用了execute(runnable)方法来提交任务，
@@ -28,7 +28,7 @@ date: 2017-03-11
     ```
 
 7. invokeAny和invokeAll方法
-    ```
+    ```java
     用户批量执行任务，
     invokeAny：会阻塞当前线程，直到某个任务完成。并返回这个任务相关的Future对象
     invokeAll：会阻塞当前线程，直到所有任务完成。
@@ -38,7 +38,7 @@ date: 2017-03-11
     2. 调用awaitTermination方法
     3. 再调用shutdownNow方法
     
-    ```
+    ```java
     void shutdownAndAwaitTermination(ExecutorService pool) {
        pool.shutdown(); // Disable new tasks from being submitted
        try {
@@ -63,7 +63,7 @@ date: 2017-03-11
 ## Thread
 1. interrupt方法
     如果执行a.interrupt方法后，如果a线程（注意是a线程，不是调用线程）抛出了InterruptedException异常，那么a的中断状态会被清除。如果不是抛出InterruptedException异常，那么a的中断状态都会被设置（如果是线程a自己调用了a.interrupt方法，那么a不会抛出InterruptedException异常，所以a的中断状态会被设置）。一般情况下如果抛出了InterruptedException异常，则可以在catch块里自己调用下Thread.currentThread().interrupt()方法。
-	```
+	```java
 	while(!Thread.currentThread().isInterrupted()){
 		try{
 			Thread.sleep(1000);
@@ -105,7 +105,7 @@ new,runable,waiting,timed-waiting,blocked,terminated
 12. 非守护线程：main线程挂了，非守护线程可以继续执行
 
 13. notify & wait 标准范式
-```
+```java
 在Object类的源码中给出了这两个方法的是否范例。
 
 等待方：
@@ -140,7 +140,7 @@ sync(obj){
 15. sync的对象不要用String、Integer、Long等基础的对象，因为共享原因可能锁到别人用的值。
 
 ## ThreadPoolExecutor
-```
+```java
 public ThreadPoolExecutor(int corePoolSize,
                               int maximumPoolSize,
                               long keepAliveTime,
@@ -159,7 +159,7 @@ public ThreadPoolExecutor(int corePoolSize,
 
 如果corePoolSize==maximumPoolSize，那么则创建了一个固定大小的线程池
 
-```
+```java
 public void execute(Runnable command) {
     if (command == null)
         throw new NullPointerException();
@@ -233,7 +233,7 @@ public void execute(Runnable command) {
 感觉可以理解为这个入队列会总是失败，就相当于没有这个队列一样。这样就能在maxPoolSize条件下尽可能快的创建（或选择空闲的线程）来执行新提交的任务。
 
 如果提交的任务有互相的依赖性，可以考虑使用这种队列。
-```
+```java
 public static ExecutorService newCachedThreadPool() {
 	return new ThreadPoolExecutor(0, Integer.MAX_VALUE,
 								  60L, TimeUnit.SECONDS,
@@ -263,7 +263,7 @@ public static ExecutorService newCachedThreadPool() {
 
 3. 使用一个锁来完成
 
-	```
+	```java
 	System.out.println(priorityBlockingQueue.offer(4));
 	System.out.println(priorityBlockingQueue.offer(8));
 	System.out.println(priorityBlockingQueue.offer(1));
@@ -295,7 +295,7 @@ public static ExecutorService newCachedThreadPool() {
 
 #### ThreadPoolExecutor.AbortPolicy  
 抛出RejectedExecutionException异常
-```
+```java
 public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 	throw new RejectedExecutionException("Task " + r.toString() +
 										 " rejected from " +
@@ -304,7 +304,7 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 ```
 #### ThreadPoolExecutor.CallerRunsPolicy
 在调用线程上执行（哪个线程提交的任务就哪个线程执行）
-```
+```java
 public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 	if (!e.isShutdown()) {
 		r.run();
@@ -313,13 +313,13 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 ```
 #### ThreadPoolExecutor.DiscardPolicy
 直接放弃
-```
+```java
 public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 }
 ```
 #### ThreadPoolExecutor.DiscardOldestPolicy
 放弃当前队列中第一个任务
-```
+```java
 public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 	if (!e.isShutdown()) {
 		e.getQueue().poll();
