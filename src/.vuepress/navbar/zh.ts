@@ -15,7 +15,7 @@ export const zhNavbar = navbar([
   {
     text: "数据库",
     icon: "discover",
-    link: "/database/"
+    link: "/middleware/"
   },
   {
     text: "其他",
