@@ -1,4 +1,0 @@
----
-title: ElasticSearch
-index: false
----

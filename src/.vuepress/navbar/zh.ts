@@ -10,12 +10,7 @@ export const zhNavbar = navbar([
   {
     text: "Java技术栈",
     icon: "discover",
-    link: "/java-stack/"
-  },
-  {
-    text: "中间件",
-    icon: "discover",
-    link: "/middleware/"
+    link: "/software/"
   },
   {
     text: "其他",
