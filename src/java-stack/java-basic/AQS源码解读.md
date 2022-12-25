@@ -392,7 +392,7 @@ final boolean transferForSignal(Node node) {
 ### sync和AQS实现的数据结构类似
 sync实现代码中：ObjectMonitor就有点类似AQS，ObjectWaiter就类似AQS中的Node。
 #### ObjectMonitor的结构
-![](http://cdn.justdopay.com/xiaoshujiang/1629078873133.png)
+![](https://cdn.justdopay.com/xiaoshujiang/1629078873133.png)
 
 ```
 header  ---->>  Markword
@@ -406,7 +406,7 @@ EntryList --->> AQS clh队列中的 同步阻塞队列
 #### ObjectWaiter的结构
 类似AQS中的Node
 
-![enter description here](http://cdn.justdopay.com/xiaoshujiang/1629078883472.png)
+![enter description here](https://cdn.justdopay.com/xiaoshujiang/1629078883472.png)
 
 
 ### sync和reentrantlock的区别
