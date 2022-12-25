@@ -13,6 +13,11 @@ export const zhNavbar = navbar([
     link: "/java-stack/"
   },
   {
+    text: "数据库",
+    icon: "discover",
+    link: "/database/"
+  },
+  {
     text: "其他",
     icon: "discover",
     link: "/other/"
