@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { componentsPlugin } from "vuepress-plugin-components";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -31,6 +32,10 @@ export default defineUserConfig({
       // 配置选项
       indexContent: true,
 
+    }),
+    componentsPlugin({
+      // 插件选项
+      components:["PDF"]
     }),
   ],
 });
