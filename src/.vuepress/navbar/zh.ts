@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "大厂项目复盘",
     icon: "discover",
-    link: "/大厂项目复盘/"
+    link: "/dachang-project-review/"
   },
   {
     text: "Java技术栈",
