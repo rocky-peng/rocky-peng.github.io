@@ -71,7 +71,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "<a href=\"https://beian.miit.gov.cn/\">渝ICP备2022014544号-1</a><!--&nbsp;|&nbsp; <a href=\"http://leyongjituan.com\">乐用集团</a>-->",
 
       displayFooter: true,
 
