@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Just板板
+title: Just斑斑
 heroImage: /logo.svg
 heroText: 你博客的名称
 heroFullScreen: true

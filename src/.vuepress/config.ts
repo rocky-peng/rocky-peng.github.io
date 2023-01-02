@@ -19,7 +19,7 @@ export default defineUserConfig({
     },*/
     "/": {
       lang: "zh-CN",
-      title: "Just板板",
+      title: "Just斑斑",
       description: "vuepress-theme-hope 的博客演示",
     }
   },

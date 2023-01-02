@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "http://justsoso.fun",
 
   author: {
-    name: "Just板板",
+    name: "Just斑斑",
     url: "http://justsoso.fun",
   },
 
