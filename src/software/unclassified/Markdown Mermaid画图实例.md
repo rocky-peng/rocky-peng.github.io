@@ -3,6 +3,9 @@ title: Markdown Mermaid画图实例
 date: 2022-12-23
 ---
 
+官网： https://mermaid.js.org/syntax/flowchart.html
+
+
 ```mermaid
 stateDiagram-v2
 [*] --> First
