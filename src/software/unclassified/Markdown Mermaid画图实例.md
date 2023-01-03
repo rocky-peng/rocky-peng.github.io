@@ -4,6 +4,28 @@ date: 2022-12-23
 ---
 
 ```mermaid
+stateDiagram-v2
+[*] --> First
+First --> Second
+First --> Third
+
+state First {
+    [*] --> fir
+    fir --> [*]
+}
+state Second {
+    [*] --> sec
+    sec --> [*]
+}
+state Third {
+    [*] --> thi
+    thi --> [*]
+}
+```
+
+
+
+```mermaid
 graph TD;
     A(视图创建) --> B(参加校验,基本信息填充) --> C(id是否为空)
 	C--true,新增视图-->E(为关联的融合对象创建分组,根节点分组)
