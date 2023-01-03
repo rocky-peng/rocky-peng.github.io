@@ -5,7 +5,20 @@ date: 2022-12-23
 
 官网： https://mermaid.js.org/syntax/flowchart.html
 
+可以理解为思维导图
+```mermaid
+graph LR
+KaTex--> A(标记 Accents)
+A-->撇,估计,均值,向量等写于符号上下的标记
+KaTex--> 分隔符_Delimiters
+分隔符_Delimiters-->小中大括号,竖杠,绝对值等分隔符的反斜杠写法
+KaTex--> 公式组_Enviroments
+公式组_Enviroments-->B(.....)
+KaTex-->C(...)
+```
+---
 
+状态图
 ```mermaid
 stateDiagram-v2
 [*] --> First
