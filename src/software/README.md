@@ -1,12 +1,6 @@
 ---
-title: 主要功能与配置演示
+title: Java技术栈
 index: false
 icon: discover
-category:
-  - 使用指南
+article: false
 ---
-
-## 目录
-
-- 阿里
-  - [阿里｜88VIP：我就是想帮你省很多钱！](阿里/01.md)
