@@ -83,11 +83,11 @@ tag:
 
 右下角的spaceId，就是我们要找的值，记录下来
 
-### NOTION_TOKEN
+#### NOTION_TOKEN
 ![](./Notion笔记定时备份.imgs/433237435722500.png)
 红框中 token_v2的值就是了，记录下来
 
-### NOTION_USER_ID
+#### NOTION_USER_ID
 上图中红框中 notion_user_id 的值就是了，记录下来
 
 ### 四、配置刚刚fork的仓库
