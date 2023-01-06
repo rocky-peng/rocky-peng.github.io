@@ -40,7 +40,7 @@ Force overwriting the backup with -f
 ```
 可以执行下面的命令：
 ```shell
-git update-ref -d refs/original/refs/heads/master
+git update-ref -d refs/original/refs/heads/分支名
 ```
 
 然后push到远程，在远程仓库查看是否修改成功
