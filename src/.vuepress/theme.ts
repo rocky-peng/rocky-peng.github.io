@@ -97,7 +97,7 @@ export default hopeTheme({
 
   plugins: {
     sitemap:{
-      changefreq:"weekly"
+      changefreq:"daily"
     },
     seo:{
       canonical: 'http://justsoso.fun/'
