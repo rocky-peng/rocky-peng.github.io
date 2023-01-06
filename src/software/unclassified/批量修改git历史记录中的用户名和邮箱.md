@@ -44,4 +44,6 @@ git update-ref -d refs/original/refs/heads/分支名
 ```
 
 然后push到远程，在远程仓库查看是否修改成功
-
+```shell
+git push --force --tags origin 'refs/heads/*'
+```
