@@ -1,7 +1,3 @@
----
-title: 其他
-index: false
-date: 2022-12-25
-article: false
----
+# other
 
+[测试](./%E6%B5%8B%E8%AF%95.md)
