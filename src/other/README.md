@@ -1,5 +1,7 @@
 ---
-title: README
+title: other
+index: false
+article: false
 date: 2023-01-09
 ---
 
