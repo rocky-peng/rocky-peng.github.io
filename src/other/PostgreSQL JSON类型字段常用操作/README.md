@@ -19,7 +19,7 @@ insert into name_age values('{"id":8,"name":"小明8", "age":35}');
 insert into name_age values('{"id":9,"name":"小明9", "age":35}');
 ```
 
-![Untitled](PostgreSQL%20JSON%E7%B1%BB%E5%9E%8B%E5%AD%97%E6%AE%B5%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%206f6b7cdd2ce04871b605930099dbc32d/Untitled.png)
+![Untitled](./Untitled.png)
 
 # Where
 
