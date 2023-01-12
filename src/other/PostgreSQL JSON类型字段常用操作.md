@@ -3,6 +3,8 @@ title: PostgreSQL JSON类型字段常用操作
 date: 2023-01-11
 ---
 
+测试同步效果
+
 # 初始数据
 
 ```sql
