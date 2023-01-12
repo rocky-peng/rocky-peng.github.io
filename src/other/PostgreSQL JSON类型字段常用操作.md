@@ -19,6 +19,8 @@ insert into name_age values('{"id":9,"name":"小明9", "age":35}');
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-4a3de158e20935f6b916a26b4cb21a54.png)
 
+![Untitled](https://cdn.justdopay.com/notion/md5-8faa0a7ecc586c08b1a4ed6a5ace7cd1.png)
+
 # Where
 
 ## 精确匹配
