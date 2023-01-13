@@ -3,8 +3,6 @@ title: PostgreSQL JSON类型字段常用操作
 date: 2023-01-11
 ---
 
-测试同步效果
-
 # 初始数据
 
 ```sql
@@ -103,6 +101,6 @@ update name_age set info = info || '{"age":16}'::jsonb  where (info->>'id')::int
 select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offset 1;
 ```
 
-- offset 从0开始
+- **offset 从0开始**
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-af25be7103d393e043d2bfea53a1b981.png)
