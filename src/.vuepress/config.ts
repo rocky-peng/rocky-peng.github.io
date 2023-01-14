@@ -19,8 +19,8 @@ export default defineUserConfig({
     },*/
     "/": {
       lang: "zh-CN",
-      title: "Just斑斑",
-      description: "vuepress-theme-hope 的博客演示",
+      title: "技术加油站",
+      description: "没事的时候写写笔记，加加油！",
     }
   },
 

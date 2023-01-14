@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "http://justsoso.fun",
 
   author: {
-    name: "Just斑斑",
+    name: "技术加油站",
     url: "http://justsoso.fun",
   },
 
@@ -72,7 +72,7 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       footer: "" +
-          "<a href=\"http://www.justsoso.fun\" target=\"_blank\">Just斑斑</a>&nbsp;|&nbsp;" +
+          "<a href=\"http://www.justsoso.fun\" target=\"_blank\">技术加油站</a>&nbsp;|&nbsp;" +
           "<a href=\"http://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
           "<a href=\"http://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
           "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>&nbsp;|&nbsp;" +

@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 hero: false
 icon: home
-title: Just斑斑
+title: 技术加油站
 heroImage: /logo.svg
 heroText: 你博客的名称
 heroFullScreen: false
