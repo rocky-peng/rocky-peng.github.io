@@ -3,7 +3,7 @@ title: PostgreSQL JSON类型字段常用操作
 date: 2023-01-11
 ---
 
-# 初始数据xxx
+## 初始数据
 
 ```sql
 insert into name_age values('{"id":1,"name":"小明", "age":18}');
@@ -19,9 +19,9 @@ insert into name_age values('{"id":9,"name":"小明9", "age":35}');
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-4a3de158e20935f6b916a26b4cb21a54.png)
 
-# Where
+## Where
 
-## 精确匹配
+### 精确匹配
 
 ```sql
 SELECT info||'{"gender":"男"}' as a,info||'{"gender":"男"}'::jsonb as b,info as c from name_age where (info->>'id')::int4 = 2;
@@ -37,7 +37,7 @@ SELECT info||'{"gender":"男"}' as a,info||'{"gender":"男"}'::jsonb as b,info a
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-1d441b9a2eed822cfcffa387ad17b785.png)
 
-## 模糊匹配
+### 模糊匹配
 
 ```sql
 select * from name_age where info #>> '{name}' like '%明';
@@ -53,7 +53,7 @@ select * from name_age where (info->>'name') like '%4';
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-9ddfccdf3034813fc20ba24b625ad568.png)
 
-# 排序
+## 排序
 
 ```sql
 select * from name_age order by info->'age' desc,info->'id' asc;
@@ -63,9 +63,9 @@ select * from name_age order by info->>'age' desc,info->>'id' asc;
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-89475d6fb050cc73e3f97fc49bd03c69.png)
 
-# 修改
+## 修改
 
-## 增加json字段
+### 增加json字段
 
 ```sql
 update name_age set info = info || '{"gender":"男"}'::jsonb  where (info->>'id')::int4 = 1;
@@ -75,7 +75,7 @@ update name_age set info = info || '{"gender":"男"}'::jsonb  where (info->>'id'
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-8ea2a5fac6d6e8d5cc4fa3b925805fd6.png)
 
-## 删除json字段
+### 删除json字段
 
 ```sql
 update name_age set info = info-'gender' where  (info->>'id')::int4 = 1;
@@ -85,7 +85,7 @@ update name_age set info = info-'gender' where  (info->>'id')::int4 = 1;
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-5454c1282a1bd4089a55c9442657e34a.png)
 
-## 修改json字段值
+### 修改json字段值
 
 ```sql
 update name_age set info = info || '{"age":16}'::jsonb  where (info->>'id')::int4 = 1;
@@ -95,7 +95,7 @@ update name_age set info = info || '{"age":16}'::jsonb  where (info->>'id')::int
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-084eaf5e07602158aa1e5fa7f6943a6c.png)
 
-# 分页
+## 分页
 
 ```sql
 select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offset 1;
