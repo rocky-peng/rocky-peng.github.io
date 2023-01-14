@@ -11,3 +11,9 @@ title: 其他
 [MySQL数据迁移到PGSQL](./MySQL%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E5%88%B0PGSQL.md)
 
 [PGSQL的****json和 jsonb 读写性能测试****](./PGSQL%E7%9A%84json%E5%92%8C%20jsonb%20%E8%AF%BB%E5%86%99%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.md)
+
+[Java语言完成notion笔记备份](./Java%E8%AF%AD%E8%A8%80%E5%AE%8C%E6%88%90notion%E7%AC%94%E8%AE%B0%E5%A4%87%E4%BB%BD.md)
+
+[Mermaid示例](./Mermaid%E7%A4%BA%E4%BE%8B.md)
+
+[istio基础知识](./istio%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
