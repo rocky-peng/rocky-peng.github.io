@@ -5,8 +5,6 @@ date: 2023-01-11
 
 ## 初始数据
 
-## 初始数据
-
 ```sql
 insert into name_age values('{"id":1,"name":"小明", "age":18}');
 insert into name_age values('{"id":2,"name":"小明1", "age":17}');
