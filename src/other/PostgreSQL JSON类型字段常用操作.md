@@ -3,7 +3,9 @@ title: PostgreSQL JSON类型字段常用操作
 date: 2023-01-11
 ---
 
-## 初始数据aaaaa
+## 初始数据
+
+## 初始数据
 
 ```sql
 insert into name_age values('{"id":1,"name":"小明", "age":18}');
