@@ -19,3 +19,5 @@ title: 其他
 [istio基础知识](./istio%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 
 [Arthas使用记录](./Arthas%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95.md)
+
+[PostgreSQL定时备份](./PostgreSQL%E5%AE%9A%E6%97%B6%E5%A4%87%E4%BB%BD.md)
