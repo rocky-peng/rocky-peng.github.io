@@ -21,3 +21,7 @@ title: 其他
 [Arthas使用记录](./Arthas%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95.md)
 
 [PostgreSQL定时备份](./PostgreSQL%E5%AE%9A%E6%97%B6%E5%A4%87%E4%BB%BD.md)
+
+[HTTP1.0 vs HTTP1.1 vs WebSocket](./HTTP1%200%20vs%20HTTP1%201%20vs%20WebSocket.md)
+
+[WebSocket SpringBoot Demo](./WebSocket%20SpringBoot%20Demo.md)
