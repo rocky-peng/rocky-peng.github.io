@@ -6,9 +6,10 @@
 username=$1
 database=$2
 backdir=$3
+
 currTime=`date '+%Y%m%d-%H%M%S'`
 
-./pg_dump -U $username $database | gzip > $3/$username-$database-$currTime.zip
+/www/server/pgsql/bin/pg_dump/pg_dump -U $username $database | gzip > $backdir/$username-$database-$currTime.zip
 ```
 
 命令解释：该命令是备份单个数据库，并将备份输出的**文本内容**使用gzip进行压缩存储
