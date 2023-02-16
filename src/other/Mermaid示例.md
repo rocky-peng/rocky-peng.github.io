@@ -109,8 +109,9 @@ gantt
 graph TD
   Mermaid --> Diagramd
 ```
+<br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：我已剪断我的发，剪断了牵挂，可你却还要让我办张卡？
----
+- 随机毒鸡汤：都说伸手不打笑脸人，但我觉得，假笑的人可以打。
+<br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

@@ -43,8 +43,9 @@ title: Arthas使用记录
 ```bash
 ognl '@com.xxx.SpringUtils@applicationContext'
 ```
+<br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：不是说好一起到白头，你却半路秃了瓢。
----
+- 随机毒鸡汤：你为什么这么努力？因为再不努力，就要回家继承家产了。
+<br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

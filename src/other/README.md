@@ -23,8 +23,11 @@ title: 其他
 [HTTP1.0 vs HTTP1.1 vs WebSocket](./HTTP1%200%20vs%20HTTP1%201%20vs%20WebSocket.md)
 
 [WebSocket SpringBoot Demo](./WebSocket%20SpringBoot%20Demo.md)
+
+[随机图片在线接口](./%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8F%A3.md)
+<br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：五年前我加入一个单身群，我们说脱单了就退群，现在我是群主!
----
+- 随机毒鸡汤：生活不会放弃你，但也不会放过你。
+<br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

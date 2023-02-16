@@ -104,8 +104,9 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 - **offset 从0开始**
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-af25be7103d393e043d2bfea53a1b981.png)
+<br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：单身狗冬天就不要出去了，要是摔倒了，会变成旺旺碎冰冰的。
----
+- 随机毒鸡汤：我悄悄努力，不是为了惊艳所有人，而是怕失败了被人知道。
+<br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

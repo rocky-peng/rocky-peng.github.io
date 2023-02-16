@@ -157,8 +157,9 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 </body>
 </html>
 ```
+<br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：你这么努力，忍受了这么多寂寞与痛苦，也没见你多优秀啊。
----
+- 随机毒鸡汤：事事如意料之外，年年有余额不足。
+<br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)
