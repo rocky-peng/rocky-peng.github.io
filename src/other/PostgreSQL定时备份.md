@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果有一天你前女友结婚了，告诉我，我帮你吃回本。
+- **随机毒鸡汤**：兴趣是最好的老师，饥饿是最好的厨师。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi&t=1676539658603)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e01728e7-c211-456d-a7a6-a302c94c28b7)

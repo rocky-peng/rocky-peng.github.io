@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你可以為一個人，卑微到塵埃裡，但沒人會愛塵埃中的你。
+- **随机毒鸡汤**：晚上睡不着，白天睡不醒。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi&t=1676539656926)
+![](http://api.btstu.cn/sjbz/?lx=m_dongman&uuid=3595244f-d833-49c8-a7ca-ed450d5ad5bc)

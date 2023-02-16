@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
+- **随机毒鸡汤**：没有什么过不去，只是再也回不去。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&t=1676539655926)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b3f02776-f83e-441c-82be-2367f23367ad)

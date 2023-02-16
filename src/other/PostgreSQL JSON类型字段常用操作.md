@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：群发的祝福和个位数的红包，都是没有灵魂的。
+- **随机毒鸡汤**：别人问你有谈恋爱吗？只要说现在没有，就能掩盖过去也没有的事实。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&t=1676539658277)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8e01d1d1-644a-4284-8ad0-ccb97914906a)

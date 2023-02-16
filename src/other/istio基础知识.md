@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：肩上的书包是很沉，因为我背负的，是我的未来。
+- **随机毒鸡汤**：女人化妆，男人撒谎，以便相互欣赏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&t=1676539655594)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6dad967b-3932-44b7-87c3-8d62208c6c5a)

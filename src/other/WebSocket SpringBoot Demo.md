@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：让你不顾一切往高处爬的人，不过是想看你摔得更惨。
+- **随机毒鸡汤**：如果连我的情绪，都要我亲口告诉你，那和考试抄答案有什么区别？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&t=1676539655272)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fdad2a2-43fd-4785-bae2-e081121d9835)

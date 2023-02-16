@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我用时间证明了我爱你，你用时间证明了我是个傻逼。
+- **随机毒鸡汤**：熬夜时多喝菊花茶，因为，猝死的时候会香一点。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&t=1676539656600)
+![](http://api.btstu.cn/sjbz/?lx=m_dongman&uuid=e5ed5a17-8c44-4d41-880f-5a53a8e9769e)

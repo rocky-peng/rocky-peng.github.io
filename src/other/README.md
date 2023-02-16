@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：据说到2020年，要消灭贫困人口，我还不想死。
+- **随机毒鸡汤**：路遥知马力不足，日久见人心不古。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&t=1676539658928)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ad4d8453-88df-497a-8e55-5e091e0c730d)

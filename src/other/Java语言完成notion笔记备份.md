@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在这个世界上，不怕真坏人，就怕假好人。
+- **随机毒鸡汤**：能从上到下摸遍你全身的，也就只有，车站安检员了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&t=1676539657938)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9d4d31b1-7c04-44bd-803d-b40f17f7b2a7)
