@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：承蒙你出现，够我心烦好多年。
+- **随机毒鸡汤**：据说到2020年，要消灭贫困人口，我还不想死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&t=1676537865560)
+![](http://api.btstu.cn/sjbz/?lx=suiji&t=1676539658928)

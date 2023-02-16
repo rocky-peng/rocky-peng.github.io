@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：既然万事万物都有联系，那你为什么不联系我？
+- **随机毒鸡汤**：如果有一天你前女友结婚了，告诉我，我帮你吃回本。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&t=1676537865235)
+![](http://api.btstu.cn/sjbz/?lx=meizi&t=1676539658603)

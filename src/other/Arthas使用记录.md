@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：都说我们要学会分享，所以我只要有好吃的，就马上拍照分享给朋友。
+- **随机毒鸡汤**：你可以為一個人，卑微到塵埃裡，但沒人會愛塵埃中的你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&t=1676537863628)
+![](http://api.btstu.cn/sjbz/?lx=meizi&t=1676539656926)

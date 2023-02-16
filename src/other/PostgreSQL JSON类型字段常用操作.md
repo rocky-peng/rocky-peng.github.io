@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：心脏病发作起来，可能连送去ICU，参加复活赛的时间都不给。
+- **随机毒鸡汤**：群发的祝福和个位数的红包，都是没有灵魂的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&t=1676537864904)
+![](http://api.btstu.cn/sjbz/?lx=suiji&t=1676539658277)
