@@ -1,5 +1,5 @@
 ---
-title: Test2
+title: Mermaid示例
 date: 2023-01-04
 ---
 
