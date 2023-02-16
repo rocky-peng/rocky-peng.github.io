@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：期末考试那天，记得穿好衣服去考场，那样你就不算裸考了。
+- **随机毒鸡汤**：爱情会离开你，但数学不会，不会就是不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6725955d-2687-4991-9f29-53901dbbf5d4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=15820be5-a9ca-450d-ad03-d28069da1052)

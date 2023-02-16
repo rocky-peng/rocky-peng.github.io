@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
+- **随机毒鸡汤**：都说正义会迟到但不缺席，这说明了什么，说明邪恶来的很准时。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3d650ded-9d78-4450-ab01-662cf9a5119f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2d77206e-e307-44a3-bcc5-37c05bea16e3)

@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：真的喜欢学习，那种学不到脑子里的东西，真令我着迷。
+- **随机毒鸡汤**：恋爱的恋真的很奇妙，上面取自变态的变，下面取自变态的态。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f6e39da-ede2-4e00-a9fc-d699f59a4c16)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ceb56c86-f56f-4af2-8f87-43bde26246ff)

@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每个人都有追求幸福的权利，但幸福，也有不让你追上的权利。
+- **随机毒鸡汤**：她化了妆，也没有你化成灰好看。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=46677369-cb05-4485-b462-949f2546768d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=547bef6c-92d1-4a6a-9429-1fd84c2c570a)

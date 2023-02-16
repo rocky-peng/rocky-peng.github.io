@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：无论最后我们疏远成什么样，一个红包，就能回到当初。
+- **随机毒鸡汤**：不要和穿船袜的人握手，因为你不知道TA，最近一次抠脚是什么时候。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=13ff99dc-f84f-4362-8122-ce3f010648ec)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=960c456d-77f5-4335-bc4c-8128f08c4e26)

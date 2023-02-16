@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的原则是，人不犯我 我不犯人，人若犯我 我就生气！
+- **随机毒鸡汤**：你的臭脚被毒蛇咬了，抢救了6个小时，毒蛇终于救了过来。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=722ecc78-f7a3-4657-a939-a5b1c9fd82e2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6d88f880-daf8-46e5-b4b7-a6922f48af61)

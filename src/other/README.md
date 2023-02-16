@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想奋斗？手机能从你的手上拿下来，就算是拼搏了。
+- **随机毒鸡汤**：遇到困难的时候暂时放一放，第二天的时候，就再也想不起来了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3e90820e-752a-46f8-b47b-d7c813e9c066)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d2d136ec-ace7-465e-84c9-b7c4887482a4)

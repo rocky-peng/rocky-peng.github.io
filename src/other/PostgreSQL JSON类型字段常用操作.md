@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：誓言两个字都有口，偏偏有口无心。
+- **随机毒鸡汤**：一寸光阴一寸金，坐着静静花钱的感觉真好。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3875798f-923e-4ecf-bcd1-b00bf1c97ec4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e71a8403-b874-4771-96b9-afd5fa8cdc58)

@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：爱从不会消失，只会转移。
+- **随机毒鸡汤**：读书肯定有用，上学不一定。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f10bc414-a2de-4c3b-8f49-9bbe96ef2f4b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=666eba8f-eb6a-483e-a914-c8a46b2af6e5)
