@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：你为什么这么努力？因为再不努力，就要回家继承家产了。
+- 随机毒鸡汤：关关难过关关过，夜夜难熬夜夜熬。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

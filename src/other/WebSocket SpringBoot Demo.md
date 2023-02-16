@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：事事如意料之外，年年有余额不足。
+- 随机毒鸡汤：不回你消息，不是因为我高冷，而是我手冷。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

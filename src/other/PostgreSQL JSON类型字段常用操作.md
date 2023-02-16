@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：我悄悄努力，不是为了惊艳所有人，而是怕失败了被人知道。
+- 随机毒鸡汤：暗恋是在一个人的世界里，过完了你俩的一生。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)
