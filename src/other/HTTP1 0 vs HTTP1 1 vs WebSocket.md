@@ -1,4 +1,7 @@
-# HTTP1.0 vs HTTP1.1 vs WebSocket
+---
+title: HTTP1 0 vs HTTP1 1 vs WebSocket
+date: 2023-02-15
+---
 
 ## http1.0
 
