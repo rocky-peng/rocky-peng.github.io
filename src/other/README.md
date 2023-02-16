@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：遇到困难的时候暂时放一放，第二天的时候，就再也想不起来了。
+- **随机毒鸡汤**：班上有位女生，至今都没有出现过，她名叫安静。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d2d136ec-ace7-465e-84c9-b7c4887482a4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e12a3169-9462-4344-a3b7-c75fdb941c8f)

@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都说正义会迟到但不缺席，这说明了什么，说明邪恶来的很准时。
+- **随机毒鸡汤**：安全感是什么？就是在上学快迟到的时候，在路上碰到同班同学。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2d77206e-e307-44a3-bcc5-37c05bea16e3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=677a5f0f-189b-4629-8a03-7c2c1f611477)

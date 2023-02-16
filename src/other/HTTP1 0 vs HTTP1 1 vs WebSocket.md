@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恋爱的恋真的很奇妙，上面取自变态的变，下面取自变态的态。
+- **随机毒鸡汤**：你以为你进了他的心房，实则，你进了他的鱼塘。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ceb56c86-f56f-4af2-8f87-43bde26246ff)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6c4cb4b2-747d-4118-b3d5-c8a75c75d3f8)

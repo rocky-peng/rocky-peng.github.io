@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：她化了妆，也没有你化成灰好看。
+- **随机毒鸡汤**：没有钱的时候，听到别人说恭祝长命百岁，都觉得是一种诅咒。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=547bef6c-92d1-4a6a-9429-1fd84c2c570a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b197422a-d819-48ab-80e4-695d594a6264)

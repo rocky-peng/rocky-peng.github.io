@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：爱情会离开你，但数学不会，不会就是不会。
+- **随机毒鸡汤**：既没有让人一见钟情的颜，还缺少让人日久生情的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=15820be5-a9ca-450d-ad03-d28069da1052)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4a59394e-cc25-425f-a310-98b249b99363)

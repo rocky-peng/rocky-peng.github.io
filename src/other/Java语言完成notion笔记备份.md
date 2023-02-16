@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：读书肯定有用，上学不一定。
+- **随机毒鸡汤**：长得帅的踢键子都帅，长得丑的，打高尔夫都像在铲屎。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=666eba8f-eb6a-483e-a914-c8a46b2af6e5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8d2ce4c1-255b-4d71-960e-3cd80636b5dc)

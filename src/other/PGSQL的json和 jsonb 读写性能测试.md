@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你的臭脚被毒蛇咬了，抢救了6个小时，毒蛇终于救了过来。
+- **随机毒鸡汤**：只有有钱的人，才会视金钱如粪土。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6d88f880-daf8-46e5-b4b7-a6922f48af61)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fc5648a2-281d-4462-be2a-fb52a1bf5953)

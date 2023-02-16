@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一寸光阴一寸金，坐着静静花钱的感觉真好。
+- **随机毒鸡汤**：曾经以为三十岁很远，不料现在，十八岁已是很久以前。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e71a8403-b874-4771-96b9-afd5fa8cdc58)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ab6d8030-d568-4299-a0bf-5b87f9dde881)

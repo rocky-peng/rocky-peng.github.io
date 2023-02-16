@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要和穿船袜的人握手，因为你不知道TA，最近一次抠脚是什么时候。
+- **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=960c456d-77f5-4335-bc4c-8128f08c4e26)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=33db46bc-1b40-4de7-9457-1c46e72c171c)
