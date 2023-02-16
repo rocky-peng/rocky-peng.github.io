@@ -6,6 +6,6 @@
 2. 按照vuepress-theme-hope博客项目重写备份的notion笔记
 ---
 ---
-- 随机毒鸡汤：车到山前必有雾，船到桥头自然沉。
+- 随机毒鸡汤：灯红酒绿蒙蔽眼，粗茶淡饭见人心。
 ---
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

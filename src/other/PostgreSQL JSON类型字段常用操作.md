@@ -106,6 +106,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 ![Untitled](https://cdn.justdopay.com/notion/md5-af25be7103d393e043d2bfea53a1b981.png)
 ---
 ---
-- 随机毒鸡汤：众里寻她千百度，蓦然回首，那人依旧对我不屑一顾。
+- 随机毒鸡汤：单身狗冬天就不要出去了，要是摔倒了，会变成旺旺碎冰冰的。
 ---
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

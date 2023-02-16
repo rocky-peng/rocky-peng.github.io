@@ -159,6 +159,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 ```
 ---
 ---
-- 随机毒鸡汤：「习惯了」，是个很强大的短句，它能代替所有的一言难尽。
+- 随机毒鸡汤：你这么努力，忍受了这么多寂寞与痛苦，也没见你多优秀啊。
 ---
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

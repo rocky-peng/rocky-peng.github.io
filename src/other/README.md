@@ -25,6 +25,6 @@ title: 其他
 [WebSocket SpringBoot Demo](./WebSocket%20SpringBoot%20Demo.md)
 ---
 ---
-- 随机毒鸡汤：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
+- 随机毒鸡汤：五年前我加入一个单身群，我们说脱单了就退群，现在我是群主!
 ---
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

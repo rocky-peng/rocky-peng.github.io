@@ -45,6 +45,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 ```
 ---
 ---
-- 随机毒鸡汤：今年圣诞推迟14天，因为圣诞老人过来要隔离。
+- 随机毒鸡汤：不是说好一起到白头，你却半路秃了瓢。
 ---
 ![](http://api.btstu.cn/sjbz/?lx=meizi)
