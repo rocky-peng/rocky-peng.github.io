@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：56个民族，55个加分。
+- **随机毒鸡汤**：我的原则是，人不犯我 我不犯人，人若犯我 我就生气！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=484e9617-c910-42a2-93fb-d978ae559dfd)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=722ecc78-f7a3-4657-a939-a5b1c9fd82e2)

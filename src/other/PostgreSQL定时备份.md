@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：哪里会有人喜欢孤独，不过是，不喜欢失望罢了。
+- **随机毒鸡汤**：每个人都有追求幸福的权利，但幸福，也有不让你追上的权利。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a2a6c564-40df-4b27-b266-7e9f776c6255)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=46677369-cb05-4485-b462-949f2546768d)

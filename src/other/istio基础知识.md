@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：吃亏是福，那我大概是个福娃。
+- **随机毒鸡汤**：不要低估你的能力，不要高估你的毅力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7916ed5c-5622-4a5c-9739-64de4cdfbf94)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=905fdfea-3781-4c39-9669-08434fdb4a4e)

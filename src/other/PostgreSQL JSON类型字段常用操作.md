@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们被困在家里，已经很幸运了，而有些人被永远困在了2020。
+- **随机毒鸡汤**：誓言两个字都有口，偏偏有口无心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5b8f998e-9f75-4697-b6e3-10616f67bae5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3875798f-923e-4ecf-bcd1-b00bf1c97ec4)

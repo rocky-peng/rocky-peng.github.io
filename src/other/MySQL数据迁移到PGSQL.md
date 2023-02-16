@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：虽然我长得丑，但是买了漂亮衣服，我就可以丑的漂亮。
+- **随机毒鸡汤**：无论最后我们疏远成什么样，一个红包，就能回到当初。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4de79546-eae7-40e3-aff7-b931aa90e5fb)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=13ff99dc-f84f-4362-8122-ce3f010648ec)

@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：到了一定年龄，别人问你多大了，你得稍微算一下。
+- **随机毒鸡汤**：期末考试那天，记得穿好衣服去考场，那样你就不算裸考了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d3c5a48-0ab5-4443-a629-2e5a670631c9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6725955d-2687-4991-9f29-53901dbbf5d4)

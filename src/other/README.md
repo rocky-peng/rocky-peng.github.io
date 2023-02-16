@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成年人的世界，除了长胖，其他什么都不容易。
+- **随机毒鸡汤**：想奋斗？手机能从你的手上拿下来，就算是拼搏了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f69f733b-ae36-4e40-967b-5382a436eaef)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3e90820e-752a-46f8-b47b-d7c813e9c066)

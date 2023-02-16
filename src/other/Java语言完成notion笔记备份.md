@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你不用心去谈一次恋爱，你就永远不知道，这到底有多浪费时间。
+- **随机毒鸡汤**：爱从不会消失，只会转移。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=68f29567-7967-4e14-8dfb-c5f2cc7cc360)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f10bc414-a2de-4c3b-8f49-9bbe96ef2f4b)

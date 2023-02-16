@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：夜长未必梦多，但想吃的是真的很多。
+- **随机毒鸡汤**：真的喜欢学习，那种学不到脑子里的东西，真令我着迷。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=92f5f7a0-e467-4e12-b385-d76926966cd7)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f6e39da-ede2-4e00-a9fc-d699f59a4c16)

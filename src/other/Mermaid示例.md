@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：做人当如咸鸭蛋，闲的冒泡，富的流油。
+- **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0944cf1-b3a2-4e29-8781-ca5b4315d8ba)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3d650ded-9d78-4450-ab01-662cf9a5119f)
