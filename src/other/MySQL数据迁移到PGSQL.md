@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：让人失望这方面，我从来没让人失望过。
+- 随机毒鸡汤：我们的欲望各不相同，但是失望的样子，却一模一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?lx=m_dongman&t=1676537862655)

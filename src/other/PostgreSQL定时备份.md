@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：不是你变了，不是我变了，是时间变了。
+- 随机毒鸡汤：既然万事万物都有联系，那你为什么不联系我？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&t=1676537865235)

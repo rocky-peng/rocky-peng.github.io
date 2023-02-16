@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：只要好好发挥，总能搞砸一段感情。
+- 随机毒鸡汤：承蒙你出现，够我心烦好多年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?lx=dongman&t=1676537865560)

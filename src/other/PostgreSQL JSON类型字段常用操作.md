@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：别闯红灯，闯得好快几十秒，闯不好快几十年。
+- 随机毒鸡汤：心脏病发作起来，可能连送去ICU，参加复活赛的时间都不给。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&t=1676537864904)

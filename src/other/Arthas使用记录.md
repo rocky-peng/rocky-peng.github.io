@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：人生就像一个茶几，上面摆满了杯具。
+- 随机毒鸡汤：都说我们要学会分享，所以我只要有好吃的，就马上拍照分享给朋友。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?lx=dongman&t=1676537863628)

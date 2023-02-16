@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：招人喜欢不是本事，招人羡慕才是。
+- 随机毒鸡汤：科学家的多想点，是开启新世界，而你的多想点是想多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?lx=meizi&t=1676537864582)

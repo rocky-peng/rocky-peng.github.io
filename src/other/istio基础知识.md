@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：没有人能使你放弃，因为你只要努力一下，就会自己放弃了！
+- 随机毒鸡汤：女娲造人，从某种意义上证明了，人类是沙雕。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&t=1676537862335)

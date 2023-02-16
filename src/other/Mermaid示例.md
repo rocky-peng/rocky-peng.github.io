@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：有的人在为梦想而努力，有的人在为，实现别人的梦想而努力。
+- 随机毒鸡汤：不主动会失去，太主动不会珍惜，这就是人心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi)
+![](http://api.btstu.cn/sjbz/?lx=meizi&t=1676537863301)
