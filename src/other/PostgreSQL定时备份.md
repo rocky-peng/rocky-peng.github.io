@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：只是因为在人群中，多看了你一眼，你就以为我要坐你的摩的。
+- 随机毒鸡汤：不是你变了，不是我变了，是时间变了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

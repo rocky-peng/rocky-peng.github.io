@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：暗恋是在一个人的世界里，过完了你俩的一生。
+- 随机毒鸡汤：别闯红灯，闯得好快几十秒，闯不好快几十年。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)

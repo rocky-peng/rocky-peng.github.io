@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- 随机毒鸡汤：关关难过关关过，夜夜难熬夜夜熬。
+- 随机毒鸡汤：人生就像一个茶几，上面摆满了杯具。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=meizi)
