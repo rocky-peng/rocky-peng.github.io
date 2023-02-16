@@ -43,3 +43,8 @@ title: Arthas使用记录
 ```bash
 ognl '@com.xxx.SpringUtils@applicationContext'
 ```
+---
+---
+- 随机毒鸡汤：今年圣诞推迟14天，因为圣诞老人过来要隔离。
+---
+![](http://api.btstu.cn/sjbz/?lx=meizi)

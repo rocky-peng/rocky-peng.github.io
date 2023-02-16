@@ -4,7 +4,6 @@ date: 2023-01-09
 title: 其他
 ---
 
-
 [PostgreSQL JSON类型字段常用操作](./PostgreSQL%20JSON%E7%B1%BB%E5%9E%8B%E5%AD%97%E6%AE%B5%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md)
 
 [MySQL数据迁移到PGSQL](./MySQL%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E5%88%B0PGSQL.md)
@@ -24,3 +23,8 @@ title: 其他
 [HTTP1.0 vs HTTP1.1 vs WebSocket](./HTTP1%200%20vs%20HTTP1%201%20vs%20WebSocket.md)
 
 [WebSocket SpringBoot Demo](./WebSocket%20SpringBoot%20Demo.md)
+---
+---
+- 随机毒鸡汤：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
+---
+![](http://api.btstu.cn/sjbz/?lx=meizi)

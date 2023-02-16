@@ -157,3 +157,8 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 </body>
 </html>
 ```
+---
+---
+- 随机毒鸡汤：「习惯了」，是个很强大的短句，它能代替所有的一言难尽。
+---
+![](http://api.btstu.cn/sjbz/?lx=meizi)

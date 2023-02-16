@@ -109,3 +109,8 @@ gantt
 graph TD
   Mermaid --> Diagramd
 ```
+---
+---
+- 随机毒鸡汤：别总问我，不谈恋爱是因为挑吗？你不上清华是因为不喜欢吗？
+---
+![](http://api.btstu.cn/sjbz/?lx=meizi)
