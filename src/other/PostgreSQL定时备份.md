@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：兴趣是最好的老师，饥饿是最好的厨师。
+- **随机毒鸡汤**：哪里会有人喜欢孤独，不过是，不喜欢失望罢了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e01728e7-c211-456d-a7a6-a302c94c28b7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a2a6c564-40df-4b27-b266-7e9f776c6255)

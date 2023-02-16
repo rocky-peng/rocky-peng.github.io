@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没有什么过不去，只是再也回不去。
+- **随机毒鸡汤**：虽然我长得丑，但是买了漂亮衣服，我就可以丑的漂亮。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b3f02776-f83e-441c-82be-2367f23367ad)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4de79546-eae7-40e3-aff7-b931aa90e5fb)

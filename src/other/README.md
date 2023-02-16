@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：路遥知马力不足，日久见人心不古。
+- **随机毒鸡汤**：成年人的世界，除了长胖，其他什么都不容易。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ad4d8453-88df-497a-8e55-5e091e0c730d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f69f733b-ae36-4e40-967b-5382a436eaef)

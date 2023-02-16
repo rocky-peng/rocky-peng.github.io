@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：晚上睡不着，白天睡不醒。
+- **随机毒鸡汤**：到了一定年龄，别人问你多大了，你得稍微算一下。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_dongman&uuid=3595244f-d833-49c8-a7ca-ed450d5ad5bc)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d3c5a48-0ab5-4443-a629-2e5a670631c9)

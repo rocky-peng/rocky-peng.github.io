@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：女人化妆，男人撒谎，以便相互欣赏。
+- **随机毒鸡汤**：吃亏是福，那我大概是个福娃。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6dad967b-3932-44b7-87c3-8d62208c6c5a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7916ed5c-5622-4a5c-9739-64de4cdfbf94)

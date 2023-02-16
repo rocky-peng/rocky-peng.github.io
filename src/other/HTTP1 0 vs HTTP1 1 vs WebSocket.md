@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最熟悉的陌生人，就是p过图后的自己。
+- **随机毒鸡汤**：夜长未必梦多，但想吃的是真的很多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=327d1664-52ec-4cc0-9f64-e48068469f68)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=92f5f7a0-e467-4e12-b385-d76926966cd7)

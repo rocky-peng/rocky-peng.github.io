@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人问你有谈恋爱吗？只要说现在没有，就能掩盖过去也没有的事实。
+- **随机毒鸡汤**：我们被困在家里，已经很幸运了，而有些人被永远困在了2020。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8e01d1d1-644a-4284-8ad0-ccb97914906a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5b8f998e-9f75-4697-b6e3-10616f67bae5)

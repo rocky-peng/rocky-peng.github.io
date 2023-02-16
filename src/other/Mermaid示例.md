@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：熬夜时多喝菊花茶，因为，猝死的时候会香一点。
+- **随机毒鸡汤**：做人当如咸鸭蛋，闲的冒泡，富的流油。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_dongman&uuid=e5ed5a17-8c44-4d41-880f-5a53a8e9769e)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0944cf1-b3a2-4e29-8781-ca5b4315d8ba)

@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：能从上到下摸遍你全身的，也就只有，车站安检员了。
+- **随机毒鸡汤**：你不用心去谈一次恋爱，你就永远不知道，这到底有多浪费时间。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9d4d31b1-7c04-44bd-803d-b40f17f7b2a7)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=68f29567-7967-4e14-8dfb-c5f2cc7cc360)

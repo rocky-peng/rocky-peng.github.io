@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你的护肤品真好，不然你的脸，为什么保养的这么厚？
+- **随机毒鸡汤**：56个民族，55个加分。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=meizi&uuid=aa574f73-3d68-49cd-aee3-ff2ed0fd68fd)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=484e9617-c910-42a2-93fb-d978ae559dfd)
