@@ -67,12 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：前世五百次的回眸，却换来今世的一句，“流氓”。
+- **随机毒鸡汤**：网上我们用着假名说真话，现实我们用着真名说假话。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bd21f534-dda0-4d84-9df7-70fe45b434e5)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：长得帅的踢键子都帅，长得丑的，打高尔夫都像在铲屎。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b88bd0dd-28f7-4099-a2d0-bb61459f1d3e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dc356637-e1a4-4fa2-807e-ba30b7510da2)

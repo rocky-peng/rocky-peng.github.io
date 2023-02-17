@@ -20,12 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：疫情当前，少移动不联通，——中国电信。
+- **随机毒鸡汤**：如果婚姻是爱情的坟墓，那么相亲是，为坟墓看风水！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a71f1477-391a-4337-87ec-fd559ed19ca1)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：别人的钱财，乃我的身外之物。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b7e00c52-ce38-4a15-af76-468bc865c71c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cafe6a23-9037-4362-a0d7-b90948707245)

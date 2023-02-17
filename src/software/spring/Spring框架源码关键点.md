@@ -365,12 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：发财和发朋友圈，总得发一个吧。
+- **随机毒鸡汤**：知道为何自古红颜多薄命吗？因为没人在意丑的人活多久。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=82dcf5b8-8931-4e59-80f5-3011cad429cd)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：我爸开法拉利，我妈开玛莎拉蒂，我开玩笑。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7bb4d479-dc3e-4b62-a082-0db84b5eb61f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=705f6e6c-ac63-4ec8-b7bb-86818805bb33)

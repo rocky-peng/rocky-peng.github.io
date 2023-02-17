@@ -810,12 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都别傻了，他要是真的想守护你，为什么你家楼下保安不是他？
+- **随机毒鸡汤**：十倍速亲近你的人，会在未来某个时刻，十倍速离开你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=136c4931-3b56-4af3-89d3-ae4cd712fd70)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：人生如歌我跑调，人生如戏我穿帮，人生如梦我失眠。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b866c132-91a0-4ce6-a7ce-54790b165af3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=06c5e1bb-40d6-4b7b-a04d-9a2a6b71e7ea)

@@ -144,12 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的愿望是财源滚滚，现在完成了四分之三，圆滚滚。
+- **随机毒鸡汤**：你以为你缺的只是钱吗？你是不是忘了，你还缺心眼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6fe82f4b-dc51-4827-9764-c32f56858a90)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：不要觉得自己活着很多余，你活着还有别的用处，比如凑数。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=17a65fa5-0d8f-4489-a7e9-c9541447ab1d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7a9f938c-4a54-491a-ab7e-10838ce33c7a)

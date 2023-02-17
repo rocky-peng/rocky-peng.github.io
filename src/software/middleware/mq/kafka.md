@@ -24,12 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人生本来就苦短，你却还想着走捷径。
+- **随机毒鸡汤**：我能对你最好的祝福，就是参加你的每一次婚礼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0fcf1a24-7069-43f0-ad41-200b264dc03f)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：这两天雨水多，下雨记得打伞，否则脑袋容易进水。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1b95559c-2503-4b6a-a45e-3e2c2dce9e4a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ef455679-d40e-4f6b-be23-ac16898c29e8)

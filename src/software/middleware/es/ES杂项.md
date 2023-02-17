@@ -34,12 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：知道备胎为什么是圆的吗？因为方便滚啊。
+- **随机毒鸡汤**：别说自己活的像狗一样，看看那些宠物狗，你会发现活的不如狗。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=15a06af3-05a5-412d-8e0f-2596539f1a08)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：对你竖大拇指的人，不一定是在夸你，也可能是用炮在瞄你。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7edaacb9-deac-422b-b853-c9a0a20d6150)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=360b5e81-2633-48f5-8e10-dd4b9c952b5e)

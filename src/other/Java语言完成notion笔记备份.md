@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：闺蜜闺蜜，终归有自己的秘密。
+- **随机毒鸡汤**：安全感是什么？就是在上学快迟到的时候，在路上碰到同班同学。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7d4c476c-ed0f-4830-91d6-3e605a497c9a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b16bc805-5cd7-4daa-b45c-aed215e21be1)

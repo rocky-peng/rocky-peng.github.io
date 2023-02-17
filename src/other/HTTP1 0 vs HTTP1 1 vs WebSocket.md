@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我这辈子没做过坏事 ，为什么会被生活，勒出小肚腩和双下巴？
+- **随机毒鸡汤**：不思进取的浑噩度日，那不叫活着，只能叫没死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f9278217-0ff8-4ad1-a6a5-6fb9660b7c49)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=670ae717-2068-48f6-b6f1-731490df2367)

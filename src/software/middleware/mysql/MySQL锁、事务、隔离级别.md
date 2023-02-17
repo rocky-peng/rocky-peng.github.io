@@ -465,12 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：千万别戒烟，戒了晚死好多年。
+- **随机毒鸡汤**：兴趣是最好的老师，饥饿是最好的厨师。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b105fc4e-b7ea-4a80-b836-4b75296d55b0)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：万死不辞的最新解释是，被气死一万次也不舍得辞职。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0e3d884f-a4fd-418d-9aa6-3e98adf54729)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c48476a-3047-431a-9577-2b9039008e1f)

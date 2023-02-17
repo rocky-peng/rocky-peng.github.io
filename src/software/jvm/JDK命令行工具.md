@@ -299,12 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：山不在高 有仙则灵，水不在深 有龙则灵，斯是陋室 三万一平。
+- **随机毒鸡汤**：我说哪句话让你伤心流泪了，请告诉我，我再说一遍。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=447dfc77-b116-49c0-bb8b-f61e668a0bde)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：经过多年的打拼，虽然你没有什么收获，但你还有一身债啊。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a1bf0fd6-e7fe-404a-825b-a38ab7db7479)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5f609fd9-5b8a-42d0-a3c1-7cba0225c345)

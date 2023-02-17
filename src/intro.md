@@ -8,12 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你在数字界和字母界，都能排第二。
+- **随机毒鸡汤**：为什么我会这么闲？这故事还得从，一个馋b和一只蝙蝠讲起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f12ff46-4b61-475b-b147-2ba8adc62ab6)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：回过头才发现，高考真的是，穷人最便捷的出路。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9cd4bfd2-b257-4c07-a16e-191d7295f94d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f1a317f6-f64b-4c05-909d-23ed5498fd05)

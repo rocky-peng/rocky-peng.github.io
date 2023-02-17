@@ -382,12 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人生苦短不要怕，遇见我，苦就长了。
+- **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6c78584a-9bd4-4e8f-88c8-8fba1ca1afe2)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：跟我比懒，你输定了，因为我都懒得跟你比。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8a4c8968-fa0a-4fce-b9a5-dff02cc6a0a3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f8e74326-8c19-4378-816c-27b51f8980d3)

@@ -37,12 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
+- **随机毒鸡汤**：是金子总会发光，这句话通常都是用来，安慰失败者的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c46f6201-4244-4a49-8bfd-5bffa9080876)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：我们的故事，始于我的打扰，终于我的多余。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a1e3c8bc-e840-4bdb-9381-40a66d0b966d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f7a10dd-2ef2-42bb-8d29-4b6e3eda732a)

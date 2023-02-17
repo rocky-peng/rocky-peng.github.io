@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：什么叫万死不辞，就是每天被气死一万次，依然不辞职。
+- **随机毒鸡汤**：我财务挺自由的，想不买什么，就不买什么。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0b5c3a56-2b7f-408b-bc53-b502424b9cfe)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2bd9c377-9add-40f0-87b4-9986964ef4c2)

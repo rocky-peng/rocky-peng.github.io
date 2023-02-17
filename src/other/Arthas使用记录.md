@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是你哪里不好，其实你哪里都好，就是没钱这点不好。
+- **随机毒鸡汤**：原以为生命是个奇迹，实际上你只是个劳动力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e0893911-af27-4be2-b313-ed4beda0b6bc)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e525c20a-4266-40ee-ac5b-69d3681d4103)

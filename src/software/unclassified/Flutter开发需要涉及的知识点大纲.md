@@ -30,12 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果我老了怎么办？那些广场舞都好难。
+- **随机毒鸡汤**：活了这么多年发现，唯一坚持下去的，就是每天给手机充电。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=751ed1e1-9cdc-4ff9-bf46-6584d0c5dfbf)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：要记住陪你聊到深夜的人，就是他让你，黑眼圈那么重皮肤这么差。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c893acdb-dbc8-4812-af17-8bff6b3121ed)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6d2150a2-e69a-4ef0-a253-e16d3297b71e)

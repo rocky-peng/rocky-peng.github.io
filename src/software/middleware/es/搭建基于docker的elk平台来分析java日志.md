@@ -528,12 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每人一句，你说的对，世界会少很多纷争。
+- **随机毒鸡汤**：你说人命贱吧，可是一进医院就贵得不行。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e34e0c6c-0b0b-46da-9ada-74f2613baa0d)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：二十几年人生，离女生最近一次，应该是小学同桌。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=abd42285-2173-4346-a28a-1a50848d269b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7de77d3b-cd3f-4537-97e8-963569f811f5)

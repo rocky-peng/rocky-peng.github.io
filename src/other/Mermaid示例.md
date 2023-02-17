@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：少年不知愁苦，中年日夜劳苦，老年落寞孤苦。
+- **随机毒鸡汤**：开车我最讨厌两种人，一种是喜欢加塞的人，另一种是不让我加塞的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04b7afa8-8e1c-42be-868f-c79168b5a8d2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=30a4785f-1d46-467f-a1a4-68559de3ff1d)

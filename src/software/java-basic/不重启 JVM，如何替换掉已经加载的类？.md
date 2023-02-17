@@ -230,12 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：事事如意料之外，年年有余额不足。
+- **随机毒鸡汤**：一只猪被孤立，于是它变成了朱古力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0d68f2dd-3bb0-493c-8659-0e9ef8da6d35)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：可以回头看，但别往回走了，因为逆行是全责。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6faa0529-7b3b-405c-b819-229837be89ad)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7d8871cd-f75f-49ab-9119-079b1a78256c)

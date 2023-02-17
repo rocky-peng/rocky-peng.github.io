@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要轻易向命运低头，因为，一低头就会看到赘肉。
+- **随机毒鸡汤**：喜欢的东西太贵了，我一咬牙，决定不喜欢了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ca502eae-02be-4ebf-bd43-7e4133c1c6c0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b6eebb6e-ad34-4627-8efc-f7df681982d1)

@@ -41,3 +41,9 @@ tagline: 你可以在这里放置你的口号与标语
 
 # footer: 自定义你的页脚文字
 ---
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有什么别有事，没什么别没钱，动什么别动情。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c8a4bce8-da49-46d9-8f17-babcdc44b471)

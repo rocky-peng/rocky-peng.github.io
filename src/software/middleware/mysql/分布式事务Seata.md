@@ -43,12 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：把性格交给星座，把努力交给鸡汤，把考试交给锦鲤。
+- **随机毒鸡汤**：曾经的我你爱搭不理，现在的我，我自己都看不起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=09e590fe-1f39-4e48-b9d7-3dfe88209a96)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：人还是刚认识的时候最好，虚伪又浪漫，新鲜又热情。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=905830f7-f5ea-4b50-b33f-8b3d9a4897ed)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fba542a2-ca10-492f-8d37-09e4faddcb57)

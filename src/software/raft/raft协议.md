@@ -62,12 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：看了年度账单，才知道自己居然，这么有钱。
+- **随机毒鸡汤**：如果你极度迷恋一个人，那你一定配不上他。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c3d02580-32dd-49a0-bbcb-275f485d0d7e)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：信赖就像一张纸，皱了即便抚平，也恢复不了原样了。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dd074f49-2d62-418f-a126-de74925d14f7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3c0814df-5814-492c-9b42-3d66457e316b)

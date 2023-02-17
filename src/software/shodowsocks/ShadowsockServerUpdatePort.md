@@ -22,12 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
+- **随机毒鸡汤**：夜撩了酒，酒撩了你 你撩了我，穷困潦倒了我们。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2f6dd76d-5d14-41c7-87ae-db63b02d3152)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：不要太秀，后起之秀很多。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fe1071fb-3ee2-4f13-911a-675d3b7461c6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=eb30f617-f6a1-43a4-be60-d12da8938256)

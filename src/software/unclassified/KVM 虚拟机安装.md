@@ -308,12 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有多少白头偕老，不过是同归于尽。
+- **随机毒鸡汤**：所谓成长，就是在听到波涛汹涌四个字，再也联想不到大海了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3e917c4d-44d3-4c9e-ba4e-4cffd9446087)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：有时候觉得自己变丑了，拿出身份证一看，发现多虑了。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3488d71b-f6e4-498f-977c-b8118156bae5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9bd7a7e2-f3d4-44fd-8b1f-b28f1ab55b42)

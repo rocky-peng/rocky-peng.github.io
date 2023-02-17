@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最熟悉的陌生人，就是p过图后的自己。
+- **随机毒鸡汤**：再苦不能苦孩子，再穷也得穷得瑟。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=02da0451-7472-4b4a-99cc-9d564c8ae2cb)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8f3b7f65-84e5-46cc-adbd-819429c81977)

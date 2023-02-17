@@ -84,12 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：天下没有免费的午餐，但是有免费的，苦可以吃啊。
+- **随机毒鸡汤**：熬夜时多喝菊花茶，因为，猝死的时候会香一点。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a82257b-7499-4abf-91e4-5153906306c4)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：伸手怕犯错 缩手怕错过，进一步没资格，退一步舍不得！
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6bc395f9-1ea5-47d8-b946-5cef455ca638)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=293330b1-1896-4f63-afd0-472fffebe587)

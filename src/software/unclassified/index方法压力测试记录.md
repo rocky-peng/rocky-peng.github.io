@@ -105,12 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：找不到人表白，祖国我爱你。
+- **随机毒鸡汤**：愿你们的青春，都像教堂的上空，有神经过。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=656ef457-01cc-42b7-874f-5ffe9751c3b6)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：老说找不到理想中的另一半，问问自己，成为理想中的自己了吗？
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f7633baa-4ac1-4e62-806a-0d5bdec42b9e)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0de0b231-2ac4-4ae8-9843-81200d0511b4)

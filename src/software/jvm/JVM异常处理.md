@@ -111,12 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：长得帅的不说话叫高冷，长得丑的不说话叫自闭。
+- **随机毒鸡汤**：我欲乘风归去，又恐风托我不起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=42969c9a-3f98-413c-92ba-895b3b1966e7)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：别人问你有谈恋爱吗？只要说现在没有，就能掩盖过去也没有的事实。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=827c5a7c-67c4-4a87-aabc-b1b56b6c3f9c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b99f03d3-638e-4cbe-8c32-7651ae263dbb)

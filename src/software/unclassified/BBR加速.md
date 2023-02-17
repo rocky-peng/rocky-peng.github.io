@@ -19,12 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：什么都在涨价，就是人越来越贱。
+- **随机毒鸡汤**：人家解衣服，那叫轻解罗裳，而你是给猪松绑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c3c8d2c1-7a97-4d74-bf7f-d62760080f0f)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4e4d825b-5a86-4d6a-93f3-df01e92f12f0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=aa419f2a-dc83-48fa-b8fc-184c60aec763)

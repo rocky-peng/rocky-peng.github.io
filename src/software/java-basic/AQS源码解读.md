@@ -500,12 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：明白的事越来越多，期待也就越来越少。
+- **随机毒鸡汤**：太久没牵手了，拿个泡脚凤爪，都觉得温柔。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=df71e409-6ac4-411b-a01c-edad4d45f00b)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：如果人脑和电脑实现对接，我脑子里的钱，就能转进银行账户了。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=45ff43ca-0853-416e-ac5f-59d811941b8f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d7e8de8d-1bb9-4a4c-8ba1-ce8edba35a5d)

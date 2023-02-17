@@ -34,12 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你要是不丑的话，还挺好看的。
+- **随机毒鸡汤**：我明明在花一样的年纪，却偏偏长成了多肉。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ebf553cd-b6e0-4b9f-afe7-c1d2f21e6eba)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：小时候从三阶楼梯跳下去，就能获得快乐，现在要从八楼。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ab66de54-33e5-4dab-beee-68de58e5e7eb)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=987ebac0-03e3-43fe-8562-3a283d91d448)

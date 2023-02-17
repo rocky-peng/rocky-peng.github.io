@@ -336,12 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：被忽视是因为，自己还没有优秀到，不容忽视的地步。
+- **随机毒鸡汤**：只要我辞职辞的够快，我就不会被炒鱿鱼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=678ad5b2-8d57-423c-8692-bf6ba50d979f)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：不是路不平，而是你不行。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a7873497-c712-4ffe-8ef7-05d7a0177bf6)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=12768297-c78e-48e7-8ffe-b7c4917e674e)

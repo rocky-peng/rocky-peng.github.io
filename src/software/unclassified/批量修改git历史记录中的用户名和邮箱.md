@@ -50,12 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果一个人一直快乐，那一定是装的，一直不快乐那一定是自找的。
+- **随机毒鸡汤**：每天坚持带薪如厕5分钟，相当于，每年多出5天半带薪假期。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4b3a8a8d-ccea-4b47-a33e-8545d3bbc745)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：进入长辈朋友圈，了解最新谣言。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=69ab1719-cd07-4f32-ba80-b11c3bfcbe87)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=50a9c5cf-60c7-41ca-a6ec-07e278b5b82f)

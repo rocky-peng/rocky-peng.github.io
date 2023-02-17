@@ -108,12 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：打工赚不了几个钱，但是打工能让你，没时间花钱。
+- **随机毒鸡汤**：矮是什么感觉？明明想瞪人的，硬生生成了卖萌。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cd4f5d89-670a-45a2-a6ad-b1356f02c05f)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：懒是每个人的天性，而我把它释放到了极致。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=18f8f32d-212c-4736-861d-d3f5bd02d523)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7b0bb661-a51c-47a9-b767-11348a83774a)

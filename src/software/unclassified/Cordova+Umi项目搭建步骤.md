@@ -100,12 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：关闭放假模式开启学霸模式，——对不起，您配置太低无法启用该功能。
+- **随机毒鸡汤**：我特别想关心你，可你却不生病啊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ce528b92-a8b8-4b8c-bbdd-23ab1dda18be)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：愿你所有的噩梦，都能心想事成。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=951c01f4-dbbd-40bb-accf-cc6d245c30fa)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0e115a20-76b5-4c63-9fed-9e4d830aa62b)

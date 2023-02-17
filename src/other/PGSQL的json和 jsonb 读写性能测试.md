@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？
+- **随机毒鸡汤**：春节假期要结束了，该收收心，准备过五一了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=07fbd048-96e2-43fb-8346-d1ea799e7d34)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f67dc7f1-e7df-4989-a468-bfeb245315c9)

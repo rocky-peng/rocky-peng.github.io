@@ -60,12 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：嘴巴那么能喷，莫非抹了开塞露。
+- **随机毒鸡汤**：我已经到了法定结婚年龄，请问去民政局领证的时候，老婆是自己带还是等他们发？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=05568357-15ed-46bd-8880-fa7555b0152e)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：长得帅的不说话叫高冷，长得丑的不说话叫自闭。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c26716e-48ab-4d3b-a51a-a41526d87c6a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d2d6bc89-5f26-450b-b176-4eec436d12a0)

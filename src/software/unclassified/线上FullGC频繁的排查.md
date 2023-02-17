@@ -102,12 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没有真正快乐的人，只有比较想得开的人。 ​​​​
+- **随机毒鸡汤**：一般长得好看的妹子，能靠撒娇解决的事，我都得靠威胁。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7b65745b-89d4-443d-be4f-5120a0b340c7)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：不如躺平吧，反正早晚要躺平。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0616afef-7b95-4950-91d5-0cfc2307384f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6af87bef-cc88-4de8-84e4-16eb1d590b8c)

@@ -823,12 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：本想成为大哥的女人，没想到却活成了，女人中的大哥。
+- **随机毒鸡汤**：仔细想一下，学渣们其实我们就两科不好，分别是文科和理科。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=93ed40fa-6fd3-4a03-949a-133bfb48d925)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：如果你心比天高，老天爷会让你知道，什么是命比纸薄。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f99b1fa8-3aa5-40c7-8b91-dac6f957a3f7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3011fcaf-c45a-4be1-9f4d-57b2ae504113)

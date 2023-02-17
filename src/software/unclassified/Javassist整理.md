@@ -17,12 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：又到了一切矛盾，都能用「大过年的」四个字，解决的时候了。
+- **随机毒鸡汤**：有些人努力了一辈子，就是从社会的四流，挤入了三流。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=43e2cecf-900d-452c-86cb-ed59093db041)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：熟练地运用，关我屁事和关你屁事，可以节省人生80%的时间。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b6d61677-02df-4b42-bc64-4d961f4a23c2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=804003ec-acf0-42e4-ac8e-57b8fecad1e1)

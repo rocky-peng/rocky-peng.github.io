@@ -253,12 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我恨自己安于现状，又将自己偷偷原谅。 ​​​​
+- **随机毒鸡汤**：别揪住没用的东西不放，尤其是当这个没用的东西，就是你自己的时候。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1b7b909a-68fd-4c77-8d76-0c143f683de6)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：最难的不是不原谅，而是不知从何原谅。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=167a75ac-59dd-41bb-b591-1fd491088889)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4b6150d8-2f30-4b26-a728-72da44733cdf)

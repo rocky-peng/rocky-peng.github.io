@@ -113,12 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：外貌不重要，爱情看的是感觉，可是人家对丑的没感觉。
+- **随机毒鸡汤**：你连几点睡觉，都控制不了，你还想控制人生？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1aae972a-87b1-43b3-b8c7-e6f88bbd3de9)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：二十几年人生，离女生最近一次，应该是小学同桌。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4dfe8311-34a8-4d8e-a95e-f47e1eee7b5e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d7d45c5a-dec4-4376-a176-7b7459faa41b)

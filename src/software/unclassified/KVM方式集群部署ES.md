@@ -132,12 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：给一个女神当舔狗你是备胎，给一百个女神当舔狗，女神就是你的备胎。
+- **随机毒鸡汤**：不要试图鹤立鸡群，请离开那群鸡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2c00031d-a7d1-4936-abd8-b1542746e689)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：最烦别人问我工资多少，瞧不起我的方法有很多，为什么偏偏选这一种？
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2bcc8b47-4172-4bca-b456-97328f4e4bef)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=65b3a472-1248-453d-95f9-d55c7894ac98)

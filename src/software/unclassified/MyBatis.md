@@ -25,12 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的发际线，有后移症。
+- **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cef760b3-26c2-472f-bd69-bbf49601be40)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：以不变的薪水，来应万变的物价。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8d48ef87-ca38-4734-b1a2-26dfed9e74d8)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5df0a19c-d15b-4079-b604-09aec4e1f486)
