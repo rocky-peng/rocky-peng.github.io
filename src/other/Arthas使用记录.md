@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：其实老师讲的东西也不难，只是我刚好都不会。
+- **随机毒鸡汤**：你不努力就会被社会淘汰，但只要你努力，过几年才会被社会淘汰。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=09e94beb-6abf-48ed-850e-0fb3b4826f15)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3a2fa6fd-7a3a-46a0-867a-075a28ceb9c6)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：早睡早起身体好，晚睡晚起心情好。
+- **随机毒鸡汤**：为什么作业做不完？后来才发现homework，它是个不可数名词！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=da6276e0-103c-4d10-8dd0-964d0c4d8f41)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c286a9ac-46d3-431e-a3da-12b67cab6fb9)

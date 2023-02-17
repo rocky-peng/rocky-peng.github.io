@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每天都要开开心心的，这样，你就是个开心的废物了。
+- **随机毒鸡汤**：都说陪伴是最长情的告白，其实长得好看的是陪伴，长得丑的是纠缠。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=678c9655-1525-4fab-8789-9ddd89b0f44f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4fe3b760-ff43-455c-8efb-8949884eb1f6)

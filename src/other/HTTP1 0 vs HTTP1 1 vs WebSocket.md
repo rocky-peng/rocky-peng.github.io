@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：困难就像弹簧，你弱他就强，你强它更强。
+- **随机毒鸡汤**：有人说我是猪，我觉得也就只有猪看人，才会像猪吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=214dda76-8c28-4836-94bb-ebe8cd7b0cbc)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=78787ee4-8765-49f9-8d49-e28e157e418c)

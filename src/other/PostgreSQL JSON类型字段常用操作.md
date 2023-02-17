@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你曾是我的太阳，是我的整个世界，现在想想也就是个球。
+- **随机毒鸡汤**：真正的吃货，是可以把月供看成月饼的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=33ec3155-c127-4698-ab56-00021b54769b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=03b885fb-40ec-45b8-8f5c-2aa81a085ab6)

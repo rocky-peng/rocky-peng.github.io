@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓进退两难，抬头有抬头纹，低头有双下巴。
+- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=71118eee-1727-4a0f-9d3e-7587d3929a93)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=30915694-6f6c-46e4-ac09-db93c45597bd)

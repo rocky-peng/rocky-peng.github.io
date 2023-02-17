@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：掉在桌上的饭，还能不能吃？要看有没有人看见。
+- **随机毒鸡汤**：很多人甘于平凡，那是因为他们明白，就算你不甘心又能怎样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d544458-dd8b-4949-951e-bb1e7fe97527)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f1847946-164c-4a3a-971f-b81f674637d3)

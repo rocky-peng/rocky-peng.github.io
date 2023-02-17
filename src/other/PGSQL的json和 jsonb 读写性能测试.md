@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：能用钱解决的都不是问题，但如何有钱，才是你最大的问题。
+- **随机毒鸡汤**：恋爱时会觉得像吸毒一样，分手了又会像戒毒一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f9cc6710-e115-45d5-b063-9c7e77bc75bf)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=41bae3f4-2e32-4d67-9bd0-036f25952b43)

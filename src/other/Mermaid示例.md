@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：若没有身份，连吃醋都要把握好分寸。
+- **随机毒鸡汤**：古有照妖镜，今有卸妆水。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=82333450-52bb-4383-8085-624c82037727)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=75c919bb-da26-4a4b-8f35-f3ea8981e2b6)

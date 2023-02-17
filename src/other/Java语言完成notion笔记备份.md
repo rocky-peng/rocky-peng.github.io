@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：很多人甘于平凡，那是因为他们明白，就算你不甘心又能怎样。
+- **随机毒鸡汤**：有时候，我也很羡慕地板，有那么多头发。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1328b732-aa5c-4031-83fb-96762e030150)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=15bfe9b9-c855-4954-8dad-0205d562a263)
