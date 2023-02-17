@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在家宅着，圆了我当皇帝的梦，朕乃“闲疯帝”。
+- **随机毒鸡汤**：相遇是猝不及防，而离别是蓄谋已久。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3c02c55f-1051-45b5-a01f-c3d1e0f25098)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dd3d7fc0-d07a-4995-a96f-349073436d31)

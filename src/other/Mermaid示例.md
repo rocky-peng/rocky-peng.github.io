@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：居然真的有男孩子愿意，凌晨跑来送我想吃的东西，就是配送费贵了些。
+- **随机毒鸡汤**：明天估计会有人，手捧玫瑰花和我说，麻烦让一下。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=156aa133-85ff-41e4-927b-e5cbd3a00fb8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4e58096c-fe2a-4769-be12-046fd03bd011)

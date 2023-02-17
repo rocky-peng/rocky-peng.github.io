@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：好想谈一场，你妈妈拿着一千万，让我离开你的恋爱啊。
+- **随机毒鸡汤**：能者多劳，过劳死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=45bbc1c9-fa89-47e2-a054-12cc398f6b5b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1841b4e8-dedd-447d-bbcf-3187b3d18641)

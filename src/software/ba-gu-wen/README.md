@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：创业只要你坚持，总有一天，会亏完的。
+- **随机毒鸡汤**：不要因为一门数学，就轻易失去信心，你又不止这一门不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a24a52e9-26f4-444f-a3fe-208ab2f6ca22)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0492df2-fcd5-4feb-bf05-a4c55af32bce)

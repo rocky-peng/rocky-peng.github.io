@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：青春期的爱情是精神鸦片，不管你吸没吸，背后总站着无数个林则徐。
+- **随机毒鸡汤**：让你等太久的人，最后都不会选择你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=201764ac-e1cd-40ca-bb03-8bb91abf2c24)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=87a13e31-b730-4593-b3e5-aa95d4df1ede)

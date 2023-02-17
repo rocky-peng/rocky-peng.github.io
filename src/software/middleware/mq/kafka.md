@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：借别人钱就总是会抬不起头，所以我到现在，都不敢见马云。
+- **随机毒鸡汤**：哪有什么坚强，全靠死撑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e8cf30d0-c468-4253-b5a4-af168a6102b3)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7347eb05-d068-4ce5-8ab0-5e7b08ba9153)

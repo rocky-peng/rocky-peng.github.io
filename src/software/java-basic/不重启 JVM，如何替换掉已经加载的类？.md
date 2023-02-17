@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：二十几年人生，离女生最近一次，应该是小学同桌。
+- **随机毒鸡汤**：知道老实人为啥总被欺负吗？数一下这话字数你就知道了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=733a3e0e-a420-4519-a720-51c5cf7b4265)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ded75815-f22f-4bc3-8f77-9c3f2db26f8a)

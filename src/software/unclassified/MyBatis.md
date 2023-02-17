@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：屎到淋头，还想搅便。
+- **随机毒鸡汤**：当你上厕所没纸的时候，就会知道为什么，厕所也叫洗手间了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=03cbef62-d0af-4cdb-b778-468f4baa7c19)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9da7976-59d2-4868-ad56-a72f11e95de9)

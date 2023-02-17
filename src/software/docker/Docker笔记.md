@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：单身脱发又没钱，跑步进入中老年。
+- **随机毒鸡汤**：愿你以后，有酒有肉有姑娘，姑娘丑的不像样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c851225-878c-4ec9-a85f-42d05ef6eeac)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ed31d26d-869e-45eb-b4e8-988720b7a5c1)

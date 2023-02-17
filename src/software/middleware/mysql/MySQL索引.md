@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我需要你的指点，但不需要你指指点点。
+- **随机毒鸡汤**：不期待任何人，也不想被任何人期待。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2501dc9a-b2ea-4764-bd3b-96dd8af303d8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e1aad71b-b3ca-43e4-870c-b3cd1dd5b839)

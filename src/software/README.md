@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：也许岁月是最好的解药，你看我已经记不清，上周你是在哪天借我钱了。
+- **随机毒鸡汤**：小时候我们都很快乐，因为那个时候我们，丑和穷都还不是那么明显。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a9907c4d-d126-4f1d-9aaa-1bbd33a8c18b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=cb0af5fb-2ce5-44cf-bfb8-772bff8991f5)

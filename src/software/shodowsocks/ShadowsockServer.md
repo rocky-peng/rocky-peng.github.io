@@ -31,6 +31,6 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有的人呢不打不相识，但是也有人不打不识相。
+- **随机毒鸡汤**：做人一定要自信，毕竟你是唯一一个，相信你的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=baffa884-3aea-4ba0-9086-deb0448ef1ae)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bfaf6e2e-2df8-4845-9f6f-efaadc834557)

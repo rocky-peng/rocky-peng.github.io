@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：掉在桌上的饭，还能不能吃？要看有没有人看见。
+- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3b189654-a840-4cb8-850d-0d2291f8d660)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ac5ca70d-43d0-4972-b1d8-54c98d73a086)

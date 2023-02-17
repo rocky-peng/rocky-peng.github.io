@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要轻易看不起谁，就算是杀马特，发量都比你多。
+- **随机毒鸡汤**：去买副象棋吧，那里有对象。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=15e993b5-2ce9-4388-a92d-5ec147bc5600)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88650f79-6e32-4f1c-9cd0-a5176476121c)

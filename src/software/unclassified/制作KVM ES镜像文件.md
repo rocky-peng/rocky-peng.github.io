@@ -72,6 +72,6 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：自卑到了一定程度，就连拒绝，都害怕伤害别人。
+- **随机毒鸡汤**：只要我用精神胜利法，就永远不会失败。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ee9a023c-2b1a-42f9-a5c9-f876a5a573da)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a61c2f96-c115-499a-aa0c-97b29798e15f)

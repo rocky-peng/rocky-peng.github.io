@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：永远不要借钱给不熟的人，因为他在熟人那，已经借不到钱了。
+- **随机毒鸡汤**：说好我们一起到白头，你却偷偷焗了油。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=26f39a75-e1c4-4603-a7db-586aebc33b72)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a3c44061-77f8-4592-9eab-bae74f63227a)

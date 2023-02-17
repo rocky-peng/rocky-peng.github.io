@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我依稀记得，当初学会网购，是为了省钱…
+- **随机毒鸡汤**：早上班一小时没人记得，早下班一分钟就被人惦记。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ada059c1-0dad-45e6-a1e9-1b0458a9bdb0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ca318fdb-9998-4212-bae8-595f4813053c)

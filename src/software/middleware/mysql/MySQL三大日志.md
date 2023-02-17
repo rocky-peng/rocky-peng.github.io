@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：生活不会放弃你，但也不会放过你。
+- **随机毒鸡汤**：认真读完这段话，你就会发现这段话，和你一样毫无价值和意义。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=829c405b-8fd5-4e6a-95e4-50658b7cd6b6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=305a4808-6a57-4c67-9862-aaa4d87b22da)

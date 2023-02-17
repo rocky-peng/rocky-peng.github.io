@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：他随便发的朋友圈，你却当成阅读理解做半天。
+- **随机毒鸡汤**：明明是被社会排斥，却做出高调排斥社会的样子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8b5a2512-ce64-434f-90ac-8cf292351de5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=143a8518-a8a0-462d-9827-e47e0b407a25)

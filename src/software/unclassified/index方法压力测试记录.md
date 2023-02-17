@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：打工人心情不好的时候，骂公司总是没错的。
+- **随机毒鸡汤**：减肥就是3天打鱼，362天晒网。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d95c9cf2-9985-4488-b762-6e982a3f8bc1)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f7a6a79-dedc-45b6-8f52-9d772ffeaee7)

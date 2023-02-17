@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：凡事先想想自己配不配，如果配，那就是想多了。
+- **随机毒鸡汤**：中国为什么树少？因为作业卷子太多了！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b49e0af0-8778-4715-a6fc-0dfd24861871)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a73555ed-cf05-4999-af7a-c012b7f174c7)

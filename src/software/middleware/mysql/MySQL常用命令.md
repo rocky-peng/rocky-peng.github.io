@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：那些人人羡慕的精英，其实过得不如你想象的好，但肯定比你是强得多。
+- **随机毒鸡汤**：苟富贵勿相忘，若富贵，你是谁？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e1d61a6a-5428-4b9c-9d0b-7f47ae261aaa)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eabbd48c-5109-430a-9703-b9a63613eb6b)

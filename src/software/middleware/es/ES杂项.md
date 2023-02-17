@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：保持美丽的秘诀，以前是睡觉，现在是P图。
+- **随机毒鸡汤**：你为什么难受，因为你在乎的太多，在乎你的太少。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=90ef74cf-ac26-44f7-a083-788e409ff595)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=70cd72d8-3f0d-468b-b304-cc827831793f)

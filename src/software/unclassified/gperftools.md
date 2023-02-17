@@ -162,6 +162,6 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：闹钟虐我千百遍，我待被窝如初恋。
+- **随机毒鸡汤**：俗话说祸不单行，可见连祸都是有伴儿的，你再看看你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9d0fc7d5-65e8-48ce-8693-6c0fabf49960)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4bd4d3bd-a43f-4870-af48-c022b8e6830e)

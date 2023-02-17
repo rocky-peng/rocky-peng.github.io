@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：朋友说借点儿钱回头给你，之后我才知道，有些人一转身就是一辈子。
+- **随机毒鸡汤**：当你停下来休息时，不要忘记别人还在奔跑，所以请拌倒他。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6ddf9ffe-00fc-47d3-8635-339763b2bc17)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=27af74f4-8a65-45d9-9198-cefb50822a8e)

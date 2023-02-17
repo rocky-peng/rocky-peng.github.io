@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
+- **随机毒鸡汤**：以后要对女朋友好一点，毕竟她已经瞎了，不能再受伤害了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eddbf3e7-e741-4c9e-bb2c-2ea5e6673e99)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fc91d057-57ab-45b1-9545-f91ef1324780)

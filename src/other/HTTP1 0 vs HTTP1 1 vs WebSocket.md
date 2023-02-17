@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
+- **随机毒鸡汤**：能控制住自己嘴巴的人，往往都很厉害，不管是说话还是吃东西。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=86de06ce-d0ee-44a2-85ea-fc0ed96b177b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=630f6189-a939-4ea2-ad34-a739aad99286)

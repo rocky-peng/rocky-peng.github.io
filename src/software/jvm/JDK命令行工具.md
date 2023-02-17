@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候做过的最蠢的事，可能是盼着长大吧。
+- **随机毒鸡汤**：是谁说世界上的男女，没有纯洁的友谊？我和我老公就是。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fa7e3cb0-926b-4b8e-861d-4b948769e00f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=70278b3a-0737-4d36-95f5-be15640fc2ec)

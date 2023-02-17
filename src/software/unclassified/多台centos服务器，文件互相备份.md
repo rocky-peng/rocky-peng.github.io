@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们彼此相爱，就是为民除害。
+- **随机毒鸡汤**：梦想要说出来，不然别人怎么嘲笑你？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1e47e797-6fca-48d6-90c7-b2339fbbb187)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b0d7d727-2607-4b28-aa41-f39cbf0bec41)

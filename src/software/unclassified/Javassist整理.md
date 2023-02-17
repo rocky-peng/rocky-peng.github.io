@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人家解衣服，那叫轻解罗裳，而你是给猪松绑。
+- **随机毒鸡汤**：就算是Believe，中间也藏着一个lie。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=95f88027-a61a-4b87-b461-40a7a31dabb3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=861789b3-9295-4e88-bb62-44b1ce74d0c1)

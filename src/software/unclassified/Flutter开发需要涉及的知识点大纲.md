@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我这人吧，永远不要挑战我的底线，否则我又得修改底线。
+- **随机毒鸡汤**：我爱睡懒觉，如果要给这份爱一个期限，我希望是一万年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=39b3cc91-93f8-411c-bcf1-3b746753c0b8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=db77469f-e090-4337-aaac-e7051500b3ea)

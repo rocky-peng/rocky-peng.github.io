@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：治疗脱发，最好的办法，剃光头。
+- **随机毒鸡汤**：女追男隔层纱，男追女，隔房 隔车 隔她妈。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c307e8c1-744b-43b4-ba1a-7c1f270273ce)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a285b605-f71e-4497-a26d-01f43cc4a95f)

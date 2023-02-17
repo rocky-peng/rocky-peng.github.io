@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：即使三分钟热度，也认真了180秒。
+- **随机毒鸡汤**：每次夏天洗澡的时候，我都感觉是在帮蚊子洗菜。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2cf593d0-d924-43f4-b526-2a7da93d37aa)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c808ba25-ae3b-4979-938f-b3c589c0e9d2)

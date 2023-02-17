@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前除了读书什么都不懂，现在除了读书什么都懂。
+- **随机毒鸡汤**：与其被动失眠，不如主动熬夜。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8327218d-e522-4c91-ab90-b32904593ca3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b1042b60-8458-45ef-aadf-11efab655772)

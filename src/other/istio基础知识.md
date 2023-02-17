@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：支撑我走过来的，从来不是善良正直勇敢，而是虚荣嫉妒和不甘。
+- **随机毒鸡汤**：如果我老了怎么办？那些广场舞都好难。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6bae74e4-d80b-484c-a638-f128e67ce799)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=45288d48-7f64-4613-a873-5175d4295342)

@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人们在现实世界交换谎言，却在虚拟网络倾诉真心。
+- **随机毒鸡汤**：贫穷和自卑让我低下头，打开书。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8cfb5994-2d2a-43e2-a32b-c8009fc25ea9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=009b3e55-198b-45f8-ab22-44535a0babfa)

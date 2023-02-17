@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谣言止于智者，聊天止于呵呵。
+- **随机毒鸡汤**：别总是对我忽冷忽热，不然我会感冒的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0909cbfa-5ff5-48f0-8ee3-255fe57dc7f7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=33c3e643-53ba-48a0-ae26-1c5607098781)

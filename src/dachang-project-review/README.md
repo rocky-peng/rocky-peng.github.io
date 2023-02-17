@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有股强烈的学习欲望，幸好我自制力强，压下去了。
+- **随机毒鸡汤**：如果赚了大钱，你会干什么？ 别想了—你不是如果。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b068fa25-719a-4492-8a26-cc391549bb23)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=67f5ccd0-89ee-448d-b655-1265af5c40a0)

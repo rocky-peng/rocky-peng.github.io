@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想到这已经是，人类历史上最好的时代了，你是不是更绝望了。
+- **随机毒鸡汤**：愿你的烦恼，像你的头发一样，越来越少。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a52c9d06-d32f-4608-8ebf-9f97aae3b1ea)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=155f76ba-3a8b-4249-8602-489c7f05e7c6)

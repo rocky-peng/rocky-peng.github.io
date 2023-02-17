@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：嘴上全是情义，心里全是生意。
+- **随机毒鸡汤**：在出租车内疯狂放臭屁，可以极大的降低，司机带你绕路的概率。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01715a9f-c9b1-4f09-8f2f-d1b7203ba1ea)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0aa788bf-24bc-4614-a20d-9f32a4b80a23)

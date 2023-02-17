@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你站在女孩身边，打一个字，——妞。
+- **随机毒鸡汤**：如果不能美得惊人，那就丑得销魂吧！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=34302cf3-39bc-42ef-ac88-17f01d3b0081)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b890dce1-582f-4798-9027-8952cef00353)

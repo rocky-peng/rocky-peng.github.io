@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的目标是三十岁有套房子，现在实现一半，已经三十岁了。
+- **随机毒鸡汤**：每次看这些励志的句子，都能激起我，五分钟的学习斗志。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=192a1807-c40a-43ee-81c8-598df8e9b932)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6d15282d-b4ac-48f2-b902-160f5646be28)

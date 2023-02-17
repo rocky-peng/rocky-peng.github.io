@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世上99%的事情，都能用钱解决，剩下的1%则需要更多的钱。
+- **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9f6479e8-e958-4930-b052-c623741e9a4b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04271671-eae4-4e2d-b1e4-0fab139a1ff8)

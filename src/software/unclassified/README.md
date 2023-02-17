@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我以为我的人生，活成了故事，目前看来全是段子。
+- **随机毒鸡汤**：我承受了这个年纪，不该有的饭量。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=78e77f99-7d0e-4531-8055-eb325b0a5bcc)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ef32bbed-cda4-48b4-b5f7-71b7f8988994)

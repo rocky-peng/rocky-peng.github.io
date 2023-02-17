@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要担心辜负了别人的期待，对你有期待的，只有你自己。
+- **随机毒鸡汤**：不是我不合群，只是我合群的人，没有你而已。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fa14932-0c57-4571-a5f9-90e816783728)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=67914060-12c8-488c-92a4-46044e357e19)

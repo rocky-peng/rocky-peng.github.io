@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是理想太不现实，而是现实太不理想。
+- **随机毒鸡汤**：世界上最赚钱的方法，都写在《刑法》里了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=25fd47e1-f6f6-465e-b3f8-73b1b7ccef9a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c652963d-3475-4026-9f42-3b8b70f047e8)

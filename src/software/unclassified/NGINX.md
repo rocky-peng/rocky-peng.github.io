@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谁说金钱买不到时间？网管，再续两个小时！
+- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a66bc017-be78-4ef5-a2ea-8ce1b968023a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2b193d31-8bd5-4bea-9110-e2c883acf5c0)

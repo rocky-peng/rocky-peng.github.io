@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：趁好看的时候多照照镜子，毕竟这种错觉不是经常有。
+- **随机毒鸡汤**：总会把最坏的脾气，留给最在乎你的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=10e3d474-af56-428c-b713-c8976dec414a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ccf5df8e-1a42-4083-9fdd-723b7159cdf4)

@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一辈子是202天，因为她说爱我一辈子。
+- **随机毒鸡汤**：昨天我去看心理医生，医生说我不是抑郁症，我是真的惨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=03251e38-d409-4940-8347-2f606b9bf3d5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6f39a868-0767-4af1-9e2f-92df800745b1)

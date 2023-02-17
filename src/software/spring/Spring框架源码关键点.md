@@ -365,6 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果父母依旧辛苦，那我们长大，还有什么意义？
+- **随机毒鸡汤**：如果你把每天，都当做人生最后一天，那么总有一天…你是对的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c7b1e3ab-ba0c-40a2-900c-5ed9caa9861f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6234e767-b89b-4f21-9fa1-4c1930935481)

@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：暗恋的人没有，想暗杀的倒有一堆。
+- **随机毒鸡汤**：成年人的世界，除了长胖，其他什么都不容易。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7a57b961-ca77-41d5-a033-d9c280607aa6)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2b596468-66b9-4f66-8462-393f338de4c7)

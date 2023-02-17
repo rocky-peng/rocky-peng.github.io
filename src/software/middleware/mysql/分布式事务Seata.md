@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：承诺就像放屁，当时惊天动地，过后苍白无力。
+- **随机毒鸡汤**：只有在车站大排长龙时，才能真正意识到，自己是龙的传人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f7e65446-06aa-493d-9b17-15d8c9b9b985)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=086c8fb7-51c2-40e3-a3ca-89bbda01ee0b)

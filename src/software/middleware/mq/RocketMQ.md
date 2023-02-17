@@ -7,6 +7,6 @@ date: 2021-09-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上真的有龙吗？为什么我的朋友，都说被一条龙服务过？
+- **随机毒鸡汤**：誓言两个字都有口，偏偏有口无心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c3e9a1d0-07be-4fb5-90a3-bd854200e8da)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4ce4e950-c868-44c3-8443-8f247bd328c1)

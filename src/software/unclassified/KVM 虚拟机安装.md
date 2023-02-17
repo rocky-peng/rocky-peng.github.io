@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：好恶心的淘宝，动不动在这里猜我喜欢，我TM果然都很喜欢。
+- **随机毒鸡汤**：正月初五迎财神，那都是有钱人的事，你就洗洗睡吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=821aaf49-bb41-421e-a5cd-c77718053c58)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f9209962-5840-49ba-9d9e-ad4f045ddd9a)

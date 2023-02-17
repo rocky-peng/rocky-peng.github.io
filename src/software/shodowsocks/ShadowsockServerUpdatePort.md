@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：握不住的手，还是趁早放开吧，那也太胖了。
+- **随机毒鸡汤**：创业只要你坚持，总有一天，会亏完的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=28e72b31-26a8-4572-845d-ce5b30984bc7)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7a8ec90b-f35b-428d-ba88-a126403cf1e5)

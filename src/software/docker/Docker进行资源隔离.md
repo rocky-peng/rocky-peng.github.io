@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓土味情话，长的好看说的都是情话，长的丑说的都是土味。
+- **随机毒鸡汤**：梦想就像天上的星星，以前看得到摸不到，现在既看不到也摸不到。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=03101dc0-2fcf-4492-9a6c-5c2839031560)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8dfb9cc9-199f-45fb-833a-91ebb153bd57)

@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：多希望我的脂肪，能像朋友一样，不知不觉就没了。
+- **随机毒鸡汤**：除了生死都是擦伤，除了父母都是过客。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=026beaec-523d-4271-b767-185d2f8bcb95)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ea82f18f-745c-47ca-ba95-d25c029110fc)

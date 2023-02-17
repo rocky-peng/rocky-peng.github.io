@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3af6887d-5c35-4d33-9194-f3fbf0d594cb)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bc8a8795-894e-4401-82ac-d134e6d251f2)

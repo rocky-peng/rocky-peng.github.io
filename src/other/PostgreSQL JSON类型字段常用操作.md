@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你所谓的迷茫，就是清醒的看着自己堕落。
+- **随机毒鸡汤**：等你啊，还不如等死，死起码会来。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3daea428-151f-4330-8edd-ff0b3d0f2d06)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c85488f3-1da2-4e38-b467-fef7da6d5a34)

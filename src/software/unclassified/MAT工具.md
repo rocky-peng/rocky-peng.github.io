@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你站在女孩身边，打一个字，妞。
+- **随机毒鸡汤**：我是个干净的人，既没有恋爱的酸臭，又没有金钱的铜臭。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=17b58036-c7e1-4970-8275-62df51f277eb)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=14be556a-46c9-438c-b0fa-f1d59d8e5b9e)

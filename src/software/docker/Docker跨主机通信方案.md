@@ -113,6 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：借钱见人心，还钱见人品。
+- **随机毒鸡汤**：有一种悲哀叫做，这道数学题已经超出了，我的语文理解范围。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=49ec41d8-8878-4d03-a4ec-c42b9bbca9b4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ba3b7a04-e88f-421c-80d9-fbc367f57f00)

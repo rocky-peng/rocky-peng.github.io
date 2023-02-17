@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：听说自从你得了神经病，整个人都精神多了。
+- **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ccb4dbd5-f48e-4737-a1b4-a52755c5da29)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=84ae8b05-34a4-4f95-92a7-2045ecff351f)

@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在一直躺在家也好，至少给没钱出去玩，找了个借口。
+- **随机毒鸡汤**：多谢大家，在这一年的照顾和喜欢，这是我应得的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=945c501b-d628-4d3a-8267-02264a70051d)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=462e6409-680f-4468-bb80-471e67942656)

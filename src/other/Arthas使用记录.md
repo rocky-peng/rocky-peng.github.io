@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：就算是Believe，中间也藏着一个lie。
+- **随机毒鸡汤**：做好了叫勇敢，做错了叫冲动。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dbc97cc2-76e9-401e-b609-9f01c31d28a3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=35f27bc7-50d0-4483-9732-4fb02b6798ff)

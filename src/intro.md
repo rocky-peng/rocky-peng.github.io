@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：爱情这个东西，有的时候能打败一切，有的时候能被一切打败。
+- **随机毒鸡汤**：晚上睡不着，白天睡不醒。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=85680df2-ec62-4fb1-aaa7-3d30649305c5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4e8972a1-8a1b-416c-a021-f4b8ee956bb8)

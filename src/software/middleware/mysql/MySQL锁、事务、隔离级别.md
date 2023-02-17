@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：嘴巴那么毒，内心一定很多苦吧。
+- **随机毒鸡汤**：别人是吃几口就饱了，你是吃饱了还能再吃几口。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=469d3417-38cb-4ed1-b234-08558dd54325)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=388a9f77-4615-4cd8-9abb-9ade79935816)

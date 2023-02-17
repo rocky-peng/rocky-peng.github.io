@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果大海能够，带走我的矮丑，我就剩下黑穷两样了。
+- **随机毒鸡汤**：反正明天也一樣糟，沒必要跟今天過不去。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=16427a1e-0b96-454d-8d28-9b4f372f7c13)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ccc49c7e-9c19-4b29-bd5a-4a3513277f8a)

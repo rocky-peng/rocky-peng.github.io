@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候总以为大人不挑食，长大后才明白，他们不吃的东西都不买。
+- **随机毒鸡汤**：天没降什么大任于我，照样苦我心智，劳我筋骨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f6307b4d-124d-43c9-b559-28a89b6ccbfe)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6caa433a-9014-482c-a680-e4ebcc65ed6c)
