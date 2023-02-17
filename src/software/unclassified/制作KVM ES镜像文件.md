@@ -75,3 +75,9 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 - **随机毒鸡汤**：什么岁月静好，你特么就是懒。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0ea3c0ee-7089-439c-b8da-a1d60be63b5f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：回想这辈子，当过最大的官，也就是QQ群管理员了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=421391c3-da94-4226-b2c4-2facc6ede704)

@@ -181,3 +181,9 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 - **随机毒鸡汤**：有情人终成眷属，无情人自取其辱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5561b750-aefd-4c60-8934-9c774ceac32b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：烂并不是最糟糕的，烂都烂的这么平庸，才是最大的悲剧。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9f4bc3a8-af6b-4147-a927-35babe4e764a)

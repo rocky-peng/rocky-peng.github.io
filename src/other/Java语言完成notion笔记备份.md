@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你长得很有创意，活得很有勇气。
+- **随机毒鸡汤**：闺蜜闺蜜，终归有自己的秘密。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=58b35a9f-ce74-49b4-a539-58eb64303270)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7d4c476c-ed0f-4830-91d6-3e605a497c9a)

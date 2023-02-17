@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：考试就像雪碧，考前心飞扬，考后透心凉。
+- **随机毒鸡汤**：你说人命贱吧，可是一进医院就贵得不行。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fa1d73d7-f324-49d1-b35a-4333ebb89eb5)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=27b93dd9-ba8f-4a92-b888-674e43741347)

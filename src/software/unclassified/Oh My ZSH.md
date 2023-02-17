@@ -66,3 +66,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：如果你心比天高，老天爷会让你知道，什么是命比纸薄。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=80bfc3d3-6313-409c-a25a-f57391e9ea9d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7dc1c3d1-7ea2-40a5-8906-22719e2ecca5)

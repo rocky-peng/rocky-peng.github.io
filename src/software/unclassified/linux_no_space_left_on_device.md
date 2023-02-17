@@ -52,3 +52,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：都说正义会迟到但不缺席，这说明了什么，说明邪恶来的很准时。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0477689c-5362-4e5c-926b-c3f8f528edf4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：其实你讨厌的并不是广场舞，而是广场舞大妈。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=31c20504-c41d-40e6-bdcb-e9b7f655171c)

@@ -20,3 +20,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：又到了一切矛盾，都能用「大过年的」四个字，解决的时候了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=43e2cecf-900d-452c-86cb-ed59093db041)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：熟练地运用，关我屁事和关你屁事，可以节省人生80%的时间。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b6d61677-02df-4b42-bc64-4d961f4a23c2)

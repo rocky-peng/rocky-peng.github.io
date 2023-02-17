@@ -70,3 +70,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：前世五百次的回眸，却换来今世的一句，“流氓”。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bd21f534-dda0-4d84-9df7-70fe45b434e5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：长得帅的踢键子都帅，长得丑的，打高尔夫都像在铲屎。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b88bd0dd-28f7-4099-a2d0-bb61459f1d3e)

@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：道理懂的比谁都多，混的比谁都惨。
+- **随机毒鸡汤**：不是你哪里不好，其实你哪里都好，就是没钱这点不好。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1e3a96d0-3a96-405d-af91-4fb3e5a95dae)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e0893911-af27-4be2-b313-ed4beda0b6bc)

@@ -28,3 +28,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：我的发际线，有后移症。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cef760b3-26c2-472f-bd69-bbf49601be40)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：以不变的薪水，来应万变的物价。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8d48ef87-ca38-4734-b1a2-26dfed9e74d8)

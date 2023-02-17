@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：爱情会离开你，但数学不会，不会就是不会。
+- **随机毒鸡汤**：不要轻易向命运低头，因为，一低头就会看到赘肉。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2b2e21cf-5533-430a-b39d-2f1eef5504c4)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ca502eae-02be-4ebf-bd43-7e4133c1c6c0)

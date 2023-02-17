@@ -40,3 +40,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：只要我不努力，老板就永远过不上，他想要的生活。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=941f4f3b-6692-4f53-a202-7ccee80895e2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：生活就像新闻联播，不是你换台就能逃避得了的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1e20f85e-4e03-46c8-afd3-d04eaff351ce)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么减肥不能嘴上说说，我除了嘴哪里还会说话？
+- **随机毒鸡汤**：什么叫万死不辞，就是每天被气死一万次，依然不辞职。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0a51437b-6360-4933-a135-a850385237d1)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0b5c3a56-2b7f-408b-bc53-b502424b9cfe)

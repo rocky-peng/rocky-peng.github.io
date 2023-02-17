@@ -403,3 +403,9 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 - **随机毒鸡汤**：有人说我是猪，我觉得也就只有猪看人，才会像猪吧。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=93f214f0-3f70-482f-b14b-4a4157e46804)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：考试就像雪碧，考前心飞扬，考后透心凉。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=406a99ce-dcaa-4472-b011-aaf0c078c09c)

@@ -40,3 +40,9 @@ RpcServer:
 - **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c46f6201-4244-4a49-8bfd-5bffa9080876)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我们的故事，始于我的打扰，终于我的多余。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a1e3c8bc-e840-4bdb-9381-40a66d0b966d)

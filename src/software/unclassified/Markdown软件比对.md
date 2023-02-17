@@ -52,3 +52,9 @@ date: 2023-01-03
 - **随机毒鸡汤**：回想这辈子，当过最大的官，也就是QQ群管理员了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=761a0e89-efd1-4958-b2fb-1ba118109109)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：好人有好报这句话不假，但老好人没有。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=21daa20f-8a33-4567-9586-a21d32b7e6ba)

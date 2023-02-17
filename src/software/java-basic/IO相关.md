@@ -289,3 +289,9 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 - **随机毒鸡汤**：俗话说人无远虑，必定很有钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=238fe5e5-3951-4ada-a327-a35623b3a346)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我不敢穿的太潮，因为妈妈说，太潮容易得风湿。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9f973949-e588-47e8-b691-7a224e181cba)

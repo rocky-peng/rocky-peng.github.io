@@ -138,3 +138,9 @@ gantt
 - **随机毒鸡汤**：不要去追一匹马，用追马的时间种草，来年春天会有一批骏马到来。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1490346c-154b-4543-bdab-e1693361164a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：仰望别人不是你弱，而是你矮。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5be828ea-8d75-493c-9461-b745a087572b)

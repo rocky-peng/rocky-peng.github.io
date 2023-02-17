@@ -228,3 +228,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：56个民族，55个加分。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e7829622-92ee-4941-bc02-8649132c3247)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：友情越来越少，礼尚往来越来越多。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ca23017f-bc99-48e3-8035-9ffd0aa7adc1)

@@ -311,3 +311,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：有多少白头偕老，不过是同归于尽。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3e917c4d-44d3-4c9e-ba4e-4cffd9446087)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有时候觉得自己变丑了，拿出身份证一看，发现多虑了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3488d71b-f6e4-498f-977c-b8118156bae5)

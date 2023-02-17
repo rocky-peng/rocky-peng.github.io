@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每次看这些励志的句子，都能激起我，五分钟的学习斗志。
+- **随机毒鸡汤**：我这辈子没做过坏事 ，为什么会被生活，勒出小肚腩和双下巴？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88a7a36a-309b-4fd9-b854-14c62ddd4ab8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f9278217-0ff8-4ad1-a6a5-6fb9660b7c49)

@@ -158,3 +158,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：输的时候，你说什么都像借口。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dafa2992-9e14-4fe1-aa42-3481a44d15ee)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我觉得，我是小时候兴趣班上多了，长大才没兴趣上班。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=90ceed11-2d16-4a52-a4d0-043da5d9ad05)

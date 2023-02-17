@@ -189,3 +189,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：原来有梦想，后来发现没钱完不成梦想，最后赚钱变成了唯一的梦想。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fe1b0393-bbf9-4f02-876f-46d78192b72f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：念旧不是好习惯，尺度不稳成纠缠。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=37665d6c-791b-4235-8637-d1610dd55e9d)

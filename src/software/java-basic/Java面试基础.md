@@ -243,3 +243,9 @@ public interface Lock {
 - **随机毒鸡汤**：我连名牌都不认识几个，有时候，别人在炫富我都不知道。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2469ccab-a368-43d8-8d89-b8bfabfac3e2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：白天关注健康新闻贪生怕死，晚上熬夜游戏追剧视死如归。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d807ca17-5525-4517-9a12-bddad0e04b38)

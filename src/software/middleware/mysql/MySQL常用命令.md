@@ -530,3 +530,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：科学家的多想点，是开启新世界，而你的多想点是想多了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c3b34bc2-9b94-4cd7-81b7-76e2ad47145f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：长得帅的不说话叫高冷，长得丑的不说话叫自闭。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f50929b3-8e67-4b34-90d2-bdffa6479cb3)

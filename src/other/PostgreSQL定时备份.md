@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要轻易瞧不起人，就算是杀马特，发量也比你多。
+- **随机毒鸡汤**：最熟悉的陌生人，就是p过图后的自己。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b8c9c4c4-cd9d-4b9f-b189-d54ae03fb783)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=02da0451-7472-4b4a-99cc-9d564c8ae2cb)

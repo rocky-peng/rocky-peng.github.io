@@ -214,3 +214,9 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 - **随机毒鸡汤**：不要把秘密告訴好朋友，因為好朋友也有好朋友。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=043516dd-72a4-4584-b4a2-e824185ce2b7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：减肥没瘦怎么了？你们上班，不是也没有存款吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9dbe4b95-81a3-431d-a6b9-8e7eb1112cf6)

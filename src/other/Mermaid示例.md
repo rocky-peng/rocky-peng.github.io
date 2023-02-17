@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：减肥没瘦怎么了？你们上班，不是也没有存款吗？
+- **随机毒鸡汤**：少年不知愁苦，中年日夜劳苦，老年落寞孤苦。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e3265acf-6ccb-48c3-8557-064a63d94f6b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04b7afa8-8e1c-42be-868f-c79168b5a8d2)
