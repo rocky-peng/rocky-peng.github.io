@@ -60,3 +60,9 @@ export PATH=$JAVA_HOME/bin:$PATH
 source ~/.zshrc
 
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果你心比天高，老天爷会让你知道，什么是命比纸薄。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=80bfc3d3-6313-409c-a25a-f57391e9ea9d)

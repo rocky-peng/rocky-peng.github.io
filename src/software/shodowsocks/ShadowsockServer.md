@@ -28,3 +28,9 @@ EOF
 docker pull oddrationale/docker-shadowsocks
 docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345 -k yourpassword -m aes-256-cfb
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上最动听的话，不是我爱你，而是你的肿瘤是良性的！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e7fe7f0f-5c1f-4a4b-a8d2-204fc61569d8)

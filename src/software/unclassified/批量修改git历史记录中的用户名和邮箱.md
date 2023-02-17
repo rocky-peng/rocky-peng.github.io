@@ -47,3 +47,9 @@ git update-ref -d refs/original/refs/heads/分支名
 ```shell
 git push --force --tags origin 'refs/heads/*'
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果一个人一直快乐，那一定是装的，一直不快乐那一定是自找的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4b3a8a8d-ccea-4b47-a33e-8545d3bbc745)

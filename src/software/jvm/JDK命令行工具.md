@@ -296,3 +296,9 @@ jcmd 93526 help VM.version
 打印vm版本信息：
 jcmd 93526 VM.version 
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：山不在高 有仙则灵，水不在深 有龙则灵，斯是陋室 三万一平。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=447dfc77-b116-49c0-bb8b-f61e668a0bde)

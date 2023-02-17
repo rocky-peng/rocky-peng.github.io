@@ -105,3 +105,9 @@ md5sum 文件名
 ntpdate 时间服务器ip
 
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：打工赚不了几个钱，但是打工能让你，没时间花钱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cd4f5d89-670a-45a2-a6ad-b1356f02c05f)

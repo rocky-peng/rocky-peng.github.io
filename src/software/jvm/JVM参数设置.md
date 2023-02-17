@@ -250,3 +250,9 @@ Number of method invocations/branches before compiling [-client: 1,500]
 ## 其他参数
 详见：http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我恨自己安于现状，又将自己偷偷原谅。 ​​​​
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1b7b909a-68fd-4c77-8d76-0c143f683de6)

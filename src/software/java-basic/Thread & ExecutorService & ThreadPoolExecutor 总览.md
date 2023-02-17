@@ -333,3 +333,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 一个在程序中不再被引用的线程池如果同时没有剩余的线程，那么这个线程池会被自动的shutdown.
 
 因此如果你想即便在忘记执行shutdown方法的时候仍能正常关闭线程池，那么建议设置一个有限的keepAliveTime（针对大于线程数大于corePoolSize的那些线程），同时也执行下 allowCoreThreadTimeOut(boolean) . 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：被忽视是因为，自己还没有优秀到，不容忽视的地步。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=678ad5b2-8d57-423c-8692-bf6ba50d979f)

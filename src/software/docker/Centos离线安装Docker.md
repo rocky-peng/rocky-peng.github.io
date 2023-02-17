@@ -81,3 +81,9 @@ systemctl enable docker
 //启动docker
 systemctl start docker
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：天下没有免费的午餐，但是有免费的，苦可以吃啊。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a82257b-7499-4abf-91e4-5153906306c4)

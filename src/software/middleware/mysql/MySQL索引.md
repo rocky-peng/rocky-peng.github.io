@@ -141,3 +141,9 @@ InnoDB支持的索引
 
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我的愿望是财源滚滚，现在完成了四分之三，圆滚滚。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6fe82f4b-dc51-4827-9764-c32f56858a90)

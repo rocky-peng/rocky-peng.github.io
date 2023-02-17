@@ -19,3 +19,9 @@ ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
 
 EOF
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2f6dd76d-5d14-41c7-87ae-db63b02d3152)

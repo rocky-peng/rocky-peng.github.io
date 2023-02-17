@@ -34,3 +34,9 @@ date: 2015-07-05
     5. 根据自己情况决定是否提交到自己的远程仓库
     
     > https://segmentfault.com/q/1010000002590371
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要我不努力，老板就永远过不上，他想要的生活。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=941f4f3b-6692-4f53-a202-7ccee80895e2)

@@ -14,3 +14,9 @@ date: 2017-01-03
 
 3. 由于ClassPool需要保留所有的CtClass对象，所以如果当CtClass数量很大的时候，ClassPool可能会占用很大的内存，所以如果已知某些CtCalass对象不会再被使用，可以调用其detach方法从ClassPool中移除
 4. 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：又到了一切矛盾，都能用「大过年的」四个字，解决的时候了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=43e2cecf-900d-452c-86cb-ed59093db041)

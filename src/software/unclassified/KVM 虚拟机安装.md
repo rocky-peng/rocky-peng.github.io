@@ -305,3 +305,9 @@ ONBOOT=yes
 
 https://blog.51cto.com/zero01/2083896
 https://blog.csdn.net/wanglei_storage/article/details/51106096
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有多少白头偕老，不过是同归于尽。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3e917c4d-44d3-4c9e-ba4e-4cffd9446087)

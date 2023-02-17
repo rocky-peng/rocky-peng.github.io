@@ -222,3 +222,9 @@ D: redo log、binlog
 
 1. https://mp.weixin.qq.com/s/KUv-Mx-FRrfQpx09Xv5Itg
 2. https://mp.weixin.qq.com/s/lnLSOPQkjTkr957ds_4ZPA
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：56个民族，55个加分。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e7829622-92ee-4941-bc02-8649132c3247)

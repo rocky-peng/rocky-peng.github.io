@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有时候，我也很羡慕地板，有那么多头发。
+- **随机毒鸡汤**：你长得很有创意，活得很有勇气。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=15bfe9b9-c855-4954-8dad-0205d562a263)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=58b35a9f-ce74-49b4-a539-58eb64303270)

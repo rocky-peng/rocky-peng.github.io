@@ -27,3 +27,9 @@ date: 2018-04-23
 
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果我老了怎么办？那些广场舞都好难。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=751ed1e1-9cdc-4ff9-bf46-6584d0c5dfbf)

@@ -807,3 +807,9 @@ print _message
 [1]: https://cdn.justdopay.com/xiaoshujiang/1629080086629.jpg
 [2]: https://cdn.justdopay.com/xiaoshujiang/1629080101034.jpg
 [3]: https://cdn.justdopay.com/xiaoshujiang/1629080095471.jpg
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：都别傻了，他要是真的想守护你，为什么你家楼下保安不是他？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=136c4931-3b56-4af3-89d3-ae4cd712fd70)

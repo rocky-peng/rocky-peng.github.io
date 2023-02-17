@@ -25,9 +25,3 @@ title: 其他
 [WebSocket SpringBoot Demo](./WebSocket%20SpringBoot%20Demo.md)
 
 [随机图片在线接口](./%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8F%A3.md)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：很多人甘于平凡，那是因为他们明白，就算你不甘心又能怎样。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f1847946-164c-4a3a-971f-b81f674637d3)

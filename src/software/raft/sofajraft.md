@@ -34,3 +34,9 @@ RpcServer:
 
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c46f6201-4244-4a49-8bfd-5bffa9080876)

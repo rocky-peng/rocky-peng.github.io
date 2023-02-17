@@ -397,3 +397,9 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 ![enter description here](https://cdn.justdopay.com/xiaoshujiang/1629082515110.png)
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有人说我是猪，我觉得也就只有猪看人，才会像猪吧。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=93f214f0-3f70-482f-b14b-4a4157e46804)

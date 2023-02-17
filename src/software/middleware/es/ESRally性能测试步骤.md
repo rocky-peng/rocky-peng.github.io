@@ -363,3 +363,9 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 执行完成会有下面的一个结果输出
 
 ![enter description here](https://cdn.justdopay.com/xiaoshujiang/1629084523817.png)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你压到我头发了，这句话真的很让人羡慕，既有对象还有头发。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=073dd51e-0601-4db5-8278-eded82ac67e7)

@@ -208,3 +208,9 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 ```
 
 可以看到内存降到了500m内
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要把秘密告訴好朋友，因為好朋友也有好朋友。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=043516dd-72a4-4584-b4a2-e824185ce2b7)

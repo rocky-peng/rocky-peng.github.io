@@ -40,3 +40,9 @@ date: 2018-08-05
 
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：把性格交给星座，把努力交给鸡汤，把考试交给锦鲤。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=09e590fe-1f39-4e48-b9d7-3dfe88209a96)

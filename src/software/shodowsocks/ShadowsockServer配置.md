@@ -31,3 +31,9 @@ EOF
 
 # ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你要是不丑的话，还挺好看的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ebf553cd-b6e0-4b9f-afe7-c1d2f21e6eba)

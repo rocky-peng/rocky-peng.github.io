@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
+- **随机毒鸡汤**：为什么减肥不能嘴上说说，我除了嘴哪里还会说话？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=30915694-6f6c-46e4-ac09-db93c45597bd)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0a51437b-6360-4933-a135-a850385237d1)

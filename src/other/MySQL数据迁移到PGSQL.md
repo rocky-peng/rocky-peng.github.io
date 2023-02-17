@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么作业做不完？后来才发现homework，它是个不可数名词！
+- **随机毒鸡汤**：爱情会离开你，但数学不会，不会就是不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c286a9ac-46d3-431e-a3da-12b67cab6fb9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2b2e21cf-5533-430a-b39d-2f1eef5504c4)

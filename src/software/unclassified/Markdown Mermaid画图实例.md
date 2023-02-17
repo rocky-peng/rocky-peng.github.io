@@ -132,3 +132,9 @@ gantt
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要去追一匹马，用追马的时间种草，来年春天会有一批骏马到来。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1490346c-154b-4543-bdab-e1693361164a)

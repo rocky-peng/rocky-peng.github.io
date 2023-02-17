@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：真正的吃货，是可以把月供看成月饼的。
+- **随机毒鸡汤**：考试就像雪碧，考前心飞扬，考后透心凉。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=03b885fb-40ec-45b8-8f5c-2aa81a085ab6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fa1d73d7-f324-49d1-b35a-4333ebb89eb5)

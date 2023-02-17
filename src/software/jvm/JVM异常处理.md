@@ -108,3 +108,9 @@ import java.lang.reflect.Field;
 
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：长得帅的不说话叫高冷，长得丑的不说话叫自闭。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=42969c9a-3f98-413c-92ba-895b3b1966e7)

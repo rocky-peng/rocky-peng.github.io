@@ -97,3 +97,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 -- --gradleArg=-PcdvVersionCode=2 --gradleArg=-PVERSION_NAME=2.2.2
 
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：关闭放假模式开启学霸模式，——对不起，您配置太低无法启用该功能。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ce528b92-a8b8-4b8c-bbdd-23ab1dda18be)

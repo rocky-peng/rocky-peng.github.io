@@ -32,3 +32,9 @@ yum --enablerepo=epel install inotify-tools
 
 
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：为何越来越多的人不想结婚？不能给我爱情，还来分我的面包。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=49b70776-d020-48c9-80b9-d71fea7ff1d5)

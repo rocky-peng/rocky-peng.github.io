@@ -36,3 +36,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 欢迎各位大佬吐槽
 
 [https://github.com/rocky-peng/PasteImageToMarkdown]: https://github.com/rocky-peng/PasteImageToMarkdown/
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：表白不一定是件好事，因为会显得手黑。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2e8abf92-b6ea-4a30-8d5c-9aad18982601)

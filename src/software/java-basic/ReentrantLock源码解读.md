@@ -152,3 +152,9 @@ public ReentrantLock(boolean fair) {
     3. 可实现公平锁，sync是非公平的
     4. 可实现选择性通知，也就是可以创建多个条件队列
     5. 性能上已经不是一个选择因素了。sync做了各种优化（偏向锁、自旋锁、锁粗化、锁消除等等）
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：输的时候，你说什么都像借口。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dafa2992-9e14-4fe1-aa42-3481a44d15ee)

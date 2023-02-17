@@ -283,3 +283,9 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 
 ## Java AIO
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：俗话说人无远虑，必定很有钱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=238fe5e5-3951-4ada-a327-a35623b3a346)

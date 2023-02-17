@@ -64,3 +64,9 @@ cp nginx.conf  nginx.conf.bak
 
 ![](https://cdn.justdopay.com/xiaoshujiang/1629080026033.jpg)
 ![](https://cdn.justdopay.com/xiaoshujiang/1629080008840.jpg)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：前世五百次的回眸，却换来今世的一句，“流氓”。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bd21f534-dda0-4d84-9df7-70fe45b434e5)

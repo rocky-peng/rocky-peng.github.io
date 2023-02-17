@@ -227,3 +227,9 @@ public class AttachMain {
 本文所用到的完整代码已上传到码云： [instrument](https://gitee.com/rocky-peng/java_practice_public/tree/main/instrument)
 
 至此，本文也就实现了标题所实现的功能，开头描述的场景也就得到解决方案，下期再见
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：事事如意料之外，年年有余额不足。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0d68f2dd-3bb0-493c-8659-0e9ef8da6d35)

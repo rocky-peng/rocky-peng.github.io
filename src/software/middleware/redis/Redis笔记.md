@@ -379,3 +379,9 @@ s
 1. https://blog.csdn.net/weixin_41846320/article/details/95941361
 2. https://www.jianshu.com/p/88ff90519ab1
 3. 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生苦短不要怕，遇见我，苦就长了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6c78584a-9bd4-4e8f-88c8-8fba1ca1afe2)

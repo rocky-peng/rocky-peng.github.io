@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都说陪伴是最长情的告白，其实长得好看的是陪伴，长得丑的是纠缠。
+- **随机毒鸡汤**：不要轻易瞧不起人，就算是杀马特，发量也比你多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4fe3b760-ff43-455c-8efb-8949884eb1f6)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b8c9c4c4-cd9d-4b9f-b189-d54ae03fb783)

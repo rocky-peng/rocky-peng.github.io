@@ -99,3 +99,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 如果用mat工具查看，建议把 "Keep unreachable objects" 勾上，否则mat会把堆中不可达的对象去除掉，这样我们的分析也许会变得没有意义。如下图：Window-->References 。另外jvisualvm对ool的支持不是很好，如果需要oql建议使用mat。
 
 ![enter description here](https://cdn.justdopay.com/xiaoshujiang/1629081878591.png "WeChat48b628ddc00e59143957107d6021b736")
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：没有真正快乐的人，只有比较想得开的人。 ​​​​
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7b65745b-89d4-443d-be4f-5120a0b340c7)

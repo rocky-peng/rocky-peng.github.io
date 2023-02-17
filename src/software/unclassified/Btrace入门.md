@@ -183,3 +183,9 @@ cd /Users/xxx/Desktop/btrace_script
 对Btrace的用法主要就是学习用提供的各种注解，以及com.sun.btrace.BTraceUtils类提供的各种功能。
 
 如果想要了解各个注解的文档，可以参考：https://btrace.kenai.com/javadoc/1.2/com/sun/btrace/annotations/package-summary.html
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：原来有梦想，后来发现没钱完不成梦想，最后赚钱变成了唯一的梦想。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fe1b0393-bbf9-4f02-876f-46d78192b72f)

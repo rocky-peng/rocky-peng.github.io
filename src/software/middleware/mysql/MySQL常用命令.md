@@ -524,3 +524,9 @@ grant 权限列表 on 表名 to 用户名
 GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 ```
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：科学家的多想点，是开启新世界，而你的多想点是想多了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c3b34bc2-9b94-4cd7-81b7-76e2ad47145f)

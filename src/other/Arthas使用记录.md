@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你不努力就会被社会淘汰，但只要你努力，过几年才会被社会淘汰。
+- **随机毒鸡汤**：道理懂的比谁都多，混的比谁都惨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3a2fa6fd-7a3a-46a0-867a-075a28ceb9c6)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1e3a96d0-3a96-405d-af91-4fb3e5a95dae)

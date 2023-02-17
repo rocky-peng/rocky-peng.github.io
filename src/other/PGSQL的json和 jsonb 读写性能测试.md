@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恋爱时会觉得像吸毒一样，分手了又会像戒毒一样。
+- **随机毒鸡汤**：你只知道人家化妆比你好看，却不知道，别人卸了妆也比你好看。​
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=41bae3f4-2e32-4d67-9bd0-036f25952b43)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d73a0a15-36a8-46ad-b9aa-5602a7b14839)

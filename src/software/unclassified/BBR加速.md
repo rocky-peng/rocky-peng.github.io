@@ -16,3 +16,9 @@ cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com
 wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/master/vpstest.sh && bash vpstest.sh
 ```
 
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：什么都在涨价，就是人越来越贱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c3c8d2c1-7a97-4d74-bf7f-d62760080f0f)

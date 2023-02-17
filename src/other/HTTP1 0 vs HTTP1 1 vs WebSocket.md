@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有人说我是猪，我觉得也就只有猪看人，才会像猪吧。
+- **随机毒鸡汤**：每次看这些励志的句子，都能激起我，五分钟的学习斗志。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=78787ee4-8765-49f9-8d49-e28e157e418c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88a7a36a-309b-4fd9-b854-14c62ddd4ab8)

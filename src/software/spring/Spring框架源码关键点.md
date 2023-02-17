@@ -362,3 +362,9 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 
 }
 ```
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：发财和发朋友圈，总得发一个吧。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=82dcf5b8-8931-4e59-80f5-3011cad429cd)
