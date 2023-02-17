@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你以为你进了他的心房，实则，你进了他的鱼塘。
+- **随机毒鸡汤**：困难就像弹簧，你弱他就强，你强它更强。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6c4cb4b2-747d-4118-b3d5-c8a75c75d3f8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=214dda76-8c28-4836-94bb-ebe8cd7b0cbc)

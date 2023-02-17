@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
+- **随机毒鸡汤**：早睡早起身体好，晚睡晚起心情好。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=33db46bc-1b40-4de7-9457-1c46e72c171c)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=da6276e0-103c-4d10-8dd0-964d0c4d8f41)

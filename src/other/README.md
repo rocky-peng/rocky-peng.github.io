@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：班上有位女生，至今都没有出现过，她名叫安静。
+- **随机毒鸡汤**：掉在桌上的饭，还能不能吃？要看有没有人看见。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e12a3169-9462-4344-a3b7-c75fdb941c8f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d544458-dd8b-4949-951e-bb1e7fe97527)

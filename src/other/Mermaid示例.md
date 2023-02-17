@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：安全感是什么？就是在上学快迟到的时候，在路上碰到同班同学。
+- **随机毒鸡汤**：若没有身份，连吃醋都要把握好分寸。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=677a5f0f-189b-4629-8a03-7c2c1f611477)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=82333450-52bb-4383-8085-624c82037727)

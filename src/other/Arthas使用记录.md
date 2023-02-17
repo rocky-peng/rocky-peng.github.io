@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：既没有让人一见钟情的颜，还缺少让人日久生情的钱。
+- **随机毒鸡汤**：其实老师讲的东西也不难，只是我刚好都不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4a59394e-cc25-425f-a310-98b249b99363)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=09e94beb-6abf-48ed-850e-0fb3b4826f15)

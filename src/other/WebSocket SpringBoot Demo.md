@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最想喝的水是薪水，最难干的活是生活，最美丽的花是有钱花。
+- **随机毒鸡汤**：我对你要求不高，能跟我其他对象，和睦相处就好咯。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=59f45f08-186e-41fd-ab95-ad74a5eae7d8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4a340f5a-e517-4d6a-93da-b6c901e4dfea)

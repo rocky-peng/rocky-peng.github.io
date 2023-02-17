@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经以为三十岁很远，不料现在，十八岁已是很久以前。
+- **随机毒鸡汤**：你曾是我的太阳，是我的整个世界，现在想想也就是个球。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ab6d8030-d568-4299-a0bf-5b87f9dde881)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=33ec3155-c127-4698-ab56-00021b54769b)

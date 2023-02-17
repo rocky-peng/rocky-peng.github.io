@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没有钱的时候，听到别人说恭祝长命百岁，都觉得是一种诅咒。
+- **随机毒鸡汤**：每天都要开开心心的，这样，你就是个开心的废物了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b197422a-d819-48ab-80e4-695d594a6264)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=678c9655-1525-4fab-8789-9ddd89b0f44f)

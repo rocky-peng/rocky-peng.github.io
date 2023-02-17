@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只有有钱的人，才会视金钱如粪土。
+- **随机毒鸡汤**：能用钱解决的都不是问题，但如何有钱，才是你最大的问题。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fc5648a2-281d-4462-be2a-fb52a1bf5953)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f9cc6710-e115-45d5-b063-9c7e77bc75bf)
