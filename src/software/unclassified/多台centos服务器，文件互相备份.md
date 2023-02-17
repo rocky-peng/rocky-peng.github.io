@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个女孩有纹身说明什么，性格开朗还是有故事？说明你有偏见。
+- **随机毒鸡汤**：我们彼此相爱，就是为民除害。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=26b3c6c4-52f2-4c11-951c-0ab29fc753c5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1e47e797-6fca-48d6-90c7-b2339fbbb187)

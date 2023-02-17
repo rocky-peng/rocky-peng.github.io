@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：夜撩了酒，酒撩了你 你撩了我，穷困潦倒了我们。
+- **随机毒鸡汤**：握不住的手，还是趁早放开吧，那也太胖了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=eb30f617-f6a1-43a4-be60-d12da8938256)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=28e72b31-26a8-4572-845d-ce5b30984bc7)

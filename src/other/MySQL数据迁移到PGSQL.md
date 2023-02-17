@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：喜欢的东西太贵了，我一咬牙，决定不喜欢了。
+- **随机毒鸡汤**：治疗脱发，最好的办法，剃光头。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b6eebb6e-ad34-4627-8efc-f7df681982d1)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c307e8c1-744b-43b4-ba1a-7c1f270273ce)

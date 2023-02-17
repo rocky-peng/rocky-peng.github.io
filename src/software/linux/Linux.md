@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：矮是什么感觉？明明想瞪人的，硬生生成了卖萌。
+- **随机毒鸡汤**：想到这已经是，人类历史上最好的时代了，你是不是更绝望了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7b0bb661-a51c-47a9-b767-11348a83774a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a52c9d06-d32f-4608-8ebf-9f97aae3b1ea)

@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：富人孩子拼父母，穷人父母拼孩子。
+- **随机毒鸡汤**：小时候总以为大人不挑食，长大后才明白，他们不吃的东西都不买。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2face2e3-3ccb-4549-aa4d-f7f3d829e87b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f6307b4d-124d-43c9-b559-28a89b6ccbfe)

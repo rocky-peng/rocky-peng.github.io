@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：熬夜时多喝菊花茶，因为，猝死的时候会香一点。
+- **随机毒鸡汤**：青春期的爱情是精神鸦片，不管你吸没吸，背后总站着无数个林则徐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=293330b1-1896-4f63-afd0-472fffebe587)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=201764ac-e1cd-40ca-bb03-8bb91abf2c24)

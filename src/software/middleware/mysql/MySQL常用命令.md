@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：兴趣是最好的老师，饥饿是最好的厨师。
+- **随机毒鸡汤**：那些人人羡慕的精英，其实过得不如你想象的好，但肯定比你是强得多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e347fe41-bdf4-42f9-a018-a9245f175297)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e1d61a6a-5428-4b9c-9d0b-7f47ae261aaa)

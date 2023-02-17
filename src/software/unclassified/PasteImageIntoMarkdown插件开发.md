@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：眼睛千万不要对着手机太久，专家说了，那样手机会没电。
+- **随机毒鸡汤**：如果大海能够，带走我的矮丑，我就剩下黑穷两样了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=596165ea-1dcf-442f-a8d9-57af6d6b2fde)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=16427a1e-0b96-454d-8d28-9b4f372f7c13)

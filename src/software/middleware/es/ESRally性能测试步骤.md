@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：城市是千百万人，一起孤独生活的地方。
+- **随机毒鸡汤**：别人都在关心你飞的累不累，只有妈妈，关心你的翅膀硬不硬。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=13b6bfcb-c257-4850-9b22-f97dc5100608)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4b1cc06c-8c05-4203-b2f0-3d534812eb09)

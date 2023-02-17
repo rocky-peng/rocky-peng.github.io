@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我能对你最好的祝福，就是参加你的每一次婚礼。
+- **随机毒鸡汤**：借别人钱就总是会抬不起头，所以我到现在，都不敢见马云。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ef455679-d40e-4f6b-be23-ac16898c29e8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e8cf30d0-c468-4253-b5a4-af168a6102b3)

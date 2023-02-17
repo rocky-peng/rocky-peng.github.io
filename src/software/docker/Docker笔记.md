@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我已经到了法定结婚年龄，请问去民政局领证的时候，老婆是自己带还是等他们发？
+- **随机毒鸡汤**：单身脱发又没钱，跑步进入中老年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d2d6bc89-5f26-450b-b176-4eec436d12a0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c851225-878c-4ec9-a85f-42d05ef6eeac)

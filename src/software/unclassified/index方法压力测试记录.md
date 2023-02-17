@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：愿你们的青春，都像教堂的上空，有神经过。
+- **随机毒鸡汤**：打工人心情不好的时候，骂公司总是没错的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0de0b231-2ac4-4ae8-9843-81200d0511b4)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d95c9cf2-9985-4488-b762-6e982a3f8bc1)

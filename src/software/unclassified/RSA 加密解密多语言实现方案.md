@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：十倍速亲近你的人，会在未来某个时刻，十倍速离开你。
+- **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=06c5e1bb-40d6-4b7b-a04d-9a2a6b71e7ea)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eddbf3e7-e741-4c9e-bb2c-2ea5e6673e99)

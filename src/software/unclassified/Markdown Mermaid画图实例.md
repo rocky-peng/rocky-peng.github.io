@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：心有猛虎，细嗅蔷薇，蔷薇说我口气好大。
+- **随机毒鸡汤**：在家宅着，圆了我当皇帝的梦，朕乃“闲疯帝”。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d2d6923e-42b6-4e5f-a75d-fee4e746311e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3c02c55f-1051-45b5-a01f-c3d1e0f25098)

@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们的故事，始于我的打扰，终于我的多余。
+- **随机毒鸡汤**：遗憾就像青春痘，痘没了，印还在。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b67041d0-4b3e-4d9a-ad9c-544a774449f8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=66549420-0504-4849-90c5-82015187a414)

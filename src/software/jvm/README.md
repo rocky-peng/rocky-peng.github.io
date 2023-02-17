@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经给我泼凉水的人，没关系的，我烧开了还会还给你的。
+- **随机毒鸡汤**：暗恋的人没有，想暗杀的倒有一堆。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e67c71eb-2f36-4ae7-bba6-07d6a23078a6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7a57b961-ca77-41d5-a033-d9c280607aa6)

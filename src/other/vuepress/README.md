@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：是什么让债主，比欠债的人还要卑微？是在乎。
+- **随机毒鸡汤**：凡事先想想自己配不配，如果配，那就是想多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=661e7ad0-cae8-45ed-bcec-5793d4c549a7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b49e0af0-8778-4715-a6fc-0dfd24861871)

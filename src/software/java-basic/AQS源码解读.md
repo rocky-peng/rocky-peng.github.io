@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：太久没牵手了，拿个泡脚凤爪，都觉得温柔。
+- **随机毒鸡汤**：听说自从你得了神经病，整个人都精神多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d7e8de8d-1bb9-4a4c-8ba1-ce8edba35a5d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ccb4dbd5-f48e-4737-a1b4-a52755c5da29)

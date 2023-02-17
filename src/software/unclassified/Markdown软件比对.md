@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在楼下给你打电话，寒风中等待你的，只有外卖小哥。
+- **随机毒鸡汤**：谣言止于智者，聊天止于呵呵。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3070fcc3-3138-40be-8400-218952ede808)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0909cbfa-5ff5-48f0-8ee3-255fe57dc7f7)

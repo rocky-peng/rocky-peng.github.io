@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我忘记了你，但是输入法却还记得。
+- **随机毒鸡汤**：生活不会放弃你，但也不会放过你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d3dfee2d-4f97-4cf9-8b9a-dd24604d34ef)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=829c405b-8fd5-4e6a-95e4-50658b7cd6b6)

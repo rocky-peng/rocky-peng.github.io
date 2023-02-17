@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：原以为生命是个奇迹，实际上你只是个劳动力。
+- **随机毒鸡汤**：就算是Believe，中间也藏着一个lie。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e525c20a-4266-40ee-ac5b-69d3681d4103)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dbc97cc2-76e9-401e-b609-9f01c31d28a3)

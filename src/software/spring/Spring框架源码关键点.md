@@ -365,6 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：知道为何自古红颜多薄命吗？因为没人在意丑的人活多久。
+- **随机毒鸡汤**：如果父母依旧辛苦，那我们长大，还有什么意义？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=705f6e6c-ac63-4ec8-b7bb-86818805bb33)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c7b1e3ab-ba0c-40a2-900c-5ed9caa9861f)

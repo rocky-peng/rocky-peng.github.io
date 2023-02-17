@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：跟我借錢是沒什麼問題，問題是我沒錢…
+- **随机毒鸡汤**：创业只要你坚持，总有一天，会亏完的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4b884158-a53e-4904-a61d-9c4546c7fb40)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a24a52e9-26f4-444f-a3fe-208ab2f6ca22)

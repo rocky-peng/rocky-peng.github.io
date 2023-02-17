@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别揪住没用的东西不放，尤其是当这个没用的东西，就是你自己的时候。
+- **随机毒鸡汤**：以前除了读书什么都不懂，现在除了读书什么都懂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4b6150d8-2f30-4b26-a728-72da44733cdf)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ddc82eb6-f2a4-4a59-907d-6c25c2495777)

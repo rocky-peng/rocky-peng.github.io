@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：安全感是什么？就是在上学快迟到的时候，在路上碰到同班同学。
+- **随机毒鸡汤**：他随便发的朋友圈，你却当成阅读理解做半天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b16bc805-5cd7-4daa-b45c-aed215e21be1)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8b5a2512-ce64-434f-90ac-8cf292351de5)

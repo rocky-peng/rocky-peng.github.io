@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你说人命贱吧，可是一进医院就贵得不行。
+- **随机毒鸡汤**：一眨眼就到2020年了，早知道就不眨眼了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7de77d3b-cd3f-4537-97e8-963569f811f5)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c8915b93-4568-48ee-833d-12bb6933c663)

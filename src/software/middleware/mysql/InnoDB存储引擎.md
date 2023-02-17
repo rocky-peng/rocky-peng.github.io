@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不缺钱的最容易借到钱，不缺爱的最容易遇到爱人。
+- **随机毒鸡汤**：如果你想哭，请打个电话告诉我，让我知道你也有今天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=23964b87-9d19-487d-979a-eecf625162cb)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a96ce5b0-d250-4ec0-8681-f6dcd8685f5e)

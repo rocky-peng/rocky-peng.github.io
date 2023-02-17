@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：天晴了，雨停了，你又觉得你行了。
+- **随机毒鸡汤**：大多数时候，消耗能量的都不是工作，而是工作中遇到的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b931e7b4-d243-4c11-9686-e9521af1ce4f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=45123356-d246-45a1-ba44-1ca1f67f4196)

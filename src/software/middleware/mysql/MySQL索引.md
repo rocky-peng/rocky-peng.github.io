@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你以为你缺的只是钱吗？你是不是忘了，你还缺心眼。
+- **随机毒鸡汤**：我需要你的指点，但不需要你指指点点。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7a9f938c-4a54-491a-ab7e-10838ce33c7a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2501dc9a-b2ea-4764-bd3b-96dd8af303d8)

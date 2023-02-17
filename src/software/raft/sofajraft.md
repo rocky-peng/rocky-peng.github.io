@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：是金子总会发光，这句话通常都是用来，安慰失败者的。
+- **随机毒鸡汤**：人离不开姜葱蒜，人生葱葱能姜就就姜就，不能姜就就蒜了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f7a10dd-2ef2-42bb-8d29-4b6e3eda732a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0cccfd24-b313-4d57-b16b-4dabf222c023)

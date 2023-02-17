@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：再苦不能苦孩子，再穷也得穷得瑟。
+- **随机毒鸡汤**：一辈子是202天，因为她说爱我一辈子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8f3b7f65-84e5-46cc-adbd-819429c81977)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=03251e38-d409-4940-8347-2f606b9bf3d5)

@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：既没有让人一见钟情的颜，还缺少让人日久生情的钱。
+- **随机毒鸡汤**：永远不要借钱给不熟的人，因为他在熟人那，已经借不到钱了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=22edae9e-681b-40db-add9-dc3e0ed80b39)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=26f39a75-e1c4-4603-a7db-586aebc33b72)

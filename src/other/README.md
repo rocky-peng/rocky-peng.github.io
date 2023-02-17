@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：感觉自己是个废物，朋友说要自信一点，把感觉去掉。
+- **随机毒鸡汤**：我依稀记得，当初学会网购，是为了省钱…
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b649e28c-ca55-41b9-acd0-f2454aac4cc9)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ada059c1-0dad-45e6-a1e9-1b0458a9bdb0)

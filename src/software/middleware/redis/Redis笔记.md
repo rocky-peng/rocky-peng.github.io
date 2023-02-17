@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
+- **随机毒鸡汤**：我的目标是三十岁有套房子，现在实现一半，已经三十岁了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f8e74326-8c19-4378-816c-27b51f8980d3)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=192a1807-c40a-43ee-81c8-598df8e9b932)

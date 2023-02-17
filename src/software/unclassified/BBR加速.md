@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人家解衣服，那叫轻解罗裳，而你是给猪松绑。
+- **随机毒鸡汤**：趁好看的时候多照照镜子，毕竟这种错觉不是经常有。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=aa419f2a-dc83-48fa-b8fc-184c60aec763)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=10e3d474-af56-428c-b713-c8976dec414a)

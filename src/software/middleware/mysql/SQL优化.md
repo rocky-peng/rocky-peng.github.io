@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：仔细想一下，学渣们其实我们就两科不好，分别是文科和理科。
+- **随机毒鸡汤**：不是理想太不现实，而是现实太不理想。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3011fcaf-c45a-4be1-9f4d-57b2ae504113)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=25fd47e1-f6f6-465e-b3f8-73b1b7ccef9a)

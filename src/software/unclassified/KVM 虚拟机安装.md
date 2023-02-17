@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓成长，就是在听到波涛汹涌四个字，再也联想不到大海了。
+- **随机毒鸡汤**：好恶心的淘宝，动不动在这里猜我喜欢，我TM果然都很喜欢。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9bd7a7e2-f3d4-44fd-8b1f-b28f1ab55b42)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=821aaf49-bb41-421e-a5cd-c77718053c58)

@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：看时间不是为了起床，而是看还能睡多久。
+- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=00972070-3e4e-4500-9783-cbe7f257d233)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3af6887d-5c35-4d33-9194-f3fbf0d594cb)

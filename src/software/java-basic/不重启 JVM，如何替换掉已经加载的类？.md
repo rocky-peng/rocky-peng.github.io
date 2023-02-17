@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一只猪被孤立，于是它变成了朱古力。
+- **随机毒鸡汤**：二十几年人生，离女生最近一次，应该是小学同桌。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7d8871cd-f75f-49ab-9119-079b1a78256c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=733a3e0e-a420-4519-a720-51c5cf7b4265)

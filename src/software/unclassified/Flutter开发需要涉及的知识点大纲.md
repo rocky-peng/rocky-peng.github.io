@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：活了这么多年发现，唯一坚持下去的，就是每天给手机充电。
+- **随机毒鸡汤**：我这人吧，永远不要挑战我的底线，否则我又得修改底线。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6d2150a2-e69a-4ef0-a253-e16d3297b71e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=39b3cc91-93f8-411c-bcf1-3b746753c0b8)

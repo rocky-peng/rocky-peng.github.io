@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我明明在花一样的年纪，却偏偏长成了多肉。
+- **随机毒鸡汤**：现在一直躺在家也好，至少给没钱出去玩，找了个借口。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=987ebac0-03e3-43fe-8562-3a283d91d448)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=945c501b-d628-4d3a-8267-02264a70051d)

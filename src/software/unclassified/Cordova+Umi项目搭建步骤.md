@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我特别想关心你，可你却不生病啊。
+- **随机毒鸡汤**：你站在女孩身边，打一个字，——妞。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0e115a20-76b5-4c63-9fed-9e4d830aa62b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=34302cf3-39bc-42ef-ac88-17f01d3b0081)

@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：开车我最讨厌两种人，一种是喜欢加塞的人，另一种是不让我加塞的人。
+- **随机毒鸡汤**：居然真的有男孩子愿意，凌晨跑来送我想吃的东西，就是配送费贵了些。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=30a4785f-1d46-467f-a1a4-68559de3ff1d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=156aa133-85ff-41e4-927b-e5cbd3a00fb8)

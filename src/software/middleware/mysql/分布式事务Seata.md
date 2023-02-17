@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经的我你爱搭不理，现在的我，我自己都看不起。
+- **随机毒鸡汤**：承诺就像放屁，当时惊天动地，过后苍白无力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fba542a2-ca10-492f-8d37-09e4faddcb57)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f7e65446-06aa-493d-9b17-15d8c9b9b985)

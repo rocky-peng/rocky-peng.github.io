@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
+- **随机毒鸡汤**：屎到淋头，还想搅便。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5df0a19c-d15b-4079-b604-09aec4e1f486)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=03cbef62-d0af-4cdb-b778-468f4baa7c19)

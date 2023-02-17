@@ -113,6 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你连几点睡觉，都控制不了，你还想控制人生？
+- **随机毒鸡汤**：借钱见人心，还钱见人品。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d7d45c5a-dec4-4376-a176-7b7459faa41b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=49ec41d8-8878-4d03-a4ec-c42b9bbca9b4)

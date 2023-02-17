@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：命运抓住了我的喉咙，但我却在笑，因为他还挠了我的胳肢窝。
+- **随机毒鸡汤**：即使三分钟热度，也认真了180秒。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1bd6966d-d507-482b-8165-3275cc8f9ec9)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2cf593d0-d924-43f4-b526-2a7da93d37aa)

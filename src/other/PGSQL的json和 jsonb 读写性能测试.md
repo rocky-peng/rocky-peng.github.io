@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：春节假期要结束了，该收收心，准备过五一了。
+- **随机毒鸡汤**：小时候骗家里说没钱，长大后骗家里说有钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f67dc7f1-e7df-4989-a468-bfeb245315c9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b1718871-183b-4f7e-84a3-3b2a7ce10b48)

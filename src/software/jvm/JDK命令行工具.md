@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我说哪句话让你伤心流泪了，请告诉我，我再说一遍。
+- **随机毒鸡汤**：小时候做过的最蠢的事，可能是盼着长大吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5f609fd9-5b8a-42d0-a3c1-7cba0225c345)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fa7e3cb0-926b-4b8e-861d-4b948769e00f)

@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么我会这么闲？这故事还得从，一个馋b和一只蝙蝠讲起。
+- **随机毒鸡汤**：爱情这个东西，有的时候能打败一切，有的时候能被一切打败。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f1a317f6-f64b-4c05-909d-23ed5498fd05)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=85680df2-ec62-4fb1-aaa7-3d30649305c5)

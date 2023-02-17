@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果你极度迷恋一个人，那你一定配不上他。
+- **随机毒鸡汤**：不要担心辜负了别人的期待，对你有期待的，只有你自己。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3c0814df-5814-492c-9b42-3d66457e316b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fa14932-0c57-4571-a5f9-90e816783728)

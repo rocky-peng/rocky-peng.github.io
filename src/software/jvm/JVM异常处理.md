@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我欲乘风归去，又恐风托我不起。
+- **随机毒鸡汤**：嘴上全是情义，心里全是生意。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b99f03d3-638e-4cbe-8c32-7651ae263dbb)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01715a9f-c9b1-4f09-8f2f-d1b7203ba1ea)

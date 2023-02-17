@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不思进取的浑噩度日，那不叫活着，只能叫没死。
+- **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=670ae717-2068-48f6-b6f1-731490df2367)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=86de06ce-d0ee-44a2-85ea-fc0ed96b177b)

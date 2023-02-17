@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：吃不了自律的苦，就得吃平庸的苦。
+- **随机毒鸡汤**：人们在现实世界交换谎言，却在虚拟网络倾诉真心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b169f63c-a05e-46f0-8813-e89b8b84e84f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8cfb5994-2d2a-43e2-a32b-c8009fc25ea9)

@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要我辞职辞的够快，我就不会被炒鱿鱼。
+- **随机毒鸡汤**：一个女孩有纹身说明什么，性格开朗还是有故事？说明你有偏见。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=12768297-c78e-48e7-8ffe-b7c4917e674e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7533c5ca-e7e1-40bf-a8ee-1dba45cc8299)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：打工赚不了几个钱，但是打工能让你，没时间花钱。
+- **随机毒鸡汤**：所有的无微不至，最后只感动了自己。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=83bade73-3a3d-4eab-b80b-798ce551dda6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1580af69-1d04-40c1-b16d-074f4b55c7db)

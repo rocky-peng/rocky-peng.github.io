@@ -400,6 +400,6 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你连几点睡觉，都控制不了，你还想控制人生？
+- **随机毒鸡汤**：人还是刚认识的时候最好，虚伪又浪漫，新鲜又热情。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8e1cde9d-052d-44a6-a7de-327a1e78b019)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=abd3b11e-5730-4718-9d38-7bc078e4640f)

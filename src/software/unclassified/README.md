@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：今天天气很好，在房间里宅久了，准备去客厅散散心。
+- **随机毒鸡汤**：我以为我的人生，活成了故事，目前看来全是段子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=241f1895-0593-4d37-9d3b-1ac3a61978bb)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=78e77f99-7d0e-4531-8055-eb325b0a5bcc)

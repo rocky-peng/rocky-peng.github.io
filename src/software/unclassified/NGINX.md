@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：网上我们用着假名说真话，现实我们用着真名说假话。
+- **随机毒鸡汤**：谁说金钱买不到时间？网管，再续两个小时！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dc356637-e1a4-4fa2-807e-ba30b7510da2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a66bc017-be78-4ef5-a2ea-8ce1b968023a)

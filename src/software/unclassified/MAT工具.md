@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果婚姻是爱情的坟墓，那么相亲是，为坟墓看风水！
+- **随机毒鸡汤**：你站在女孩身边，打一个字，妞。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cafe6a23-9037-4362-a0d7-b90948707245)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=17b58036-c7e1-4970-8275-62df51f277eb)

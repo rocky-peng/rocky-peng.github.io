@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要试图鹤立鸡群，请离开那群鸡。
+- **随机毒鸡汤**：朋友说借点儿钱回头给你，之后我才知道，有些人一转身就是一辈子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=65b3a472-1248-453d-95f9-d55c7894ac98)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6ddf9ffe-00fc-47d3-8635-339763b2bc17)

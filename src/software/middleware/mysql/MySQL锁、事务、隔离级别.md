@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：兴趣是最好的老师，饥饿是最好的厨师。
+- **随机毒鸡汤**：嘴巴那么毒，内心一定很多苦吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c48476a-3047-431a-9577-2b9039008e1f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=469d3417-38cb-4ed1-b234-08558dd54325)

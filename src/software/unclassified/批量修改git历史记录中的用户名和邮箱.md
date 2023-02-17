@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每天坚持带薪如厕5分钟，相当于，每年多出5天半带薪假期。
+- **随机毒鸡汤**：不要轻易看不起谁，就算是杀马特，发量都比你多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=50a9c5cf-60c7-41ca-a6ec-07e278b5b82f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=15e993b5-2ce9-4388-a92d-5ec147bc5600)

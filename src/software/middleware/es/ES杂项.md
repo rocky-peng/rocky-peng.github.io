@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别说自己活的像狗一样，看看那些宠物狗，你会发现活的不如狗。
+- **随机毒鸡汤**：保持美丽的秘诀，以前是睡觉，现在是P图。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=360b5e81-2633-48f5-8e10-dd4b9c952b5e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=90ef74cf-ac26-44f7-a083-788e409ff595)

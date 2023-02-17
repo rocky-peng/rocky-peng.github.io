@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：可别把伤口揭开给别人看，世界上多的不是医师，而是撒盐的人。
+- **随机毒鸡汤**：所谓土味情话，长的好看说的都是情话，长的丑说的都是土味。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e6c14d83-dcc0-4523-9e5f-4c36ea476f3d)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=03101dc0-2fcf-4492-9a6c-5c2839031560)

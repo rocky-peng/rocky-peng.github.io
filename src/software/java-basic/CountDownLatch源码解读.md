@@ -94,6 +94,6 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么校服要做的很大？就是为了给你长胖的空间。
+- **随机毒鸡汤**：分手后还能做朋友，一定是其中一方不死心，或者钱没还清。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e3c898cf-ca33-485e-b9ac-28875439451e)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c9cf3c52-7657-4490-9136-c8699a89b07f)

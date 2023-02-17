@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候我常想，长大了是上北大还是清华，现在想想原来是我想多了。
+- **随机毒鸡汤**：以前除了读书什么都不懂，现在除了读书什么都懂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=27cdbf3d-4b12-4fb1-a2e3-ddcc18fc9fab)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8327218d-e522-4c91-ab90-b32904593ca3)

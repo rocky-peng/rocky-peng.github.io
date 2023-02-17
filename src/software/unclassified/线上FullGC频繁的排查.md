@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一般长得好看的妹子，能靠撒娇解决的事，我都得靠威胁。
+- **随机毒鸡汤**：世上99%的事情，都能用钱解决，剩下的1%则需要更多的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6af87bef-cc88-4de8-84e4-16eb1d590b8c)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9f6479e8-e958-4930-b052-c623741e9a4b)

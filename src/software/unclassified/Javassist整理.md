@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有些人努力了一辈子，就是从社会的四流，挤入了三流。
+- **随机毒鸡汤**：人家解衣服，那叫轻解罗裳，而你是给猪松绑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=804003ec-acf0-42e4-ac8e-57b8fecad1e1)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=95f88027-a61a-4b87-b461-40a7a31dabb3)
