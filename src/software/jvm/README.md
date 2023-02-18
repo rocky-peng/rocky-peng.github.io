@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成年人的世界，除了长胖，其他什么都不容易。
+- **随机毒鸡汤**：成功都是留给有准备的人，而能有准备的，都是天生的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2b596468-66b9-4f66-8462-393f338de4c7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ff85fbed-2376-4782-a609-88aec1465cf2)

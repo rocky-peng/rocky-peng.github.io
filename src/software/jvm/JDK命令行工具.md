@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：是谁说世界上的男女，没有纯洁的友谊？我和我老公就是。
+- **随机毒鸡汤**：任何关系走到最后，有心者有所累，无心者无所谓。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=70278b3a-0737-4d36-95f5-be15640fc2ec)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=30e06079-6a9f-4938-a85f-31ccb4ebfe31)

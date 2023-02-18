@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每次夏天洗澡的时候，我都感觉是在帮蚊子洗菜。
+- **随机毒鸡汤**：以前不离不弃的是夫妻，现在不离不弃的是手机。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c808ba25-ae3b-4979-938f-b3c589c0e9d2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=126084c2-5ba8-4e61-a218-b5805c653983)

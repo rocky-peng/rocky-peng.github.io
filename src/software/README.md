@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候我们都很快乐，因为那个时候我们，丑和穷都还不是那么明显。
+- **随机毒鸡汤**：以前除了读书什么都不懂，现在除了读书什么都懂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=cb0af5fb-2ce5-44cf-bfb8-772bff8991f5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=50944a86-1c6d-4a3c-8f78-e46bbddee927)

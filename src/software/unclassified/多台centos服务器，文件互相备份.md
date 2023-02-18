@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：梦想要说出来，不然别人怎么嘲笑你？
+- **随机毒鸡汤**：万死不辞的最新解释是，被气死一万次也不舍得辞职。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b0d7d727-2607-4b28-aa41-f39cbf0bec41)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7b981bfe-ba4a-4d3a-888c-2488c8411c0b)

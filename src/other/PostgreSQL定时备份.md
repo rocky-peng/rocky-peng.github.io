@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：昨天我去看心理医生，医生说我不是抑郁症，我是真的惨。
+- **随机毒鸡汤**：想结婚就去结婚，想单身就维持单身，反正到最后你们都要后悔！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6f39a868-0767-4af1-9e2f-92df800745b1)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cfe93315-dd2d-40c3-be71-cba8ce1a8fac)

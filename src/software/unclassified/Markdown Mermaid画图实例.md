@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：相遇是猝不及防，而离别是蓄谋已久。
+- **随机毒鸡汤**：第一次做人，没经验，所以活成这个狗样子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dd3d7fc0-d07a-4995-a96f-349073436d31)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a725bf1a-1ce7-4ae9-8426-594236946280)

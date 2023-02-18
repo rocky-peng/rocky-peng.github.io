@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
+- **随机毒鸡汤**：疫情当前，少移动不联通，——中国电信。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04271671-eae4-4e2d-b1e4-0fab139a1ff8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f1b12e4f-ab1a-4f42-96d4-03f3fc49f222)

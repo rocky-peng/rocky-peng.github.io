@@ -113,6 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有一种悲哀叫做，这道数学题已经超出了，我的语文理解范围。
+- **随机毒鸡汤**：你的向前一小步，不是人类一大步，而是文明一大步。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ba3b7a04-e88f-421c-80d9-fbc367f57f00)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=951b3b41-af7c-40fb-b105-be262dc902dc)

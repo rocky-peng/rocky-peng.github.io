@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：与其被动失眠，不如主动熬夜。
+- **随机毒鸡汤**：别问我有啥，先说你要啥，再说你凭啥。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b1042b60-8458-45ef-aadf-11efab655772)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=484d5a20-317c-46df-a3d4-e4038394c404)

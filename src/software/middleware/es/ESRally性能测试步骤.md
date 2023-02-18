@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：心想事成的诀窍是，只想能成的事。
+- **随机毒鸡汤**：努力赚钱不是因为钱重要，而是为了让钱变得不重要。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=68d6f261-002e-44f5-908b-549a05a9c221)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ff767be0-6f5c-43f5-abc2-9b485ba43dcb)

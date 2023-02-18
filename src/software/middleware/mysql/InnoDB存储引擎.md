@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+- **随机毒鸡汤**：每当误会解开，冰释前嫌的时候，故事就离结束不远了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=29d0b2ec-64be-445e-b985-1e51e911e6df)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d603f4b3-da3c-4ef4-87c4-eff36e42e5a8)

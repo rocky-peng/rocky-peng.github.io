@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：哪有什么坚强，全靠死撑。
+- **随机毒鸡汤**：也许你的爱情迟到了，但更有可能的是，出车祸了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7347eb05-d068-4ce5-8ab0-5e7b08ba9153)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b8816428-3370-4e67-b17f-bbccef67ecc1)

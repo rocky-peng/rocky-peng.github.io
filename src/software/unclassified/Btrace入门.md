@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：说好我们一起到白头，你却偷偷焗了油。
+- **随机毒鸡汤**：经常废寝，从不忘食。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a3c44061-77f8-4592-9eab-bae74f63227a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ba6396bb-d19f-4b65-9f02-f859a5fabdf5)

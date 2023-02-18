@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：早上班一小时没人记得，早下班一分钟就被人惦记。
+- **随机毒鸡汤**：每个被孤立的人，或许从一开始，就先孤立了别人吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ca318fdb-9998-4212-bae8-595f4813053c)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5d363061-25a2-42c8-8f33-f208dc4257d3)

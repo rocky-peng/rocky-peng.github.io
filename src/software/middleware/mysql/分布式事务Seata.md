@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只有在车站大排长龙时，才能真正意识到，自己是龙的传人。
+- **随机毒鸡汤**：漂亮是肤浅的，但丑陋，是可以到骨子里面的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=086c8fb7-51c2-40e3-a3ca-89bbda01ee0b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=003c6e4a-1cd3-42e7-a018-01dea2cdbbc7)

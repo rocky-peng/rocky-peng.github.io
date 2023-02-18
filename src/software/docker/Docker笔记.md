@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：愿你以后，有酒有肉有姑娘，姑娘丑的不像样。
+- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ed31d26d-869e-45eb-b4e8-988720b7a5c1)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9ea3c12d-5b11-42d3-a7c4-0368784daab2)

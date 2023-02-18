@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：能控制住自己嘴巴的人，往往都很厉害，不管是说话还是吃东西。
+- **随机毒鸡汤**：一个人久了，突如其来的关心，都是负担。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=630f6189-a939-4ea2-ad34-a739aad99286)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b4f8d1a7-e27d-40a9-84dc-fe38573be347)

@@ -365,6 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果你把每天，都当做人生最后一天，那么总有一天…你是对的。
+- **随机毒鸡汤**：我尝试做一个有趣的人，结果跑偏了，成了一个逗比。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6234e767-b89b-4f21-9fa1-4c1930935481)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4e4ed0b6-367a-48e2-9e08-58368d0a761c)

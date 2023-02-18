@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：明明是被社会排斥，却做出高调排斥社会的样子。
+- **随机毒鸡汤**：手机摔了这么多次都没事，想想还是我的身高救了它。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=143a8518-a8a0-462d-9827-e47e0b407a25)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a2c51719-69dc-4903-9691-c43217413dfa)

@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：就算是Believe，中间也藏着一个lie。
+- **随机毒鸡汤**：死神为什么叫死神？因为叫死鬼不太严肃。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=861789b3-9295-4e88-bb62-44b1ce74d0c1)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ddbb8ddd-62e2-4ca3-b817-351647d0910a)

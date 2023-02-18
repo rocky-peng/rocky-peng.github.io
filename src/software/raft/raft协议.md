@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是我不合群，只是我合群的人，没有你而已。
+- **随机毒鸡汤**：我从毕业到现在有两个亿，一个回忆，一个失忆。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=67914060-12c8-488c-92a4-46044e357e19)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d351a40a-3263-42c4-8c6b-d3298f9584ed)

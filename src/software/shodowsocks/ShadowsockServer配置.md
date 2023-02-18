@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：多谢大家，在这一年的照顾和喜欢，这是我应得的。
+- **随机毒鸡汤**：一个成年人是不会挑食的，他们会说，我对这个过敏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=462e6409-680f-4468-bb80-471e67942656)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ee0a7e5a-b4ed-4b57-9391-f54d3c5a77e6)

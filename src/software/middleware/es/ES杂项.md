@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你为什么难受，因为你在乎的太多，在乎你的太少。
+- **随机毒鸡汤**：好朋友都这样，你跌倒时我会扶你一把，不过要先等我笑完。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=70cd72d8-3f0d-468b-b304-cc827831793f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d3e619b4-2084-41f5-91f8-5007f1082a87)

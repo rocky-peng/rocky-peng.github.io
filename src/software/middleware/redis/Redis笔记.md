@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每次看这些励志的句子，都能激起我，五分钟的学习斗志。
+- **随机毒鸡汤**：别人问你有谈恋爱吗？只要说现在没有，就能掩盖过去也没有的事实。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6d15282d-b4ac-48f2-b902-160f5646be28)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=62bd6b52-9436-448a-b5bb-7c079eed5c6e)

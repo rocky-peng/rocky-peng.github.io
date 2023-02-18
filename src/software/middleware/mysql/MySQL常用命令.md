@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：苟富贵勿相忘，若富贵，你是谁？
+- **随机毒鸡汤**：有个姑娘问我借钱去整容，整的挺成功，我再没认出是谁问我借的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eabbd48c-5109-430a-9703-b9a63613eb6b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2e147863-8166-474e-92f0-efbba600fc9e)

@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：总会把最坏的脾气，留给最在乎你的人。
+- **随机毒鸡汤**：好看的人千千万，整过容的一大半。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ccf5df8e-1a42-4083-9fdd-723b7159cdf4)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0da0bb1e-64cf-4540-aa31-e50e2b068620)

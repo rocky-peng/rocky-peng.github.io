@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人是吃几口就饱了，你是吃饱了还能再吃几口。
+- **随机毒鸡汤**：你坐过最挤的公交车是什么？只是路过，却被挤上了车。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=388a9f77-4615-4cd8-9abb-9ade79935816)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=57680e63-a2af-4872-a24f-cff3d32dd714)

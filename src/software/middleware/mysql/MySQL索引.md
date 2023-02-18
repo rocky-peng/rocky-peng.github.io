@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不期待任何人，也不想被任何人期待。
+- **随机毒鸡汤**：没有女朋友算什么，现在朋友都不好找。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e1aad71b-b3ca-43e4-870c-b3cd1dd5b839)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d788f8b6-b4e7-4a23-9f7e-a67a9b39daec)

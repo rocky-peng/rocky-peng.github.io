@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：知道老实人为啥总被欺负吗？数一下这话字数你就知道了。
+- **随机毒鸡汤**：小时候梦想长大了要超有钱，现在梦想实现一半了，我长大了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ded75815-f22f-4bc3-8f77-9c3f2db26f8a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d28015d3-ca2a-4865-b36b-637072578815)

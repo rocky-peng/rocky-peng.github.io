@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：梦想就像天上的星星，以前看得到摸不到，现在既看不到也摸不到。
+- **随机毒鸡汤**：你一定是个好人，不信你去表白试试！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8dfb9cc9-199f-45fb-833a-91ebb153bd57)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3a5762dc-51c7-4dd8-bc70-ada1d6f1a842)

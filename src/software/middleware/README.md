@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：友谊是如此甜美稳固忠诚，又至死不渝的神圣情感，只要他们不跟你借钱。
+- **随机毒鸡汤**：你就是，好得不够纯粹，坏得不够彻底。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9bfbf7cd-28dc-4d4a-b96a-04f981e7abcf)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=09258531-da1b-48a6-b5a5-c18681593e3d)

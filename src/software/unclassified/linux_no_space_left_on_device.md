@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：贫穷和自卑让我低下头，打开书。
+- **随机毒鸡汤**：多个朋友多条路，少个朋友少条岔路。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=009b3e55-198b-45f8-ab22-44535a0babfa)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9104d7b2-126c-45ad-927a-f3859c042574)

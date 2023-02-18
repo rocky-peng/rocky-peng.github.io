@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：天没降什么大任于我，照样苦我心智，劳我筋骨。
+- **随机毒鸡汤**：五年前我加入一个单身群，我们说脱单了就退群，现在我是群主!
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6caa433a-9014-482c-a680-e4ebcc65ed6c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bc6cd61d-cf30-4ac1-80a1-9c48b12e431b)

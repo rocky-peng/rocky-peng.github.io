@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
+- **随机毒鸡汤**：美貌会消逝，但蠢是永恒的~
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=84ae8b05-34a4-4f95-92a7-2045ecff351f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=992f6fb4-ff85-428b-af56-81c64a800258)

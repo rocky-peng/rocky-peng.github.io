@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我爱睡懒觉，如果要给这份爱一个期限，我希望是一万年。
+- **随机毒鸡汤**：只有在车站大排长龙时，才能真正意识到，自己是龙的传人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=db77469f-e090-4337-aaac-e7051500b3ea)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f6991b82-809e-4fb1-bc63-f810bf03c562)

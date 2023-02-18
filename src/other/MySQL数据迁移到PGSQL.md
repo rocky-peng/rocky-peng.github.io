@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：女追男隔层纱，男追女，隔房 隔车 隔她妈。
+- **随机毒鸡汤**：我为什么要栽你手里，你是土吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a285b605-f71e-4497-a26d-01f43cc4a95f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=700e65aa-17c2-4a98-ba54-6d7f1c955949)

@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别总是对我忽冷忽热，不然我会感冒的。
+- **随机毒鸡汤**：新冠病毒对于美国，隔离—人权没了，不隔离—人全没了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=33c3e643-53ba-48a0-ae26-1c5607098781)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e42a40a1-f91f-453a-b5c2-4a021ede7400)

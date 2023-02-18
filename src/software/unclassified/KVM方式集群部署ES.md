@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：当你停下来休息时，不要忘记别人还在奔跑，所以请拌倒他。
+- **随机毒鸡汤**：18岁什么化妆品都不用，28岁什么化妆品都没用。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=27af74f4-8a65-45d9-9198-cefb50822a8e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=46f67fff-6ab5-4a0f-b1e8-38cf5b42435a)

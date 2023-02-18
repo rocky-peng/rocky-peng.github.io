@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：明天估计会有人，手捧玫瑰花和我说，麻烦让一下。
+- **随机毒鸡汤**：如果多年以后你未嫁我未娶，那么咱俩，也真够完犊子的了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4e58096c-fe2a-4769-be12-046fd03bd011)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4515c9ce-cb9d-4433-abf8-56d18dd8b923)

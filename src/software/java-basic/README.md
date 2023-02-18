@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
+- **随机毒鸡汤**：关闭放假模式开启学霸模式，——对不起，您配置太低无法启用该功能。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ac5ca70d-43d0-4972-b1d8-54c98d73a086)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7e8ce5f0-bc21-4a99-a8ee-ef8c44fe4fe1)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：干饭的路上，连风都是甜的。
+- **随机毒鸡汤**：喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5e8bfecb-292a-4b18-9267-2eaf8926bc17)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=347d9e94-bf51-43e0-a72e-02eddc573530)

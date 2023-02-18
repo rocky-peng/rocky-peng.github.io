@@ -72,6 +72,6 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要我用精神胜利法，就永远不会失败。
+- **随机毒鸡汤**：现在不努力，以后别人壁咚的墙，都是你搬的砖。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a61c2f96-c115-499a-aa0c-97b29798e15f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0f0cb0fe-ea65-458f-84bb-f22d311580d8)

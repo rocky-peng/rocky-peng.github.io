@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：能者多劳，过劳死。
+- **随机毒鸡汤**：只要坚持下去，总会有失败的一天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1841b4e8-dedd-447d-bbcf-3187b3d18641)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0644ec61-3920-4909-af5a-ef0aeb681f96)

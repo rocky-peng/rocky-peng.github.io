@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要因为一门数学，就轻易失去信心，你又不止这一门不会。
+- **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0492df2-fcd5-4feb-bf05-a4c55af32bce)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=395a862b-2fa2-4087-8fe7-ef94e6466230)

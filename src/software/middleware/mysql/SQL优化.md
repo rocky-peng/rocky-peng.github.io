@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上最赚钱的方法，都写在《刑法》里了。
+- **随机毒鸡汤**：如果你容不下我，说明不是你的心胸太狭窄，就是我的人格太伟大。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c652963d-3475-4026-9f42-3b8b70f047e8)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=62af3578-7e86-4d1f-ae7c-1451f1a04313)

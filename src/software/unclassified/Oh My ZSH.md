@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
+- **随机毒鸡汤**：清明节，应该回你的学校扫扫墓，因为那里埋葬了你的青春。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bc8a8795-894e-4401-82ac-d134e6d251f2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7c26ebbd-9fde-4285-8995-a3602d25a168)

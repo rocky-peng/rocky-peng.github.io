@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：愿你的烦恼，像你的头发一样，越来越少。
+- **随机毒鸡汤**：我女朋友家真的好穷，那天我说想去她家看看，她说连门都没有。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=155f76ba-3a8b-4249-8602-489c7f05e7c6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=13e82427-157f-4433-8784-d2ffaffaf47f)

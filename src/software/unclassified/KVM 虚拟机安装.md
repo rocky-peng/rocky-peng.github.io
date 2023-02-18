@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：正月初五迎财神，那都是有钱人的事，你就洗洗睡吧。
+- **随机毒鸡汤**：別人前途無量，我前途無亮。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f9209962-5840-49ba-9d9e-ad4f045ddd9a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=05aa38c7-d9a7-449e-97e9-5ea7e3ef5a8b)

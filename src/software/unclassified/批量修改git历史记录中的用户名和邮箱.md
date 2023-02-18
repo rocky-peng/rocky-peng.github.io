@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：去买副象棋吧，那里有对象。
+- **随机毒鸡汤**：一聊起来你就和盘托出，你以为这是健谈和热情，其实这就是孤独。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88650f79-6e32-4f1c-9cd0-a5176476121c)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=19342144-14b5-452b-ab24-0a38b9bb9a2c)

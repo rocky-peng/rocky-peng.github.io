@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：创业只要你坚持，总有一天，会亏完的。
+- **随机毒鸡汤**：他们说网络很假，我笑了，好像现实很真一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7a8ec90b-f35b-428d-ba88-a126403cf1e5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ec67e77a-49f6-4459-a0c6-c7efe39b0feb)

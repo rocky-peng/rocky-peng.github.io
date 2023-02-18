@@ -162,6 +162,6 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：俗话说祸不单行，可见连祸都是有伴儿的，你再看看你。
+- **随机毒鸡汤**：长胖以后，与朋友约着一起骑马减肥，一个月后马瘦了十斤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4bd4d3bd-a43f-4870-af48-c022b8e6830e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2cec9e50-4d42-420a-a256-cb6e2a43e1f6)

@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：认真读完这段话，你就会发现这段话，和你一样毫无价值和意义。
+- **随机毒鸡汤**：在外面混的再好，在你妈眼里，也就是个玩手机的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=305a4808-6a57-4c67-9862-aaa4d87b22da)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=94b0dbb2-61b7-4741-a6bb-30d5c499ed71)

@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：等你啊，还不如等死，死起码会来。
+- **随机毒鸡汤**：野味锅里做得好，骨灰盒中乐逍遥。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c85488f3-1da2-4e38-b467-fef7da6d5a34)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0f6198de-abbc-4fd6-952a-7517835188ff)

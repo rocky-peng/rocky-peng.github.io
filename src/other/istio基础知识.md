@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果我老了怎么办？那些广场舞都好难。
+- **随机毒鸡汤**：不是我不合群，只是我合群的人，没有你而已。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=45288d48-7f64-4613-a873-5175d4295342)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e64136df-33a1-4775-8b7c-29d242a356d7)

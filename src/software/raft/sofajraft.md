@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：贫贱不能移的意思是，穷就好好在家待着，哪儿也别去。
+- **随机毒鸡汤**：只要新欢足够好，哪有旧爱忘不了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2fd945e9-f8cc-4b2e-a2c0-b29e4b74e53c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f33441ea-b2f2-4418-8010-25028abc56d7)

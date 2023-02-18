@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
+- **随机毒鸡汤**：一般七夕情侣都去哪里玩？给我推荐几个，我避开这些地方。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2b193d31-8bd5-4bea-9110-e2c883acf5c0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ae3e4b11-7a8d-4ff1-bcdc-1da7718e5e08)

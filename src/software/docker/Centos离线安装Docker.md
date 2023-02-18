@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：让你等太久的人，最后都不会选择你。
+- **随机毒鸡汤**：能控制住自己嘴巴的人，往往都很厉害，不管是说话还是吃东西。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=87a13e31-b730-4593-b3e5-aa95d4df1ede)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=65028d94-c1e3-4883-92e3-c1c0acdaa994)

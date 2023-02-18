@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在出租车内疯狂放臭屁，可以极大的降低，司机带你绕路的概率。
+- **随机毒鸡汤**：运气这种东西，踩踩大便就来了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0aa788bf-24bc-4614-a20d-9f32a4b80a23)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b4e159d3-b0d5-4a75-a77d-9e7718f47717)

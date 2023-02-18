@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候梦想长大了要超有钱，现在梦想实现一半了，我长大了。
+- **随机毒鸡汤**：不学觉得数学没用，学完觉得自己没用。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a5e465c0-3395-48f9-9396-aafc9b39d899)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4bd7833f-4c08-417b-9b5d-2fad19400aee)

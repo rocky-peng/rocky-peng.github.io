@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在的时代，不是属于00后的，是属于厚脸皮的！
+- **随机毒鸡汤**：别闯红灯，闯得好快几十秒，闯不好快几十年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=794f0981-aa37-4fd7-bd44-bac52a4fe1f8)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2aa27766-3def-4ac7-86cb-272d8a3e7ef5)

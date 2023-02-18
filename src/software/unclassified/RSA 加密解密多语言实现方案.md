@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以后要对女朋友好一点，毕竟她已经瞎了，不能再受伤害了。
+- **随机毒鸡汤**：男女之间都是从，不好意思到真没意思。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fc91d057-57ab-45b1-9545-f91ef1324780)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9ef1cef2-c289-4050-a2f1-2daeeae32fd0)

@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：反正明天也一樣糟，沒必要跟今天過不去。
+- **随机毒鸡汤**：旧友难维持，新友难深交。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ccc49c7e-9c19-4b29-bd5a-4a3513277f8a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dba91f76-206d-4d48-9341-022172e0c75e)

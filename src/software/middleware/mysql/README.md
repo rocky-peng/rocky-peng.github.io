@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：掉一两根头发不要慌张，慢慢的就能，坦然面对秃头了。
+- **随机毒鸡汤**：我在佛前苦苦求了几千年，后来才发现，佛祖根本听不懂方言。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a9e8a260-3847-4116-a915-ae4afbf85fec)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ff10a00d-e86b-453f-b6bb-ad8a40e03725)

@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：当你上厕所没纸的时候，就会知道为什么，厕所也叫洗手间了。
+- **随机毒鸡汤**：肚子上的赘肉，是你向生活妥协的痕迹。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9da7976-59d2-4868-ad56-a72f11e95de9)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bf3d52d9-f7d5-4854-8da9-8b27490cb886)

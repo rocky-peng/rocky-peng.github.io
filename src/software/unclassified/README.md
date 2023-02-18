@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我承受了这个年纪，不该有的饭量。
+- **随机毒鸡汤**：真正的成熟，是自己主动穿上秋裤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ef32bbed-cda4-48b4-b5f7-71b7f8988994)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a337bb78-14f7-49f2-877e-8234540ac60e)

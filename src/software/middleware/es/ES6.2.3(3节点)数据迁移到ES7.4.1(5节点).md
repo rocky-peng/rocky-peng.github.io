@@ -400,6 +400,6 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：梦想就是，你在做美梦的时候，闹钟响了。
+- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d3b64dc9-c100-4824-8cc7-8c6759a4cb6a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d7b78567-ad3d-455d-8053-10d88ac9402d)

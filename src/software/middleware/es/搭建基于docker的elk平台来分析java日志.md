@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：开车我最讨厌两种人，一种是喜欢加塞的人，另一种是不让我加塞的人。
+- **随机毒鸡汤**：别总是骂别人猪狗，你过的还不如它们。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=58852ccf-b472-441f-9771-b394930d69d7)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d1ff66af-1753-44dd-949c-acca5849b3b8)

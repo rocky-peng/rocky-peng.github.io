@@ -94,6 +94,6 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：承蒙你出现，够我心烦好多年。
+- **随机毒鸡汤**：我们都史无前例的有默契，突然你不理我我也不理你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ed625910-67d5-46f6-9f7c-628a28bc1084)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f690b467-078f-49d7-b32f-5375909614cb)

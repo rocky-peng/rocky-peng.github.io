@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们的故事，始于我的打扰，终于我的多余。
+- **随机毒鸡汤**：世界那么大，能认识你，我觉得好不幸。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ff92d2fb-caff-4dd8-aed7-10f2c63780bb)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d063ca5c-a4e3-4aa4-b3c7-c232b2dd5e13)
