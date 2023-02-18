@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：旧友难维持，新友难深交。
+- **随机毒鸡汤**：我的冷漠里，藏着一半害羞，一半自卑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dba91f76-206d-4d48-9341-022172e0c75e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ddf1b52-31a0-4984-ac4f-75d0715f5ce3)

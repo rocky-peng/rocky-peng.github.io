@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要坚持下去，总会有失败的一天。
+- **随机毒鸡汤**：你敬人一寸，他将得寸进尺。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0644ec61-3920-4909-af5a-ef0aeb681f96)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bf8260f8-4634-48fd-bf50-dede1197c7d8)

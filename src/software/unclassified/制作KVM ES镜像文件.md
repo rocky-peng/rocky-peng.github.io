@@ -72,6 +72,6 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在不努力，以后别人壁咚的墙，都是你搬的砖。
+- **随机毒鸡汤**：闹钟虐我千百遍，我待被窝如初恋。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0f0cb0fe-ea65-458f-84bb-f22d311580d8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=996ed31d-820b-44df-b614-f6923efc3d92)

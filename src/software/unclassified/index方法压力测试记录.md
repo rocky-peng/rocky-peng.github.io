@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？
+- **随机毒鸡汤**：铁打的身体，磁铁打的床。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=db7332c7-ed75-4a16-b783-3aa8966ad3f6)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7d35266f-46ec-485b-8b67-d6da023e65dc)

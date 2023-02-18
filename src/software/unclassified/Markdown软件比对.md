@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：新冠病毒对于美国，隔离—人权没了，不隔离—人全没了。
+- **随机毒鸡汤**：什么都在涨价，就是人越来越贱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e42a40a1-f91f-453a-b5c2-4a021ede7400)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fddb973e-8d94-44aa-bbe9-6b316e0319ba)

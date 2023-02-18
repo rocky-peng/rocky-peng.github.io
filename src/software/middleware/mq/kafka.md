@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：也许你的爱情迟到了，但更有可能的是，出车祸了。
+- **随机毒鸡汤**：再不好好学习，中国就崛起完了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b8816428-3370-4e67-b17f-bbccef67ecc1)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d67880ce-2b69-4862-b494-193ed9ea47f9)

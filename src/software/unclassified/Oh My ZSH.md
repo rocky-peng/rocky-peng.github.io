@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：清明节，应该回你的学校扫扫墓，因为那里埋葬了你的青春。
+- **随机毒鸡汤**：因为没有钱才上班，现在上了班也没钱，难道有中间商赚差价？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7c26ebbd-9fde-4285-8995-a3602d25a168)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2e229c9a-c233-4176-bd12-834f55ef2269)

@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：五年前我加入一个单身群，我们说脱单了就退群，现在我是群主!
+- **随机毒鸡汤**：只要好好发挥，总能搞砸一段感情。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bc6cd61d-cf30-4ac1-80a1-9c48b12e431b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f9f16d9a-3fff-433b-9e79-07b6baa493e1)

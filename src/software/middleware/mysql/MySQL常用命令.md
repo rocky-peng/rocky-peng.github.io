@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有个姑娘问我借钱去整容，整的挺成功，我再没认出是谁问我借的钱。
+- **随机毒鸡汤**：你的潜意识，正在操控你的人生，而你却称其为命运。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2e147863-8166-474e-92f0-efbba600fc9e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0cb17360-ea02-46ba-b8e6-78fee0735c91)

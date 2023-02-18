@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。
+- **随机毒鸡汤**：乞丐并不会妒忌百万富翁，但是他肯定会妒忌，收入更高的乞丐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=347d9e94-bf51-43e0-a72e-02eddc573530)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=920e074d-6a16-45a8-b997-e27480995047)

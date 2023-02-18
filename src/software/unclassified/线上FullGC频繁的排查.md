@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：疫情当前，少移动不联通，——中国电信。
+- **随机毒鸡汤**：我有个朋友停止了抱怨，开始努力奋斗，几年过去了还是这个鸟样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f1b12e4f-ab1a-4f42-96d4-03f3fc49f222)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d841443d-5064-4eec-9208-b348c2994688)

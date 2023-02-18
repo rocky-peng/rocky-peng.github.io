@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：真正的成熟，是自己主动穿上秋裤。
+- **随机毒鸡汤**：别想着天上掉馅饼，你根本接不住。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a337bb78-14f7-49f2-877e-8234540ac60e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=611255d3-b3ec-4205-89c0-2de2d8612db8)

@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：真的会有人等着你，等着看你笑话。
+- **随机毒鸡汤**：玩笑嘛，不是在自黑，就是在黑别人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c321c902-52de-4498-b2b3-9d1012bc8a0a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1b51f7fd-49aa-425b-8d22-66b85afee044)

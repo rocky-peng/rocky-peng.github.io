@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有心者不用教，无心者教不会。
+- **随机毒鸡汤**：铁杵能磨成针，但木杵只能磨成牙签，材料不对再努力也没用。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4a235e0a-3d27-443c-906e-362d40f8edb9)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b95ab97a-8401-46e8-9bce-1170954a8202)

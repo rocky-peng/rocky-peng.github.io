@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果多年以后你未嫁我未娶，那么咱俩，也真够完犊子的了。
+- **随机毒鸡汤**：光盘行动，是造成现在体重的原因之一。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4515c9ce-cb9d-4433-abf8-56d18dd8b923)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bdc6be57-502a-4804-9808-062966e68abe)

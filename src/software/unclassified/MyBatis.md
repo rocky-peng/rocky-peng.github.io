@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：肚子上的赘肉，是你向生活妥协的痕迹。
+- **随机毒鸡汤**：世界上本没有贫穷，富的人多了，我就变成了贫穷。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bf3d52d9-f7d5-4854-8da9-8b27490cb886)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7658e5cf-e62c-424e-82af-56e63552cd7f)

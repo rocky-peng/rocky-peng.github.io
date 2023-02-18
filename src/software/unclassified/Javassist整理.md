@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：死神为什么叫死神？因为叫死鬼不太严肃。
+- **随机毒鸡汤**：年轻的时候一定要敢于做梦，毕竟年龄一大，就很容易睡不着。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ddbb8ddd-62e2-4ca3-b817-351647d0910a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=184f4e6b-82cb-4a1e-b9ad-c3a45423a367)

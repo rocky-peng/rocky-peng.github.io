@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想要逼死一个强迫症，这实在太简了。
+- **随机毒鸡汤**：遇见你，花光了我所有的运气，所以我每天都特别倒霉。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=05bd16b8-4462-4b05-9f92-6df065c676a4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dadc3511-c423-4a98-aed3-c396e1b4c0ab)

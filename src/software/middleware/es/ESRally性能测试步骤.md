@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：努力赚钱不是因为钱重要，而是为了让钱变得不重要。
+- **随机毒鸡汤**：如果每个人都能理解你，那你得普通成什么样子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ff767be0-6f5c-43f5-abc2-9b485ba43dcb)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c718c1fc-8b6e-4616-8781-cb2f8f57ba22)

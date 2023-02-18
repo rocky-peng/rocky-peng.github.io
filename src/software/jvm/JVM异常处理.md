@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：运气这种东西，踩踩大便就来了。
+- **随机毒鸡汤**：你说人命贱吧，可是一进医院就贵得不行。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b4e159d3-b0d5-4a75-a77d-9e7718f47717)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d3f7c4ee-38b8-465a-939d-3941ce22fc14)

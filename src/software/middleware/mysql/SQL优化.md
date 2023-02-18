@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果你容不下我，说明不是你的心胸太狭窄，就是我的人格太伟大。
+- **随机毒鸡汤**：连自己都不相信的人，说明有自知之明。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=62af3578-7e86-4d1f-ae7c-1451f1a04313)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2d29739b-348c-425b-b74e-934d9096933a)

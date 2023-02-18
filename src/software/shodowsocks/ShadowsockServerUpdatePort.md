@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：他们说网络很假，我笑了，好像现实很真一样。
+- **随机毒鸡汤**：狗改不了吃屎，人改不了拉完回头看屎。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ec67e77a-49f6-4459-a0c6-c7efe39b0feb)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9277f5da-170b-4d10-adcd-033e248f3210)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我为什么要栽你手里，你是土吗？
+- **随机毒鸡汤**：我们被困在家里，已经很幸运了，而有些人被永远困在了2020。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=700e65aa-17c2-4a98-ba54-6d7f1c955949)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d9071ee3-98ae-4a15-948e-6ecbc350d5b0)

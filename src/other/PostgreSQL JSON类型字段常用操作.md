@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：野味锅里做得好，骨灰盒中乐逍遥。
+- **随机毒鸡汤**：所谓复习就是，把不会的东西再确认一遍，我—确实不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0f6198de-abbc-4fd6-952a-7517835188ff)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=561cb480-a2d9-4dcf-8f7b-4f94da39cd04)

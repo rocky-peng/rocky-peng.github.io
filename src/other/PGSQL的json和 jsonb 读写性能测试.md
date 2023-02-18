@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界那么大，能认识你，我觉得好不幸。
+- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d063ca5c-a4e3-4aa4-b3c7-c232b2dd5e13)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f7bb0af-7d2e-46e8-9c24-e3594d81c63f)

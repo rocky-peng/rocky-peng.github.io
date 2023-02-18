@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你就是，好得不够纯粹，坏得不够彻底。
+- **随机毒鸡汤**：当代青年四大美德，信息秒回 约见守时，按时还钱 不管闲事。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=09258531-da1b-48a6-b5a5-c18681593e3d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b835e694-090c-457a-9bd2-e5747854e887)

@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你一定是个好人，不信你去表白试试！
+- **随机毒鸡汤**：不要再减肥了，苦了自己，又苦了体重秤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3a5762dc-51c7-4dd8-bc70-ada1d6f1a842)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c684d37e-4ab0-4797-ae31-f6c56e75a354)

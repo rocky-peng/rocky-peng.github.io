@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：万死不辞的最新解释是，被气死一万次也不舍得辞职。
+- **随机毒鸡汤**：有心者不用教，无心者教不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7b981bfe-ba4a-4d3a-888c-2488c8411c0b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce82414d-82f6-4e88-bb0b-dffc049502ad)

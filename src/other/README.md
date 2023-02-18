@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每个被孤立的人，或许从一开始，就先孤立了别人吧。
+- **随机毒鸡汤**：世界那么大，多在手机上看看。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5d363061-25a2-42c8-8f33-f208dc4257d3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1763cb16-9589-4359-80ca-04a62366a6bb)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
+- **随机毒鸡汤**：人和人之间距离可以有多远？不多，一条分数线而已。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=395a862b-2fa2-4087-8fe7-ef94e6466230)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d47c94ad-7fed-49b5-8845-475cd4c2fbe7)

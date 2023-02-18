@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
+- **随机毒鸡汤**：不要轻易看不起谁，就算是杀马特，发量都比你多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4f6fceab-cbf8-48e3-a365-ec3a7e771ae3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=402c97c7-cf7b-43c9-a2d0-8ec32a505317)

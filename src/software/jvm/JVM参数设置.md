@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别闯红灯，闯得好快几十秒，闯不好快几十年。
+- **随机毒鸡汤**：青春期的爱情是精神鸦片，不管你吸没吸，背后总站着无数个林则徐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2aa27766-3def-4ac7-86cb-272d8a3e7ef5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e7ad49bb-5e24-4769-b9ce-d1f928510143)

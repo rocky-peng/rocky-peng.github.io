@@ -400,6 +400,6 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
+- **随机毒鸡汤**：有些事情，只要静下心去做，就一定会睡着。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d7b78567-ad3d-455d-8053-10d88ac9402d)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=630bb005-3756-41ce-8406-022c63c6713a)

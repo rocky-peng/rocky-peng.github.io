@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你坐过最挤的公交车是什么？只是路过，却被挤上了车。
+- **随机毒鸡汤**：我为什么要栽你手里，你是土吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=57680e63-a2af-4872-a24f-cff3d32dd714)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e4bf7b22-22d6-470d-b248-49e7ed754ae7)

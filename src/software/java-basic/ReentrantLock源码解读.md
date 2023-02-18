@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：活了这么多年，一直搞不明白一件事，拉钩为什么要上吊？
+- **随机毒鸡汤**：人家不是无趣，而是，懒得对你有趣。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=de0cecf4-9c08-4a01-b466-1941ee363048)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=020a8db5-fd47-4342-b368-b33ddad1cbd5)

@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：多个朋友多条路，少个朋友少条岔路。
+- **随机毒鸡汤**：只要我足够健忘，痛苦就追不上我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9104d7b2-126c-45ad-927a-f3859c042574)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a48edc5e-145e-4661-ab69-6322af0c22de)

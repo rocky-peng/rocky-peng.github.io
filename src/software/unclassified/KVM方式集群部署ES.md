@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：18岁什么化妆品都不用，28岁什么化妆品都没用。
+- **随机毒鸡汤**：不是理想太不现实，而是现实太不理想。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=46f67fff-6ab5-4a0f-b1e8-38cf5b42435a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3217a1b9-22ab-4dce-ad98-882ea3735dc2)

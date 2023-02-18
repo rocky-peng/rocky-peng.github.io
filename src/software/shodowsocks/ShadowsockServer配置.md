@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个成年人是不会挑食的，他们会说，我对这个过敏。
+- **随机毒鸡汤**：其实数学十分简单，只是另外140分难。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ee0a7e5a-b4ed-4b57-9391-f54d3c5a77e6)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e76a486a-5aeb-4f35-9eb2-3c12c3062faa)

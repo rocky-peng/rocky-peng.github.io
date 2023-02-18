@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每当误会解开，冰释前嫌的时候，故事就离结束不远了。
+- **随机毒鸡汤**：我一般说话都会给人留面子，万一我怼你了，没错我就是故意的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d603f4b3-da3c-4ef4-87c4-eff36e42e5a8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cb984135-0101-44f4-8629-664ca6dd168e)

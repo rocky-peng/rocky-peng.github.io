@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我从毕业到现在有两个亿，一个回忆，一个失忆。
+- **随机毒鸡汤**：你复杂的五官，掩饰不了你朴素的智商。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d351a40a-3263-42c4-8c6b-d3298f9584ed)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=99243a27-aca8-4695-b7c5-e6bbd6abd33e)

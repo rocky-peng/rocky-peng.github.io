@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：第一次做人，没经验，所以活成这个狗样子。
+- **随机毒鸡汤**：上学时一个人的力气如壮牛，那是因为他，拖了全班人的后腿。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a725bf1a-1ce7-4ae9-8426-594236946280)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9d1ada33-d8f6-4522-99f4-b406e9ca4279)

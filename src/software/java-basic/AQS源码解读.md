@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：美貌会消逝，但蠢是永恒的~
+- **随机毒鸡汤**：夜太美，尽管再危险，总有人黑着眼眶修着仙。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=992f6fb4-ff85-428b-af56-81c64a800258)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d0d5fb23-a5c3-42c5-add0-899e50de9192)

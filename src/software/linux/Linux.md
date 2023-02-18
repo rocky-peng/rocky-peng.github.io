@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我女朋友家真的好穷，那天我说想去她家看看，她说连门都没有。
+- **随机毒鸡汤**：想奋斗？手机能从你的手上拿下来，就算是拼搏了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=13e82427-157f-4433-8784-d2ffaffaf47f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=10182003-5051-4d4d-bd20-a61e2b80b4c9)

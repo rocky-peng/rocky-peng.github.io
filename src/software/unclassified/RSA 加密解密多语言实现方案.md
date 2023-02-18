@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：男女之间都是从，不好意思到真没意思。
+- **随机毒鸡汤**：如果睡觉是给人体充电，那么我从来没有满格过。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9ef1cef2-c289-4050-a2f1-2daeeae32fd0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d68c6c50-ebb5-406b-9786-9f69a19c9496)

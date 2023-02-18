@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前除了读书什么都不懂，现在除了读书什么都懂。
+- **随机毒鸡汤**：经常性失落，间接性崩溃，习惯性治愈。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=50944a86-1c6d-4a3c-8f78-e46bbddee927)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d47966e9-457a-46da-9502-9f580c46eafc)

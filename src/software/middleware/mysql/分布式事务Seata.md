@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：漂亮是肤浅的，但丑陋，是可以到骨子里面的。
+- **随机毒鸡汤**：有时候狐朋狗友才最纯，很纯粹的只是想要你的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=003c6e4a-1cd3-42e7-a018-01dea2cdbbc7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5f7f8790-8835-4d39-917b-4aaa15031663)

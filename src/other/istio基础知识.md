@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是我不合群，只是我合群的人，没有你而已。
+- **随机毒鸡汤**：总是在凌晨想通很多事情，又在天亮之后，忘得一干二净。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e64136df-33a1-4775-8b7c-29d242a356d7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=38bf13b7-3a7c-49fe-ab1b-dc79eab0d605)

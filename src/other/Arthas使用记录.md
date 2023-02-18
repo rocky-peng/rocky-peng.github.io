@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每逢佳节胖三斤，今年能胖三十斤。
+- **随机毒鸡汤**：不需要解释，理解你的人不需要，不理解你的人不配要。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=77d96837-2dd5-4b10-8803-836c3506d2b2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a7700387-4e6c-4bb5-ab0d-64e77c9c33ad)

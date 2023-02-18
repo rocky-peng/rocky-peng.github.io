@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一般七夕情侣都去哪里玩？给我推荐几个，我避开这些地方。
+- **随机毒鸡汤**：虽然我长得丑，但是买了漂亮衣服，我就可以丑的漂亮。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ae3e4b11-7a8d-4ff1-bcdc-1da7718e5e08)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a365de29-b346-4f73-877f-ac19616fefc1)

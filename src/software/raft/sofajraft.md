@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要新欢足够好，哪有旧爱忘不了。
+- **随机毒鸡汤**：如果吃鱼可以补脑，你这智商，至少要吃一条鲸鱼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f33441ea-b2f2-4418-8010-25028abc56d7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=db60e088-f041-410d-b335-853f4b3615c2)

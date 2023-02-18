@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在外面混的再好，在你妈眼里，也就是个玩手机的。
+- **随机毒鸡汤**：别总是骂别人猪狗，你过的还不如它们。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=94b0dbb2-61b7-4741-a6bb-30d5c499ed71)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5776fa82-ca79-426b-8842-48175682c836)

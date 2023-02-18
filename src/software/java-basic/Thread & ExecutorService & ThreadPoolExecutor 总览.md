@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我已经闲到，开始学习了……
+- **随机毒鸡汤**：冰冻三尺非一日之寒，小腹三层非一日之馋。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d8ef8583-222b-42ac-8972-5039ee08a0fb)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0f6cb911-49d1-4e4c-b933-0254d616cbc9)

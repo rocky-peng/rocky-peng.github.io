@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：好看的人千千万，整过容的一大半。
+- **随机毒鸡汤**：我真是个败家子，上亿的家产，一觉醒来就没了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0da0bb1e-64cf-4540-aa31-e50e2b068620)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=628058cb-9420-4f74-8cb3-4750146386c8)

@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：经常废寝，从不忘食。
+- **随机毒鸡汤**：去找一个能逗你笑的人吧，我不行，我只能把你美哭。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ba6396bb-d19f-4b65-9f02-f859a5fabdf5)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8db67094-da28-4a1e-94c9-3187f8887b39)

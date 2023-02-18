@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：好朋友都这样，你跌倒时我会扶你一把，不过要先等我笑完。
+- **随机毒鸡汤**：单身脱发又没钱，跑步进入中老年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d3e619b4-2084-41f5-91f8-5007f1082a87)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=cf0678e0-e6c8-4966-aac0-a288ffe49c51)

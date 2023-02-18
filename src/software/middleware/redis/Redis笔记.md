@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人问你有谈恋爱吗？只要说现在没有，就能掩盖过去也没有的事实。
+- **随机毒鸡汤**：淡泊名利说的好听，没有名利，哪有淡泊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=62bd6b52-9436-448a-b5bb-7c079eed5c6e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3a0ac724-68bd-4def-9cd5-95a1252a2345)

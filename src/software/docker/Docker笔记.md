@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
+- **随机毒鸡汤**：年轻的时候，一定得努力搬砖，毕竟老了人家也不要你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9ea3c12d-5b11-42d3-a7c4-0368784daab2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7f15814f-0bc0-4b3b-9ba1-d0c51bb6715a)

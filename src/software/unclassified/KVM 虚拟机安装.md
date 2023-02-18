@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：別人前途無量，我前途無亮。
+- **随机毒鸡汤**：如果睡觉是给人体充电，那么我想说，我从来没满格过。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=05aa38c7-d9a7-449e-97e9-5ea7e3ef5a8b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7790a982-c38c-4111-8e57-2b3063e41459)

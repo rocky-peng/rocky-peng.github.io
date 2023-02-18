@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不学觉得数学没用，学完觉得自己没用。
+- **随机毒鸡汤**：高考加油！我在工地等你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4bd7833f-4c08-417b-9b5d-2fad19400aee)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5940dbcb-97e1-485e-9475-a0311d56aae4)

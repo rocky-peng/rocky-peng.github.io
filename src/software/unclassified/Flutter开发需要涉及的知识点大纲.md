@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只有在车站大排长龙时，才能真正意识到，自己是龙的传人。
+- **随机毒鸡汤**：铁打的身子，磁铁打的床。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f6991b82-809e-4fb1-bc63-f810bf03c562)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=70bf77ef-94c5-4f33-9f20-09cd0dad3483)

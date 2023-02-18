@@ -31,6 +31,6 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：因为不够幸运所以要努力，也因为不够幸运，所以努力都只是白费。
+- **随机毒鸡汤**：请问你是秋高吗？我都被你气爽了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dc209ae6-324b-4e68-810a-041fe8421c3c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=42ab7674-64ca-4e73-8dbb-f780cb4bc170)

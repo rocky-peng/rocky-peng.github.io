@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没有女朋友算什么，现在朋友都不好找。
+- **随机毒鸡汤**：不是所有的虫子，都能变成蝴蝶，有的它就是蛆。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d788f8b6-b4e7-4a23-9f7e-a67a9b39daec)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2521eda9-1df6-4132-abb0-b087946c431e)

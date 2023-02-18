@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想结婚就去结婚，想单身就维持单身，反正到最后你们都要后悔！
+- **随机毒鸡汤**：18岁什么化妆品都不用，28岁什么化妆品都没用。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cfe93315-dd2d-40c3-be71-cba8ce1a8fac)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0d7843d0-3b6a-4833-955c-5b08ccf2a27d)

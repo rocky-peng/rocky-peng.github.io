@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别总是骂别人猪狗，你过的还不如它们。
+- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d1ff66af-1753-44dd-949c-acca5849b3b8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca64e460-cb82-45f4-b562-de2135146c01)

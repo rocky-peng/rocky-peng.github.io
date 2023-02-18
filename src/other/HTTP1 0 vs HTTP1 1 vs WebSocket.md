@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个人久了，突如其来的关心，都是负担。
+- **随机毒鸡汤**：我好矛盾，干着一份想死的工作，其实是为了谋生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b4f8d1a7-e27d-40a9-84dc-fe38573be347)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b1ece9ff-97e1-46f6-b89f-04cbfcee3036)
