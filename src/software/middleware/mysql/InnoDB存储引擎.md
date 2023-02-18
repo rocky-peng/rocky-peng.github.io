@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我一般说话都会给人留面子，万一我怼你了，没错我就是故意的。
+- **随机毒鸡汤**：楼下的武汉鸭脖终于承认，卖的是假的，不是武汉本地的鸭。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cb984135-0101-44f4-8629-664ca6dd168e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2c9fba5b-6f41-4d8e-b065-752f165124b6)

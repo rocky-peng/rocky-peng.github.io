@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：其实数学十分简单，只是另外140分难。
+- **随机毒鸡汤**：永远不要自暴自弃，一旦开始放弃，你就会发现非常开心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e76a486a-5aeb-4f35-9eb2-3c12c3062faa)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5debea04-328e-4583-84ca-040d3ecd393c)

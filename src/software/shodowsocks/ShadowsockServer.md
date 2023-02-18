@@ -31,6 +31,6 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：请问你是秋高吗？我都被你气爽了。
+- **随机毒鸡汤**：戴口罩总比戴呼吸机好，躺家里总比躺ICU要强，好好享受吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=42ab7674-64ca-4e73-8dbb-f780cb4bc170)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d42883e-92b2-407d-a89a-2105a43f87a6)

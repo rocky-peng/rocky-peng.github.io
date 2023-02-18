@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上本没有贫穷，富的人多了，我就变成了贫穷。
+- **随机毒鸡汤**：打麻将三缺一，斗地主二缺一，我谈个恋爱咋还一缺一？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7658e5cf-e62c-424e-82af-56e63552cd7f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b88380cc-d6bc-4342-9860-b7bd00e57eee)

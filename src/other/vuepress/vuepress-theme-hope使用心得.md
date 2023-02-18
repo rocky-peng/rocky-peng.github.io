@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：18岁什么化妆品都不用，28岁什么化妆品都没用。
+- **随机毒鸡汤**：想膈应你的人，东南西北都顺路。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2996bab5-0087-4ced-b67d-16e897561c74)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=924c695a-2366-4192-8087-46663659e353)

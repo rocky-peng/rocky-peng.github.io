@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：高考加油！我在工地等你。
+- **随机毒鸡汤**：虽然你搬砖的样子很累，但是，你充钱的样子真的很帅。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5940dbcb-97e1-485e-9475-a0311d56aae4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b8a36cef-4a04-40f4-99c2-d97fccd8ec68)

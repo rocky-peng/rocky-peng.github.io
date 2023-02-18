@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：单身脱发又没钱，跑步进入中老年。
+- **随机毒鸡汤**：恭喜你又熬过一天，还中奖了，再来一天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=cf0678e0-e6c8-4966-aac0-a288ffe49c51)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=871caeb4-197a-48c3-9b29-2903e06b3995)

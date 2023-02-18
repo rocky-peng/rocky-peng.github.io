@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别想着天上掉馅饼，你根本接不住。
+- **随机毒鸡汤**：活下去的勇气，是因为怕死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=611255d3-b3ec-4205-89c0-2de2d8612db8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5add50d4-6267-4567-9a96-f7633fe5316e)

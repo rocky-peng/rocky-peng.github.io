@@ -400,6 +400,6 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有些事情，只要静下心去做，就一定会睡着。
+- **随机毒鸡汤**：你有什么擅长的运动吗？「逃避现实」。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=630bb005-3756-41ce-8406-022c63c6713a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=76207f54-8233-4b1c-889b-bd566b74127e)

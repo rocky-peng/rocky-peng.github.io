@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：什么都在涨价，就是人越来越贱。
+- **随机毒鸡汤**：最难的不是不原谅，而是不知从何原谅。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fddb973e-8d94-44aa-bbe9-6b316e0319ba)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=744e0fa4-6ac2-4122-9be8-e7a7e568dbee)

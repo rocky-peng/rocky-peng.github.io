@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我为什么要栽你手里，你是土吗？
+- **随机毒鸡汤**：你知道投资和投机的区别吗？一个是普通话，一个是广东话。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e4bf7b22-22d6-470d-b248-49e7ed754ae7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ee42ad6a-40cd-471c-b8be-364bd4d4f2fc)

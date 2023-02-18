@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我有个朋友停止了抱怨，开始努力奋斗，几年过去了还是这个鸟样。
+- **随机毒鸡汤**：明知不可为而为之，是我对这段感情，最大的诚意。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d841443d-5064-4eec-9208-b348c2994688)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b0b432c3-14cc-4e4a-bf2e-a81ca84a1050)

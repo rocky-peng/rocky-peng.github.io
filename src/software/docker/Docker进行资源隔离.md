@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要再减肥了，苦了自己，又苦了体重秤。
+- **随机毒鸡汤**：没钱没权没实力，还不用功，这就是你抱怨的原因。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c684d37e-4ab0-4797-ae31-f6c56e75a354)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=12f7d646-bc22-4454-9c15-02008015c49e)

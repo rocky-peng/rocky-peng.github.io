@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们被困在家里，已经很幸运了，而有些人被永远困在了2020。
+- **随机毒鸡汤**：月考时我不给你们露两手，你们都不知道我，国庆玩的有多开心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d9071ee3-98ae-4a15-948e-6ecbc350d5b0)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=685b9148-a2b0-44e2-aebf-f7e0dfb72949)

@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果每个人都能理解你，那你得普通成什么样子。
+- **随机毒鸡汤**：君子爱财 取之有道，这个道，是我不知道。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c718c1fc-8b6e-4616-8781-cb2f8f57ba22)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=de02f47b-74ea-41f0-bd7f-dbf0ff8530a5)

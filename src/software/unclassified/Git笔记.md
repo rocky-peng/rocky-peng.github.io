@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要好好发挥，总能搞砸一段感情。
+- **随机毒鸡汤**：我挺会哄女生睡觉的，只要我一问在吗，她们就说要睡觉了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f9f16d9a-3fff-433b-9e79-07b6baa493e1)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8c5f2ab5-a6c6-43c4-a364-058a6bdabf39)

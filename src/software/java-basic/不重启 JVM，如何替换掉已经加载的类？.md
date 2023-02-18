@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个人最大的敌人是自己，可是永远不能打败自己。
+- **随机毒鸡汤**：天生我才必有用，前提是，你得是“天”生的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0a003a0-39d6-4fcc-84c0-6c71d9d89219)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dc14a9b0-7947-45f6-906b-9e3d8b58e6e3)

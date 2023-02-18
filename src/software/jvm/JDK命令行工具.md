@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：美妙的歌声可以超越众人，劣质的歌声可以超度众人。
+- **随机毒鸡汤**：不要低估你的能力，不要高估你的毅力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2103115e-1f52-4d4e-908d-d684659ad382)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=07353e80-db51-4d30-9194-58f395f96ff9)

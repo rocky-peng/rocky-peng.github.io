@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：当代青年四大美德，信息秒回 约见守时，按时还钱 不管闲事。
+- **随机毒鸡汤**：每个人都是梦想家，梦破灭之后，就只剩想家。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b835e694-090c-457a-9bd2-e5747854e887)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0538e17b-53d0-4b6b-9a77-fc6e55d96457)

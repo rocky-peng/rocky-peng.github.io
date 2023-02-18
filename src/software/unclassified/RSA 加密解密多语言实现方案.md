@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果睡觉是给人体充电，那么我从来没有满格过。
+- **随机毒鸡汤**：我也是有家族传承的人，比如我爷爷对我爸说，要好好学习。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d68c6c50-ebb5-406b-9786-9f69a19c9496)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=faf6983d-9d5a-49af-b24e-d92661022fba)

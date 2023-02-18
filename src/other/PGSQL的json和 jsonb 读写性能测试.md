@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
+- **随机毒鸡汤**：暖男燃烧完所有的暖，就成了渣男。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f7bb0af-7d2e-46e8-9c24-e3594d81c63f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ad1ae4cb-987b-4180-bf8a-e3e89c7ba7c2)

@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上学时一个人的力气如壮牛，那是因为他，拖了全班人的后腿。
+- **随机毒鸡汤**：我不怕你骗我，我怕的是你骗不了我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9d1ada33-d8f6-4522-99f4-b406e9ca4279)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=65700364-36fc-487e-ac6e-b90f0d34f633)

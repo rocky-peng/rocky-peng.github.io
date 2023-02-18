@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想奋斗？手机能从你的手上拿下来，就算是拼搏了。
+- **随机毒鸡汤**：都说熬夜伤身，那熬夜健身呢？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=10182003-5051-4d4d-bd20-a61e2b80b4c9)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=da68bcf9-eeb6-4361-bd77-9205009af6d5)

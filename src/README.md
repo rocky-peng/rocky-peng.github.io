@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你敬人一寸，他将得寸进尺。
+- **随机毒鸡汤**：每天提高的，不是我的成绩，而是我的发际线。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bf8260f8-4634-48fd-bf50-dede1197c7d8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a45fe7f0-2d97-471f-bdf4-af8543a168b0)

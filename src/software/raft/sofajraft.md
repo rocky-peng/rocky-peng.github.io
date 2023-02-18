@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果吃鱼可以补脑，你这智商，至少要吃一条鲸鱼。
+- **随机毒鸡汤**：作为失败的典型，你实在是太成功了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=db60e088-f041-410d-b335-853f4b3615c2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=aabd26f3-e42a-4118-a9ef-3c0a50b28227)

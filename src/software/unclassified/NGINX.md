@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：虽然我长得丑，但是买了漂亮衣服，我就可以丑的漂亮。
+- **随机毒鸡汤**：回你的消息，只是为了，合法合理的发朋友圈。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a365de29-b346-4f73-877f-ac19616fefc1)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fea5a72d-7bf2-4b98-89c7-fae604ca979e)

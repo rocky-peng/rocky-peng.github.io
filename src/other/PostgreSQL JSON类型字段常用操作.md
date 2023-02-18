@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓复习就是，把不会的东西再确认一遍，我—确实不会。
+- **随机毒鸡汤**：今年圣诞推迟14天，因为圣诞老人过来要隔离。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=561cb480-a2d9-4dcf-8f7b-4f94da39cd04)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=31d64449-a9f2-4ff1-abb5-8e7260aaf51c)

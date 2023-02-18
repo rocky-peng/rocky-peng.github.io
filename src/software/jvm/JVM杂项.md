@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：远处有人对你竖起大拇指，那不是赞美你，而是拿大炮在瞄准你。
+- **随机毒鸡汤**：我不怕变成自己厌恶的人，我怕过得还不如他们。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=856903f8-0d24-4a68-bac1-bdf83ed26b2f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0ce97799-6ab3-4ed7-b0d1-27f614943a30)

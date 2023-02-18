@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是所有的虫子，都能变成蝴蝶，有的它就是蛆。
+- **随机毒鸡汤**：愚人节表白算什么，清明节表白才是王道，失败了还可以说是鬼附身了！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2521eda9-1df6-4132-abb0-b087946c431e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6b2114ad-4fc3-43e3-93fa-632656f48d2f)

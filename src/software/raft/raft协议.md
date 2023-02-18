@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你复杂的五官，掩饰不了你朴素的智商。
+- **随机毒鸡汤**：机会是留给有准备的人，没有机会的，就别瞎准备了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=99243a27-aca8-4695-b7c5-e6bbd6abd33e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=edf572c2-5eef-47f1-a142-9f7b166c8bf5)

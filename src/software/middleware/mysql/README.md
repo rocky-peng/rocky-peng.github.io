@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有一种思念叫望穿秋水，有一种寒冷叫忘穿秋裤。
+- **随机毒鸡汤**：我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=cbec2f6d-9852-4861-9d55-ee1efc8831a9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=029f8dfe-0934-4407-a38b-6f2eaf0619ba)

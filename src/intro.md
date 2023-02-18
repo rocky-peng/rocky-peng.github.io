@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：过年哪个亲戚问我成绩，我就问他年终奖金。
+- **随机毒鸡汤**：做选择题最难过的，不是选错，而是曾经选对过。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d4203fa-a2fb-4b64-8b78-4a4d93e29d42)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5a47db5f-bfab-425f-a82e-205f3305dcb4)

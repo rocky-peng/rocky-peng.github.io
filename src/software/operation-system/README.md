@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：乞丐并不会妒忌百万富翁，但是他肯定会妒忌，收入更高的乞丐。
+- **随机毒鸡汤**：双十一过后的乐趣，就是每天回去看看，买过的商品有没有涨价。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=920e074d-6a16-45a8-b997-e27480995047)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fafbc060-b935-4bb6-bcdc-585c25892ff2)

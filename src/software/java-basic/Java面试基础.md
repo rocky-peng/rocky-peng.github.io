@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要轻易看不起谁，就算是杀马特，发量都比你多。
+- **随机毒鸡汤**：世上99%的事情，都能用钱解决，剩下的1%需要更多的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=402c97c7-cf7b-43c9-a2d0-8ec32a505317)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=78197dc5-09ac-4bad-a6fe-3a67f11cefc2)

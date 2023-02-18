@@ -286,6 +286,6 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：醒醒吧你这不是丧，这是你没钱的正常表现。
+- **随机毒鸡汤**：夜里想法千万条，早上醒来，还是走老路一条。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b4b29d06-fefe-4944-86e1-c03062138c6d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=999c5407-ecd5-4af0-8c92-a68016df9bfa)

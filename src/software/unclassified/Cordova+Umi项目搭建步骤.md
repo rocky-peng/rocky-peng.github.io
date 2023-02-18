@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：遇见你，花光了我所有的运气，所以我每天都特别倒霉。
+- **随机毒鸡汤**：一个成年人是不会挑食的，他们会说，我对这个过敏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dadc3511-c423-4a98-aed3-c396e1b4c0ab)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0d12d320-20cf-44e9-8d95-cc331d812259)

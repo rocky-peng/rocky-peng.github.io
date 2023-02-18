@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+- **随机毒鸡汤**：成绩不代表一切，成绩只是让别人，低头弯腰而已。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca64e460-cb82-45f4-b562-de2135146c01)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d3086c88-cc0a-4542-975f-5fd95d5fb1c0)

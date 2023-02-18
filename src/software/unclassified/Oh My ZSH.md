@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：因为没有钱才上班，现在上了班也没钱，难道有中间商赚差价？
+- **随机毒鸡汤**：只要我不起床，烦恼就永远找不上我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2e229c9a-c233-4176-bd12-834f55ef2269)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f0fe2e4b-801e-41e1-bb60-d4279731c72e)

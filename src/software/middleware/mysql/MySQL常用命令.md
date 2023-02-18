@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你的潜意识，正在操控你的人生，而你却称其为命运。
+- **随机毒鸡汤**：收藏从未停止，学习从未开始。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0cb17360-ea02-46ba-b8e6-78fee0735c91)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=58c6cc96-e153-48fc-86f7-b06229c85ce2)

@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要我足够健忘，痛苦就追不上我。
+- **随机毒鸡汤**：贪图小利，难成大事，要贪就贪大的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a48edc5e-145e-4661-ab69-6322af0c22de)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b643d952-0681-4de6-a609-9f1bb2474eb7)

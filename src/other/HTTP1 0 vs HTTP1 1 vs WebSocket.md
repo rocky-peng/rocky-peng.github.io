@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我好矛盾，干着一份想死的工作，其实是为了谋生。
+- **随机毒鸡汤**：幸亏你去年没洗头，要不然你今年，炒菜连油都没有。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b1ece9ff-97e1-46f6-b89f-04cbfcee3036)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6947475a-fa55-4303-9743-3398fc2a4033)

@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：淡泊名利说的好听，没有名利，哪有淡泊。
+- **随机毒鸡汤**：我抓不住这世间的美好，只能装作万事顺遂的模样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3a0ac724-68bd-4def-9cd5-95a1252a2345)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b49c5a82-a8b5-4d67-9128-b60fd6c6e1fe)

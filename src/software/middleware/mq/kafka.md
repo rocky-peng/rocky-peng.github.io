@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：再不好好学习，中国就崛起完了。
+- **随机毒鸡汤**：最近改掉了熬夜的壞習慣，改通宵了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d67880ce-2b69-4862-b494-193ed9ea47f9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2c3cc585-2d9b-4a87-a553-f9f1120653eb)

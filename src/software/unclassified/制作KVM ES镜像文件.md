@@ -72,6 +72,6 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：闹钟虐我千百遍，我待被窝如初恋。
+- **随机毒鸡汤**：人与人相处，大都起于生疏，止于客套。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=996ed31d-820b-44df-b614-f6923efc3d92)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=077a5df0-ea2e-4763-8381-c7e68b456af0)

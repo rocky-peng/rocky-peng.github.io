@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是理想太不现实，而是现实太不理想。
+- **随机毒鸡汤**：遇到喜欢的人就勇敢追求，这样你才能知道，拒绝你的人远不止一个。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3217a1b9-22ab-4dce-ad98-882ea3735dc2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d9bc29de-1769-4379-a3a1-f9325015dccb)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：经常性失落，间接性崩溃，习惯性治愈。
+- **随机毒鸡汤**：心情不好的时候，去逛逛超市，能听到很多「好消息」。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d47966e9-457a-46da-9502-9f580c46eafc)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5c34bb11-bf6e-4e89-ac23-998d988fc482)

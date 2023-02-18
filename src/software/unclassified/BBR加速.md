@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我真是个败家子，上亿的家产，一觉醒来就没了。
+- **随机毒鸡汤**：期末考试那天，记得穿好衣服去考场，那样你就不算裸考了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=628058cb-9420-4f74-8cb3-4750146386c8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3725b686-6f55-48aa-a2d8-1d69edee41d2)

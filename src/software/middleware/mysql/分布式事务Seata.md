@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有时候狐朋狗友才最纯，很纯粹的只是想要你的钱。
+- **随机毒鸡汤**：我们的故事，始于我的打扰，终于我的多余。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5f7f8790-8835-4d39-917b-4aaa15031663)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ab86b1ee-5244-42c9-bd21-bca6b9600680)

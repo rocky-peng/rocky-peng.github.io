@@ -365,6 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：既生瑜何生亮，既生美食何生脂肪。
+- **随机毒鸡汤**：千万别在一棵树上吊死，可以到周围的树上多试几次。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=051dad86-a8be-48c4-8fa7-57911e56fe31)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0e6a7195-928b-4e2f-93c9-23713975c008)

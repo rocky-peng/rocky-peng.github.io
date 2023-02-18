@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不需要解释，理解你的人不需要，不理解你的人不配要。
+- **随机毒鸡汤**：仪式感就是，给没有意义的事情找意义。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a7700387-4e6c-4bb5-ab0d-64e77c9c33ad)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=86dab176-5886-45e2-a578-d6d13ba94400)

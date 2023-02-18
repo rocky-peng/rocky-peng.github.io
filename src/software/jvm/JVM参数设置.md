@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：青春期的爱情是精神鸦片，不管你吸没吸，背后总站着无数个林则徐。
+- **随机毒鸡汤**：第一个称马尾辫为马尾的人，有没有想过，马尾长在马的哪里？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e7ad49bb-5e24-4769-b9ce-d1f928510143)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=25dea9b3-0ed2-41b0-b99a-68b82f5472b7)

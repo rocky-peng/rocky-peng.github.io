@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：去找一个能逗你笑的人吧，我不行，我只能把你美哭。
+- **随机毒鸡汤**：我不主动，不是你不重要，而是我不知道我重不重要。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8db67094-da28-4a1e-94c9-3187f8887b39)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a8f5f639-2846-4963-b503-13667daa43c3)

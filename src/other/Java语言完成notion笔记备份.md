@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：自从实行垃圾分类后，尸体和棺材都得分开处理。
+- **随机毒鸡汤**：穷是病，可是我没钱医病。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=86cc42bf-cf24-4fd6-8e37-6b2be9c7e0a7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5a0a1451-4220-49d3-b69c-cf3f0b04cea3)

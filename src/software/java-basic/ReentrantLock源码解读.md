@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人家不是无趣，而是，懒得对你有趣。
+- **随机毒鸡汤**：我们彼此相爱，就是为民除害。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=020a8db5-fd47-4342-b368-b33ddad1cbd5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a4ed76a2-2249-441e-9dd4-0fff0e19ae80)

@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：连自己都不相信的人，说明有自知之明。
+- **随机毒鸡汤**：一个人炫耀什么，只能说明，他真的有这个东西。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2d29739b-348c-425b-b74e-934d9096933a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e67a8233-9956-4451-98ad-68b9ba318f8b)

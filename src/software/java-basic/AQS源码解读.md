@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：夜太美，尽管再危险，总有人黑着眼眶修着仙。
+- **随机毒鸡汤**：有的人在为梦想而努力，有的人在为，实现别人的梦想而努力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d0d5fb23-a5c3-42c5-add0-899e50de9192)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7cb161b8-a28a-4b7d-a343-6fd7fbc9dd3c)

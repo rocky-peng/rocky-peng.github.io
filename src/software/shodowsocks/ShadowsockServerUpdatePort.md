@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：狗改不了吃屎，人改不了拉完回头看屎。
+- **随机毒鸡汤**：你有时候看别人像个傻子，其实别人是面镜子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9277f5da-170b-4d10-adcd-033e248f3210)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ec1bd5f6-34b2-4a3d-bfa8-4d62606ec644)

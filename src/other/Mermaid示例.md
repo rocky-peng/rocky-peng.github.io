@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：光盘行动，是造成现在体重的原因之一。
+- **随机毒鸡汤**：万事开头难，开了头更难。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bdc6be57-502a-4804-9808-062966e68abe)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f60d3e5b-e359-4928-9090-f0ee8dc75f85)

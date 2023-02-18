@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：平行线是过路人，相交线就是，走着走着就散了的人。
+- **随机毒鸡汤**：情商最低的一句话，你踢我干啥？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a9780509-9903-4248-b1a3-62d0db225c78)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=79af5bfe-94b8-4afe-9bb4-2ad703a08783)

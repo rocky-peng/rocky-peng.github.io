@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：年轻的时候，一定得努力搬砖，毕竟老了人家也不要你。
+- **随机毒鸡汤**：是什么让债主，比欠债的人还要卑微？是在乎。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7f15814f-0bc0-4b3b-9ba1-d0c51bb6715a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7bb48b31-eb48-4c8e-8dea-7b0fb6defabc)

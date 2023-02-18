@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别总是骂别人猪狗，你过的还不如它们。
+- **随机毒鸡汤**：道理懂的比谁都多，混的比谁都惨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5776fa82-ca79-426b-8842-48175682c836)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f1cfc41-282a-4a76-94e3-9ba0ccf4d688)

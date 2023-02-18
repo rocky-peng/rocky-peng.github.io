@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有心者不用教，无心者教不会。
+- **随机毒鸡汤**：最好别收拾房间，当房间收拾干净时，你就是房间里唯一的垃圾。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce82414d-82f6-4e88-bb0b-dffc049502ad)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bfe1d745-6b3b-403e-a96f-b955319f49d9)

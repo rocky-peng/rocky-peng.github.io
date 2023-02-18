@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：铁打的身体，磁铁打的床。
+- **随机毒鸡汤**：如果连我的情绪，都要我亲口告诉你，那和考试抄答案有什么区别？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7d35266f-46ec-485b-8b67-d6da023e65dc)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5b6ac2e2-af32-4985-a941-af4caa8e1656)

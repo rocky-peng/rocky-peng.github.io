@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：铁打的身子，磁铁打的床。
+- **随机毒鸡汤**：靠运气赚来的钱，最终都会凭实力赔走，直到财富与认知匹配为止。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=70bf77ef-94c5-4f33-9f20-09cd0dad3483)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7cb78ed8-33b8-4b3a-a1de-d35b223867ce)

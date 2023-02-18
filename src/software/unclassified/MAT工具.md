@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：玩笑嘛，不是在自黑，就是在黑别人。
+- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1b51f7fd-49aa-425b-8d22-66b85afee044)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d4ef05e-b170-4dee-9254-51b08786b718)

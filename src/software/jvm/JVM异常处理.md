@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你说人命贱吧，可是一进医院就贵得不行。
+- **随机毒鸡汤**：没人疼没人爱，抱紧自己快离开。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d3f7c4ee-38b8-465a-939d-3941ce22fc14)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fd446bd6-0f29-467a-b8d8-fa8e8401bcc6)

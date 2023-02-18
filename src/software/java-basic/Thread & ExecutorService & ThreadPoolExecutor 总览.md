@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：冰冻三尺非一日之寒，小腹三层非一日之馋。
+- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0f6cb911-49d1-4e4c-b933-0254d616cbc9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=be6d1957-e3dd-4954-97ef-da8fa0b8409a)

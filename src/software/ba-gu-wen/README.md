@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人和人之间距离可以有多远？不多，一条分数线而已。
+- **随机毒鸡汤**：无论最后我们疏远成什么样，一个红包，就能回到当初。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d47c94ad-7fed-49b5-8845-475cd4c2fbe7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e39c9d0e-59bb-4aaf-8b5c-1a3a2f5d7efe)
