@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：沒有什麼是永遠，也沒有什麼會很久，找個借口誰都可以先走。
+- **随机毒鸡汤**：其實你並不討厭，就是全無用處罷了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d69c607b-5a84-4255-b4e6-7677240dbe90)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=86703ff5-47cc-49db-8b92-3868ce78c652)

@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：能控制住自己嘴巴的人，往往都很厉害，不管是说话还是吃东西。
+- **随机毒鸡汤**：说好我们一起到白头，你却偷偷焗了油。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2996765e-2e08-457e-a109-82bd0e37480f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1cb171c0-fb00-4f16-8113-31e482aa7433)

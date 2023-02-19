@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有很多时候，面子不是别人给的，是自己凑上来丢的。
+- **随机毒鸡汤**：愚人节都没人表白，那就真的没有了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6cee2c70-71bb-41c5-88dd-1aa12b3656b8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=21b18db2-435e-4859-884a-219065eeb21e)

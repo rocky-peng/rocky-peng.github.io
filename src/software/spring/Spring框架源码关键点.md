@@ -365,6 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果睡觉是给人体充电，那么我从来没有满格过。
+- **随机毒鸡汤**：不回你消息，不是因为我高冷，而是因为我手冷。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d4ca42de-b46f-4ee9-b1ff-aa637dd9afbd)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=963185c2-10e2-49db-b4e3-7c9a8224ceba)

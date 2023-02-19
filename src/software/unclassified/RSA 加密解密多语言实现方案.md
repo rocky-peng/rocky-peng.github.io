@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你有时候看别人像个傻子，其实别人是面镜子。
+- **随机毒鸡汤**：国庆节，别人是外国七日游，我是卧室深度游。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=713a636e-facc-4b4f-9731-07323489c500)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e2a97f7e-983a-4f91-856d-dca034498c76)

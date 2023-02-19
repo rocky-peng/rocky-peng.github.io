@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：暗恋的人没有，想暗杀的倒有一堆。
+- **随机毒鸡汤**：你是谁不重要，重要的是，你闯进我生活想干啥？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9dafb145-040e-4143-a4c6-7dedbf20a7d5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c22b4e7d-7721-4e8f-a131-5f7d957916e2)

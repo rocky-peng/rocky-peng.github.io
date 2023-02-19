@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你有了省钱的脑子，就没有一个挣钱的胆子，所以穷得很稳定。
+- **随机毒鸡汤**：以前上学是拿钱混日子，现在工作了，是在拿日子混钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9af379b0-b676-4f20-a60b-b06ebacded83)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=52419452-e4d3-4455-84b8-54ef9e2bb506)

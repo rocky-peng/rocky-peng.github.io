@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人骂你的时候，不要理他，反正你又骂不过他。
+- **随机毒鸡汤**：咸鱼翻身是为了晒得透彻，你翻身是因为手被压麻了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f6d254ed-79a2-472e-8479-b632fa3ef739)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a44e449-e1ef-49f3-85a4-93a80fb0dc5e)

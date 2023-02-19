@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：情人都没有，却听的都是情歌。
+- **随机毒鸡汤**：那些拧不开瓶盖的女人，都是装的，你让她拆个快递试试。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a753a21c-317b-424b-a46a-0482402f8d2e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=67d66120-7306-4b39-b157-42d23aef2305)

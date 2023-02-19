@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：忍无可忍，就重新再忍。
+- **随机毒鸡汤**：人生就像打电话，不是你先挂就是我先挂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f6bc4f9c-c890-429b-9454-637ffb25e705)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c6b4884a-1ae4-478f-943e-6805d2a44b93)

@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：贪图小利，难成大事，要贪就贪大的。
+- **随机毒鸡汤**：哪怕抛掉出身的因素，我觉得，你也未必干得过别人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5791ca53-97c4-4d5a-9588-c03c3cfa34a7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=00bb1a01-38f3-4deb-b1a0-28a87b9d06e6)

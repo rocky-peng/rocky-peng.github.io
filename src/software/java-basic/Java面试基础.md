@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：借钱见人心，还钱见人品。
+- **随机毒鸡汤**：我们都不是好演员，我藏不住深情，你演不出喜欢。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ef29fbf9-dbee-425f-8df4-a348e97ebd0b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=81fde1c2-e64d-4779-8678-be0da76ec7d5)

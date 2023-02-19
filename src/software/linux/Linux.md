@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果有钱也是一种错，那我情愿，一错再错。
+- **随机毒鸡汤**：如果睡觉是给人体充电，那么我从来没有满格过。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=04133ae0-187b-45ba-9f29-c81a4bf87708)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=570512ed-be8b-4494-9097-4c45ec81d256)

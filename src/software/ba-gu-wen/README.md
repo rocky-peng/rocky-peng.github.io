@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成功的路上并不拥挤，因为坚持的人很少。
+- **随机毒鸡汤**：现在看来用生日做密码，还是很安全的，毕竟没有人记得你生日。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=95b0f176-1c22-4817-b3b0-145ebb41b255)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2fceac3f-a37a-4484-ab26-571f42e7c1c8)

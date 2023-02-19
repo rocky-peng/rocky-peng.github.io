@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：真相是，我居然不是祖国的花朵，而是祖国的韭菜。
+- **随机毒鸡汤**：太久没牵手了，拿个泡脚凤爪，都觉得温柔。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=812e69b4-73f6-4481-90bb-2b5e3c1a369d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=df69bccc-4112-4e11-8cdc-1203c091df5c)

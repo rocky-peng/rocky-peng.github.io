@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：强迫症患者最讨厌的事，就是别人说话讠
+- **随机毒鸡汤**：富人的丁克叫丁克，穷人的丁克叫断子绝孙。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=43f5adda-cb53-4eea-a3b2-afc97ddc7a23)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=16ce9519-526d-494a-ad73-8acd8071dff8)

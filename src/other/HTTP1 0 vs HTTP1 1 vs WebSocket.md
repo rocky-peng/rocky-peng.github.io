@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我想早恋，但是已经晚了…
+- **随机毒鸡汤**：冰冻三尺非一日之寒，小腹三层非一日之馋。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8fee8272-ebd3-4fc4-b0fe-8a1f251111c8)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0b18909c-50a9-4a10-b555-1736f01e332f)

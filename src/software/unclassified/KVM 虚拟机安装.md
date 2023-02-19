@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不使劲挖掘，还真不知道自己的潜力，就那么一点点。
+- **随机毒鸡汤**：我有千百个想见你的理由，却缺少一种能见你的身份。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2e09ec4e-0c31-44e7-92f4-a2f710bfc570)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=514cdf89-ddda-4e7a-b14c-74e20ab7e23d)

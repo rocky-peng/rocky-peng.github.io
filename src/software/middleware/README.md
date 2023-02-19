@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一切都会变好的，比如你已经从胖，变成了好胖。
+- **随机毒鸡汤**：旧友难维持，新友难深交。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d65f6480-0a90-4ea1-8819-ad138d628309)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0069cf59-1693-4af3-8e1e-a300aadf3084)

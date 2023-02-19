@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：再凶的男孩子绑鞋带，还不是要绑蝴蝶结？
+- **随机毒鸡汤**：单身至今的原因是，熟人不好下手，生人不好开口。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6d2c40f8-0202-4668-a962-133f438184f7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ea824086-9208-4c5c-96ef-5c67d749bdab)

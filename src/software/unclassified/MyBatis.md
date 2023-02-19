@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我好喜欢小动物，比如炸鸡烤鸭水煮鱼。
+- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=102dcea1-8903-4673-a571-17f5beab2d7a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=50ed5160-9ed9-425b-b988-b80ad5155eb9)

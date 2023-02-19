@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恭喜你又熬过一天，还中奖了，再来一天。
+- **随机毒鸡汤**：别对我说永远，我活不到那个点。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b09bcdb7-06f0-4504-89a3-60bcc3e88e3b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=362f70f4-a0f7-410c-9640-879a05983f58)

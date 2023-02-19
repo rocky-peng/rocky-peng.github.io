@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最想喝的水是薪水，最难干的活是生活，最美丽的花是有钱花。
+- **随机毒鸡汤**：你可以在我面前炫富，是在暗示我，以后吃饭钱你付。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c000d1c0-ab6e-4356-ac0f-0e94428557cf)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=afb2e410-b398-4707-828d-656fed68b474)

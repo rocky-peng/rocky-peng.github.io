@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：学习之前是穷人，学习之后，是有文化的穷人。
+- **随机毒鸡汤**：那些你认为不靠谱的人生里，充满你没勇气做的事。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5b6c15a5-0e2a-4965-a43f-468517f62bdb)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a7f5e7de-db3b-46c4-83dd-ea2f7afd6f0f)

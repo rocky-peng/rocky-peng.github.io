@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：男女之间一定有纯友谊，每一个我认识的女生，都说最多只能跟我当朋友。
+- **随机毒鸡汤**：你并不是无能，你只是没有选择的权力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1383dfcd-8586-431a-9b4a-04f842920187)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dbdd0abe-0ba1-410d-9abf-6b59fa55ea15)

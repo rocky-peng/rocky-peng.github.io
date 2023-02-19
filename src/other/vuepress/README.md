@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我还是好喜欢你，像你妈揍你，不讲道理。
+- **随机毒鸡汤**：欢迎来到2019，恭喜你进入了新的，扎心的一年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8c8e27ed-3165-4a75-a32a-af8c845adb83)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eedbecf2-24b3-44bb-95a8-ef0b8e3e7d8f)

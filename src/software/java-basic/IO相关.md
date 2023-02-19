@@ -286,6 +286,6 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：贵的东西只有贵这一个缺点，便宜的东西，却只有便宜这一个优点。
+- **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a324447-43e5-4c16-9a48-6a2ea8d65136)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a2f815de-45c3-471a-939e-b58948d084ab)

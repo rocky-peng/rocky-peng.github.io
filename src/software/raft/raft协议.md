@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：据说到2020年，要消灭贫困人口，我还不想死。
+- **随机毒鸡汤**：去买副象棋吧，那里有对象。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3653ceed-2ae2-48b2-83e3-4e502e6976b4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=869004be-742f-47a7-afed-11532eed5cf8)

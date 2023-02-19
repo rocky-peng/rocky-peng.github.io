@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：因为没有钱才上班，现在上了班也没钱，难道有中间商赚差价？
+- **随机毒鸡汤**：所谓土味情话，长的好看说的都是情话，长的丑说的都是土味。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=727faf7b-8583-4fe9-9309-a2f0001ac5c4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=841e3512-644a-4532-8183-d5b6715ac75a)

@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：当浑浊变成了一种常态，那么清白就成了一种罪。
+- **随机毒鸡汤**：人生在世，还不是有时笑笑人家，有时给人家笑笑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=450bfaa3-0d20-47bf-a821-1a3be739c20f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0668c8f5-5f2e-4fbb-b8f4-715a0b6fa23f)

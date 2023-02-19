@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每个人都有幸福的权力，却只有少数人，有幸福的能力。
+- **随机毒鸡汤**：看时间不是为了起床，而是看还能睡多久。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0af618d1-457a-4a27-b54f-ff0350bcc0dd)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=953d2ce7-92c5-463e-9d86-d164df4f74a0)

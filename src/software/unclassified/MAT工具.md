@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我是个干净的人，既没有恋爱的酸臭，又没有金钱的铜臭。
+- **随机毒鸡汤**：头这么疼，一定是有人在压榨我的智慧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7dd6c588-9283-4915-9b1d-fe689c43d037)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=163bcb78-7639-4db8-a169-6bcf2cdbacd5)

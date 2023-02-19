@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：蹉跎于时间，困顿于金钱。
+- **随机毒鸡汤**：恋爱时会觉得像吸毒一样，分手了又会像戒毒一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c3fb9a0c-c442-4723-891c-cd312d6ad162)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=eae5085e-64b2-4c5f-91f6-0a0e632a3337)

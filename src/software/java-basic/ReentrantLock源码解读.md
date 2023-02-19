@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：投对了简历找到一份好工作，投对了胎，可以不用找工作。
+- **随机毒鸡汤**：你可以在我面前炫富，是在暗示我，以后吃饭钱你付。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1b31c274-2398-48a4-97ee-6110fc180bf9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d55b60f7-cd2e-403d-be03-7d1aa3aeb193)

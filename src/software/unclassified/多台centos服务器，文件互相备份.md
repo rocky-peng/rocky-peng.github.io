@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
+- **随机毒鸡汤**：不是烂泥扶不上墙，而是泥不想上墙。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=610d9a6e-14c1-42ae-883e-1dc5c3fe44ea)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=228cd42c-36c9-43f9-86b5-a040016deed3)

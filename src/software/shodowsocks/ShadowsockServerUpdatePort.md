@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你不用心去谈一次恋爱，你就永远不知道，这到底有多浪费时间。
+- **随机毒鸡汤**：为什么英文歌听不腻？因为一直没听懂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ad95969d-7185-4157-9ff8-e42d3d00b0f6)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=105e7836-b791-4879-9437-9de9db4f0bae)

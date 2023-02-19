@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：麻烦学妹行李箱少装点，毕竟学长只是想认识你，不想把命搭楼梯上。
+- **随机毒鸡汤**：年轻人总以为金钱至上，经历过才会明白，果真如此。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=56e94fa8-6a74-4771-9558-c8c5876d1a6e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b7705781-d487-494d-a1a0-018dac058a6c)

@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：认真读完这段话，你就会发现这段话，和你一样毫无价值和意义。
+- **随机毒鸡汤**：我连名牌都不认识几个，有时候，别人在炫富我都不知道。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=89d05625-4d56-4b89-813c-c07488b9ac08)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5e4771be-39b3-437d-81ed-2bd40d29f457)

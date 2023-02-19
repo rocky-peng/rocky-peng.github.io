@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：让你病的人 给不了你药，给你药的人 舍不得你病 ​​​。
+- **随机毒鸡汤**：少问自己为什么，多问自己凭什么。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f914790-ae74-4621-b69e-2c5977268477)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a49e5bc2-a2dc-46f1-abde-43c8c02353d7)

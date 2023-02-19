@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我连名牌都不认识几个，有时候，别人在炫富我都不知道。
+- **随机毒鸡汤**：最好别收拾房间，当房间收拾干净时，你就是房间里唯一的垃圾。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2529b308-56b9-4ed6-b48f-72c5d87e73e4)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5f0438dd-0299-40bd-963e-160172d833e9)

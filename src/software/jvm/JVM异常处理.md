@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果说学海无涯，那我就是这片海的，一条淡水鱼。
+- **随机毒鸡汤**：我想做你的太阳，高兴的时候温暖你，不高兴的时候晒死你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fcc10a44-c739-4c70-9fd9-8b437ff2600b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=30972cce-5532-4938-804c-7fa5fe452039)

@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没钱了来找我，让我告诉你没钱的日子，怎么过。
+- **随机毒鸡汤**：人家考试跟玩一样，我考得跟玩一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=423387d6-0a34-4e75-b4ff-1d8fb6411dcb)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5c69951e-3f05-4db2-8a8f-eac352fb84c8)

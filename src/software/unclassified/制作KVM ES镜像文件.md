@@ -72,6 +72,6 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只有体育老师会和你说，别走好吗？他让你跑！
+- **随机毒鸡汤**：我是个干净的人，既没有恋爱的酸臭，又没有金钱的铜臭。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f5e0099b-c488-4cc8-b0ed-a33af58b20ca)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=adbded0d-b099-4007-a3b8-cde986a76155)

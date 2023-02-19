@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别总问我，不谈恋爱是因为挑吗？你不上清华是因为不喜欢吗？
+- **随机毒鸡汤**：女娲造人，从某种意义上证明了，人类是沙雕。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=86926068-e7a3-4219-9818-48369cdf9d2e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88ed811f-48a9-494d-b6b0-e421bcfc0237)

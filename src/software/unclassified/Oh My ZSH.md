@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：网名虽好，终输备注。
+- **随机毒鸡汤**：据说不想开学的都是好孩子，因为他们在学校里没有对象。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2ad29627-59a3-4812-a648-e78849f24cd4)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=80d6ef8b-8a56-4889-87b4-b3d5ffc0ed77)

@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有福同享，有肉你长。
+- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dbcf4cc3-b88b-40b2-9a3c-740fd2dd769d)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2a6ea0d9-a4e8-4b23-b9f8-d69c4121c46c)

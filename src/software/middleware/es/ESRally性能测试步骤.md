@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的钱，虽然不是大风刮来的，但很像大风刮走的。
+- **随机毒鸡汤**：铁杵能磨成针，但木杵只能磨成牙签，材料不对再努力也没用。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04cf7cbb-6e52-4582-bd3e-09f6132771ae)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ffcc48c6-7382-4e2a-85f8-ef6ce6e25c04)

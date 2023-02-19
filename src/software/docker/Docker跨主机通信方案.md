@@ -113,6 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：99%的努力，也不及1%的幸运。
+- **随机毒鸡汤**：一厢情愿的人，总喜欢做一些，只感动了自己的事。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5a8b690b-c019-4aef-983a-551ee0830da4)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=99b3a936-6c9a-4fd7-91aa-f91b0494096e)

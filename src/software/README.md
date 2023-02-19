@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有福同享，有肉你长。
+- **随机毒鸡汤**：有很多事，介于不说委屈，说了矫情之间。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e3ef5b85-2f24-4c19-88ea-fe97c91086a9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca7f090b-49cb-4b4c-ace3-63bb6c0ca34e)

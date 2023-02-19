@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：既然万事万物都有联系，那你为什么不联系我？
+- **随机毒鸡汤**：生命归结为一种简单的选择，要么忙于生存，要么赶着去死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=68bb9e9e-4267-4463-bfc7-35b5fae23c1c)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a62c17da-a906-45b2-b71f-16cabf31ecbd)

@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以后说话记得反着来，毕竟生活最喜欢的，就是打脸。
+- **随机毒鸡汤**：恋爱就像树上的叶子，不是绿了就是黄了，红的呢是气到吐血了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=624ba3f2-0e83-4375-a7e7-e179334e6980)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2b51fc41-f6e0-4af2-afed-68ced20a90f0)

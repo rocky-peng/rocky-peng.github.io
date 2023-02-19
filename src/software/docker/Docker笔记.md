@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：天是蓝的，海是深的，网恋对象的话没一句是真的。
+- **随机毒鸡汤**：想赚钱就得怕钱，不能爱钱，因为怕什么来什么。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=01ca1b0d-1c92-4328-a48a-d55857bfcf1c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a03417da-4b39-4dcc-89f4-cf7e0884bb59)

@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：看了年度账单，才知道自己居然，这么有钱。
+- **随机毒鸡汤**：时间不会解决任何问题，只会解决我们。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bcedb45a-12c7-41d9-bfd4-4eca4ff6dbe6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8392e991-fe27-4014-b742-1c7665967dc0)

@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：矮是什么感觉？明明想瞪人的，硬生生成了卖萌。
+- **随机毒鸡汤**：炸鸡如此多娇，引无数少女肥了腰。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=30d72a33-ca13-4ce9-b83c-e596e30e85f6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c4ffaf91-5794-4a35-bf36-9212767939c9)

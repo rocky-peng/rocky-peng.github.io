@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只有拥有找男女朋友的能力，和很多备胎，才能真正享受单身生活。
+- **随机毒鸡汤**：晚上的我觉得自己了不起，早上的我觉得自己起不了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e2c610c-4304-464b-92f2-42a1873f34f8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e6419a3e-f657-4182-99bb-330cc17abaef)

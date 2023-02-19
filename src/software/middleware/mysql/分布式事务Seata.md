@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：整天玩手机还算好的，哪天手机都觉得不好玩了，问题才严重。
+- **随机毒鸡汤**：曾经的海枯石烂，抵不过好聚好散。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=cbb9f5ce-b4e7-4c9f-9ee9-275ab89a6d06)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7f868ac3-7d9f-402c-a047-a5df176ee738)

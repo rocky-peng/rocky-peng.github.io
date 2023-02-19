@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：回想这辈子，当过最大的官，也就是QQ群管理员了。
+- **随机毒鸡汤**：我捡了个神灯，许愿我死前能找到女朋友，结果我获得了永生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6e53a193-674b-4999-8e2e-68ae9ca99a39)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3ca0b643-a579-43c6-b65a-90a3f142dbb5)

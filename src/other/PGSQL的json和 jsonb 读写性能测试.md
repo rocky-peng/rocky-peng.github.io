@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果你饿了，打电话给我，我嚼点零食给你听。
+- **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=53ef929c-468f-458a-9b7e-05bdce54402b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0189c7b1-e0d0-4db6-8cb7-a09e5d60bd15)

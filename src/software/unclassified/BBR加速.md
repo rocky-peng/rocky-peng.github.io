@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：做一天的好人不难，难的是，做一辈子有钱人。
+- **随机毒鸡汤**：我好矛盾，干着一份想死的工作，其实是为了谋生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=68a8d0fb-9e57-41c8-b0d2-0df7dc8d005c)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63be5340-5a07-48e0-a76b-3d075a135cdb)

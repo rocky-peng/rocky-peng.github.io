@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别轻易为喜欢的人付出一切，以免被人知道，你的一切并不值钱。
+- **随机毒鸡汤**：坚持半途而废，也是坚持。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3089e97a-92f2-4028-8db7-bcf0f998fa17)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4919cccc-c1f1-4218-aba3-9a17cdc75431)

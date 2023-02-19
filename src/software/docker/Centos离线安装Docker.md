@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：今天下决心做个废物，可没想到这行的竞争，竟如此激烈。
+- **随机毒鸡汤**：随风奔跑自由是方向，无奈忘了腿短没力量。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a76d9c9a-8748-43a6-b534-72b1750ef9d2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=71ac1e7a-303a-4319-aa29-774a83bf7bac)

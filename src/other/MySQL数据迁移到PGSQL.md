@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：鱼和熊掌不可兼得，但单身和穷可以！
+- **随机毒鸡汤**：我也想做一个优雅的淑女，是生活把老娘逼成了泼妇。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fca0a5a-90c5-4f09-b761-d7567f893feb)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a3e853e8-2fba-4402-b63d-cf27f4ea58e3)

@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你以为你进了他的心房，实则，你进了他的鱼塘。
+- **随机毒鸡汤**：学校就是连续签到五天，送你作业大礼包一份。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9390bbcf-3fa0-4574-ad29-7ce927292f79)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=af68b62c-3f1d-42c4-b6f3-a086e733b0fe)

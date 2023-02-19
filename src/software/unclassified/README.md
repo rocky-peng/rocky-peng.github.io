@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不回你消息，不是因为我高冷，而是因为我手冷。
+- **随机毒鸡汤**：我爱睡懒觉，如果要给这份爱一个期限，我希望是一万年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=08f2b96f-a075-4557-8bd3-4aec95972b07)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=912e0f1c-07d7-4da0-870c-dc66f4a75d6d)

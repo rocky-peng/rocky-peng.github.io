@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
+- **随机毒鸡汤**：我被生活磨光了棱角，简单的说就是，我被生活盘了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=72eb0e9a-5100-4a74-a644-3162da9efb90)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=acac4815-b841-4d0d-99c7-f0de40950420)

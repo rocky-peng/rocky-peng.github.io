@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一年之中我最喜欢二月，因为这个月，我只要穷28天。
+- **随机毒鸡汤**：有钱人终成眷属，没钱人亲眼目睹。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8bdeb71f-e480-4c5c-a10b-a1a0fa37b306)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c0ab068b-0c63-4d3e-b982-7a19c101c2e0)

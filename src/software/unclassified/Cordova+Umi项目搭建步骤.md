@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：丧的人，不是对世界失去了信心，而是对自己失去了信心。
+- **随机毒鸡汤**：不要去追一匹马，用追马的时间种草，来年春天会有一批骏马到来。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=59bef464-e307-4525-af48-4606203e2403)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e0080d04-6e0f-4cef-81e0-e25b503f9b7a)

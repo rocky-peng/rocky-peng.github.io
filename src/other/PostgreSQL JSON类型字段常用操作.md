@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：哪有什么坚强，全靠死撑。
+- **随机毒鸡汤**：人生就像一杯水，孤独 孤独 孤独，一辈子就完了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6c453f9d-cd6f-4002-852a-ae2e347c705f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b19bf2f3-7e9b-40fe-8b76-27b1995e631b)

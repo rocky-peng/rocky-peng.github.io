@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你就一甘蔗男，刚开始可甜了，到后面全成渣。
+- **随机毒鸡汤**：不开心了就喝两杯旺仔牛奶，把那些让人烦的孙子都忘了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=236c4804-5587-48c6-8443-67f8dbc3b55d)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2c7ec786-bf08-499f-bfa1-3867e55311fc)

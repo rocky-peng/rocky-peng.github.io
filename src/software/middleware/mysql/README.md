@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要轻易瞧不起人，就算是杀马特，发量也比你多。
+- **随机毒鸡汤**：想要逼死一个强迫症，那实在是太简了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fad9908c-c4a2-4bb8-a1ba-1bb336efab94)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5acd0b4e-7c6d-45a2-ad18-1a2814d5b8e4)

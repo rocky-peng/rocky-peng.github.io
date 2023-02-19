@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
+- **随机毒鸡汤**：让刻苦成为习惯，用汗水浇灌未来，然后脱水而死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5fcba807-19e9-4255-8338-cc42577dcedb)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e99384d5-c3e0-463a-88c8-74a5fb31a992)

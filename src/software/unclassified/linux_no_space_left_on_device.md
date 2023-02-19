@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你的新年目标，不会是把去年的，又拿来抄了一遍吧？
+- **随机毒鸡汤**：创业只要你坚持，总有一天，会亏完的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=567677b4-0b20-434b-9e4a-2f0f2b6bd389)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0686a437-54fe-48b7-b8ff-e4d700a6b5c3)
