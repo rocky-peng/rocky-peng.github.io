@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你有时候看别人像个傻子，其实别人是面镜子。
+- **随机毒鸡汤**：你不用心去谈一次恋爱，你就永远不知道，这到底有多浪费时间。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ec1bd5f6-34b2-4a3d-bfa8-4d62606ec644)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ad95969d-7185-4157-9ff8-e42d3d00b0f6)

@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：今年圣诞推迟14天，因为圣诞老人过来要隔离。
+- **随机毒鸡汤**：哪有什么坚强，全靠死撑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=31d64449-a9f2-4ff1-abb5-8e7260aaf51c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6c453f9d-cd6f-4002-852a-ae2e347c705f)

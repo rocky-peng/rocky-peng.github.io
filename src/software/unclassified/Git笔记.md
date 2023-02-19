@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我挺会哄女生睡觉的，只要我一问在吗，她们就说要睡觉了。
+- **随机毒鸡汤**：一年之中我最喜欢二月，因为这个月，我只要穷28天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8c5f2ab5-a6c6-43c4-a364-058a6bdabf39)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8bdeb71f-e480-4c5c-a10b-a1a0fa37b306)

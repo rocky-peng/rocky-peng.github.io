@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：贪图小利，难成大事，要贪就贪大的。
+- **随机毒鸡汤**：你的新年目标，不会是把去年的，又拿来抄了一遍吧？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b643d952-0681-4de6-a609-9f1bb2474eb7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=567677b4-0b20-434b-9e4a-2f0f2b6bd389)

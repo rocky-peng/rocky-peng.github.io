@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：无论最后我们疏远成什么样，一个红包，就能回到当初。
+- **随机毒鸡汤**：成功的路上并不拥挤，因为坚持的人很少。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e39c9d0e-59bb-4aaf-8b5c-1a3a2f5d7efe)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=95b0f176-1c22-4817-b3b0-145ebb41b255)

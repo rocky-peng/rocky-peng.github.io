@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有时你会觉得自己就是个SB，别灰心，至少感觉是对的。
+- **随机毒鸡汤**：别轻易为喜欢的人付出一切，以免被人知道，你的一切并不值钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fd3419a2-8873-457a-a548-8a025526b8a6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3089e97a-92f2-4028-8db7-bcf0f998fa17)

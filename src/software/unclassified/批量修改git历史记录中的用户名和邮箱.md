@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：夜撩了酒，酒撩了你 你撩了我，穷困潦倒了我们。
+- **随机毒鸡汤**：学习之前是穷人，学习之后，是有文化的穷人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=edb47653-1aa8-4e82-9c1a-ab469f6c63d4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5b6c15a5-0e2a-4965-a43f-468517f62bdb)

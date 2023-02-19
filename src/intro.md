@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：做选择题最难过的，不是选错，而是曾经选对过。
+- **随机毒鸡汤**：看了年度账单，才知道自己居然，这么有钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5a47db5f-bfab-425f-a82e-205f3305dcb4)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bcedb45a-12c7-41d9-bfd4-4eca4ff6dbe6)

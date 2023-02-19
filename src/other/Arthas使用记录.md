@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：仪式感就是，给没有意义的事情找意义。
+- **随机毒鸡汤**：让你病的人 给不了你药，给你药的人 舍不得你病 ​​​。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=86dab176-5886-45e2-a578-d6d13ba94400)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f914790-ae74-4621-b69e-2c5977268477)

@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：幸亏你去年没洗头，要不然你今年，炒菜连油都没有。
+- **随机毒鸡汤**：我想早恋，但是已经晚了…
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6947475a-fa55-4303-9743-3398fc2a4033)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8fee8272-ebd3-4fc4-b0fe-8a1f251111c8)

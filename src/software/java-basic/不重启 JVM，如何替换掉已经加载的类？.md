@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：天生我才必有用，前提是，你得是“天”生的。
+- **随机毒鸡汤**：既没有让人一见钟情的颜，还缺少让人日久生情的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dc14a9b0-7947-45f6-906b-9e3d8b58e6e3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5dbcc7c6-81bd-4069-9df3-6523a867679a)

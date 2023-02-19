@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：穷是病，可是我没钱医病。
+- **随机毒鸡汤**：男女之间一定有纯友谊，每一个我认识的女生，都说最多只能跟我当朋友。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5a0a1451-4220-49d3-b69c-cf3f0b04cea3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1383dfcd-8586-431a-9b4a-04f842920187)

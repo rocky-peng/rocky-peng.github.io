@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：期末考试那天，记得穿好衣服去考场，那样你就不算裸考了。
+- **随机毒鸡汤**：做一天的好人不难，难的是，做一辈子有钱人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3725b686-6f55-48aa-a2d8-1d69edee41d2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=68a8d0fb-9e57-41c8-b0d2-0df7dc8d005c)

@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：是什么让债主，比欠债的人还要卑微？是在乎。
+- **随机毒鸡汤**：天是蓝的，海是深的，网恋对象的话没一句是真的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7bb48b31-eb48-4c8e-8dea-7b0fb6defabc)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=01ca1b0d-1c92-4328-a48a-d55857bfcf1c)

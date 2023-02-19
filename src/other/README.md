@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：间歇性洗心革面，持续性混吃等死。
+- **随机毒鸡汤**：沒有什麼是永遠，也沒有什麼會很久，找個借口誰都可以先走。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9cc34da1-44a1-4a04-af3d-2d56be9f8ce5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d69c607b-5a84-4255-b4e6-7677240dbe90)

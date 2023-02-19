@@ -162,6 +162,6 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：天下没有不散的宴席，只要你请客，我可以陪你多吃会。
+- **随机毒鸡汤**：相亲最大的好处是，如果以后婚姻出问题，你可以把责任推给媒人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=35b013cf-e774-4ad4-b285-0741c960bf00)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ebd39dc2-7deb-43be-890f-dbb397c184e1)

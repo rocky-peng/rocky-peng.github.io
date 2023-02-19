@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世上99%的事情，都能用钱解决，剩下的1%需要更多的钱。
+- **随机毒鸡汤**：借钱见人心，还钱见人品。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=78197dc5-09ac-4bad-a6fe-3a67f11cefc2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ef29fbf9-dbee-425f-8df4-a348e97ebd0b)

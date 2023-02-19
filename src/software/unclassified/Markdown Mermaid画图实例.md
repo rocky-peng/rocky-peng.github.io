@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不怕你骗我，我怕的是你骗不了我。
+- **随机毒鸡汤**：恭喜你又熬过一天，还中奖了，再来一天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=65700364-36fc-487e-ac6e-b90f0d34f633)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b09bcdb7-06f0-4504-89a3-60bcc3e88e3b)

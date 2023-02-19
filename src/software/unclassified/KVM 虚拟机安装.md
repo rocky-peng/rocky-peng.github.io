@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：熬夜你吃什么都是罪恶的，早起你吃什么都是行的。
+- **随机毒鸡汤**：不使劲挖掘，还真不知道自己的潜力，就那么一点点。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4e3ede56-401e-4ce7-a4da-c461ba2640cf)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2e09ec4e-0c31-44e7-92f4-a2f710bfc570)

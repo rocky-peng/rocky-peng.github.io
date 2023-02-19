@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们彼此相爱，就是为民除害。
+- **随机毒鸡汤**：投对了简历找到一份好工作，投对了胎，可以不用找工作。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a4ed76a2-2249-441e-9dd4-0fff0e19ae80)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1b31c274-2398-48a4-97ee-6110fc180bf9)

@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：收藏从未停止，学习从未开始。
+- **随机毒鸡汤**：再凶的男孩子绑鞋带，还不是要绑蝴蝶结？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=58c6cc96-e153-48fc-86f7-b06229c85ce2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6d2c40f8-0202-4668-a962-133f438184f7)

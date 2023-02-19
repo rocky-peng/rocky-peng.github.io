@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：打麻将三缺一，斗地主二缺一，我谈个恋爱咋还一缺一？
+- **随机毒鸡汤**：我好喜欢小动物，比如炸鸡烤鸭水煮鱼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b88380cc-d6bc-4342-9860-b7bd00e57eee)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=102dcea1-8903-4673-a571-17f5beab2d7a)

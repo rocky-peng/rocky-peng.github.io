@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人都在关心你飞的累不累，只有妈妈，关心你的翅膀硬不硬。
+- **随机毒鸡汤**：有很多时候，面子不是别人给的，是自己凑上来丢的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=96d71135-660a-4fa1-b6a2-1491e991ac80)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6cee2c70-71bb-41c5-88dd-1aa12b3656b8)

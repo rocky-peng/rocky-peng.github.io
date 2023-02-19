@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每天提高的，不是我的成绩，而是我的发际线。
+- **随机毒鸡汤**：家家都有本难念的经，而上天还给了我梵文版。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a45fe7f0-2d97-471f-bdf4-af8543a168b0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4fe45d3b-1a4f-4d4a-ab46-de4d44547896)

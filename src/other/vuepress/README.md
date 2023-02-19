@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前过年就图个热闹，现在就想图个清静。
+- **随机毒鸡汤**：我还是好喜欢你，像你妈揍你，不讲道理。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b0e781f3-61d0-4456-a09e-ffefd88f53f8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8c8e27ed-3165-4a75-a32a-af8c845adb83)

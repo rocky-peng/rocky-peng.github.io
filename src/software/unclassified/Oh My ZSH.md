@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要我不起床，烦恼就永远找不上我。
+- **随机毒鸡汤**：网名虽好，终输备注。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f0fe2e4b-801e-41e1-bb60-d4279731c72e)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2ad29627-59a3-4812-a648-e78849f24cd4)

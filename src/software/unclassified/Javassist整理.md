@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：少问自己为什么，多问自己凭什么。
+- **随机毒鸡汤**：你有了省钱的脑子，就没有一个挣钱的胆子，所以穷得很稳定。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=81dc0066-a499-4562-b27b-7d8393953a40)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9af379b0-b676-4f20-a60b-b06ebacded83)

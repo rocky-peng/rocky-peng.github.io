@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要低估你的能力，不要高估你的毅力。
+- **随机毒鸡汤**：因为没有钱才上班，现在上了班也没钱，难道有中间商赚差价？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=07353e80-db51-4d30-9194-58f395f96ff9)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=727faf7b-8583-4fe9-9309-a2f0001ac5c4)

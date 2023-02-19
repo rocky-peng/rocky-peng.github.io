@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最难的不是不原谅，而是不知从何原谅。
+- **随机毒鸡汤**：有福同享，有肉你长。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=744e0fa4-6ac2-4122-9be8-e7a7e568dbee)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dbcf4cc3-b88b-40b2-9a3c-740fd2dd769d)

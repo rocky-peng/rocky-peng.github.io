@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你知道投资和投机的区别吗？一个是普通话，一个是广东话。
+- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ee42ad6a-40cd-471c-b8be-364bd4d4f2fc)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=72eb0e9a-5100-4a74-a644-3162da9efb90)

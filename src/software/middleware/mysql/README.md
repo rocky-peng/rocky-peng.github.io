@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？
+- **随机毒鸡汤**：不要轻易瞧不起人，就算是杀马特，发量也比你多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=029f8dfe-0934-4407-a38b-6f2eaf0619ba)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fad9908c-c4a2-4bb8-a1ba-1bb336efab94)

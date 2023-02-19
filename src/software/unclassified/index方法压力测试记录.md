@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果连我的情绪，都要我亲口告诉你，那和考试抄答案有什么区别？
+- **随机毒鸡汤**：能控制住自己嘴巴的人，往往都很厉害，不管是说话还是吃东西。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5b6ac2e2-af32-4985-a941-af4caa8e1656)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2996765e-2e08-457e-a109-82bd0e37480f)

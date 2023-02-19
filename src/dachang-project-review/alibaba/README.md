@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：虽然你搬砖的样子很累，但是，你充钱的样子真的很帅。
+- **随机毒鸡汤**：最想喝的水是薪水，最难干的活是生活，最美丽的花是有钱花。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b8a36cef-4a04-40f4-99c2-d97fccd8ec68)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c000d1c0-ab6e-4356-ac0f-0e94428557cf)

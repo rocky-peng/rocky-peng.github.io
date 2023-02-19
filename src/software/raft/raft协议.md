@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：机会是留给有准备的人，没有机会的，就别瞎准备了。
+- **随机毒鸡汤**：据说到2020年，要消灭贫困人口，我还不想死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=edf572c2-5eef-47f1-a142-9f7b166c8bf5)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3653ceed-2ae2-48b2-83e3-4e502e6976b4)

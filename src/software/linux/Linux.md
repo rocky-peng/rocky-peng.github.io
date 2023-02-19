@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都说熬夜伤身，那熬夜健身呢？
+- **随机毒鸡汤**：如果有钱也是一种错，那我情愿，一错再错。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=da68bcf9-eeb6-4361-bd77-9205009af6d5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=04133ae0-187b-45ba-9f29-c81a4bf87708)

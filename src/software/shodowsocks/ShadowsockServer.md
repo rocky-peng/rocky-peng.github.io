@@ -31,6 +31,6 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：戴口罩总比戴呼吸机好，躺家里总比躺ICU要强，好好享受吧。
+- **随机毒鸡汤**：好朋友都这样，你跌倒时我会扶你一把，不过要先等我笑完。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d42883e-92b2-407d-a89a-2105a43f87a6)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=610cce08-e8be-40f5-a268-0474595fb60b)

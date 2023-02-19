@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：月考时我不给你们露两手，你们都不知道我，国庆玩的有多开心。
+- **随机毒鸡汤**：鱼和熊掌不可兼得，但单身和穷可以！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=685b9148-a2b0-44e2-aebf-f7e0dfb72949)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fca0a5a-90c5-4f09-b761-d7567f893feb)

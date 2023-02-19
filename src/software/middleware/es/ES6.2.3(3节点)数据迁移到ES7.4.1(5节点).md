@@ -400,6 +400,6 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你有什么擅长的运动吗？「逃避现实」。
+- **随机毒鸡汤**：双十一过后的乐趣，就是每天回去看看，买过的商品有没有涨价。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=76207f54-8233-4b1c-889b-bd566b74127e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9c92847e-5969-4ee5-8701-fe2b207028be)

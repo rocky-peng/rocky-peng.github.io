@@ -5,6 +5,6 @@ date: 2017-03-17
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每天简单生活，一切从简，始终单调。
+- **随机毒鸡汤**：把性格交给星座，把努力交给鸡汤，把考试交给锦鲤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f5d7aaa6-669d-495d-b948-3b7bca0aacef)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3e567f47-420b-40ec-8a66-24dac12cf67b)

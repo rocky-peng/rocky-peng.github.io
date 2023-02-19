@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：第一个称马尾辫为马尾的人，有没有想过，马尾长在马的哪里？
+- **随机毒鸡汤**：麻烦学妹行李箱少装点，毕竟学长只是想认识你，不想把命搭楼梯上。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=25dea9b3-0ed2-41b0-b99a-68b82f5472b7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=56e94fa8-6a74-4771-9558-c8c5876d1a6e)

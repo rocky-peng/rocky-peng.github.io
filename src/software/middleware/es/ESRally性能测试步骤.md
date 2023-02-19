@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：君子爱财 取之有道，这个道，是我不知道。
+- **随机毒鸡汤**：我的钱，虽然不是大风刮来的，但很像大风刮走的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=de02f47b-74ea-41f0-bd7f-dbf0ff8530a5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04cf7cbb-6e52-4582-bd3e-09f6132771ae)

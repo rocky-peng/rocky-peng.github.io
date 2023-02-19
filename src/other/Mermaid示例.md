@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：万事开头难，开了头更难。
+- **随机毒鸡汤**：矮是什么感觉？明明想瞪人的，硬生生成了卖萌。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f60d3e5b-e359-4928-9090-f0ee8dc75f85)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=30d72a33-ca13-4ce9-b83c-e596e30e85f6)

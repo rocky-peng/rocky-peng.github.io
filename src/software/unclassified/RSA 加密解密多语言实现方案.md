@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我也是有家族传承的人，比如我爷爷对我爸说，要好好学习。
+- **随机毒鸡汤**：你有时候看别人像个傻子，其实别人是面镜子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=faf6983d-9d5a-49af-b24e-d92661022fba)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=713a636e-facc-4b4f-9731-07323489c500)

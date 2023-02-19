@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没人疼没人爱，抱紧自己快离开。
+- **随机毒鸡汤**：如果说学海无涯，那我就是这片海的，一条淡水鱼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fd446bd6-0f29-467a-b8d8-fa8e8401bcc6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fcc10a44-c739-4c70-9fd9-8b437ff2600b)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：活下去的勇气，是因为怕死。
+- **随机毒鸡汤**：不回你消息，不是因为我高冷，而是因为我手冷。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5add50d4-6267-4567-9a96-f7633fe5316e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=08f2b96f-a075-4557-8bd3-4aec95972b07)

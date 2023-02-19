@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
+- **随机毒鸡汤**：贪图小利，难成大事，要贪就贪大的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=be6d1957-e3dd-4954-97ef-da8fa0b8409a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5791ca53-97c4-4d5a-9588-c03c3cfa34a7)

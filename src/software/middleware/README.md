@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每个人都是梦想家，梦破灭之后，就只剩想家。
+- **随机毒鸡汤**：一切都会变好的，比如你已经从胖，变成了好胖。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0538e17b-53d0-4b6b-9a77-fc6e55d96457)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d65f6480-0a90-4ea1-8819-ad138d628309)

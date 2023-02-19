@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你敷衍的那么明显，我该怎么配合你演。
+- **随机毒鸡汤**：当浑浊变成了一种常态，那么清白就成了一种罪。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5334f760-8e8e-466c-8dd9-ecbbaea05db3)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=450bfaa3-0d20-47bf-a821-1a3be739c20f)

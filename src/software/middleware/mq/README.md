@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：情商最低的一句话，你踢我干啥？
+- **随机毒鸡汤**：头有点痒，可能是在长脑子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=79af5bfe-94b8-4afe-9bb4-2ad703a08783)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c44807e0-5efa-47ab-9317-d7636649c22d)

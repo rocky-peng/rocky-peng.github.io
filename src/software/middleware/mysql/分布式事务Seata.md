@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们的故事，始于我的打扰，终于我的多余。
+- **随机毒鸡汤**：整天玩手机还算好的，哪天手机都觉得不好玩了，问题才严重。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ab86b1ee-5244-42c9-bd21-bca6b9600680)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=cbb9f5ce-b4e7-4c9f-9ee9-275ab89a6d06)

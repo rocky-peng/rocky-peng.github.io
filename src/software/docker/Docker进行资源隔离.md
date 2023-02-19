@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没钱没权没实力，还不用功，这就是你抱怨的原因。
+- **随机毒鸡汤**：真相是，我居然不是祖国的花朵，而是祖国的韭菜。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=12f7d646-bc22-4454-9c15-02008015c49e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=812e69b4-73f6-4481-90bb-2b5e3c1a369d)

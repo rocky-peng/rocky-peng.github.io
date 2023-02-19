@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成绩不代表一切，成绩只是让别人，低头弯腰而已。
+- **随机毒鸡汤**：回想这辈子，当过最大的官，也就是QQ群管理员了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d3086c88-cc0a-4542-975f-5fd95d5fb1c0)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6e53a193-674b-4999-8e2e-68ae9ca99a39)

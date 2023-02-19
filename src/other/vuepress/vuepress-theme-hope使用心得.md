@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想膈应你的人，东南西北都顺路。
+- **随机毒鸡汤**：你以为你进了他的心房，实则，你进了他的鱼塘。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=924c695a-2366-4192-8087-46663659e353)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9390bbcf-3fa0-4574-ad29-7ce927292f79)

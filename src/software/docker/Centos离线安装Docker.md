@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：看别人手牵手，不要羡慕，你也可以左手拉右手。
+- **随机毒鸡汤**：今天下决心做个废物，可没想到这行的竞争，竟如此激烈。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2f96c101-1e37-4bcf-a101-8b08674a31a7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a76d9c9a-8748-43a6-b534-72b1750ef9d2)

@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
+- **随机毒鸡汤**：我是个干净的人，既没有恋爱的酸臭，又没有金钱的铜臭。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d4ef05e-b170-4dee-9254-51b08786b718)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7dd6c588-9283-4915-9b1d-fe689c43d037)

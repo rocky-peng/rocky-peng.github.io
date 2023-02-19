@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恭喜你又熬过一天，还中奖了，再来一天。
+- **随机毒鸡汤**：我连名牌都不认识几个，有时候，别人在炫富我都不知道。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=871caeb4-197a-48c3-9b29-2903e06b3995)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2529b308-56b9-4ed6-b48f-72c5d87e73e4)

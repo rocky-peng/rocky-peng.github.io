@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：愚人节表白算什么，清明节表白才是王道，失败了还可以说是鬼附身了！
+- **随机毒鸡汤**：忍无可忍，就重新再忍。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6b2114ad-4fc3-43e3-93fa-632656f48d2f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f6bc4f9c-c890-429b-9454-637ffb25e705)

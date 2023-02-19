@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我抓不住这世间的美好，只能装作万事顺遂的模样。
+- **随机毒鸡汤**：别人骂你的时候，不要理他，反正你又骂不过他。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b49c5a82-a8b5-4d67-9128-b60fd6c6e1fe)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f6d254ed-79a2-472e-8479-b632fa3ef739)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：心情不好的时候，去逛逛超市，能听到很多「好消息」。
+- **随机毒鸡汤**：有福同享，有肉你长。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5c34bb11-bf6e-4e89-ac23-998d988fc482)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e3ef5b85-2f24-4c19-88ea-fe97c91086a9)

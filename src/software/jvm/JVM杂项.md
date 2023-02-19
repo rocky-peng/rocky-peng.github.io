@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不怕变成自己厌恶的人，我怕过得还不如他们。
+- **随机毒鸡汤**：你怎么长得跟个二维码似的，不扫一下，都不知道你是什么东西！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0ce97799-6ab3-4ed7-b0d1-27f614943a30)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fdb8a321-bf3f-4dcd-8984-59e7710d80d4)

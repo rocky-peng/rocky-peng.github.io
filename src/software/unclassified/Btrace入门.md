@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不主动，不是你不重要，而是我不知道我重不重要。
+- **随机毒鸡汤**：每个人都有幸福的权力，却只有少数人，有幸福的能力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a8f5f639-2846-4963-b503-13667daa43c3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0af618d1-457a-4a27-b54f-ff0350bcc0dd)

@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个人炫耀什么，只能说明，他真的有这个东西。
+- **随机毒鸡汤**：蹉跎于时间，困顿于金钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e67a8233-9956-4451-98ad-68b9ba318f8b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c3fb9a0c-c442-4723-891c-cd312d6ad162)

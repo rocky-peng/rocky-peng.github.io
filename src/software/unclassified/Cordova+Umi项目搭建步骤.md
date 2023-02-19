@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个成年人是不会挑食的，他们会说，我对这个过敏。
+- **随机毒鸡汤**：丧的人，不是对世界失去了信心，而是对自己失去了信心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0d12d320-20cf-44e9-8d95-cc331d812259)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=59bef464-e307-4525-af48-4606203e2403)

@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：作为失败的典型，你实在是太成功了。
+- **随机毒鸡汤**：认真读完这段话，你就会发现这段话，和你一样毫无价值和意义。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=aabd26f3-e42a-4118-a9ef-3c0a50b28227)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=89d05625-4d56-4b89-813c-c07488b9ac08)

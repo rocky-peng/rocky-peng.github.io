@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：暖男燃烧完所有的暖，就成了渣男。
+- **随机毒鸡汤**：如果你饿了，打电话给我，我嚼点零食给你听。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ad1ae4cb-987b-4180-bf8a-e3e89c7ba7c2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=53ef929c-468f-458a-9b7e-05bdce54402b)

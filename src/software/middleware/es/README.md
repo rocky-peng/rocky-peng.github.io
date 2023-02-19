@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你没有遇到更好的人，是因为，你没有变成更好的人。
+- **随机毒鸡汤**：说啥啥不听，干啥啥不行，吃啥啥不剩。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=85be0221-0917-4be6-bd4b-9d4b162d9e4f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9126b640-1115-46a7-92b4-931e3c7982ba)

@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：回你的消息，只是为了，合法合理的发朋友圈。
+- **随机毒鸡汤**：你就一甘蔗男，刚开始可甜了，到后面全成渣。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fea5a72d-7bf2-4b98-89c7-fae604ca979e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=236c4804-5587-48c6-8443-67f8dbc3b55d)

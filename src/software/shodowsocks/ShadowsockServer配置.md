@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：永远不要自暴自弃，一旦开始放弃，你就会发现非常开心。
+- **随机毒鸡汤**：暗恋的人没有，想暗杀的倒有一堆。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5debea04-328e-4583-84ca-040d3ecd393c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9dafb145-040e-4143-a4c6-7dedbf20a7d5)

@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：靠运气赚来的钱，最终都会凭实力赔走，直到财富与认知匹配为止。
+- **随机毒鸡汤**：以后说话记得反着来，毕竟生活最喜欢的，就是打脸。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7cb78ed8-33b8-4b3a-a1de-d35b223867ce)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=624ba3f2-0e83-4375-a7e7-e179334e6980)

@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：明知不可为而为之，是我对这段感情，最大的诚意。
+- **随机毒鸡汤**：只有拥有找男女朋友的能力，和很多备胎，才能真正享受单身生活。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b0b432c3-14cc-4e4a-bf2e-a81ca84a1050)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e2c610c-4304-464b-92f2-42a1873f34f8)

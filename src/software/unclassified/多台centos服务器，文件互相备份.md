@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最好别收拾房间，当房间收拾干净时，你就是房间里唯一的垃圾。
+- **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bfe1d745-6b3b-403e-a96f-b955319f49d9)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=610d9a6e-14c1-42ae-883e-1dc5c3fe44ea)

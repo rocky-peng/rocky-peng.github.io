@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有的人在为梦想而努力，有的人在为，实现别人的梦想而努力。
+- **随机毒鸡汤**：人生本来就苦短，你却还想着走捷径。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7cb161b8-a28a-4b7d-a343-6fd7fbc9dd3c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ced50192-7c22-4aea-baa2-13f3d6790714)
