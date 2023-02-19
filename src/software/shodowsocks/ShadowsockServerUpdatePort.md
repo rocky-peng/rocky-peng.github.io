@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么英文歌听不腻？因为一直没听懂。
+- **随机毒鸡汤**：云想衣裳花想容，猪想长膘人想红。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=105e7836-b791-4879-9437-9de9db4f0bae)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f0a1a09f-c535-4b40-85a7-f817d5774d8f)

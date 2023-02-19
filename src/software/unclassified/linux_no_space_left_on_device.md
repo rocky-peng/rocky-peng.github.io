@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：创业只要你坚持，总有一天，会亏完的。
+- **随机毒鸡汤**：减肥没瘦怎么了？你们上班，不是也没有存款吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0686a437-54fe-48b7-b8ff-e4d700a6b5c3)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f118913d-b7c1-4b41-94c0-0749ff9af5a5)

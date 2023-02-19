@@ -94,6 +94,6 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上有两种人，金钱的玩物，和玩弄金钱的人。
+- **随机毒鸡汤**：这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7c698748-29df-417d-9407-897d19be3f58)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2b56b72f-89a1-46c1-bcaa-25e83c36f42d)

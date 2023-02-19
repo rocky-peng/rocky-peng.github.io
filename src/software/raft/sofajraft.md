@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我连名牌都不认识几个，有时候，别人在炫富我都不知道。
+- **随机毒鸡汤**：到了一定年龄，别人问你多大了，你得稍微算一下。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5e4771be-39b3-437d-81ed-2bd40d29f457)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f4c65bef-548d-4c51-8ba0-2188441e9256)

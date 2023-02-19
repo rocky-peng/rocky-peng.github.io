@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要去追一匹马，用追马的时间种草，来年春天会有一批骏马到来。
+- **随机毒鸡汤**：有些人的底气来自实力，有些人的底气来自无知。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e0080d04-6e0f-4cef-81e0-e25b503f9b7a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=64e11e35-8b36-4ad0-b6b9-e5e12ff1f58a)

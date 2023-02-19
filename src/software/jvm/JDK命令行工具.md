@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓土味情话，长的好看说的都是情话，长的丑说的都是土味。
+- **随机毒鸡汤**：别人有对象，我有对象腿。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=841e3512-644a-4532-8183-d5b6715ac75a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5497f62b-6021-4d3a-b873-8161828a2ec8)

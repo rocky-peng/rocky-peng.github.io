@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：晚上的我觉得自己了不起，早上的我觉得自己起不了。
+- **随机毒鸡汤**：我能对你最好的祝福，就是参加你的每一次婚礼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e6419a3e-f657-4182-99bb-330cc17abaef)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2ee0ce80-9a48-4a09-9e09-b314bfd22971)

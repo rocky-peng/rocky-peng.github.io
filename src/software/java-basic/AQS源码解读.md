@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个人吃饭会觉得很孤单，一个人吃零食就不会。
+- **随机毒鸡汤**：教练说，别人踩离合，你踩的是悲欢离合。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b0c4c595-c8ed-419e-8534-61e7e5293b97)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f3cf5063-0381-448f-8729-fac10f8bb460)

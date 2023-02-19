@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：富人的丁克叫丁克，穷人的丁克叫断子绝孙。
+- **随机毒鸡汤**：跟最好的朋友好到什么程度？他进传销，发展的第一个下线就是我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=16ce9519-526d-494a-ad73-8acd8071dff8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b5a2fb17-6477-445f-93f0-a8b6082fc247)

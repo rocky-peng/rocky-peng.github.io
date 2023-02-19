@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别对我说永远，我活不到那个点。
+- **随机毒鸡汤**：高考加油！我在工地等你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=362f70f4-a0f7-410c-9640-879a05983f58)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ab3276ac-9b1b-4a8a-b210-306e5892a960)

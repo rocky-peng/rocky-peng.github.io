@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不开心了就喝两杯旺仔牛奶，把那些让人烦的孙子都忘了。
+- **随机毒鸡汤**：小时候以为，自己是正义的伙伴，长大才发现是傻逼的朋友。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2c7ec786-bf08-499f-bfa1-3867e55311fc)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=66d69dcc-bd3a-4fc9-a29b-85cf193de5d3)

@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人生就像打电话，不是你先挂就是我先挂。
+- **随机毒鸡汤**：年轻时我以为钱就是一切，现在老了才知道，确实如此。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c6b4884a-1ae4-478f-943e-6805d2a44b93)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8bd08a7f-3410-46f9-867b-47d2efa412b6)

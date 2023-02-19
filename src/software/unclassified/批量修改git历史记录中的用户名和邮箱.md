@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：那些你认为不靠谱的人生里，充满你没勇气做的事。
+- **随机毒鸡汤**：恋爱就像树上的叶子，不是绿了就是黄了，红的呢是气到吐血了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a7f5e7de-db3b-46c4-83dd-ea2f7afd6f0f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3b0e7a4f-9ff9-463e-91c0-40e61b3a52ce)

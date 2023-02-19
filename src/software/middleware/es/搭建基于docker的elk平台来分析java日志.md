@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我捡了个神灯，许愿我死前能找到女朋友，结果我获得了永生。
+- **随机毒鸡汤**：希望你以后，有酒有肉有姑娘，姑娘丑的不像样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3ca0b643-a579-43c6-b65a-90a3f142dbb5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=626a1f37-03bc-484f-965c-075aca0eea11)

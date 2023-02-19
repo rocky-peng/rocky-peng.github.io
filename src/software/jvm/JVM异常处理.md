@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我想做你的太阳，高兴的时候温暖你，不高兴的时候晒死你。
+- **随机毒鸡汤**：害怕平凡的人，都是平凡的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=30972cce-5532-4938-804c-7fa5fe452039)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1fee43ca-5c9d-4f17-86b9-4575f13fe9ad)

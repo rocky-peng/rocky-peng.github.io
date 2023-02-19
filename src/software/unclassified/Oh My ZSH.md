@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：据说不想开学的都是好孩子，因为他们在学校里没有对象。
+- **随机毒鸡汤**：教育要从娃娃抓起，因为大人已经无药可救了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=80d6ef8b-8a56-4889-87b4-b3d5ffc0ed77)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6da06d49-c203-4007-9c61-6cbd73a74be1)

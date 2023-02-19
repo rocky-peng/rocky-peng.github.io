@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你可以在我面前炫富，是在暗示我，以后吃饭钱你付。
+- **随机毒鸡汤**：等你长大成年就会发现，你不再是个傻孩子了，你是个傻子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d55b60f7-cd2e-403d-be03-7d1aa3aeb193)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2c50b760-c49d-45d8-a30b-d5bd2bf489a7)

@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：旧友难维持，新友难深交。
+- **随机毒鸡汤**：夜太美，尽管再危险，总有人黑着眼眶修着仙。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0069cf59-1693-4af3-8e1e-a300aadf3084)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5aa147f1-46a4-4be1-bdb6-8abfd7c92a81)

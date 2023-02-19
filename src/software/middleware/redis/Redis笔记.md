@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：咸鱼翻身是为了晒得透彻，你翻身是因为手被压麻了。
+- **随机毒鸡汤**：牛人坚持不懈叫匠人，但你坚持不懈叫犟人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a44e449-e1ef-49f3-85a4-93a80fb0dc5e)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=23b1b098-26c1-49b9-ac41-c56309a954f3)

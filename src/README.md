@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
+- **随机毒鸡汤**：祝您踏入婚姻的坟墓后，身旁人不要诈尸，身后人不要翘坟。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=777cdac5-e5b0-43b9-8e13-4c4888d890b2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=325cb7d2-7ef7-45d2-bc17-75e5e53333e2)

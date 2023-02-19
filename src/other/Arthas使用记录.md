@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：少问自己为什么，多问自己凭什么。
+- **随机毒鸡汤**：多个朋友多条路，少个朋友少条岔路。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a49e5bc2-a2dc-46f1-abde-43c8c02353d7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=162c1286-3d1e-42c2-800b-bd12f045e0fe)

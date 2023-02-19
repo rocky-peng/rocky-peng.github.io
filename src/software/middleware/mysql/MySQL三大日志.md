@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人家考试跟玩一样，我考得跟玩一样。
+- **随机毒鸡汤**：你就是个黄焖鸡，又黄又闷又垃圾。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5c69951e-3f05-4db2-8a8f-eac352fb84c8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a645a097-a9fb-4ddb-928d-b933457d8828)

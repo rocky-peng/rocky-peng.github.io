@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恋爱就像树上的叶子，不是绿了就是黄了，红的呢是气到吐血了。
+- **随机毒鸡汤**：有什么别有事，没什么别没钱，动什么别动情。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2b51fc41-f6e0-4af2-afed-68ced20a90f0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=556270b5-bd71-4ea3-a801-966405de175e)

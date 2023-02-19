@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前上学是拿钱混日子，现在工作了，是在拿日子混钱。
+- **随机毒鸡汤**：上帝关了你的门窗，也有可能，是因为他想开空调了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=52419452-e4d3-4455-84b8-54ef9e2bb506)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d843685c-11d3-4535-a37d-d4939ef6bb24)

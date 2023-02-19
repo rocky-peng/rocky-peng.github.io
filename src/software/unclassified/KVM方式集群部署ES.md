@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：让刻苦成为习惯，用汗水浇灌未来，然后脱水而死。
+- **随机毒鸡汤**：说啥啥不听，干啥啥不行，吃啥啥不剩。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e99384d5-c3e0-463a-88c8-74a5fb31a992)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=11597e19-7570-4383-be4f-9988971d4415)

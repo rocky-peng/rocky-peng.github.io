@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
+- **随机毒鸡汤**：没人嘲笑你的梦想，他们只是嘲笑你的实力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2a6ea0d9-a4e8-4b23-b9f8-d69c4121c46c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=28a1b52c-8cc9-4970-9222-59864205084a)

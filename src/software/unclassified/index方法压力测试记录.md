@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：说好我们一起到白头，你却偷偷焗了油。
+- **随机毒鸡汤**：分手后还能做朋友，一定是其中一方不死心，或者钱没还清。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1cb171c0-fb00-4f16-8113-31e482aa7433)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=aa09c0bf-7a30-472f-8958-cd4b8f969d65)

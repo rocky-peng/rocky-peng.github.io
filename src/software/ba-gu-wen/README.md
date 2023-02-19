@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在看来用生日做密码，还是很安全的，毕竟没有人记得你生日。
+- **随机毒鸡汤**：双十一过后，我从一个光棍，变成了一个负债累累的光棍。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2fceac3f-a37a-4484-ab26-571f42e7c1c8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2efce0e1-3b07-48be-8e2e-d0551c0164c9)

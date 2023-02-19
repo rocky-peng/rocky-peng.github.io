@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的兴趣爱好分动态和静态，动态就是翻身，静态就是睡觉。
+- **随机毒鸡汤**：你别怕，不回你消息的那个人，总会遇到不回ta消息的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f16093c3-0389-4729-ad81-c890401fdf75)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88cfa77c-4856-45fa-a612-df98d3943008)

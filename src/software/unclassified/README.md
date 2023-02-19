@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我爱睡懒觉，如果要给这份爱一个期限，我希望是一万年。
+- **随机毒鸡汤**：别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=912e0f1c-07d7-4da0-870c-dc66f4a75d6d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a9d99416-f0ac-42ee-bee0-4c034351829a)

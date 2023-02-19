@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：看时间不是为了起床，而是看还能睡多久。
+- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=953d2ce7-92c5-463e-9d86-d164df4f74a0)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6803b486-d1bd-4b64-995f-c53b421efb63)

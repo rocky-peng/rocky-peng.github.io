@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：女娲造人，从某种意义上证明了，人类是沙雕。
+- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88ed811f-48a9-494d-b6b0-e421bcfc0237)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7fc753a4-fe52-44ae-bb3c-8ce9e401b849)

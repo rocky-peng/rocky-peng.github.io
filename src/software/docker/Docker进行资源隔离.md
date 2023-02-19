@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：太久没牵手了，拿个泡脚凤爪，都觉得温柔。
+- **随机毒鸡汤**：不期待任何人，也不想被任何人期待。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=df69bccc-4112-4e11-8cdc-1203c091df5c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1d2fe419-834f-400b-8fe3-4102c98a75e8)

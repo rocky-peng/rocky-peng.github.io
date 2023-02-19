@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：铁杵能磨成针，但木杵只能磨成牙签，材料不对再努力也没用。
+- **随机毒鸡汤**：以前过年就图个热闹，现在就想图个清静。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ffcc48c6-7382-4e2a-85f8-ef6ce6e25c04)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d9a9b065-7d6f-4992-93e4-6a034c4ec25b)

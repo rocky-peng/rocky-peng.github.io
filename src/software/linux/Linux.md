@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果睡觉是给人体充电，那么我从来没有满格过。
+- **随机毒鸡汤**：旧友难维持，新友难深交。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=570512ed-be8b-4494-9097-4c45ec81d256)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d77e3da1-a7fe-454d-a16d-783cba22a1cd)

@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：表达有很多种，不表达也是其中一种。
+- **随机毒鸡汤**：减肥就是3天打鱼，362天晒网。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2b8a4683-e250-4048-9ef1-94e3bffbb663)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dffd21b4-d952-482f-a4f8-f33ab19c87e3)

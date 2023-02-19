@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我有千百个想见你的理由，却缺少一种能见你的身份。
+- **随机毒鸡汤**：现在想要出国玩的，只剩下这一国了——天国。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=514cdf89-ddda-4e7a-b14c-74e20ab7e23d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=098d589a-4fb9-415b-84bb-1e681a627728)

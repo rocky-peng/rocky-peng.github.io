@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恋爱时会觉得像吸毒一样，分手了又会像戒毒一样。
+- **随机毒鸡汤**：以前上学是拿钱混日子，现在工作了，是在拿日子混钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=eae5085e-64b2-4c5f-91f6-0a0e632a3337)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ade7e204-ee4a-4207-96cc-1d6c5a2d8447)

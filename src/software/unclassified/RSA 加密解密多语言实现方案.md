@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：国庆节，别人是外国七日游，我是卧室深度游。
+- **随机毒鸡汤**：要不是猪不会说话，不然你都没有，存在的价值。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e2a97f7e-983a-4f91-856d-dca034498c76)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=80a3ce3b-696f-44ec-9c89-1834aa4b43af)

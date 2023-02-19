@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经的海枯石烂，抵不过好聚好散。
+- **随机毒鸡汤**：希望你以后，有酒有肉有姑娘，姑娘丑的不像样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7f868ac3-7d9f-402c-a047-a5df176ee738)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f9cabd64-2a73-4576-b565-a1b12071b096)

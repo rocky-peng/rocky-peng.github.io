@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：头这么疼，一定是有人在压榨我的智慧。
+- **随机毒鸡汤**：大多数人问你怎么了，不是想帮你或者安慰你，而是满足自己的好奇心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=163bcb78-7639-4db8-a169-6bcf2cdbacd5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3f7bbb9f-ca6a-4c97-842d-4cdd9b877ea0)

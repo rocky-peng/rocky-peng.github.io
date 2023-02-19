@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有很多事，介于不说委屈，说了矫情之间。
+- **随机毒鸡汤**：所谓陌路，就是最初不相识，最终不相认。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca7f090b-49cb-4b4c-ace3-63bb6c0ca34e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0f8e3fa3-5e8a-43ff-a6af-29b52c0478ad)

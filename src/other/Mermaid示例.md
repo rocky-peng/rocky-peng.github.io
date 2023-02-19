@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：炸鸡如此多娇，引无数少女肥了腰。
+- **随机毒鸡汤**：不是你喜欢的人不喜欢你，而是你，偏要喜欢不喜欢你的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c4ffaf91-5794-4a35-bf36-9212767939c9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0e03a32e-51f0-4463-b506-7e45d866e106)

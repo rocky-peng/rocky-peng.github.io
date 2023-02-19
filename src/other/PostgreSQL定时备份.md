@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：愚人节都没人表白，那就真的没有了。
+- **随机毒鸡汤**：表白不一定是件好事，因为会显得手黑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=21b18db2-435e-4859-884a-219065eeb21e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1bc622ee-0efe-4f97-b941-a06243643cc8)

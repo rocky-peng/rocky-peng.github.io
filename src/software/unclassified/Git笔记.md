@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有钱人终成眷属，没钱人亲眼目睹。
+- **随机毒鸡汤**：我和鹹魚沒法比，它有鹽值，我沒有。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c0ab068b-0c63-4d3e-b982-7a19c101c2e0)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=69c1fb3d-1e5a-46d6-9fc4-7c54510b064b)

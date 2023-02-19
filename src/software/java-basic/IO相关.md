@@ -286,6 +286,6 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
+- **随机毒鸡汤**：什么叫不自量力？不要自学量子力学。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a2f815de-45c3-471a-939e-b58948d084ab)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3afd21d9-d37f-4ca5-b227-b016d20f9edd)

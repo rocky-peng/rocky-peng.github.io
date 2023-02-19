@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想赚钱就得怕钱，不能爱钱，因为怕什么来什么。
+- **随机毒鸡汤**：有人关心，才有资格下落不明。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a03417da-4b39-4dcc-89f4-cf7e0884bb59)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=db642eb7-c6bd-47ae-8fcf-506fb4f1b1e8)

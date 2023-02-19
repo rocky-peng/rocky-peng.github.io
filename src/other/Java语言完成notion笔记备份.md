@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你并不是无能，你只是没有选择的权力。
+- **随机毒鸡汤**：时间不能冲淡一切，比如痘印。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dbdd0abe-0ba1-410d-9abf-6b59fa55ea15)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=af343462-aaf3-4c7e-8ba0-cdcc1e31ee1c)

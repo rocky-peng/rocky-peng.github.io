@@ -162,6 +162,6 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一般七夕情侣都去哪里玩？给我推荐几个，我避开这些地方。
+- **随机毒鸡汤**：只要你多财多亿，凭亿近人，还怕找不到女朋友吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ed929e10-ae25-4264-9cc3-a75549c1c13e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9e52aac2-b245-4b7a-995b-ead27ebf876c)

@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我被生活磨光了棱角，简单的说就是，我被生活盘了。
+- **随机毒鸡汤**：长胖以后，与朋友约着一起骑马减肥，一个月后马瘦了十斤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=acac4815-b841-4d0d-99c7-f0de40950420)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=146ca045-7f47-405e-9fbe-13e58ee7fe0e)

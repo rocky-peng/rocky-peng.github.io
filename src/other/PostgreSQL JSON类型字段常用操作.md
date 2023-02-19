@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人生就像一杯水，孤独 孤独 孤独，一辈子就完了。
+- **随机毒鸡汤**：谎言与誓言的区别在于，一个是听的人当真了，一个是说的人当真了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b19bf2f3-7e9b-40fe-8b76-27b1995e631b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3ab441c1-1c27-445b-befa-e7f3caa48d35)

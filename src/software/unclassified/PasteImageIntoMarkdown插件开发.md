@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人生在世，还不是有时笑笑人家，有时给人家笑笑。
+- **随机毒鸡汤**：有心者不用教，无心者教不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0668c8f5-5f2e-4fbb-b8f4-715a0b6fa23f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ec44ae59-b257-4711-8646-2c965d982000)

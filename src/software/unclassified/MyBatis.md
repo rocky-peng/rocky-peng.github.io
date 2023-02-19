@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+- **随机毒鸡汤**：见到长辈时，不是我们不想叫他，而是压根就不知道叫他什么。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=50ed5160-9ed9-425b-b988-b80ad5155eb9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3c8fa2c0-76be-4fb8-820b-f36d041a2120)

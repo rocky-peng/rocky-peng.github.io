@@ -72,6 +72,6 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我是个干净的人，既没有恋爱的酸臭，又没有金钱的铜臭。
+- **随机毒鸡汤**：开心追剧时忽想起作业没写，可恨，现在只能焦虑地追剧了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=adbded0d-b099-4007-a3b8-cde986a76155)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0ecd9819-5fc3-4383-ba60-9a6bc1c7b69c)

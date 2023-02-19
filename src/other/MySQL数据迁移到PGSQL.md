@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我也想做一个优雅的淑女，是生活把老娘逼成了泼妇。
+- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a3e853e8-2fba-4402-b63d-cf27f4ea58e3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d083b24-9713-4fe2-907f-f3011bf59dbd)

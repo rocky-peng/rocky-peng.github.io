@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你是谁不重要，重要的是，你闯进我生活想干啥？
+- **随机毒鸡汤**：单身的原因，有对象的咱不能要，没人要的咱也不能要。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c22b4e7d-7721-4e8f-a131-5f7d957916e2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=db57c3b3-8d48-449b-aee9-360220bb382d)

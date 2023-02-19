@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：去买副象棋吧，那里有对象。
+- **随机毒鸡汤**：我也是有家族传承的人，比如我爷爷对我爸说，要好好学习。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=869004be-742f-47a7-afed-11532eed5cf8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f7074728-b2fe-42f9-9dea-ba58d72ec8db)

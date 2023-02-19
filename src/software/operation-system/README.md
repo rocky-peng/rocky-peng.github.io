@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：黑夜给你黑色的眼睛，你却用它来翻白眼。
+- **随机毒鸡汤**：趁好看的时候多照照镜子，毕竟这种错觉不是经常有。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=95598e89-90cc-4df3-8938-a9d7993fa718)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=493a0b60-aa66-4ead-8cb8-789ddd6c7f6f)

@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要你每天坚持学习，最终胜利肯定是属于，在考场上发挥好的人。
+- **随机毒鸡汤**：你感觉是错过 ，人家感觉是解脱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ed49c20b-a543-402c-89bf-d0a1045c0dfa)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8bbe7a15-e685-48a8-a90b-bd90dc52d9ac)

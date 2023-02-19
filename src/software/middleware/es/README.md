@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：这辈子我没求过谁，只求过阴影部分面积。
+- **随机毒鸡汤**：我已经闲到，开始学习了……
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=571a6684-e8e0-4d7f-b367-52d36a2c4b2f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8c5ca1ac-0354-4f73-8e7a-661379b3e7a0)

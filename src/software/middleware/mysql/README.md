@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想要逼死一个强迫症，那实在是太简了。
+- **随机毒鸡汤**：要不是骗子骗我，我还不知道，自己可以借这么多钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5acd0b4e-7c6d-45a2-ad18-1a2814d5b8e4)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=99a13792-1303-4462-b414-ac4c9cd8fb06)

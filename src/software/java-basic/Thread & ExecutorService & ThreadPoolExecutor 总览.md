@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：哪怕抛掉出身的因素，我觉得，你也未必干得过别人。
+- **随机毒鸡汤**：回想这辈子，当过最大的官，也就是QQ群管理员了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=00bb1a01-38f3-4deb-b1a0-28a87b9d06e6)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2077f4a9-9dfb-4ce9-a998-cb62fc16ef75)

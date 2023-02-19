@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：其實你並不討厭，就是全無用處罷了。
+- **随机毒鸡汤**：西游记告诉我们，有个猪一样的队友，能让团队上西天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=86703ff5-47cc-49db-8b92-3868ce78c652)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=32beb2e6-1202-45cc-b1a3-21f713fc2187)

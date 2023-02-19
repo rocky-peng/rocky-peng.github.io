@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：生命归结为一种简单的选择，要么忙于生存，要么赶着去死。
+- **随机毒鸡汤**：不要总对人掏心掏肺，有的人不吃内脏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a62c17da-a906-45b2-b71f-16cabf31ecbd)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0f744da8-7df0-46be-b778-9a727163b565)

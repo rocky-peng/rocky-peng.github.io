@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：学校就是连续签到五天，送你作业大礼包一份。
+- **随机毒鸡汤**：网名虽好，终输备注。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=af68b62c-3f1d-42c4-b6f3-a086e733b0fe)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=176cc0df-ab2f-40e7-85a8-eaf3760aad0c)

@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：单身至今的原因是，熟人不好下手，生人不好开口。
+- **随机毒鸡汤**：从小听到最多的， 是「你要懂事」，可却很少听到「你要开心」。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ea824086-9208-4c5c-96ef-5c67d749bdab)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=28fb71ba-1d4a-4017-9ae5-e475317dcbd8)

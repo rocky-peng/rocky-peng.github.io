@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是烂泥扶不上墙，而是泥不想上墙。
+- **随机毒鸡汤**：你喜欢什么样的男人？我喜欢笑起来会发光的男人。你是说如来吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=228cd42c-36c9-43f9-86b5-a040016deed3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dee12886-cc68-4826-a97f-4621156aa693)

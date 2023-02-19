@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我好矛盾，干着一份想死的工作，其实是为了谋生。
+- **随机毒鸡汤**：做政治试卷，是我这辈子，说谎最多的时候。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63be5340-5a07-48e0-a76b-3d075a135cdb)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6bdff8ba-fd76-4105-99d6-9842ae0d5db0)

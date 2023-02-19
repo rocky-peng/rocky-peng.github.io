@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：随风奔跑自由是方向，无奈忘了腿短没力量。
+- **随机毒鸡汤**：好想谈一场，你妈妈拿着一千万，让我离开你的恋爱啊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=71ac1e7a-303a-4319-aa29-774a83bf7bac)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2548b85a-3798-42fb-8d24-76702112e69c)

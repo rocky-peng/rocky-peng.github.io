@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们都不是好演员，我藏不住深情，你演不出喜欢。
+- **随机毒鸡汤**：有些关系，一旦你停止主动，它就结束了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=81fde1c2-e64d-4779-8678-be0da76ec7d5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=44f9c7d0-db68-4219-b319-dc611b83e8a9)
