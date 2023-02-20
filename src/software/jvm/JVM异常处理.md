@@ -114,3 +114,9 @@ import java.lang.reflect.Field;
 - **随机毒鸡汤**：当智商高到一定程度，情商就没什么用了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7d5bd387-2daf-4444-ba6d-2e44b8b88aee)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：冬天床以外的地方都是远方，手够不到的地方都是他乡，上个厕所都是出差。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3eb6e643-36ea-4684-b453-9f28817cdf80)

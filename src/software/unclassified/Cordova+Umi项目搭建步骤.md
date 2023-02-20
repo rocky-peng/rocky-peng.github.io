@@ -103,3 +103,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 - **随机毒鸡汤**：富人孩子拼父母，穷人父母拼孩子。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f9295a5e-d49f-4882-aca2-e5c0a1946bf0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：老说找不到理想中的另一半，问问自己，成为理想中的自己了吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0cd7f30e-0203-4f86-81c1-a9298784b562)

@@ -111,3 +111,9 @@ ntpdate 时间服务器ip
 - **随机毒鸡汤**：马上就要当学长了，可是学的不行，长得也不行。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3c34a5fa-2910-428d-b81f-0de4dfcc93fe)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：当你停下来休息时，不要忘记别人还在奔跑，所以请拌倒他。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=de906993-409c-423f-adec-9f15cd9da76d)

@@ -147,3 +147,9 @@ InnoDB支持的索引
 - **随机毒鸡汤**：掐指一算，你俩要散。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=599764f4-ae76-45f4-90b9-8db007843385)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：外貌不重要，爱情看的是感觉，可是人家对丑的没感觉。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=29117b7c-9fac-4f19-859d-84044e4a3f14)

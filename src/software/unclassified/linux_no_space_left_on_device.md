@@ -52,3 +52,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：有些温暖，就像马桶上的余温，让人不爽。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1c4ce96a-cbce-4813-b184-6744c14e39ad)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：铁打的身子，磁铁打的床。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dd477213-b7cd-4074-9c5a-6a0dffe47bdd)

@@ -23,3 +23,9 @@ Memory Analyzer TOOL
 - **随机毒鸡汤**：爱情最大的悲哀就是，玩着爱自己的人，爱着玩自己的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=297169ef-2862-47e3-b074-f22d9bae483c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果到二零二零年，要消灭贫困人口，那么我剩下的日子不多了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4f791259-0fed-461c-baa5-776d4bec8a2e)

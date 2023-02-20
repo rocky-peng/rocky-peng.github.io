@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：很多父母不让娶的最终没娶，很多父母不让嫁的，最终都嫁了。
+- **随机毒鸡汤**：日日称重日日重，年年减肥年年肥。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e1ca26e3-0165-4992-852e-ddefea9eb4a8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2f8d2b3a-f40a-4ba0-a72c-7437c3793ea4)

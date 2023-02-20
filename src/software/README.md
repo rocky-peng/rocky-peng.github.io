@@ -10,3 +10,9 @@ article: false
 - **随机毒鸡汤**：你的胃一定很好，毕竟软饭吃的多。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=217fab42-66c7-4106-a8f4-8c6db7104fc8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：喜新厌旧不是病，不断原谅的人才有病。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=11eb1eb2-f929-4381-bb60-4b14cc21c744)

@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：兴趣是最好的老师，饥饿是最好的厨师。
+- **随机毒鸡汤**：吃不了自律的苦，就得吃平庸的苦。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=70b2364f-6aeb-4ffe-be39-cf98533a4844)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c9d3d46d-b410-4d17-9de9-f47ed0554e58)

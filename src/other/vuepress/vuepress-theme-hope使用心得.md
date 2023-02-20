@@ -11,3 +11,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：我从毕业到现在有两个亿，一个回忆，一个失忆。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=383fbf41-5bca-4dd8-8877-0faf015b4a92)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在中国最管用的几句话，“大过年的”“给点面子”，“他还小呢”。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fb523bb0-314d-459f-a538-2adba574fde7)

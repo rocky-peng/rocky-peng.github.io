@@ -369,3 +369,9 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 - **随机毒鸡汤**：我的超能力，就是所有事情，都超出了我的能力。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=691cc6c4-c2c6-42e3-974b-75af04d480d3)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：长得帅的不说话叫高冷，长得丑的不说话叫自闭。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3fdbb033-44cb-469c-b520-b509496b57aa)

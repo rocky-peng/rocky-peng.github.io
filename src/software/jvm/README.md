@@ -9,3 +9,9 @@ article: false
 - **随机毒鸡汤**：活下去的勇气，是因为怕死。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=290a3967-e4d4-48d8-9062-772fafdb5b9c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我把她从女孩变成了女人，她把我从男孩变成了，穷人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ebfb60a0-5f45-4bdc-a247-492f1e47c557)

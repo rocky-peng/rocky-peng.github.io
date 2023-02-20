@@ -311,3 +311,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：爱从不会消失，只会转移。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=86f695e4-24c9-4f49-bab7-5794b04d6f3b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：能者多劳，过劳死。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=288fae47-54f5-444b-8754-bd9752c094bf)

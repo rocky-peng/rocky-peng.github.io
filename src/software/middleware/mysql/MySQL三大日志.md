@@ -228,3 +228,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：“你好”是一个故事的开始，“你好好的”，是一个故事的结束。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=69474d62-6678-4fc3-80ee-04d45fecb23b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别轻易为喜欢的人付出一切，以免被人知道，你的一切并不值钱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=96cf2de0-75e9-4187-93a8-ed7a9d048c8d)

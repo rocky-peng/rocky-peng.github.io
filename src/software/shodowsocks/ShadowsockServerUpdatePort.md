@@ -25,3 +25,9 @@ EOF
 - **随机毒鸡汤**：猛的一看你不怎么样，仔细一看，还不如猛的一看。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=388122a9-336f-4e6a-99bd-6e3ddaa8916d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：动脑的年纪，就别动心。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5ca550b3-19d8-4102-ba3e-23f4d1ee1690)

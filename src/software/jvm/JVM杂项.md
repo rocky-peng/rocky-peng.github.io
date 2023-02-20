@@ -430,3 +430,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：有人考试靠实力，有人考试靠视力，尼玛我考试靠想象力！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fd2b98e9-93e9-44dd-a017-ef9fb2dca395)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：冬天就是好，穷的时候，还有西北风喝。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e1c0dd39-cf2c-4266-b7d6-5c6f8c918172)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我真的好怕别人怀疑我，因为他们都怀疑对了。
+- **随机毒鸡汤**：第一个称马尾辫为马尾的人，有没有想过，马尾长在马的哪里？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fb5ab5d3-1ccc-4782-9a14-95b867f75bc5)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dcc88a8d-64ff-4073-92a8-0aba25d2aa80)

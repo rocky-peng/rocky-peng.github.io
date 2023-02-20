@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你知道流星为啥这么快吗？因为它根本就，不想知道你的愿望。
+- **随机毒鸡汤**：我承受了这个年纪，不该有的饭量。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2e20efbe-f769-450e-822c-c2addb230d38)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8d29ff07-6ade-4d68-b4d2-454c8cc4be9f)

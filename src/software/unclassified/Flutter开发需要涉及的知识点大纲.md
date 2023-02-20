@@ -33,3 +33,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=473bd117-591f-4d02-8281-81d03e4e4d7f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你吃不了的苦有别人吃，所以你想要的生活，只能别人过。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=52f33b04-2739-4cb0-93ce-d4023b010814)

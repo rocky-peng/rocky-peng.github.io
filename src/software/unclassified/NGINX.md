@@ -70,3 +70,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：如果你觉得，围着你的都是苍蝇，那可能你自己是坨屎。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fb8d0504-362f-4622-a8c6-706c90e29c7c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：珍惜对你好的人，否则错过了就不知何时，才能遇到另一个瞎了眼的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b45ed60b-682c-4014-8722-ce1229ff06b4)

@@ -75,3 +75,9 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 - **随机毒鸡汤**：小时候做过的最蠢的事，可能是盼着长大吧。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0445d221-79e4-4167-8a78-bc21ac9e3186)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：早恋影响成绩，是一个很好的掩饰自己，没脑子学习的理由。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=27bf47af-c62c-4a7b-bbe5-1b29c9df5861)

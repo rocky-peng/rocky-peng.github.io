@@ -40,3 +40,9 @@ RpcServer:
 - **随机毒鸡汤**：昨天遇见小学同班同学，没想到他混的这么差，只往我碗里放了一块钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2dd05434-b46b-45a1-b135-689c8ab8acb9)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：曾经给我泼凉水的人，没关系的，我烧开了还会还给你的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dca236f0-f8b5-4d38-b0b1-4f769ea9e602)

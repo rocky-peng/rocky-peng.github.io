@@ -40,3 +40,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：永远不要借钱给不熟的人，因为他在熟人那，已经借不到钱了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5dbe5670-4d8e-43e3-8e7e-d2e2f8200bbb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：最不能惹的动物就是猩猩，因为他敲胸的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3d33c861-63d2-434f-9a83-17f19a580d5b)

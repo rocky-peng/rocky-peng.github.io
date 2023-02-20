@@ -385,3 +385,9 @@ s
 - **随机毒鸡汤**：以前喜欢一个人，现在喜欢一个人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=522d52de-ca5c-4135-a6c1-042db7d08eee)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：心想事成的诀窍是，只想能成的事。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6e9ecc01-1a7b-4ba7-9407-e581603295b2)

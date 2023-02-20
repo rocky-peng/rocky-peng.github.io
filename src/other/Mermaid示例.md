@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
+- **随机毒鸡汤**：别问我有啥，先说你要啥，再说你凭啥。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0e97c833-d312-46f2-af64-444b021a6afa)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a9ffcbba-0ce1-4c2b-a765-a0efc3182f2d)

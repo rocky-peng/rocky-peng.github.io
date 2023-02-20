@@ -28,3 +28,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：每次考试都认真反思，到最后发现，我写检讨的能力变好了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ca098d2-b0d3-43cb-88c5-0a492f3e22fc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：每个人都有幸福的权力，却只有少数人，有幸福的能力。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f01183fc-7238-4679-9468-752a9a0920c5)

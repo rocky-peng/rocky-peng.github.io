@@ -302,3 +302,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：我对你的所有不舍，都是因为不甘心。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8af49ae3-13e7-47cf-a6a9-799d407624c4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：生命的逝去不是终点，被遗忘才是。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=02b16c96-7381-45d9-838b-86b421620ca8)

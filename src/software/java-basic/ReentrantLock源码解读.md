@@ -158,3 +158,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：“你妹”是个好姑娘，替“你妈”分担了很多。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=38910666-af62-4df2-85ce-b617655b08fc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你得好好努力，才能配得上，被人利用。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c2771d26-7db9-4d3b-8537-8c7c843060de)

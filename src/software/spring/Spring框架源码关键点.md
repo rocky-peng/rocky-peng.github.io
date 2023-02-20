@@ -368,3 +368,9 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 - **随机毒鸡汤**：真是一代不如一代，毕竟我祖祖辈辈，都能脱单。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=92204ac9-3f02-4b50-b8e9-b77870d00699)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生就像一杯水，孤独 孤独 孤独，一辈子就完了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1786edd4-d455-44d3-bd3b-94d9a9d11ec3)

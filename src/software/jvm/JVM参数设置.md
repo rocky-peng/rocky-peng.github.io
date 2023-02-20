@@ -256,3 +256,9 @@ Number of method invocations/branches before compiling [-client: 1,500]
 - **随机毒鸡汤**：只有不快乐的人，才想知道未来。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5004f05a-34e0-4e55-a20b-bba85692305f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：春节假期，从跳过早午餐开始。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ddcd8c07-88f8-40a2-be34-f3c1503bf923)

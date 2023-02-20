@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人如果没有梦想，那跟无忧无虑有什么分别？
+- **随机毒鸡汤**：谣言止于智者，聊天止于呵呵。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e01b79a2-25e5-4811-9d25-c500996addbc)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f9a74b5-3811-45f1-943d-a02734e38c14)

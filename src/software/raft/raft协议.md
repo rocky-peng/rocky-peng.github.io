@@ -65,3 +65,9 @@ http://thesecretlivesofdata.com/raft/
 - **随机毒鸡汤**：举手之劳，是我帮忙之后的谦辞，而不是你绑架我的说辞。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6204a95f-2fb2-4e80-b934-5d83786da30a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：都说穷不过三代，我想你不会，因为到你这一代就结束了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d313bcd5-4f66-4429-8603-96c5128f9b74)

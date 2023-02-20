@@ -42,3 +42,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：美貌会消逝，但蠢是永恒的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ab16dfec-95fc-40f9-8a5f-72369495d466)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有些人，表面一套暗地一套，海淀一套三环两套。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=019c0e46-cf6f-45e4-ae7e-603d4be0bc94)

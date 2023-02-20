@@ -530,3 +530,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：伤害你的，不是对方的无情，而是你心存幻想的坚持。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a5c2c27a-e903-42f9-ac52-615fea9c6b81)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5e5f4b8e-76c5-4212-8afa-794d8b61fcd6)

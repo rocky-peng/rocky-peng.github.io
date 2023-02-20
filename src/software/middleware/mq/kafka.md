@@ -27,3 +27,9 @@ date: 2021-08-01
 - **随机毒鸡汤**：我已剪断我的发，剪断了牵挂，可你却还要让我办张卡？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=edf4d4ca-90ee-499d-a659-566733d90970)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：当别人向你提出意见时，一定要认真记下来，对你有意见的都有谁。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=69ff993b-ff56-4458-aecc-513e552a4749)

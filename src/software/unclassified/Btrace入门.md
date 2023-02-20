@@ -189,3 +189,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：逃避解决不了问题，但是很快乐。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1b6c5c9d-4fde-4357-9451-551c4ed47995)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生就像一个茶几，上面摆满了杯具。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8b0e4e5a-0f70-4da3-89df-97867f8b9a73)

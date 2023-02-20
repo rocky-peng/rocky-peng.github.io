@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：英语听力总结，有些话只说给懂的人听。
+- **随机毒鸡汤**：不要瞧不起中学课本，那是绝大多数人，知识面的顶峰。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b4f443ae-ae40-4edf-adba-a216126b465f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3041fc32-9903-438d-b3c6-452676700c57)

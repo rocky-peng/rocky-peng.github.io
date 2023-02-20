@@ -826,3 +826,9 @@ es				1.6.0-2.1.0
 - **随机毒鸡汤**：有些事情还是要坚持的，比如睡觉，特别是闹钟响起的那一刻。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5f3cfcb4-0e61-45aa-970f-d827a451c006)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：西医治标 中医治本，中西合医 治成标本。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=09e28d6b-f243-493f-a028-f8ee92a20cfb)

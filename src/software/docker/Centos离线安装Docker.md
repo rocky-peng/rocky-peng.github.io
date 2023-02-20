@@ -87,3 +87,9 @@ systemctl start docker
 - **随机毒鸡汤**：世界那么大，多在手机上看看。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=341727a0-0e2e-4661-b164-dfa4d7f4c6b2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：关注我的一般只有两种人，一种是暗恋我的，一种是暗算我的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=65a5bf38-36cb-4411-8c7b-0b8b2ddbb14c)

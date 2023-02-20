@@ -37,3 +37,9 @@ date: 2018-05-05
 - **随机毒鸡汤**：摘耳机，是新世纪的脱帽礼。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3e87a532-c0c2-43c6-a29a-b80539f44b07)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不是路不平，而是你不行。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f43314d-911b-46b5-86fc-c4afeb2ec840)

@@ -37,3 +37,9 @@ EOF
 - **随机毒鸡汤**：学校教学楼放镜子，是为了让你知道，人丑就要多读书。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e41c9407-fe3f-4fef-8ceb-c8258f3f3fe6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9532fa8-5946-4151-830b-ee5b1d97f2ee)

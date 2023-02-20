@@ -108,3 +108,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：我才不是舔狗，女神说了，我是她的犬系男友。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=017cc1e8-5722-45fd-8bf5-90b06a0b6bb1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你遇到最歧视的事情，是什么？56个民族55个加分。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=741e8d81-23c1-4ca9-b455-2d8d0bac7396)

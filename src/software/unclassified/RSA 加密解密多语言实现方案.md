@@ -813,3 +813,9 @@ print _message
 - **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ed91649-87de-4fc2-a9be-2fc55f5f9025)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我希望下辈子，我能把秒懂放在数学上。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bcbff3c3-1f1b-4718-acaa-814fb61c84de)

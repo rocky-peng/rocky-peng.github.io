@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我演过最完美的戏，就是上课装作听得懂的样子。
+- **随机毒鸡汤**：站着说话，腰真的不疼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9985717e-c875-49ea-82aa-f72dd805a0cd)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b97219a2-9735-46cb-8042-bee4c5ee5a2e)

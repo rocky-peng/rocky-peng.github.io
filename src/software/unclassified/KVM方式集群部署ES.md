@@ -135,3 +135,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：以不变的薪水，来应万变的物价。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8d56892f-e45a-4a1b-88cc-558dd4ef0a74)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只有努力过的人才知道，背景是多么重要！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=71d15cfc-758a-4ec4-bdbb-4a312df6b15c)

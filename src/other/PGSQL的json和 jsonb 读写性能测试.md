@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有些事不是我不在意，而是我在意了，又能怎样？
+- **随机毒鸡汤**：只要我每天，都坚持说风凉话，这个夏天就不会热。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=309ef883-04a9-4831-b10c-ad2a06f3d398)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=85f7ff9d-b1b4-4eff-9677-f6a09cbb18c1)

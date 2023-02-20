@@ -138,3 +138,9 @@ gantt
 - **随机毒鸡汤**：遗憾就像青春痘，痘没了，印还在。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=abc4ceba-c01b-4bf4-a6f2-e787ef721ea2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：什么叫不自量力？不要自学量子力学。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=918c35f4-c061-49ad-99e3-d991657e3331)

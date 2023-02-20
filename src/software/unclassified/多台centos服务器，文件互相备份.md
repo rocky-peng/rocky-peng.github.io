@@ -38,3 +38,9 @@ yum --enablerepo=epel install inotify-tools
 - **随机毒鸡汤**：我就像是玻璃瓶里面的苍蝇，前途满眼光明，就是找不到出口。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=109ad366-9e75-40a0-8248-d1b7a3abdf79)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：经常废寝，从不忘食。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eeb24315-fd74-420b-9b32-49c50e9443bb)

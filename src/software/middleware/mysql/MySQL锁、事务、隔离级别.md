@@ -468,3 +468,9 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 - **随机毒鸡汤**：学好数学不能帮你买菜，但能决定，你在哪个菜市场买菜。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ae7f3318-e141-42b6-a0ac-86729f9e8335)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我们厌恶千篇一律，却怕自己与众不同。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=710368d5-983c-4a61-9532-d0566f96a198)

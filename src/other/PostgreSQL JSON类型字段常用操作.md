@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间就是金钱，我们要视金钱为粪土，所以时间就是粪土。
+- **随机毒鸡汤**：你是ETC吗？这么喜欢自动抬杠。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=95fecdf5-ba0a-4c19-bbf8-eeed3df3fe78)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=46861209-e5e3-4b1d-b71f-7079b9189261)

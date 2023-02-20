@@ -531,3 +531,9 @@ sudo /etc/init.d/filebeat stop
 - **随机毒鸡汤**：长的丑不是我的错，只是我在落地时太匆忙了，来不急打扮。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cbb2db2e-80ca-41c1-8bd2-0c6ea75c35a9)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：发财和发朋友圈，总得发一个吧。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c358745d-9aa6-4668-acc8-5215dbb631bc)

@@ -105,3 +105,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 - **随机毒鸡汤**：做好了叫勇敢，做错了叫冲动。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bac688ad-23da-4e4d-8c50-58e24f317920)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：做政治试卷，是我这辈子，说谎最多的时候。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=10e1b1ca-30b1-4508-97b3-878a5e794178)

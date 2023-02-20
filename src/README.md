@@ -47,3 +47,9 @@ tagline: 你可以在这里放置你的口号与标语
 - **随机毒鸡汤**：我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=85833660-adb0-483f-bfd8-c05accfcdbf1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：凡是你想控制住的东西，其实都控制住了你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a9283ad-3054-433e-ab30-ab7cfc0cac5a)

@@ -181,3 +181,9 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 - **随机毒鸡汤**：离远一看长发飘飘，走近一看虎背熊腰，转身一看卧槽黑山老妖。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=595c867b-e1e8-4864-9654-930d259cac75)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：睡觉前吃宵夜，这样才不会做饿梦。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7002f438-8dcd-4f16-8f0e-9698a14cb0ab)

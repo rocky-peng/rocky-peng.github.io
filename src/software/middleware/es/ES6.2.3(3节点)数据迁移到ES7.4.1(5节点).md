@@ -403,3 +403,9 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 - **随机毒鸡汤**：每天都要开开心心的，这样，你就是个开心的废物了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6db149c4-1aa8-4ab1-a457-895b16f66654)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：居然真的有男孩子愿意，凌晨跑来送我想吃的东西，就是配送费贵了些。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=059e02c0-0d99-4850-affb-687a898a893a)

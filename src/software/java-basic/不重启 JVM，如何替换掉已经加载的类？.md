@@ -233,3 +233,9 @@ public class AttachMain {
 - **随机毒鸡汤**：别羡慕别人的特长，你也有，你反应弧特长。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7728eb9c-ffed-4867-932d-6ee6c4325f06)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我一看书就爱打瞌睡，因为书是造梦的地方。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fed893c5-3419-45f1-8301-d1408af4c1b1)

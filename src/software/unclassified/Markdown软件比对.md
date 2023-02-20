@@ -52,3 +52,9 @@ date: 2023-01-03
 - **随机毒鸡汤**：你凭什么以为，你读书十几年就能，比得上别人几代人的努力？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c16611e5-3ca5-4f33-8f0d-f5ac1ea439c2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：攒了一年头皮屑，只为给你下场雪。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=45071a89-3ff4-4c14-9597-fe6b4ebbf53c)

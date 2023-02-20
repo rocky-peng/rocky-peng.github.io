@@ -34,3 +34,9 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 - **随机毒鸡汤**：所谓土味情话，长的好看说的都是情话，长的丑说的都是土味。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=84c05298-3328-4ecb-8d53-3640a7c8820d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：今天下决心做个废物，可没想到这行的竞争，竟如此激烈。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ffd1835b-5d5c-46ed-b76d-0a5fb77956e5)

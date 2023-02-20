@@ -339,3 +339,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：失败的尽头是绝望，努力的终点是过劳。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4ba2c2a0-83fc-4c89-a879-4ab171d2c536)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：天生我材必有用，即便是废材，也能起陪衬的作用。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eb43e800-e160-4486-873d-bc52718984cb)

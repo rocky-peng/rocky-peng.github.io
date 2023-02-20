@@ -22,3 +22,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 - **随机毒鸡汤**：十倍速亲近你的人，会在未来某个时刻，十倍速离开你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3db59e59-8928-4cb3-b5c0-5e853239a4df)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：开车我最讨厌两种人，一种是喜欢加塞的人，另一种是不让我加塞的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a369a4fd-0f59-407a-a1f2-6eb87e9f93ec)

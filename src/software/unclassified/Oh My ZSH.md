@@ -66,3 +66,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：以前上学是拿钱混日子，现在工作了，是在拿日子混钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7acfba2e-546b-4888-b208-d509ebb2e0de)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：马云成功跟长相没关系，姜尚成功跟年龄没关系，而成功跟你没关系。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2b39f11b-f1b7-4fad-a31b-8ecb6d5f74db)

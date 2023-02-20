@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：即使三分钟热度，也认真了180秒。
+- **随机毒鸡汤**：有时候狐朋狗友才最纯，很纯粹的只是想要你的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=34a0b4e0-3e1d-409f-a5cd-631a3f90184f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=157e496f-a65c-4d98-ab08-2fbd6cf9a58d)

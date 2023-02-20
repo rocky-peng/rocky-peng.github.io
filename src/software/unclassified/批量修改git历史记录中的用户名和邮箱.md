@@ -53,3 +53,9 @@ git push --force --tags origin 'refs/heads/*'
 - **随机毒鸡汤**：每天都在勤勤恳恳地，思考一个问题，怎样才能不劳而获？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=13bfa90d-9bf1-447d-89ab-76dd540410fa)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：解释这个东西，让我看起来像个罪人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=42cdd2ec-83c5-4bcf-8637-bb0f9b0c2497)
