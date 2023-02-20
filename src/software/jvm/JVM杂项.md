@@ -442,3 +442,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：两个人吵架，打他是解决不了问题的，但是解气啊。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ef126b80-cd51-4a0d-9e77-c0a503925808)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不给别人添麻烦，就是我对这个社会，最大的贡献。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0c0c5efc-cd80-4a95-aebf-5aa0873506eb)

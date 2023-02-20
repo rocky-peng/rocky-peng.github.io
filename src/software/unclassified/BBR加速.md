@@ -34,3 +34,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 - **随机毒鸡汤**：脸大的人一般脾气都超好，因为脸大，翻脸真的很辛苦。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d99f7fbc-0bfb-4699-804b-bfd4bcaf9019)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：以前过年就图个热闹，现在就想图个清静。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=978dfebc-bd75-4884-b2e6-31a1801b6697)

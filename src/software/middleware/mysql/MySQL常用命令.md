@@ -542,3 +542,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：淡泊名利说的好听，没有名利，哪有淡泊。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1eb8386b-413a-4593-89b9-0b68d1c218ff)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你以为最酸的感觉是吃醋吗？不是，最酸的感觉是没权吃醋。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8aff22a0-5636-4eac-b2f1-e92f311ddb98)

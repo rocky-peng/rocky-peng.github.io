@@ -245,3 +245,9 @@ public class AttachMain {
 - **随机毒鸡汤**：我真的挺羡慕你的皮肤，你说你是怎么能，把它保养的那么厚呢？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a5630ec6-537a-4f91-bef4-83949daf193d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：多希望我的脂肪，能像朋友一样，不知不觉就没了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d238ad7a-d1c2-4d5f-bd9c-6a2033c90d45)

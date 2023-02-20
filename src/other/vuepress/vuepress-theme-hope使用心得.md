@@ -23,3 +23,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：打工人心情不好的时候，骂公司总是没错的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a36a1e81-9613-423f-b0f8-6f73462378d7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：所谓陌路，就是最初不相识，最终不相认。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=48882617-5c19-46d4-aa99-d8c91e10de9b)

@@ -64,3 +64,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：我爸开法拉利，我妈开玛莎拉蒂，我开玩笑。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6798e668-3518-49cb-9050-57619a9c6576)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要去追一匹马，用追马的时间种草，来年春天会有一批骏马到来。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=363312ec-649c-4f0c-962b-ea38de257ed0)

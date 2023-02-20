@@ -58,3 +58,9 @@ date: 2018-08-05
 - **随机毒鸡汤**：吃货的思路是，好吃你就多吃点，不好吃多少也要吃点。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=821a2b0d-8e66-483f-b06e-80fe9b4721d5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：乖别担心，恋爱都轮不到你，肺炎怎么会轮到你？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=660a7aa9-fda9-4256-99ad-3ad65782aff1)

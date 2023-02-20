@@ -397,3 +397,9 @@ s
 - **随机毒鸡汤**：不要随便吃垃圾食品，否则越吃越上瘾。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d10784fd-ecd8-47bc-8147-765278a8b07c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：运气这种东西，踩踩大便就来了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3237c9d2-6dc2-4729-a06d-fbad8f3b221b)

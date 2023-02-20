@@ -32,3 +32,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d592c475-f944-4fe8-b719-b236ef6c06fe)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：没人能笑着走出男友的手机，如果能，他一定还有一部。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2ffd3d7b-f319-40d2-a2a3-63cadb793fec)

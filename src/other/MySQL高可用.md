@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候认为自己是白雪公主，现在也差不多，是白学公主。
+- **随机毒鸡汤**：哪有那么多烦心事，还不都是自己蠢出来的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=83902901-8f86-4e53-89fa-4b8db430a272)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0070c25d-1b93-473b-8ac5-cb1e32d9adbc)

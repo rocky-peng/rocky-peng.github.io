@@ -22,3 +22,9 @@ article: false
 - **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5890c442-a387-43ce-82c5-bdd1157720fb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我不是那种落井下石的人，我是直接把井封了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7f5b9e8e-7efd-425a-aea3-1b490e00b367)

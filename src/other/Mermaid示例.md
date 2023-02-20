@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你喜欢什么样的男人？我喜欢笑起来会发光的男人。你是说如来吗？
+- **随机毒鸡汤**：不是因为看到了希望才坚持，而是因为坚持了，才知道没希望。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=10791a40-ef7c-4155-914e-e64a1cd60214)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e1fd1ee7-1247-49d0-bf77-1a6ad4d7317b)

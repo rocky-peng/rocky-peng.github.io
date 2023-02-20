@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果你特别迷恋一个人，那么你一定配不上他！
+- **随机毒鸡汤**：还好没有对象，不然这么冷的天，还要拿手机出来回信息。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9d5acb12-4206-4c9c-b90a-5ebc21bb3fd5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=047435ef-be6a-4aaf-80fb-3b897fe7429c)

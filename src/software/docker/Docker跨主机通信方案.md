@@ -128,3 +128,9 @@ docker run -itd --name t4 centos
 - **随机毒鸡汤**：不要太在意别人的看法，不然你会发现 ，他们的看法都是对的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8db198c5-4f77-451c-b812-1fa0ea4ada46)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一个成年人是不会挑食的，他们会说，我对这个过敏。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=978f707b-399d-4b98-8c52-d33b42435fe5)

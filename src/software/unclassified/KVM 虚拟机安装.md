@@ -323,3 +323,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：别去劝一个执意要吃屎的人，不然他不但不会感谢你，还会以为你要和他抢着吃。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f4651731-bb45-4f8d-a689-5b6351d5c5cb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要把希望寄托在别人身上，也不要让别人，把希望寄托在你身上。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3e85ab83-b59d-4414-97f1-32692125e7e2)

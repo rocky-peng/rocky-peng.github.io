@@ -21,3 +21,9 @@ article: false
 - **随机毒鸡汤**：现在的年轻人，都是废寝，没有忘食。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=92387b46-5bb7-4a7e-aa7e-ce39b0fd254c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：忍无可忍，就重新再忍。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=201ac0d8-fd22-4091-a885-5607415b37e2)

@@ -64,3 +64,9 @@ date: 2023-01-03
 - **随机毒鸡汤**：失败乃成功之母，没人会一直失败，只是多感受了一点母爱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4518b8b1-e2ae-45be-b787-dd2d76c4b3b4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：长得好看还能吃的叫吃货，长得不好看还能吃的叫饭桶。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ed7c91c2-c779-4e29-84e0-b3e1d93135a9)

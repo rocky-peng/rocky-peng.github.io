@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：昨天我去看心理医生，医生说我不是抑郁症，我是真的惨。
+- **随机毒鸡汤**：只要你想要而只要我有，不管什么，老子都不会给你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2d519674-d922-4797-8dd0-7d86a12e0266)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bb61d6be-ca5a-445d-84f9-9ea865fbb4b4)

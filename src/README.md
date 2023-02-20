@@ -59,3 +59,9 @@ tagline: 你可以在这里放置你的口号与标语
 - **随机毒鸡汤**：丑不要紧，用你的言谈举止让别人明白，你还是一个没有内涵的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1aa8a415-593f-40ca-a74b-ba4cf3594d45)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：带了口罩才知道，自己的嘴有多臭。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6dac0bb5-0669-4fe8-ac83-899b867d3b14)

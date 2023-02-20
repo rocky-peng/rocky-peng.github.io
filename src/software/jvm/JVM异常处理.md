@@ -126,3 +126,9 @@ import java.lang.reflect.Field;
 - **随机毒鸡汤**：请不要对我发誓，我怕你被劈死。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a4640e1c-2fbd-4e03-86a0-5aed9e589e90)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上本没有路痴，建的路多了，就有了路痴。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61bcee87-d9f2-41d4-b147-a40319d54f72)

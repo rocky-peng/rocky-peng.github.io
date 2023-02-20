@@ -177,3 +177,9 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 - **随机毒鸡汤**：2019年是不是感觉白过了？没关系，明年可能也是。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d6fed596-9a05-4c5c-8630-9f33305ef3ad)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：比起被人左右情绪的生活，我更喜欢无人问津。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=89ea4409-3e52-432f-af09-7736c8b61a05)

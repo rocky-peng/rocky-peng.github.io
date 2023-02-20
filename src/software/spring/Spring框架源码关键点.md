@@ -380,3 +380,9 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 - **随机毒鸡汤**：信就信，不信就不信，还TM整个微信。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e79fd5ad-634d-45c2-9a79-b00ce7e29046)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：小时候写作文都是扶老人，现在想想，我当年胆子真大啊！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6509487d-c12c-492f-9d04-5b1c681364f3)

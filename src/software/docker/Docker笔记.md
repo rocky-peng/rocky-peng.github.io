@@ -75,3 +75,9 @@ docker load -i xxx.tar
 - **随机毒鸡汤**：谈恋爱就像开车，爆胎后新司机只会打电话哭，老司机换上备胎就继续上路。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0649e70-7396-4633-81c9-07fc97aea486)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你只知道人家化妆比你好看，却不知道她们卸了妆，还是比你好看！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=699d3e40-590b-4f8b-8118-eced8f3d61a3)

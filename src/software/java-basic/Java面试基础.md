@@ -255,3 +255,9 @@ public interface Lock {
 - **随机毒鸡汤**：既生瑜何生亮，既生美食何生脂肪。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0de0e564-a75b-4817-ac28-dab6e97cc1cd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c41b5abc-09cd-4883-99ce-f893bdf6dff9)

@@ -150,3 +150,9 @@ gantt
 - **随机毒鸡汤**：如果我是一只蝴蝶，我会有一个美丽的名字，—沃斯尼蝶。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=673c5230-a56d-40ff-849e-c64ce615836d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：愚人节都没人表白，那就真的没有了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=edb52873-c524-47c4-ae1a-4aa42bcb6770)

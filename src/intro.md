@@ -23,3 +23,9 @@ icon: info
 - **随机毒鸡汤**：忍一时风平浪静，怂一时平平安安。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e1bf222b-8022-44e7-9441-bc084def3ed4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：以后要对女朋友好一点，毕竟她已经瞎了，不能再受伤害了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2321fe74-ec60-45cb-a204-e00b81642870)

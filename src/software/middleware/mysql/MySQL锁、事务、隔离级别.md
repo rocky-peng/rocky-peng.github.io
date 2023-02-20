@@ -480,3 +480,9 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 - **随机毒鸡汤**：我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=32421d67-d47c-4a75-9836-77f581aa6a34)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：是好久不见，还是，视而不见。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f70210fe-70c6-4899-914c-9f52194a8b49)

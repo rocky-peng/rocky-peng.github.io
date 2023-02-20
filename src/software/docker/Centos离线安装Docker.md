@@ -99,3 +99,9 @@ systemctl start docker
 - **随机毒鸡汤**：世界上最动听的话，不是我爱你，而是你的肿瘤是良性的！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=97dc0f7f-45cf-4e24-9fb9-2f9513bd6790)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果这辈子你没得罪过人，那么恭喜你，说明你这辈子没干成什么事。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01106987-98b8-4fc8-9fb1-a2372cb5e9fb)

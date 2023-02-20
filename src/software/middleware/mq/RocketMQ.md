@@ -22,3 +22,9 @@ date: 2021-09-01
 - **随机毒鸡汤**：人生如歌我跑调，人生如戏我穿帮，人生如梦我失眠。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=48592991-71c7-4f49-8ce4-60b94d6c9f47)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=71e4cbbd-fce8-43cc-b8b6-5c58cc03ce5d)

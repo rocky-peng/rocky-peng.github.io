@@ -52,3 +52,9 @@ RpcServer:
 - **随机毒鸡汤**：我有千百个想见你的理由，却缺少一种能见你的身份。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f3cabbe-a424-458b-9906-b978832917e0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：宅家想剪头发怎么办？打开窗户，二月春风似剪刀。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=723c8df8-d83c-4e74-b3ee-2b58cb14b73b)

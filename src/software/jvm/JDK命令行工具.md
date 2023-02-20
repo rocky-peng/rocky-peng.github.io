@@ -314,3 +314,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：兴趣是最好的老师，其次是耻辱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=762133ed-b314-4956-a2bc-1c5d540e11f0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：明知不可为而为之，是我对这段感情，最大的诚意。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5527e5dd-4166-4abd-a604-17bbe1f0c876)

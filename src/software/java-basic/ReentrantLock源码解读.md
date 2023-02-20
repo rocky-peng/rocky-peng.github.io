@@ -170,3 +170,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：以前以为是命不好，才会遇到你们，现在发现是你们命不好。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=93eb175f-7d25-4ed1-80d0-0198661eb80b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你以为浪子回头金不换，其实浪子可能只是，上岸缓一缓。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=de02eca5-c3ed-4c53-9b46-6b96d28d9e57)

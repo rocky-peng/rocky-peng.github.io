@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：兴趣是最好的老师，其次是耻辱。
+- **随机毒鸡汤**：小时候认为自己是白雪公主，现在也差不多，是白学公主。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b568379a-8c00-4705-b15d-04719de20555)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=994f90f4-77a3-418b-8b09-4c3f7197bfa6)

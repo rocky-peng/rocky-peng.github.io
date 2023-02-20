@@ -351,3 +351,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：从小爸妈教我做善良的人，后来遇到很多人，我希望他们有爸妈。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9c9af73d-7b85-4a5d-9714-aab71722c2c2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：富有的人，并没有我们想象中的快乐，而是我们想象不到的快乐。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1085a8d1-6311-4bba-a22a-575722d4d8ec)

@@ -117,3 +117,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 - **随机毒鸡汤**：一段感情谁先认真谁就输了，对于作业，我可从来没输过。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=679efe85-3d2c-4a20-87d2-a6903d2048fc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有时你会觉得自己就是个SB，别灰心，至少感觉是对的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d4121c78-9af9-43b3-97e4-a8c938c3fd0d)

@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：父母说早恋会影响学业，爸妈我对不起你们，我考不过那些早恋的。
+- **随机毒鸡汤**：明白的事越来越多，期待也就越来越少。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=11fa4c56-3e2a-4347-a138-a803b646dc97)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3d206872-7607-4515-bb55-c07e67aaa3e0)

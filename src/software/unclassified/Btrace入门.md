@@ -201,3 +201,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：你没有遇到更好的人，是因为，你没有变成更好的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=330157c9-fa3f-450b-9736-156f735dbd57)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要选对了人生的方向，很容易就成功了，让我们恭喜只要和很容易。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5a6b2755-c34a-49c6-b8fa-44eebdcecb4c)

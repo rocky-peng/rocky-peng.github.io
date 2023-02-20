@@ -20,3 +20,9 @@ date: 2017-03-17
 - **随机毒鸡汤**：其实人们并不是怕失去，只是怕失去之后，没有替代品。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=44241df8-f210-42d6-8a3f-f1479cb71977)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：握不住的手，还是趁早放开吧，那也太胖了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8d6a3a77-33c1-4352-a857-70d03d363b0a)

@@ -159,3 +159,9 @@ InnoDB支持的索引
 - **随机毒鸡汤**：跟你在一起，苦一点我也愿意，苦很多就算了吧。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bc665ee4-639f-4f13-a3ed-f4e7a5597ff8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：班上有位女生，至今都没有出现过，她名叫安静。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=32b1730f-0ca8-42ea-a33f-65f8ac31d1e0)

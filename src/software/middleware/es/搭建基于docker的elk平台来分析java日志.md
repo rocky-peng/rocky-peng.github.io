@@ -543,3 +543,9 @@ sudo /etc/init.d/filebeat stop
 - **随机毒鸡汤**：世界是属于90后的，也是属于00后的，但最终还是属于脸皮厚的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=63958f72-5517-40ae-96e9-bf6f95532c14)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：因为不够幸运所以要努力，也因为不够幸运，所以努力都只是白费。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fe62b537-3202-4f80-a89b-706c911fe141)

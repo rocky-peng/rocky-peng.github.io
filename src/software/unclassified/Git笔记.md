@@ -52,3 +52,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：只要你坚持不懈的，去追你喜欢的人，总有一天你会被他拉黑。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=18fefcd5-a0a6-4609-8292-7d6366fa0f7b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上本没有贫穷，富的人多了，我就变成了贫穷。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c73f370d-e558-4268-a61d-6e5cab15a7de)

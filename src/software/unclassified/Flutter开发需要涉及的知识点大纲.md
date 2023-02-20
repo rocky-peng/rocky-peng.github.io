@@ -45,3 +45,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：我不是穷人，我只是个价格敏感型消费者。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ee555e6a-8681-4975-87a9-ddccfeb9b7ec)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：对你竖大拇指的人，不一定是在夸你，也可能是用炮在瞄你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c6fe887-3d78-4c33-ac99-2ab9ba226c8a)

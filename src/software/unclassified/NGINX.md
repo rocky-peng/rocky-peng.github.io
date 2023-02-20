@@ -82,3 +82,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：答案真可爱，你看它总是 略略略略略 的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b84da82d-cde8-4917-82af-7ec1c172076a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：被忽视是因为，自己还没有优秀到，不容忽视的地步。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4301c112-2aea-489b-94b7-451fda3e6de6)

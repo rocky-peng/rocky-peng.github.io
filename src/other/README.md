@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要怪别人以貌取人，毕竟心太远，脸就在眼前。
+- **随机毒鸡汤**：在知识的海洋里，你竟然是一条淡水鱼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6252f364-fda0-4c95-8673-41d8f81796dd)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d2f65b55-1a3c-4bb4-850c-469628aeb2df)

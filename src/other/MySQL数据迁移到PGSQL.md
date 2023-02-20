@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：目前最大的烦恼就是，经济实力跟不上审美能力。
+- **随机毒鸡汤**：考个好点的大学，这样一来肯定是，捡垃圾里文化最高的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a52cd301-895f-4567-9df0-66db47b85cee)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9fb6b36c-4aec-43de-9931-54ec1683e333)

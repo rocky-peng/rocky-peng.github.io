@@ -46,3 +46,9 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 - **随机毒鸡汤**：你以为打喷嚏是有人想你吗？那只是一个单身狗，感冒的前兆。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=250bbdbd-51d3-482d-a8d3-5c94526fb7d4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：请相信我，我所说的每句话，都是废话！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5f1dfdd6-47f9-4107-bdf0-b116ca99d0d0)

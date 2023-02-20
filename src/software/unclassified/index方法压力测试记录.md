@@ -120,3 +120,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：努力了这么久，但凡有点儿天赋，也该有些成功的迹象了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1dc3969d-b731-4664-af49-4d5668cfa543)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我对你要求不高，能跟我其他对象，和睦相处就好咯。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2a08dbe9-39cd-4c9c-9751-13256d8f01ff)

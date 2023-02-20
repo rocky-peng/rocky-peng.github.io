@@ -226,3 +226,9 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 - **随机毒鸡汤**：复习的意义就是，再次确认，你是真的不会。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c93e3315-29ae-42fd-a2dc-c2e3b47987e4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：希望我的体重，像我的成绩一样，直线下降。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8dae4176-d39b-427b-8eec-6888611a5250)

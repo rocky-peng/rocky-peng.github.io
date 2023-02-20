@@ -115,3 +115,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 - **随机毒鸡汤**：试着去了解那些你讨厌的人，你会发现，真是越看越讨厌。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6c1a4d44-a8be-4a0d-b677-00800c1dda09)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：好看的皮囊特别贵，有趣的灵魂特别丑。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2b186b9f-9318-4499-ae9a-78454d2688ac)

@@ -838,3 +838,9 @@ es				1.6.0-2.1.0
 - **随机毒鸡汤**：最新娱乐圈的瓜，可以用六个字形容，她代了他没戴。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=27a93b6f-37a6-47c4-ab58-d999c73ba892)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：作为失败的典型，你实在是太成功了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b350dff3-42a6-4f74-bb34-a87e09683317)

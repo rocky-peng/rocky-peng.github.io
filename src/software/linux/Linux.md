@@ -123,3 +123,9 @@ ntpdate 时间服务器ip
 - **随机毒鸡汤**：现在的停车场设计得像迷宫，每次都要找好久，才能发现自己没有车。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=89bad79d-0119-4fa3-8032-eaa9698fc1c9)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一天不玩手机，人是不会死的，命还在但是魂丢啦！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=56b4368a-7c2c-4b24-86eb-76d8828a0e0a)

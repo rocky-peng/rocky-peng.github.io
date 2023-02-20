@@ -21,3 +21,9 @@ article: false
 - **随机毒鸡汤**：失败也是成功的一部分，在哪里跌倒，就在哪里讹人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c0a3b845-f56f-41c6-80c8-eaa23b0bd5ec)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：靠运气赚来的钱，最终都会凭实力赔走，直到财富与认知匹配为止。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d51f3c68-fba2-4af7-8e9e-b95af3a5f7ea)

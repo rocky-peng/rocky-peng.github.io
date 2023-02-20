@@ -515,3 +515,9 @@ static final class Node {
 - **随机毒鸡汤**：遇到你之前，我的世界是黑白的，遇见你之后 哇靠 全黑了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d4ae088-215b-4210-bd88-f1178324572b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：由于性格太内向，一直做不出，抢着结账这种事。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=72bde5dd-6f85-4db8-ae0d-a50fba706fdb)

@@ -35,3 +35,9 @@ Memory Analyzer TOOL
 - **随机毒鸡汤**：借钱见人心，还钱见人品。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=84acf3cb-ddaf-4bd9-8470-88e2d2098cc4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你不觉得每天洗澡，就像在给蚊子洗菜吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=aff8e49d-c85d-48f8-9f78-da5d66ba07c0)

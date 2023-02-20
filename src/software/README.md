@@ -22,3 +22,9 @@ article: false
 - **随机毒鸡汤**：考试就像雪碧，考前心飞扬，考后透心凉。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9b3ea72a-5dbe-4fa9-a7d5-ff92e522416f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：今天是除夕夜，来来来，给你夹块你最爱吃的天鹅肉。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a869d749-8b99-4743-9f4b-7d87d25d289d)

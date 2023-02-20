@@ -22,3 +22,9 @@ article: false
 - **随机毒鸡汤**：原以为生命是个奇迹，实际上你只是个劳动力。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b62fa81f-81a8-430b-9e86-e72ac44aca5d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：遇到解决不了的事，先放一放，过几天就会忘记的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ec9ec332-8642-4e5a-bf0c-a26a12967831)

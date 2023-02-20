@@ -21,3 +21,9 @@ article: false
 - **随机毒鸡汤**：解释这个东西，让我看起来像个罪人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=89935c66-8f33-4059-a96a-907f3727cc5c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：忍一时风平浪静，怂一时平平安安。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a6e3bc7-a3db-4070-b7c7-d775001b41e2)

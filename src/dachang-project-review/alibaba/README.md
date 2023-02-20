@@ -21,3 +21,9 @@ article: false
 - **随机毒鸡汤**：别总是对我忽冷忽热，不然我会感冒的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1a861d54-c638-43b1-bb92-b45ce740ff3d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你连几点睡觉，都控制不了，你还想控制人生？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3dd63cd2-1d1f-45a4-885c-48714384abb4)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所有的故事都会有结局，只有生活跟你没完。
+- **随机毒鸡汤**：做人当如咸鸭蛋，闲的冒泡，富的流油。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2e0875db-5d04-458f-96b0-967136dab0a5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4f076ace-54ef-4727-8e48-e38d59c8eeba)

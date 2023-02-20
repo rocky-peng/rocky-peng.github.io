@@ -825,3 +825,9 @@ print _message
 - **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3f64fbae-4ce1-4807-a756-66f400e113bd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：承诺这东西，听的人记住了，说的人早忘了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f8fc1ec-bb61-43c5-8f9c-5795427d2bf6)

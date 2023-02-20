@@ -21,3 +21,9 @@ article: false
 - **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f31d5c7e-90ec-40f7-a60f-54d984ca06bb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我不是矮，我只是离天空比较远。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6cdc4ccf-7f03-4bdb-b0ec-d4f769fe1172)

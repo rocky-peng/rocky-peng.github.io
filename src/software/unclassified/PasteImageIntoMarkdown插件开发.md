@@ -54,3 +54,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：你现在的生活，也许不是你想要的，但绝对是你自找的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1fd8400b-1cb0-4e4f-87bf-de52e069ee53)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：对就是对，象就是象，对象是什么意思？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=adf5602c-2ccf-4aca-856b-8cb4807f5727)

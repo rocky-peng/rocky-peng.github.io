@@ -147,3 +147,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：什么岁月静好，你特么就是懒。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fc7dc0ec-0ab1-4a82-aa80-75ef0400ae6f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：曾经以为三十岁很远，不料现在，十八岁已是很久以前。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5e608ddf-9247-42f4-ba5d-4993f031e291)

@@ -40,3 +40,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：心想事成的诀窍是，只想能成的事。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=27b51297-eb4e-4922-a933-06d2a4abe128)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：两只小蜜蜂飞在花丛中，飞的高的对低的说，你个low bee。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4fa1e4fb-e575-484d-966b-0fe023134eea)

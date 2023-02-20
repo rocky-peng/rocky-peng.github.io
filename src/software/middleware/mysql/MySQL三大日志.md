@@ -240,3 +240,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：答案真可爱，你看它总是 略略略略略 的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=21916025-dd3b-4bc4-912f-964da4f0a118)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：没有人能使你放弃，因为你只要努力一下，就会自己放弃了！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cc647eb5-95a3-45ba-b3bf-2f40345c47b6)

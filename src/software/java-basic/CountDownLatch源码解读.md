@@ -109,3 +109,9 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 - **随机毒鸡汤**：有钱人的生活才叫生活，你那儿，只能叫做生存。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=aa5f1979-179a-4dce-bbc0-a23a0ae3a7c1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要我用精神胜利法，就永远不会失败。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bf36566f-6f72-47d0-9569-f919ccd19394)

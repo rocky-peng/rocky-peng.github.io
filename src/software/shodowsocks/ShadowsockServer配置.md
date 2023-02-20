@@ -49,3 +49,9 @@ EOF
 - **随机毒鸡汤**：你为什么这么努力？因为再不努力，就要回家继承家产了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=90167516-d71b-4ac2-8e55-5837fc7824f0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：穷人和普通人都叫啃老，富人叫继承家业！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=da399342-f176-4955-9992-ead30f22516b)
