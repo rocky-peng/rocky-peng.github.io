@@ -31,6 +31,6 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：太久没牵手了，拿个泡脚凤爪，都觉得温柔。
+- **随机毒鸡汤**：所谓土味情话，长的好看说的都是情话，长的丑说的都是土味。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a9da7a12-b656-4ebc-86c4-5b01bf94aac7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=84c05298-3328-4ecb-8d53-3640a7c8820d)

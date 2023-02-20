@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你能在浪费时间中获得乐趣，就不是在浪费时间。
+- **随机毒鸡汤**：我连名牌都不认识几个，有时候，别人在炫富我都不知道。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9e090802-ca0b-4d02-967c-c8e5fb2c8c54)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=41c970ec-a64a-4791-afae-66bfa291d5e3)

@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不怕变成自己厌恶的人，我怕过得还不如他们。
+- **随机毒鸡汤**：十倍速亲近你的人，会在未来某个时刻，十倍速离开你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5f8e641c-a852-4122-926a-b80396016929)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3db59e59-8928-4cb3-b5c0-5e853239a4df)

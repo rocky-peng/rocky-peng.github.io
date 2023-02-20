@@ -5,6 +5,6 @@ date: 2017-03-17
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：穷人的世界我真的不懂，这可能就是所谓的，当局者迷吧。
+- **随机毒鸡汤**：没有人能使你放弃，因为你只要努力一下，就会自己放弃了！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7c5c8686-8749-4b95-812b-33c5a7fc8fd3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6e759678-1421-41a7-beed-58223de32f05)

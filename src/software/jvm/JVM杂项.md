@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我永远不会离开你，这是多么美好而忧伤的谎言。
+- **随机毒鸡汤**：有人考试靠实力，有人考试靠视力，尼玛我考试靠想象力！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1f9bfef1-fe32-4447-81ca-9d2ac69c9507)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fd2b98e9-93e9-44dd-a017-ef9fb2dca395)

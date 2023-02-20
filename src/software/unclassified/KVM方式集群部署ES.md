@@ -132,6 +132,6 @@ date: 2020-04-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：健身卡办了半年都没瘦，我要不要亲自去一趟？
+- **随机毒鸡汤**：以不变的薪水，来应万变的物价。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=04904d0a-90ae-4067-a36e-62b7f8133587)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8d56892f-e45a-4a1b-88cc-558dd4ef0a74)

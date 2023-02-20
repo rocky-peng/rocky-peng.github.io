@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要我每天，都坚持说风凉话，这个夏天就不会热。
+- **随机毒鸡汤**：爱情最大的悲哀就是，玩着爱自己的人，爱着玩自己的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dbf3fc41-a446-4e3c-8a7b-b1fbd9dc39af)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=297169ef-2862-47e3-b074-f22d9bae483c)

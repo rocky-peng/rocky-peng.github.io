@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：春风不度玉门关，我佛不渡铁憨憨。
+- **随机毒鸡汤**：你以为浪子回头金不换，其实浪子可能只是，上岸缓一缓。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d5785a21-4b84-4583-9550-319cbb8f7a7e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7b0e7289-ebc7-4461-9c7c-09dedee1341b)

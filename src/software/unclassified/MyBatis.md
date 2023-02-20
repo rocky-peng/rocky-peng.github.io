@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：叫醒我的不是诗和远方，也不是眼前的苟且，是快递小哥。
+- **随机毒鸡汤**：每次考试都认真反思，到最后发现，我写检讨的能力变好了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0c78e04d-7c33-4706-ad04-cecd65008228)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ca098d2-b0d3-43cb-88c5-0a492f3e22fc)

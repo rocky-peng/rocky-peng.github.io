@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有时候觉得自己像深海鱼，长得丑压力大，前途一片黑暗。
+- **随机毒鸡汤**：猛的一看你不怎么样，仔细一看，还不如猛的一看。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7b258c46-7e7d-4ff2-ac1b-17dcf2669b34)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=388122a9-336f-4e6a-99bd-6e3ddaa8916d)

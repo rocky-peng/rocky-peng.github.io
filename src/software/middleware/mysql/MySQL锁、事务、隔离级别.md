@@ -465,6 +465,6 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：喝酒一时爽，一直喝一直爽。
+- **随机毒鸡汤**：学好数学不能帮你买菜，但能决定，你在哪个菜市场买菜。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=da2b6970-5dab-4ec4-a292-31c798723678)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ae7f3318-e141-42b6-a0ac-86729f9e8335)

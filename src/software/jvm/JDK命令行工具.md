@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别羡慕别人的特长，你也有，你反应弧特长。
+- **随机毒鸡汤**：我对你的所有不舍，都是因为不甘心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6a551092-bae2-4c67-b926-bd96002857aa)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8af49ae3-13e7-47cf-a6a9-799d407624c4)

@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：太阳别再晒黑我了，晒黑爸爸妈妈的头发吧。
+- **随机毒鸡汤**：我军训过了，请不要再叫我单身狗，以后请叫我军犬。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=08a42c63-90a9-433e-a63e-9171640def03)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=de1418db-3b52-40de-b141-a88b8368ed23)

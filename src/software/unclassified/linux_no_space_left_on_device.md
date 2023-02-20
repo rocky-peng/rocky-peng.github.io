@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有钱时败家，没钱时拜神。
+- **随机毒鸡汤**：有些温暖，就像马桶上的余温，让人不爽。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d6ed83a8-e2b1-4218-acf6-c5b211129715)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1c4ce96a-cbce-4813-b184-6744c14e39ad)

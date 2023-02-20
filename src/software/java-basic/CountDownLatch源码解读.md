@@ -94,6 +94,6 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：古有照妖镜，今有卸妆水。
+- **随机毒鸡汤**：每天叫醒我的不是闹钟，而是膀胱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e9d771e6-6ef0-470a-ad1b-0fc35f406c28)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=05632db9-2e9e-47aa-b497-af78b6114855)

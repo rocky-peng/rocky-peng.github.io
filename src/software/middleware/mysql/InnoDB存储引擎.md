@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我爱过疯过傻过，执着过坚持过，到最后还是我一个人过。
+- **随机毒鸡汤**：离远一看长发飘飘，走近一看虎背熊腰，转身一看卧槽黑山老妖。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=466a2ae7-43f4-4b54-8dcd-4378498f98f9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=595c867b-e1e8-4864-9654-930d259cac75)

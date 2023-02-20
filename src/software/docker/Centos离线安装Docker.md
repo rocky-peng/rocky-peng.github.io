@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都说努力能变得更好，变不变得更好我不知道，说说还是可以的。
+- **随机毒鸡汤**：世界那么大，多在手机上看看。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=99b459b5-0271-49ed-9464-0edc0067da0f)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=341727a0-0e2e-4661-b164-dfa4d7f4c6b2)

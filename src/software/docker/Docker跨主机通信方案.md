@@ -113,6 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：遇到解决不了的事，先放一放，过几天就会忘记的。
+- **随机毒鸡汤**：愿你以后，有酒有肉有姑娘，姑娘丑的不像样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=054a36c9-9962-47ee-89ec-d5574da15b5a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4bb346cf-b088-43b3-a1f2-6f3a88d0acb7)

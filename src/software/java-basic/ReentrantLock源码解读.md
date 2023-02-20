@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：任何时候都要记得微笑，这会让你看起来，像个不能随便惹的神经病。
+- **随机毒鸡汤**：“你妹”是个好姑娘，替“你妈”分担了很多。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f7b19f6c-8d11-47d9-b309-e0d78b49dee5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=38910666-af62-4df2-85ce-b617655b08fc)

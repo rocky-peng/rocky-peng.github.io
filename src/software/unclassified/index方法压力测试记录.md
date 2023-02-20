@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。
+- **随机毒鸡汤**：我才不是舔狗，女神说了，我是她的犬系男友。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c5431754-ed80-49fa-9bea-cd8b7100fd6c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=017cc1e8-5722-45fd-8bf5-90b06a0b6bb1)

@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：练瑜伽之前我是个胖子，练瑜伽之后，我是个灵活的胖子。
+- **随机毒鸡汤**：富人孩子拼父母，穷人父母拼孩子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1c95b49d-97aa-4ef9-be47-372f400e862d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f9295a5e-d49f-4882-aca2-e5c0a1946bf0)

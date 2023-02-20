@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：遇到喜欢的人一定要表白，你丑没关系，万一他瞎呢。
+- **随机毒鸡汤**：时间就是金钱，我们要视金钱为粪土，所以时间就是粪土。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=15b46c5e-50ba-4899-ba6b-fc46d04f9ff5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=95fecdf5-ba0a-4c19-bbf8-eeed3df3fe78)

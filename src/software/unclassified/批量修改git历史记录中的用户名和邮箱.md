@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果我老了怎么办？那些广场舞都好难。
+- **随机毒鸡汤**：每天都在勤勤恳恳地，思考一个问题，怎样才能不劳而获？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0afbd2b9-f7d9-44ae-9402-7695c4607e3b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=13bfa90d-9bf1-447d-89ab-76dd540410fa)

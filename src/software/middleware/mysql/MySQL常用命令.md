@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：平时骂你就算了，非要等我打你，才知道我文武双全。
+- **随机毒鸡汤**：伤害你的，不是对方的无情，而是你心存幻想的坚持。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=063eed1e-b93e-45f4-acbe-feb038057e56)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a5c2c27a-e903-42f9-ac52-615fea9c6b81)

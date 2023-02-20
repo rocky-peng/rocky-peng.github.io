@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：早恋影响成绩，是一个很好的掩饰自己，没脑子学习的理由。
+- **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=23e6d3a4-a582-4504-bf6b-598ff3a69a0d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=473bd117-591f-4d02-8281-81d03e4e4d7f)

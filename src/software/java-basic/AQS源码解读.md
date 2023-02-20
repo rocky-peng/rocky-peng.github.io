@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
+- **随机毒鸡汤**：总有些人看不惯你，还格外关注你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0b46f0a-0e65-4471-9a3c-760ceedfc3db)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=04fbb6cf-503c-45a1-96d6-488b86f48f6e)

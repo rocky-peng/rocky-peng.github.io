@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：道理懂的比谁都多，混的比谁都惨。
+- **随机毒鸡汤**：别羡慕别人的特长，你也有，你反应弧特长。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fd615438-68fc-46c8-b526-8ff1c586a0bb)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7728eb9c-ffed-4867-932d-6ee6c4325f06)

@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：撕逼的最终目的，不是说服对方，而是气死对方。
+- **随机毒鸡汤**：昨天遇见小学同班同学，没想到他混的这么差，只往我碗里放了一块钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=65de9142-6df5-423c-8666-028685ec6356)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2dd05434-b46b-45a1-b135-689c8ab8acb9)

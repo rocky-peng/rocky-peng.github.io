@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你永远不会知道，你的哪个好友，会成为下一个微商。
+- **随机毒鸡汤**：很多父母不让娶的最终没娶，很多父母不让嫁的，最终都嫁了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ec84d87e-6594-4a2c-92d3-df812526ca88)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e1ca26e3-0165-4992-852e-ddefea9eb4a8)

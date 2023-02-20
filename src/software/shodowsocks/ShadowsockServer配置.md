@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：頭髮的流失，是梳子的強求，還是毛囊的不挽留。
+- **随机毒鸡汤**：学校教学楼放镜子，是为了让你知道，人丑就要多读书。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=af679f1b-72e0-4947-9efc-d43ae7773922)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e41c9407-fe3f-4fef-8ceb-c8258f3f3fe6)

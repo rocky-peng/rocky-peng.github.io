@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：长大这两个字，连偏旁部首都没有，一看就很孤独。
+- **随机毒鸡汤**：掐指一算，你俩要散。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1c5644ac-ad7a-4ccb-b3ce-7cdcef7d7bd3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=599764f4-ae76-45f4-90b9-8db007843385)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前是没钱买华为，现在是没钱买华为。
+- **随机毒鸡汤**：我从来不会脑残地，在网上晒自己买的名牌，因为我买不起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b6275bcc-7cc8-4321-8a25-bae369731271)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f7d2fde7-a017-4285-a5c2-b5443c761bc5)

@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要以为老天在折磨你，而事实上，老天根本就不在意你。
+- **随机毒鸡汤**：做好了叫勇敢，做错了叫冲动。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3af620be-f31e-44e4-8206-69efbbd0e0bd)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bac688ad-23da-4e4d-8c50-58e24f317920)

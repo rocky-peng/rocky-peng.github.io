@@ -162,6 +162,6 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要选对了人生的方向，很容易就成功了，让我们恭喜只要和很容易。
+- **随机毒鸡汤**：想当一个园丁，然后在你心里，种点B树。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d68ab8c0-f3fa-4646-b0be-cfa2e1a52575)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1cc527fe-8f47-4142-abcc-f50e3a0861df)

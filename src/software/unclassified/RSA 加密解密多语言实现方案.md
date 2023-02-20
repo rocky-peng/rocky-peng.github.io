@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：到不了的都叫做远方，回不去的名字叫家乡。
+- **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=133d1b08-a697-4957-98d2-10070b5505d2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ed91649-87de-4fc2-a9be-2fc55f5f9025)

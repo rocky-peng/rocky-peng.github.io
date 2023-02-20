@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你怎么长得跟个二维码似的，不扫一下，都不知道你是什么东西！
+- **随机毒鸡汤**：当智商高到一定程度，情商就没什么用了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0d2f2bd5-08ef-4fde-b4db-1d75973ac673)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7d5bd387-2daf-4444-ba6d-2e44b8b88aee)

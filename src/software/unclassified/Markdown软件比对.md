@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：手机玩时间长了，感到无聊就出去逛逛吧，你会发现还是手机有意思。
+- **随机毒鸡汤**：你凭什么以为，你读书十几年就能，比得上别人几代人的努力？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c08caa57-8d76-43bd-b6ef-96d2095a2ab8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c16611e5-3ca5-4f33-8f0d-f5ac1ea439c2)

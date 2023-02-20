@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：夜太美，尽管再危险，总有人黑着眼眶修着仙。
+- **随机毒鸡汤**：我就像是玻璃瓶里面的苍蝇，前途满眼光明，就是找不到出口。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7883bd75-eb75-4be5-9173-6703e04e4d34)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=109ad366-9e75-40a0-8248-d1b7a3abdf79)

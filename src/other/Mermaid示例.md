@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一日不读书没人看得出，一周不读书，智商堪比猪。
+- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8a9730f1-3596-4b27-ba94-0f5bfb8f1112)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0e97c833-d312-46f2-af64-444b021a6afa)

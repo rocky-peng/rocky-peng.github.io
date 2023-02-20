@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要觉得，自己每天都没有进步，你不是越来越懒了吗？
+- **随机毒鸡汤**：我从毕业到现在有两个亿，一个回忆，一个失忆。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=17cd339f-ca7a-4922-9802-8259ffe2cfc6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=383fbf41-5bca-4dd8-8877-0faf015b4a92)

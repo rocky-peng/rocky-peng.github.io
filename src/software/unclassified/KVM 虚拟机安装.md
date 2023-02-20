@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：手机用久了才知道，锁屏密码不是防陌生人，是防身边朋友跟亲人。
+- **随机毒鸡汤**：爱从不会消失，只会转移。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=363493d0-1da7-4a6b-b3c3-0f072c52e013)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=86f695e4-24c9-4f49-bab7-5794b04d6f3b)

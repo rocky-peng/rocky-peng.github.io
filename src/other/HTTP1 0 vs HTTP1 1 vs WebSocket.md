@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你坐过最挤的公交车是什么？只是路过，却被挤上了车。
+- **随机毒鸡汤**：英语听力总结，有些话只说给懂的人听。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4da6a138-5272-4162-819d-24c9540523a4)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b4f443ae-ae40-4edf-adba-a216126b465f)

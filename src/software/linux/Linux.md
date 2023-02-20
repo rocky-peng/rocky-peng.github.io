@@ -108,6 +108,6 @@ ntpdate 时间服务器ip
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在家上网课这些天，上帝给我安排了个神位，叫走神。
+- **随机毒鸡汤**：马上就要当学长了，可是学的不行，长得也不行。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7e8267b3-e8b0-4642-a191-c5fc6070163d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3c34a5fa-2910-428d-b81f-0de4dfcc93fe)

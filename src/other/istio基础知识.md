@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上班如上坟，别侮辱坟，上坟还有思念和敬畏之情呢。
+- **随机毒鸡汤**：我真的好怕别人怀疑我，因为他们都怀疑对了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=44cb5e87-ce61-436d-8c7e-4954ca45a6e3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fb5ab5d3-1ccc-4782-9a14-95b867f75bc5)

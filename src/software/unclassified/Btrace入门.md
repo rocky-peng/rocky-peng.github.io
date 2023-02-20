@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：也许你的爱情迟到了，但更有可能的是，出车祸了。
+- **随机毒鸡汤**：逃避解决不了问题，但是很快乐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4a37acad-9d29-409d-addb-de0120a83c10)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1b6c5c9d-4fde-4357-9451-551c4ed47995)

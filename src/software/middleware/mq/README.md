@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我能对你最好的祝福，就是参加你的每一次婚礼。
+- **随机毒鸡汤**：怎样保持珍贵的友谊？别找他借钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=be841e93-2128-4b03-a7fb-706d7e6871c3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=de14bcd8-f541-47b7-90c7-0028ca91e616)

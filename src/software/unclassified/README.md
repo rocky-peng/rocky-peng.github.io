@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我真是个败家子，上亿的家产，一觉醒来就没了。
+- **随机毒鸡汤**：所谓辉煌的人生，不过欲望的囚徒。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=775ec7f6-fbfa-4761-b1ea-3d5980172aea)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ede16320-eeea-44aa-97b1-e4029c7c7234)

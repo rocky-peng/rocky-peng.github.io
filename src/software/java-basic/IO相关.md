@@ -286,6 +286,6 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经以为三十岁很远，不料现在，十八岁已是很久以前。
+- **随机毒鸡汤**：疫情当前，少移动不联通，——中国电信。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=856bcf24-c7f4-4d76-ad39-56264a041b37)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3dae88d9-4dd7-4828-ac86-578cd77cfaed)

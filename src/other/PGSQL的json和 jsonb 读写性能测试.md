@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为了你好，是多么可怕的道德绑架啊。
+- **随机毒鸡汤**：有些事不是我不在意，而是我在意了，又能怎样？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dcc46c2d-fcf7-40d2-8c30-fb4eb8e796d4)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=309ef883-04a9-4831-b10c-ad2a06f3d398)

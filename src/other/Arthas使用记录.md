@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我已经闲到，开始学习了……
+- **随机毒鸡汤**：即使三分钟热度，也认真了180秒。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=eb761fb9-120f-4c3f-b043-f54cc0a97cbc)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=34a0b4e0-3e1d-409f-a5cd-631a3f90184f)

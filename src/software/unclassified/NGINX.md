@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：开心追剧时忽想起作业没写，可恨，现在只能焦虑地追剧了。
+- **随机毒鸡汤**：如果你觉得，围着你的都是苍蝇，那可能你自己是坨屎。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a058581b-890c-4a2a-a53f-a2429ef62e4d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fb8d0504-362f-4622-a8c6-706c90e29c7c)

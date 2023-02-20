@@ -25,9 +25,13 @@ title: 其他
 [WebSocket SpringBoot Demo](./WebSocket%20SpringBoot%20Demo.md)
 
 [随机图片在线接口](./%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8F%A3.md)
+
+[微博关注关系如何实现](./%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8%E5%85%B3%E7%B3%BB%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0.md)
+
+[MySQL高可用](./MySQL%E9%AB%98%E5%8F%AF%E7%94%A8.md)
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都说陪伴是最长情的告白，其实长得好看的是陪伴，长得丑的是纠缠。
+- **随机毒鸡汤**：人如果没有梦想，那跟无忧无虑有什么分别？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=59163703-84bd-4575-aa73-456263ee7ba7)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e01b79a2-25e5-4811-9d25-c500996addbc)

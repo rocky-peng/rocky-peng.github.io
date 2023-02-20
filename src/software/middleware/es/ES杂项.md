@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人生在世，还不是有时笑笑人家，有时给人家笑笑。
+- **随机毒鸡汤**：摘耳机，是新世纪的脱帽礼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=114855fa-a01c-4205-bc4a-87affe078c50)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3e87a532-c0c2-43c6-a29a-b80539f44b07)

@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人总是喜欢寻找更好的，但总是会错过最好的。
+- **随机毒鸡汤**：这个世界少你一个不少，多你一个好吵。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=09f29101-030c-410c-9a10-b5539211b9e6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eb218d88-0286-47d6-97cd-a4dc5e8229de)

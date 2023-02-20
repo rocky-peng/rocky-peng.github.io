@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：追我吧，追到我，我给你开追到会。
+- **随机毒鸡汤**：“你好”是一个故事的开始，“你好好的”，是一个故事的结束。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7f101e7c-e918-4085-8159-6bd8c1591148)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=69474d62-6678-4fc3-80ee-04d45fecb23b)

@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你能在浪费时间中获得乐趣，就不是在浪费时间。
+- **随机毒鸡汤**：人生就像一杯水，孤独 孤独 孤独，一辈子就完了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7c00c7aa-d360-4d14-a062-7a6b54b67c7f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5662bd7b-385a-4a78-b172-99a3360c7d4c)

@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。
+- **随机毒鸡汤**：长的丑不是我的错，只是我在落地时太匆忙了，来不急打扮。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6b064bed-a05f-4f04-abbb-6ea71c3ebf65)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cbb2db2e-80ca-41c1-8bd2-0c6ea75c35a9)

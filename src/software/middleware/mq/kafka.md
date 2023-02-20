@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
+- **随机毒鸡汤**：我已剪断我的发，剪断了牵挂，可你却还要让我办张卡？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f0a4acb1-6aa6-4662-ad74-93586e8f15ab)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=edf4d4ca-90ee-499d-a659-566733d90970)

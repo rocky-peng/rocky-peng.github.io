@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么骗钱犯法，而骗感情不犯法？因为感情不值钱。
+- **随机毒鸡汤**：我是深知欲速则不达，心急吃不了热豆腐的，你怎么能说我有拖延症？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ded67684-7235-48d0-a6b0-51b0bcdbbb0b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=85833660-adb0-483f-bfd8-c05accfcdbf1)

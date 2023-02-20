@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人不能低下高贵的头，但捡钱时例外。
+- **随机毒鸡汤**：遗憾就像青春痘，痘没了，印还在。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=28c6a1bf-d27d-4183-b51f-6061b439ad88)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=abc4ceba-c01b-4bf4-a6f2-e787ef721ea2)

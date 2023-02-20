@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：快乐很简单，简单了就快乐了！
+- **随机毒鸡汤**：举手之劳，是我帮忙之后的谦辞，而不是你绑架我的说辞。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eb08789e-4963-45a9-a435-0d82af039096)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6204a95f-2fb2-4e80-b934-5d83786da30a)

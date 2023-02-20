@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：若没有身份，连吃醋都要把握好分寸。
+- **随机毒鸡汤**：乡愁是一张小小的车票，我在这头，黄牛在那头。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=642afc28-dc30-455f-a555-1aa0d34aca08)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=93facfd2-8f1b-4934-9ae5-cc3472b09723)

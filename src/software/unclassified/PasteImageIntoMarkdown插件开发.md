@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我们不合适，你适合更好的，而不是我这种最好的。
+- **随机毒鸡汤**：美貌会消逝，但蠢是永恒的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=adc30e76-3ab0-42f6-a9dc-2aaa4fc3e590)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ab16dfec-95fc-40f9-8a5f-72369495d466)

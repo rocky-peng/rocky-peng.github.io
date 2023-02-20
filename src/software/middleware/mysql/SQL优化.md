@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：虽然很多餐厅没有进去过，但在外卖软件里，我们都是过命的交情了。
+- **随机毒鸡汤**：有些事情还是要坚持的，比如睡觉，特别是闹钟响起的那一刻。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=344accba-49fc-4afe-9086-8898e27f72a3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5f3cfcb4-0e61-45aa-970f-d827a451c006)

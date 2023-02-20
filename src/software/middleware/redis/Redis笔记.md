@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：乞丐并不会妒忌百万富翁，但是他肯定会妒忌，收入更高的乞丐。
+- **随机毒鸡汤**：以前喜欢一个人，现在喜欢一个人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b0758091-6a65-43f0-88b3-1f2e9d47a346)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=522d52de-ca5c-4135-a6c1-042db7d08eee)

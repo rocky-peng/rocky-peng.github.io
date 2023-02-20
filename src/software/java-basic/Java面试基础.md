@@ -240,6 +240,6 @@ public interface Lock {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：友情越来越少，礼尚往来越来越多。
+- **随机毒鸡汤**：毕业不分手，异地绿成狗。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1c95ae3d-7603-420b-a11f-b6afbda15059)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=363b44b1-c998-413f-ab33-de02d1e6aef7)

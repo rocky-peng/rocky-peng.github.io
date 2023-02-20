@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有缘千里来相会，无缘倒也省话费。
+- **随机毒鸡汤**：不思进取的浑噩度日，那不叫活着，只能叫没死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=079c4cce-f67e-4c70-9a76-77ffb2bf3374)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f2e664a6-6b56-48b7-b3e0-5590468d9d02)

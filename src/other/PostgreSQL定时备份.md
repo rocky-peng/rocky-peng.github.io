@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：读书肯定有用，上学不一定。
+- **随机毒鸡汤**：你知道流星为啥这么快吗？因为它根本就，不想知道你的愿望。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=11adcf7b-9cda-47cd-8cf3-132e10b1d1db)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2e20efbe-f769-450e-822c-c2addb230d38)

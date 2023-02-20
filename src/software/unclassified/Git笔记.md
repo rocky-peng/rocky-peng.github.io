@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一生败在太要脸，爱钱爱的不明显。
+- **随机毒鸡汤**：永远不要借钱给不熟的人，因为他在熟人那，已经借不到钱了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=09822001-3438-4a1e-8d24-6eb84450167c)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5dbe5670-4d8e-43e3-8e7e-d2e2f8200bbb)

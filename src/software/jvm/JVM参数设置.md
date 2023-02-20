@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
+- **随机毒鸡汤**：只有不快乐的人，才想知道未来。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=21a004ba-9177-476e-842f-5c8ab8626997)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5004f05a-34e0-4e55-a20b-bba85692305f)

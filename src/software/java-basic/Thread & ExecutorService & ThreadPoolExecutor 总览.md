@@ -336,6 +336,6 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我这辈子没求过谁，只求过阴影部分面积。
+- **随机毒鸡汤**：失败的尽头是绝望，努力的终点是过劳。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d2523557-4d43-4131-8d3f-2e03e9474081)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4ba2c2a0-83fc-4c89-a879-4ab171d2c536)

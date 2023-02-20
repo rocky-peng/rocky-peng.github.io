@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人无完人，但人会完蛋。
+- **随机毒鸡汤**：每天最顺心的事，恐怕就是早上起床，手机满电了吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=93dba9ae-47dd-4ce2-b933-39f57eab6c1d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6dbcfc31-8040-40c7-a473-9a93ab805245)

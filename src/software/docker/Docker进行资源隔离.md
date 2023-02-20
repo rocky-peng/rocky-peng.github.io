@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上最动听的话，不是我爱你，而是你的肿瘤是良性的！
+- **随机毒鸡汤**：别老说国产的东西不好用，人民币就很好用，我一直在用就是老缺货。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1b000d81-6a95-4284-be19-e18451c6cce7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=307399ae-7949-4378-9974-de0e8172fb27)
