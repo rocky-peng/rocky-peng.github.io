@@ -17,3 +17,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：在中国最管用的几句话，“大过年的”“给点面子”，“他还小呢”。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fb523bb0-314d-459f-a538-2adba574fde7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：打工人心情不好的时候，骂公司总是没错的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a36a1e81-9613-423f-b0f8-6f73462378d7)

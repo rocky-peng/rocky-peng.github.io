@@ -29,3 +29,9 @@ Memory Analyzer TOOL
 - **随机毒鸡汤**：如果到二零二零年，要消灭贫困人口，那么我剩下的日子不多了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4f791259-0fed-461c-baa5-776d4bec8a2e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：借钱见人心，还钱见人品。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=84acf3cb-ddaf-4bd9-8470-88e2d2098cc4)

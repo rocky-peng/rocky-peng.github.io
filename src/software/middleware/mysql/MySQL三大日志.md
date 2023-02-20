@@ -234,3 +234,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：别轻易为喜欢的人付出一切，以免被人知道，你的一切并不值钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=96cf2de0-75e9-4187-93a8-ed7a9d048c8d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：答案真可爱，你看它总是 略略略略略 的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=21916025-dd3b-4bc4-912f-964da4f0a118)

@@ -16,3 +16,9 @@ article: false
 - **随机毒鸡汤**：有一种凄凉叫做，这道数学题已经超出了，我语文的理解范围。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1da40dd5-b62e-44c7-8165-fc756efe29b4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：原以为生命是个奇迹，实际上你只是个劳动力。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b62fa81f-81a8-430b-9e86-e72ac44aca5d)

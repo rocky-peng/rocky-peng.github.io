@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谣言止于智者，聊天止于呵呵。
+- **随机毒鸡汤**：不要怪别人以貌取人，毕竟心太远，脸就在眼前。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f9a74b5-3811-45f1-943d-a02734e38c14)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6252f364-fda0-4c95-8673-41d8f81796dd)

@@ -15,3 +15,9 @@ article: false
 - **随机毒鸡汤**：用钱当然买不到快乐，只是有钱，别人会想办法让你快乐。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=17fe7895-94b1-4e2f-a931-b4f8fa43f787)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我每天都坚持做仰卧起坐，早上一个起坐，晚上一个仰卧。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=09e01eec-ea19-4271-85fc-32916e5809c7)

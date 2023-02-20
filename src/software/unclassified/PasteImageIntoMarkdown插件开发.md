@@ -48,3 +48,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：有些人，表面一套暗地一套，海淀一套三环两套。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=019c0e46-cf6f-45e4-ae7e-603d4be0bc94)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你现在的生活，也许不是你想要的，但绝对是你自找的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1fd8400b-1cb0-4e4f-87bf-de52e069ee53)

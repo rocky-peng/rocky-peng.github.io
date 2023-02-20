@@ -16,3 +16,9 @@ date: 2021-09-01
 - **随机毒鸡汤**：知道老实人为啥总被欺负吗？数一下这话字数你就知道了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5473ce4a-e82f-4ae0-b5bd-d52c1f7b44b8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生如歌我跑调，人生如戏我穿帮，人生如梦我失眠。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=48592991-71c7-4f49-8ce4-60b94d6c9f47)

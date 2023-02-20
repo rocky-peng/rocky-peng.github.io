@@ -239,3 +239,9 @@ public class AttachMain {
 - **随机毒鸡汤**：我一看书就爱打瞌睡，因为书是造梦的地方。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fed893c5-3419-45f1-8301-d1408af4c1b1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我真的挺羡慕你的皮肤，你说你是怎么能，把它保养的那么厚呢？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a5630ec6-537a-4f91-bef4-83949daf193d)

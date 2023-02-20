@@ -141,3 +141,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：只有努力过的人才知道，背景是多么重要！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=71d15cfc-758a-4ec4-bdbb-4a312df6b15c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：什么岁月静好，你特么就是懒。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=fc7dc0ec-0ab1-4a82-aa80-75ef0400ae6f)

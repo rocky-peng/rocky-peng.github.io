@@ -114,3 +114,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：你遇到最歧视的事情，是什么？56个民族55个加分。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=741e8d81-23c1-4ca9-b455-2d8d0bac7396)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：努力了这么久，但凡有点儿天赋，也该有些成功的迹象了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1dc3969d-b731-4664-af49-4d5668cfa543)

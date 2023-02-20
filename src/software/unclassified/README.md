@@ -16,3 +16,9 @@ article: false
 - **随机毒鸡汤**：生命的逝去不是终点，被遗忘才是。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dcc47bd4-08ec-4ce7-800d-bb715b4f49d3)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有时候你不跟别人聊一下天，都不知道自己有多讨人厌。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a36bce57-cf6f-45ae-b9dc-dc2f0a33b581)

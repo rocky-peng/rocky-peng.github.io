@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：第一个称马尾辫为马尾的人，有没有想过，马尾长在马的哪里？
+- **随机毒鸡汤**：所有的故事都会有结局，只有生活跟你没完。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=dcc88a8d-64ff-4073-92a8-0aba25d2aa80)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2e0875db-5d04-458f-96b0-967136dab0a5)

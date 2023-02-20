@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我承受了这个年纪，不该有的饭量。
+- **随机毒鸡汤**：如果你特别迷恋一个人，那么你一定配不上他！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8d29ff07-6ade-4d68-b4d2-454c8cc4be9f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9d5acb12-4206-4c9c-b90a-5ebc21bb3fd5)

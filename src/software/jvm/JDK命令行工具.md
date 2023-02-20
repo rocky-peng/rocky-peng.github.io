@@ -308,3 +308,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：生命的逝去不是终点，被遗忘才是。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=02b16c96-7381-45d9-838b-86b421620ca8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：兴趣是最好的老师，其次是耻辱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=762133ed-b314-4956-a2bc-1c5d540e11f0)

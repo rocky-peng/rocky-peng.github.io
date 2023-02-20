@@ -81,3 +81,9 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 - **随机毒鸡汤**：早恋影响成绩，是一个很好的掩饰自己，没脑子学习的理由。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=27bf47af-c62c-4a7b-bbe5-1b29c9df5861)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：突然感慨互联网的力量，从前组织砍人的大哥，现在组织我们砍价。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=04d0d872-64c9-4c15-8677-d0e4c2b45ce6)

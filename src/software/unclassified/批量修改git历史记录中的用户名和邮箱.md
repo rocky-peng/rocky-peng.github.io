@@ -59,3 +59,9 @@ git push --force --tags origin 'refs/heads/*'
 - **随机毒鸡汤**：解释这个东西，让我看起来像个罪人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=42cdd2ec-83c5-4bcf-8637-bb0f9b0c2497)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：希望你以后，有酒有肉有姑娘，姑娘丑的不像样。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce17fb25-c47b-4c83-8fdd-59f84b3c26f5)

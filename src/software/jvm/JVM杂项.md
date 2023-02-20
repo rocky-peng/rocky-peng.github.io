@@ -436,3 +436,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：冬天就是好，穷的时候，还有西北风喝。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e1c0dd39-cf2c-4266-b7d6-5c6f8c918172)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：两个人吵架，打他是解决不了问题的，但是解气啊。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ef126b80-cd51-4a0d-9e77-c0a503925808)

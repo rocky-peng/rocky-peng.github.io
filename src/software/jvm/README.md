@@ -15,3 +15,9 @@ article: false
 - **随机毒鸡汤**：我把她从女孩变成了女人，她把我从男孩变成了，穷人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ebfb60a0-5f45-4bdc-a247-492f1e47c557)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：成长最大的好处就是，以前得不到，现在不想要。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=88b381ad-ac52-44c6-9702-732b68ee9dcd)

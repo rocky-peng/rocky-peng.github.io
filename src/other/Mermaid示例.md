@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别问我有啥，先说你要啥，再说你凭啥。
+- **随机毒鸡汤**：你喜欢什么样的男人？我喜欢笑起来会发光的男人。你是说如来吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a9ffcbba-0ce1-4c2b-a765-a0efc3182f2d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=10791a40-ef7c-4155-914e-e64a1cd60214)

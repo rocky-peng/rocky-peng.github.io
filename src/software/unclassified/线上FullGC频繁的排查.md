@@ -111,3 +111,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 - **随机毒鸡汤**：做政治试卷，是我这辈子，说谎最多的时候。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=10e1b1ca-30b1-4508-97b3-878a5e794178)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一段感情谁先认真谁就输了，对于作业，我可从来没输过。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=679efe85-3d2c-4a20-87d2-a6903d2048fc)

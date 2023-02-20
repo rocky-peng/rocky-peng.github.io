@@ -144,3 +144,9 @@ gantt
 - **随机毒鸡汤**：什么叫不自量力？不要自学量子力学。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=918c35f4-c061-49ad-99e3-d991657e3331)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果我是一只蝴蝶，我会有一个美丽的名字，—沃斯尼蝶。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=673c5230-a56d-40ff-849e-c64ce615836d)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：日日称重日日重，年年减肥年年肥。
+- **随机毒鸡汤**：目前最大的烦恼就是，经济实力跟不上审美能力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2f8d2b3a-f40a-4ba0-a72c-7437c3793ea4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a52cd301-895f-4567-9df0-66db47b85cee)

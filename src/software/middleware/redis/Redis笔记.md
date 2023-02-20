@@ -391,3 +391,9 @@ s
 - **随机毒鸡汤**：心想事成的诀窍是，只想能成的事。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6e9ecc01-1a7b-4ba7-9407-e581603295b2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要随便吃垃圾食品，否则越吃越上瘾。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d10784fd-ecd8-47bc-8147-765278a8b07c)

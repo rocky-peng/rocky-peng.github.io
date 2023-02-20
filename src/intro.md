@@ -17,3 +17,9 @@ icon: info
 - **随机毒鸡汤**：爱情会离开你，但数学不会，不会就是不会。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d5e52a52-0b89-4b3b-a83c-b2c13fb0beaf)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：忍一时风平浪静，怂一时平平安安。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e1bf222b-8022-44e7-9441-bc084def3ed4)

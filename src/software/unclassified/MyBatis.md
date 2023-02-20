@@ -34,3 +34,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：每个人都有幸福的权力，却只有少数人，有幸福的能力。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f01183fc-7238-4679-9468-752a9a0920c5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：心想事成的诀窍是，只想能成的事。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=27b51297-eb4e-4922-a933-06d2a4abe128)

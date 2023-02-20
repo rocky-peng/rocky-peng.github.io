@@ -220,3 +220,9 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 - **随机毒鸡汤**：脑子是个好东西，希望你也有一个，但如果你胸大没有也行。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fcef3b3e-0904-49fe-a91d-744de2eb2e4f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：复习的意义就是，再次确认，你是真的不会。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c93e3315-29ae-42fd-a2dc-c2e3b47987e4)

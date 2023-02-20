@@ -187,3 +187,9 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 - **随机毒鸡汤**：睡觉前吃宵夜，这样才不会做饿梦。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7002f438-8dcd-4f16-8f0e-9698a14cb0ab)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：看见你我就放心了，我还以为，所有人都特别努力呢。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c3ad4fae-946f-4ba5-97e6-18bd24f4969f)

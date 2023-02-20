@@ -536,3 +536,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5e5f4b8e-76c5-4212-8afa-794d8b61fcd6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：淡泊名利说的好听，没有名利，哪有淡泊。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1eb8386b-413a-4593-89b9-0b68d1c218ff)

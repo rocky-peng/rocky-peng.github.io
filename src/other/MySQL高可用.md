@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：站着说话，腰真的不疼。
+- **随机毒鸡汤**：小时候认为自己是白雪公主，现在也差不多，是白学公主。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b97219a2-9735-46cb-8042-bee4c5ee5a2e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=83902901-8f86-4e53-89fa-4b8db430a272)

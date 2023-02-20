@@ -33,3 +33,9 @@ date: 2021-08-01
 - **随机毒鸡汤**：当别人向你提出意见时，一定要认真记下来，对你有意见的都有谁。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=69ff993b-ff56-4458-aecc-513e552a4749)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一个嗯，一个哦，毁了我想对你说的所有话。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0f2a702a-8a06-4af7-a833-c65600a11f17)

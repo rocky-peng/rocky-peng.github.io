@@ -345,3 +345,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：天生我材必有用，即便是废材，也能起陪衬的作用。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eb43e800-e160-4486-873d-bc52718984cb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：从小爸妈教我做善良的人，后来遇到很多人，我希望他们有爸妈。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9c9af73d-7b85-4a5d-9714-aab71722c2c2)

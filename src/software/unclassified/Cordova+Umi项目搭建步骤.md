@@ -109,3 +109,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 - **随机毒鸡汤**：老说找不到理想中的另一半，问问自己，成为理想中的自己了吗？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0cd7f30e-0203-4f86-81c1-a9298784b562)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：试着去了解那些你讨厌的人，你会发现，真是越看越讨厌。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6c1a4d44-a8be-4a0d-b677-00800c1dda09)

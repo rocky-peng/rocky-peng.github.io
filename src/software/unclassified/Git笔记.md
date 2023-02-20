@@ -46,3 +46,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：最不能惹的动物就是猩猩，因为他敲胸的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3d33c861-63d2-434f-9a83-17f19a580d5b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要你坚持不懈的，去追你喜欢的人，总有一天你会被他拉黑。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=18fefcd5-a0a6-4609-8292-7d6366fa0f7b)

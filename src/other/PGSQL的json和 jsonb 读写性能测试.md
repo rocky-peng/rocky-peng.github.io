@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要我每天，都坚持说风凉话，这个夏天就不会热。
+- **随机毒鸡汤**：君子爱财 取之有道，这个道，是我不知道。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=85f7ff9d-b1b4-4eff-9677-f6a09cbb18c1)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=31dd241e-9ba2-4457-8123-1d2218833446)

@@ -120,3 +120,9 @@ import java.lang.reflect.Field;
 - **随机毒鸡汤**：冬天床以外的地方都是远方，手够不到的地方都是他乡，上个厕所都是出差。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3eb6e643-36ea-4684-b453-9f28817cdf80)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：请不要对我发誓，我怕你被劈死。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a4640e1c-2fbd-4e03-86a0-5aed9e589e90)

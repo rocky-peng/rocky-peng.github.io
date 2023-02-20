@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有时候狐朋狗友才最纯，很纯粹的只是想要你的钱。
+- **随机毒鸡汤**：脑子空 身体空 钱包空，离四大皆空不远了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=157e496f-a65c-4d98-ab08-2fbd6cf9a58d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e538d497-9066-47a2-943e-77b37b6a32ba)

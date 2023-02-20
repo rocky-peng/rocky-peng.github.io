@@ -58,3 +58,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：铁打的身子，磁铁打的床。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dd477213-b7cd-4074-9c5a-6a0dffe47bdd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我爸开法拉利，我妈开玛莎拉蒂，我开玩笑。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6798e668-3518-49cb-9050-57619a9c6576)

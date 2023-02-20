@@ -40,3 +40,9 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 - **随机毒鸡汤**：今天下决心做个废物，可没想到这行的竞争，竟如此激烈。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ffd1835b-5d5c-46ed-b76d-0a5fb77956e5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你以为打喷嚏是有人想你吗？那只是一个单身狗，感冒的前兆。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=250bbdbd-51d3-482d-a8d3-5c94526fb7d4)

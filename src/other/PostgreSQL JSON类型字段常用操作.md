@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你是ETC吗？这么喜欢自动抬杠。
+- **随机毒鸡汤**：兴趣是最好的老师，其次是耻辱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=46861209-e5e3-4b1d-b71f-7079b9189261)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b568379a-8c00-4705-b15d-04719de20555)

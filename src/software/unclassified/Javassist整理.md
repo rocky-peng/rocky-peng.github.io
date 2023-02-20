@@ -26,3 +26,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：可有可无的东西，一律可无。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6f660c8e-1fd8-4335-a48e-aef2919b4fce)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d592c475-f944-4fe8-b719-b236ef6c06fe)

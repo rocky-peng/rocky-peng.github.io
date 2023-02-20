@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候梦想长大了要超有钱，现在梦想实现一半了，我长大了。
+- **随机毒鸡汤**：昨天我去看心理医生，医生说我不是抑郁症，我是真的惨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=843ac0e9-5cba-4b5a-ba2b-078918d7e04a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2d519674-d922-4797-8dd0-7d86a12e0266)

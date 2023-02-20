@@ -15,3 +15,9 @@ article: false
 - **随机毒鸡汤**：大概我们最默契的时候，就是我不去找你，你也不会来找我。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0e3e12bb-12a7-41f1-8256-00ae51c3d5a6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我让你把愿望告诉我，是因为愿望说出来，就不灵了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d4525d8f-e006-44e9-bac9-0d492fab9237)

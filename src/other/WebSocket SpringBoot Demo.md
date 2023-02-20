@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：吃不了自律的苦，就得吃平庸的苦。
+- **随机毒鸡汤**：父母说早恋会影响学业，爸妈我对不起你们，我考不过那些早恋的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c9d3d46d-b410-4d17-9de9-f47ed0554e58)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=11fa4c56-3e2a-4347-a138-a803b646dc97)

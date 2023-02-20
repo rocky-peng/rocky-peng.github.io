@@ -249,3 +249,9 @@ public interface Lock {
 - **随机毒鸡汤**：健忘和笑点低，真是幸福生活的标配。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b42144bf-6d9c-4e9f-9f1e-13927747b812)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：既生瑜何生亮，既生美食何生脂肪。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0de0e564-a75b-4817-ac28-dab6e97cc1cd)

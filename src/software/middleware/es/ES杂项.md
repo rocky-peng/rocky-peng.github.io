@@ -43,3 +43,9 @@ date: 2018-05-05
 - **随机毒鸡汤**：不是路不平，而是你不行。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8f43314d-911b-46b5-86fc-c4afeb2ec840)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c33b7c32-74ac-44fa-ac54-f48763ff0014)

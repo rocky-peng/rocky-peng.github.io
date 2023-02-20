@@ -16,3 +16,9 @@ article: false
 - **随机毒鸡汤**：你现在的生活，也许不是你想要的，但绝对是你自找的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0484db1f-c5d6-44cf-b5ad-5a1f0bf20562)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5890c442-a387-43ce-82c5-bdd1157720fb)

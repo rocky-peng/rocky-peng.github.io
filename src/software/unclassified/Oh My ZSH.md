@@ -72,3 +72,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：马云成功跟长相没关系，姜尚成功跟年龄没关系，而成功跟你没关系。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2b39f11b-f1b7-4fad-a31b-8ecb6d5f74db)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：和你已经陌生到，连是否要点赞，都要斟酌再三的地步了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=08b400df-4eed-48a3-af2e-9e32c7897dc0)

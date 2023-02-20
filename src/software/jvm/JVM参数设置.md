@@ -262,3 +262,9 @@ Number of method invocations/branches before compiling [-client: 1,500]
 - **随机毒鸡汤**：春节假期，从跳过早午餐开始。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ddcd8c07-88f8-40a2-be34-f3c1503bf923)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：祝您踏入婚姻的坟墓后，身旁人不要诈尸，身后人不要翘坟。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=33535658-19e3-4e0c-9fca-a2c56e301162)

@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要瞧不起中学课本，那是绝大多数人，知识面的顶峰。
+- **随机毒鸡汤**：不要随意揭开伤口给别人看，这个世界上多的不是医师，而是撒盐的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3041fc32-9903-438d-b3c6-452676700c57)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d1f333b8-a6d4-4d70-96b3-3a47edaebf44)

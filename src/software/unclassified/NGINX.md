@@ -76,3 +76,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：珍惜对你好的人，否则错过了就不知何时，才能遇到另一个瞎了眼的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b45ed60b-682c-4014-8722-ce1229ff06b4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：答案真可爱，你看它总是 略略略略略 的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b84da82d-cde8-4917-82af-7ec1c172076a)

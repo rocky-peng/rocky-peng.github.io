@@ -39,3 +39,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：你吃不了的苦有别人吃，所以你想要的生活，只能别人过。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=52f33b04-2739-4cb0-93ce-d4023b010814)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我不是穷人，我只是个价格敏感型消费者。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ee555e6a-8681-4975-87a9-ddccfeb9b7ec)

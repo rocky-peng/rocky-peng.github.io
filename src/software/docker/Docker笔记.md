@@ -69,3 +69,9 @@ docker load -i xxx.tar
 - **随机毒鸡汤**：成功的路上从不拥挤，因为坚持的人不多。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5d9b8d5a-61b6-4dba-af8d-b19f54ab6567)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：谈恋爱就像开车，爆胎后新司机只会打电话哭，老司机换上备胎就继续上路。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0649e70-7396-4633-81c9-07fc97aea486)

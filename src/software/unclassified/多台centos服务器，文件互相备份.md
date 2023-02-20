@@ -44,3 +44,9 @@ yum --enablerepo=epel install inotify-tools
 - **随机毒鸡汤**：经常废寝，从不忘食。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eeb24315-fd74-420b-9b32-49c50e9443bb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：作为失败的典型，我实在太成功了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9f80d6b6-5915-4aa5-a1ac-b6bd884d9cc4)

@@ -52,3 +52,9 @@ date: 2018-08-05
 - **随机毒鸡汤**：像你这样的人，哪怕把土豪两个字贴在脸上，别人也会反过来读。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=203cc3b9-5022-4ac6-8f70-242bf953f72b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：吃货的思路是，好吃你就多吃点，不好吃多少也要吃点。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=821a2b0d-8e66-483f-b06e-80fe9b4721d5)

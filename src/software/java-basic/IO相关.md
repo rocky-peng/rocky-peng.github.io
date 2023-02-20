@@ -295,3 +295,9 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 - **随机毒鸡汤**：希望我的体重，像我的成绩一样，直线下降。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8cd7960a-c21d-42c2-9d64-19f7597c1ee1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：咸鱼翻身是为了晒得透彻，你翻身是因为手被压麻了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=64f14e32-a5fb-4f33-a38a-21c774c702ac)

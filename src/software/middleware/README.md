@@ -15,3 +15,9 @@ article: false
 - **随机毒鸡汤**：乞丐并不会妒忌百万富翁，但是他肯定会妒忌，收入更高的乞丐。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1d06c819-450e-49c2-86ba-c0f7b2805f66)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f31d5c7e-90ec-40f7-a60f-54d984ca06bb)

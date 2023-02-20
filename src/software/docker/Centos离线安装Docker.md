@@ -93,3 +93,9 @@ systemctl start docker
 - **随机毒鸡汤**：关注我的一般只有两种人，一种是暗恋我的，一种是暗算我的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=65a5bf38-36cb-4411-8c7b-0b8b2ddbb14c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上最动听的话，不是我爱你，而是你的肿瘤是良性的！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=97dc0f7f-45cf-4e24-9fb9-2f9513bd6790)

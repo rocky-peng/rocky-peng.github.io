@@ -53,3 +53,9 @@ tagline: 你可以在这里放置你的口号与标语
 - **随机毒鸡汤**：凡是你想控制住的东西，其实都控制住了你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7a9283ad-3054-433e-ab30-ab7cfc0cac5a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：丑不要紧，用你的言谈举止让别人明白，你还是一个没有内涵的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1aa8a415-593f-40ca-a74b-ba4cf3594d45)

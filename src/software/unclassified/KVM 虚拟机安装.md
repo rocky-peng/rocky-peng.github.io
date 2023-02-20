@@ -317,3 +317,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：能者多劳，过劳死。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=288fae47-54f5-444b-8754-bd9752c094bf)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别去劝一个执意要吃屎的人，不然他不但不会感谢你，还会以为你要和他抢着吃。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f4651731-bb45-4f8d-a689-5b6351d5c5cb)

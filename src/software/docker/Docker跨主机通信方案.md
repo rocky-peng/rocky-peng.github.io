@@ -122,3 +122,9 @@ docker run -itd --name t4 centos
 - **随机毒鸡汤**：去年的猪肉我爱答不理，今年的猪肉我高攀不起。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=59cb9209-a460-414b-b9b1-06c187220641)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要太在意别人的看法，不然你会发现 ，他们的看法都是对的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8db198c5-4f77-451c-b812-1fa0ea4ada46)

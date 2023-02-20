@@ -537,3 +537,9 @@ sudo /etc/init.d/filebeat stop
 - **随机毒鸡汤**：发财和发朋友圈，总得发一个吧。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c358745d-9aa6-4668-acc8-5215dbb631bc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界是属于90后的，也是属于00后的，但最终还是属于脸皮厚的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=63958f72-5517-40ae-96e9-bf6f95532c14)

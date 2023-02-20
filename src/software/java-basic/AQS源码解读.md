@@ -509,3 +509,9 @@ static final class Node {
 - **随机毒鸡汤**：你感觉是错过 ，人家感觉是解脱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=32b6c275-cf35-4e84-94f3-a8fe7ef6f4cd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：遇到你之前，我的世界是黑白的，遇见你之后 哇靠 全黑了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3d4ae088-215b-4210-bd88-f1178324572b)

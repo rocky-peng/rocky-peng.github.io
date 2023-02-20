@@ -375,3 +375,9 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 - **随机毒鸡汤**：长得帅的不说话叫高冷，长得丑的不说话叫自闭。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3fdbb033-44cb-469c-b520-b509496b57aa)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别人的穷只是表象，你的穷表里如一。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=aeb9572a-4d81-4c3f-b70f-984110e4296d)

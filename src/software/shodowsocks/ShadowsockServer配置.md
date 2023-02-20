@@ -43,3 +43,9 @@ EOF
 - **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9532fa8-5946-4151-830b-ee5b1d97f2ee)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你为什么这么努力？因为再不努力，就要回家继承家产了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=90167516-d71b-4ac2-8e55-5837fc7824f0)

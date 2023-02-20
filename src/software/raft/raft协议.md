@@ -71,3 +71,9 @@ http://thesecretlivesofdata.com/raft/
 - **随机毒鸡汤**：都说穷不过三代，我想你不会，因为到你这一代就结束了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d313bcd5-4f66-4429-8603-96c5128f9b74)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：本想成为大哥的女人，没想到却活成了，女人中的大哥。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8eeb245b-beaf-4a59-ab9f-0145e4d20277)

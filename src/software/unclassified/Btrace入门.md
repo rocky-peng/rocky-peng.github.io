@@ -195,3 +195,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：人生就像一个茶几，上面摆满了杯具。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8b0e4e5a-0f70-4da3-89df-97867f8b9a73)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你没有遇到更好的人，是因为，你没有变成更好的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=330157c9-fa3f-450b-9736-156f735dbd57)

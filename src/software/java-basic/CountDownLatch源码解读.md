@@ -103,3 +103,9 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 - **随机毒鸡汤**：搞那么多仪式干嘛？就觉得葬礼可以搞搞，因为不用我亲自忙活。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4ef51289-4d2e-466f-a587-1d405bba010b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有钱人的生活才叫生活，你那儿，只能叫做生存。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=aa5f1979-179a-4dce-bbc0-a23a0ae3a7c1)

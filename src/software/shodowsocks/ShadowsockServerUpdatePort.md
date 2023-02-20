@@ -31,3 +31,9 @@ EOF
 - **随机毒鸡汤**：动脑的年纪，就别动心。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5ca550b3-19d8-4102-ba3e-23f4d1ee1690)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：心脏病发作起来，可能连送去ICU，参加复活赛的时间都不给。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c5360ec8-1736-41bf-8bd2-9a1a0364ce2c)
