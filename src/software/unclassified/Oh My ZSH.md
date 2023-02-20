@@ -63,6 +63,6 @@ source ~/.zshrc
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：教育要从娃娃抓起，因为大人已经无药可救了。
+- **随机毒鸡汤**：从小到大，唯一不变的，就是一颗不想念书的心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6da06d49-c203-4007-9c61-6cbd73a74be1)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c0ce1482-0ed3-4598-82c0-0f4aa6f41949)

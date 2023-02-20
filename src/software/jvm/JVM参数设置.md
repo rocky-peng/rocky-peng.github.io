@@ -253,6 +253,6 @@ Number of method invocations/branches before compiling [-client: 1,500]
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人有钱就存卡里，我有钱就存卡路里。
+- **随机毒鸡汤**：所谓成长，就是听到波涛汹涌四个字，再也联想不到大海了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c2e2be62-0efd-44ca-ab58-071b0989551e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=21a004ba-9177-476e-842f-5c8ab8626997)

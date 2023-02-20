@@ -50,6 +50,6 @@ git push --force --tags origin 'refs/heads/*'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：恋爱就像树上的叶子，不是绿了就是黄了，红的呢是气到吐血了。
+- **随机毒鸡汤**：如果我老了怎么办？那些广场舞都好难。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3b0e7a4f-9ff9-463e-91c0-40e61b3a52ce)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0afbd2b9-f7d9-44ae-9402-7695c4607e3b)

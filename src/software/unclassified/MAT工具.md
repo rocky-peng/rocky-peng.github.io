@@ -20,6 +20,6 @@ Memory Analyzer TOOL
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：大多数人问你怎么了，不是想帮你或者安慰你，而是满足自己的好奇心。
+- **随机毒鸡汤**：只要我每天，都坚持说风凉话，这个夏天就不会热。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3f7bbb9f-ca6a-4c97-842d-4cdd9b877ea0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dbf3fc41-a446-4e3c-8a7b-b1fbd9dc39af)

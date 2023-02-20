@@ -155,6 +155,6 @@ public ReentrantLock(boolean fair) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：等你长大成年就会发现，你不再是个傻孩子了，你是个傻子。
+- **随机毒鸡汤**：任何时候都要记得微笑，这会让你看起来，像个不能随便惹的神经病。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2c50b760-c49d-45d8-a30b-d5bd2bf489a7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f7b19f6c-8d11-47d9-b309-e0d78b49dee5)

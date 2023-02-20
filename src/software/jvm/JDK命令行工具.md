@@ -299,6 +299,6 @@ jcmd 93526 VM.version
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人有对象，我有对象腿。
+- **随机毒鸡汤**：别羡慕别人的特长，你也有，你反应弧特长。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5497f62b-6021-4d3a-b873-8161828a2ec8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6a551092-bae2-4c67-b926-bd96002857aa)

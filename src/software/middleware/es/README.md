@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我已经闲到，开始学习了……
+- **随机毒鸡汤**：春风不度玉门关，我佛不渡铁憨憨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8c5ca1ac-0354-4f73-8e7a-661379b3e7a0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d5785a21-4b84-4583-9550-319cbb8f7a7e)

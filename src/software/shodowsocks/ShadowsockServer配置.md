@@ -34,6 +34,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：单身的原因，有对象的咱不能要，没人要的咱也不能要。
+- **随机毒鸡汤**：頭髮的流失，是梳子的強求，還是毛囊的不挽留。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=db57c3b3-8d48-449b-aee9-360220bb382d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=af679f1b-72e0-4947-9efc-d43ae7773922)

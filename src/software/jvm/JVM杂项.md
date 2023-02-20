@@ -427,6 +427,6 @@ read,load的后一个动作就是use;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：减肥就是3天打鱼，362天晒网。
+- **随机毒鸡汤**：我永远不会离开你，这是多么美好而忧伤的谎言。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dffd21b4-d952-482f-a4f8-f33ab19c87e3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1f9bfef1-fe32-4447-81ca-9d2ac69c9507)

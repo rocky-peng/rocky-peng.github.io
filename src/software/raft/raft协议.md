@@ -62,6 +62,6 @@ http://thesecretlivesofdata.com/raft/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我也是有家族传承的人，比如我爷爷对我爸说，要好好学习。
+- **随机毒鸡汤**：快乐很简单，简单了就快乐了！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f7074728-b2fe-42f9-9dea-ba58d72ec8db)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eb08789e-4963-45a9-a435-0d82af039096)

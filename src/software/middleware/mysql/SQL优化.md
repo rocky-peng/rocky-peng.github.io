@@ -823,6 +823,6 @@ es				1.6.0-2.1.0
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前上学是拿钱混日子，现在工作了，是在拿日子混钱。
+- **随机毒鸡汤**：虽然很多餐厅没有进去过，但在外卖软件里，我们都是过命的交情了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ade7e204-ee4a-4207-96cc-1d6c5a2d8447)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=344accba-49fc-4afe-9086-8898e27f72a3)

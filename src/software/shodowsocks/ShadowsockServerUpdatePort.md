@@ -22,6 +22,6 @@ EOF
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：云想衣裳花想容，猪想长膘人想红。
+- **随机毒鸡汤**：有时候觉得自己像深海鱼，长得丑压力大，前途一片黑暗。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f0a1a09f-c535-4b40-85a7-f817d5774d8f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7b258c46-7e7d-4ff2-ac1b-17dcf2669b34)

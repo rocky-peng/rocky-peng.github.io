@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没有什么过不去，只是再也回不去。
+- **随机毒鸡汤**：你坐过最挤的公交车是什么？只是路过，却被挤上了车。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a77b3fd7-ac7a-4509-a442-8f4585f589c8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4da6a138-5272-4162-819d-24c9540523a4)

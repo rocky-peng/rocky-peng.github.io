@@ -527,6 +527,6 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：从小听到最多的， 是「你要懂事」，可却很少听到「你要开心」。
+- **随机毒鸡汤**：平时骂你就算了，非要等我打你，才知道我文武双全。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=28fb71ba-1d4a-4017-9ae5-e475317dcbd8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=063eed1e-b93e-45f4-acbe-feb038057e56)

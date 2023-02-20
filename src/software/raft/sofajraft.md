@@ -37,6 +37,6 @@ RpcServer:
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：到了一定年龄，别人问你多大了，你得稍微算一下。
+- **随机毒鸡汤**：撕逼的最终目的，不是说服对方，而是气死对方。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f4c65bef-548d-4c51-8ba0-2188441e9256)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=65de9142-6df5-423c-8666-028685ec6356)

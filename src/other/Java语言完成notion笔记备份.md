@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间不能冲淡一切，比如痘印。
+- **随机毒鸡汤**：世界很公平，比你忙的人赚的比你多，比你闲的人你赚的比他少。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=af343462-aaf3-4c7e-8ba0-cdcc1e31ee1c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=21b0cce9-4616-4a7d-8055-6af7c3eee7c1)

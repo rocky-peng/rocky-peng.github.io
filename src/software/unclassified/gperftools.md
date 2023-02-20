@@ -162,6 +162,6 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要你多财多亿，凭亿近人，还怕找不到女朋友吗？
+- **随机毒鸡汤**：只要选对了人生的方向，很容易就成功了，让我们恭喜只要和很容易。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9e52aac2-b245-4b7a-995b-ead27ebf876c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d68ab8c0-f3fa-4646-b0be-cfa2e1a52575)

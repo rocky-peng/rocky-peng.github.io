@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是你喜欢的人不喜欢你，而是你，偏要喜欢不喜欢你的人。
+- **随机毒鸡汤**：一日不读书没人看得出，一周不读书，智商堪比猪。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0e03a32e-51f0-4463-b506-7e45d866e106)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8a9730f1-3596-4b27-ba94-0f5bfb8f1112)

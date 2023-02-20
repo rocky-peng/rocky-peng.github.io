@@ -49,6 +49,6 @@ date: 2019-06-10
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：减肥没瘦怎么了？你们上班，不是也没有存款吗？
+- **随机毒鸡汤**：有钱时败家，没钱时拜神。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f118913d-b7c1-4b41-94c0-0749ff9af5a5)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d6ed83a8-e2b1-4218-acf6-c5b211129715)

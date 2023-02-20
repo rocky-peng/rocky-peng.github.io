@@ -60,6 +60,6 @@ docker load -i xxx.tar
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有人关心，才有资格下落不明。
+- **随机毒鸡汤**：说啥啥不听，干啥啥不行，吃啥啥不剩。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=db642eb7-c6bd-47ae-8fcf-506fb4f1b1e8)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d3af604e-7602-40f4-bd3a-8bb18757f0ca)

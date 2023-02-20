@@ -365,6 +365,6 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谁能想到貌不惊人的我，居然是龙的传人！
+- **随机毒鸡汤**：武则天证明了，成功和性别没关系，你证明了成功和你没关系。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4b0a56d3-014b-4fa1-b42a-3c080bb01357)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c377c8ae-c340-42fd-9355-17f162d39c07)

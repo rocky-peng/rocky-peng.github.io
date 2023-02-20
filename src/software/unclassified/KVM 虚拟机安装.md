@@ -308,6 +308,6 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在想要出国玩的，只剩下这一国了——天国。
+- **随机毒鸡汤**：手机用久了才知道，锁屏密码不是防陌生人，是防身边朋友跟亲人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=098d589a-4fb9-415b-84bb-1e681a627728)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=363493d0-1da7-4a6b-b3c3-0f072c52e013)

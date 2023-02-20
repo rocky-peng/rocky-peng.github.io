@@ -211,6 +211,6 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不期待任何人，也不想被任何人期待。
+- **随机毒鸡汤**：世界上最动听的话，不是我爱你，而是你的肿瘤是良性的！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1d2fe419-834f-400b-8fe3-4102c98a75e8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1b000d81-6a95-4284-be19-e18451c6cce7)

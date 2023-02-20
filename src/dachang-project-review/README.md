@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：这世上没谁离不开谁，就算是一条鱼离开水，也能烤着吃。
+- **随机毒鸡汤**：太阳别再晒黑我了，晒黑爸爸妈妈的头发吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0c42fee2-1874-4cb2-8487-4f23a96e33e0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=08a42c63-90a9-433e-a63e-9171640def03)

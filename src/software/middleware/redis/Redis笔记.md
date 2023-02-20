@@ -382,6 +382,6 @@ s
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：牛人坚持不懈叫匠人，但你坚持不懈叫犟人。
+- **随机毒鸡汤**：乞丐并不会妒忌百万富翁，但是他肯定会妒忌，收入更高的乞丐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=23b1b098-26c1-49b9-ac41-c56309a954f3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b0758091-6a65-43f0-88b3-1f2e9d47a346)

@@ -34,6 +34,6 @@ date: 2018-05-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：学习就学习为什么还考试？怎么人与人之间，连一点信任都没有？
+- **随机毒鸡汤**：人生在世，还不是有时笑笑人家，有时给人家笑笑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=19455d4b-7eee-4990-b598-9a8f7e6ec423)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=114855fa-a01c-4205-bc4a-87affe078c50)

@@ -113,6 +113,6 @@ docker run -itd --name t4 centos
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：相爱相杀吧，作业你摧残我的身体，我用我潦草的字迹爱你。
+- **随机毒鸡汤**：遇到解决不了的事，先放一放，过几天就会忘记的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=431f3f49-7f34-4808-88a7-14dd96577d19)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=054a36c9-9962-47ee-89ec-d5574da15b5a)

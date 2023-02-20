@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
+- **随机毒鸡汤**：你永远不会知道，你的哪个好友，会成为下一个微商。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d083b24-9713-4fe2-907f-f3011bf59dbd)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ec84d87e-6594-4a2c-92d3-df812526ca88)

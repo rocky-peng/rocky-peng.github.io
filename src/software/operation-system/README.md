@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：趁好看的时候多照照镜子，毕竟这种错觉不是经常有。
+- **随机毒鸡汤**：你能在浪费时间中获得乐趣，就不是在浪费时间。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=493a0b60-aa66-4ead-8cb8-789ddd6c7f6f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7c00c7aa-d360-4d14-a062-7a6b54b67c7f)

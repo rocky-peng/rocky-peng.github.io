@@ -105,6 +105,6 @@ jetty异常的解释：
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：分手后还能做朋友，一定是其中一方不死心，或者钱没还清。
+- **随机毒鸡汤**：喜欢一个人是藏不住的，就算躲在衣柜里，还是会被她老公发现。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=aa09c0bf-7a30-472f-8958-cd4b8f969d65)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c5431754-ed80-49fa-9bea-cd8b7100fd6c)

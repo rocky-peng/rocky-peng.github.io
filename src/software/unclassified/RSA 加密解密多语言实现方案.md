@@ -810,6 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：要不是猪不会说话，不然你都没有，存在的价值。
+- **随机毒鸡汤**：到不了的都叫做远方，回不去的名字叫家乡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=80a3ce3b-696f-44ec-9c89-1834aa4b43af)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=133d1b08-a697-4957-98d2-10070b5505d2)

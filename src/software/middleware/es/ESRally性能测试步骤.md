@@ -366,6 +366,6 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前过年就图个热闹，现在就想图个清静。
+- **随机毒鸡汤**：承蒙你的出现，够我烦心好几年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d9a9b065-7d6f-4992-93e4-6a034c4ec25b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c2aeb93e-3a2c-45ee-b7a1-d504f41113b2)

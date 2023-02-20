@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：夜太美，尽管再危险，总有人黑着眼眶修着仙。
+- **随机毒鸡汤**：借钱见人心，还钱见人品。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5aa147f1-46a4-4be1-bdb6-8abfd7c92a81)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e5854fc7-9365-44a4-ad98-3a0d43e43a8c)

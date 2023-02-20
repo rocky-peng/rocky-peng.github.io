@@ -100,6 +100,6 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有些人的底气来自实力，有些人的底气来自无知。
+- **随机毒鸡汤**：练瑜伽之前我是个胖子，练瑜伽之后，我是个灵活的胖子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=64e11e35-8b36-4ad0-b6b9-e5e12ff1f58a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1c95b49d-97aa-4ef9-be47-372f400e862d)

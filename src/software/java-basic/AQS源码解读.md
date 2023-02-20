@@ -500,6 +500,6 @@ static final class Node {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：教练说，别人踩离合，你踩的是悲欢离合。
+- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f3cf5063-0381-448f-8729-fac10f8bb460)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d0b46f0a-0e65-4471-9a3c-760ceedfc3db)

@@ -528,6 +528,6 @@ sudo /etc/init.d/filebeat stop
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：希望你以后，有酒有肉有姑娘，姑娘丑的不像样。
+- **随机毒鸡汤**：如果婚姻是爱情的坟墓，一年一次的结婚周年庆祝，便是在“扫墓” 了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=626a1f37-03bc-484f-965c-075aca0eea11)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6b064bed-a05f-4f04-abbb-6ea71c3ebf65)

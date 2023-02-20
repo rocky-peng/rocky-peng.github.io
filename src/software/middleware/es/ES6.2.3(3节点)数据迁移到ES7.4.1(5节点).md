@@ -400,6 +400,6 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在的时代，不是属于00后的，是属于厚脸皮的！
+- **随机毒鸡汤**：有些事，不说是个结，说了是个疤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0d8db4c2-eede-407f-9a96-d21a01267d73)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=06cfad25-b085-4354-879d-29ece7b5b03a)

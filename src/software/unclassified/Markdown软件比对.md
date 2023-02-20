@@ -49,6 +49,6 @@ date: 2023-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：没人嘲笑你的梦想，他们只是嘲笑你的实力。
+- **随机毒鸡汤**：手机玩时间长了，感到无聊就出去逛逛吧，你会发现还是手机有意思。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=28a1b52c-8cc9-4970-9222-59864205084a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c08caa57-8d76-43bd-b6ef-96d2095a2ab8)

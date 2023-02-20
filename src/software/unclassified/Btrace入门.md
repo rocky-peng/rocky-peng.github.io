@@ -186,6 +186,6 @@ cd /Users/xxx/Desktop/btrace_script
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
+- **随机毒鸡汤**：也许你的爱情迟到了，但更有可能的是，出车祸了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6803b486-d1bd-4b64-995f-c53b421efb63)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4a37acad-9d29-409d-addb-de0120a83c10)

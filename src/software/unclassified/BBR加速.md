@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：做政治试卷，是我这辈子，说谎最多的时候。
+- **随机毒鸡汤**：我不怕变成自己厌恶的人，我怕过得还不如他们。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6bdff8ba-fd76-4105-99d6-9842ae0d5db0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5f8e641c-a852-4122-926a-b80396016929)

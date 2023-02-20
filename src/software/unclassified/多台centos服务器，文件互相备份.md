@@ -35,6 +35,6 @@ yum --enablerepo=epel install inotify-tools
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你喜欢什么样的男人？我喜欢笑起来会发光的男人。你是说如来吗？
+- **随机毒鸡汤**：夜太美，尽管再危险，总有人黑着眼眶修着仙。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dee12886-cc68-4826-a97f-4621156aa693)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7883bd75-eb75-4be5-9173-6703e04e4d34)

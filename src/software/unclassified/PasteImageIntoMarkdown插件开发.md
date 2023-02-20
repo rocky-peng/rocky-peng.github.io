@@ -39,6 +39,6 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有心者不用教，无心者教不会。
+- **随机毒鸡汤**：我们不合适，你适合更好的，而不是我这种最好的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ec44ae59-b257-4711-8646-2c965d982000)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=adc30e76-3ab0-42f6-a9dc-2aaa4fc3e590)

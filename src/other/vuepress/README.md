@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：穷人的绅士一文不值，富人的流氓异常迷人。
+- **随机毒鸡汤**：人总是喜欢寻找更好的，但总是会错过最好的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=909a150a-f4bb-48de-a89a-5ab62c94f842)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=09f29101-030c-410c-9a10-b5539211b9e6)

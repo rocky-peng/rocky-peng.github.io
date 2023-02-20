@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：多个朋友多条路，少个朋友少条岔路。
+- **随机毒鸡汤**：我已经闲到，开始学习了……
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=162c1286-3d1e-42c2-800b-bd12f045e0fe)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=eb761fb9-120f-4c3f-b043-f54cc0a97cbc)

@@ -102,6 +102,6 @@ public JdbcSqlStat createSqlStat(String sql) {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我能对你最好的祝福，就是参加你的每一次婚礼。
+- **随机毒鸡汤**：不要以为老天在折磨你，而事实上，老天根本就不在意你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2ee0ce80-9a48-4a09-9e09-b314bfd22971)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3af620be-f31e-44e4-8206-69efbbd0e0bd)

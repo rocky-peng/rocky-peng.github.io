@@ -7,6 +7,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？
+- **随机毒鸡汤**：我真是个败家子，上亿的家产，一觉醒来就没了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a9d99416-f0ac-42ee-bee0-4c034351829a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=775ec7f6-fbfa-4761-b1ea-3d5980172aea)

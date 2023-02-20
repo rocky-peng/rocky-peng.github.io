@@ -37,6 +37,6 @@ date: 2015-07-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我和鹹魚沒法比，它有鹽值，我沒有。
+- **随机毒鸡汤**：一生败在太要脸，爱钱爱的不明显。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=69c1fb3d-1e5a-46d6-9fc4-7c54510b064b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=09822001-3438-4a1e-8d24-6eb84450167c)

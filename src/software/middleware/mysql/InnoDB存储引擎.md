@@ -178,6 +178,6 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要总对人掏心掏肺，有的人不吃内脏。
+- **随机毒鸡汤**：我爱过疯过傻过，执着过坚持过，到最后还是我一个人过。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0f744da8-7df0-46be-b778-9a727163b565)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=466a2ae7-43f4-4b54-8dcd-4378498f98f9)

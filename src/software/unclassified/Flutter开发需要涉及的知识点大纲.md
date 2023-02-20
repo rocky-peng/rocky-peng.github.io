@@ -30,6 +30,6 @@ date: 2018-04-23
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有什么别有事，没什么别没钱，动什么别动情。
+- **随机毒鸡汤**：早恋影响成绩，是一个很好的掩饰自己，没脑子学习的理由。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=556270b5-bd71-4ea3-a801-966405de175e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=23e6d3a4-a582-4504-bf6b-598ff3a69a0d)

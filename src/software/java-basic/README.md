@@ -6,6 +6,6 @@ article: false
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你别怕，不回你消息的那个人，总会遇到不回ta消息的人。
+- **随机毒鸡汤**：有缘千里来相会，无缘倒也省话费。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=88cfa77c-4856-45fa-a612-df98d3943008)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=079c4cce-f67e-4c70-9a76-77ffb2bf3374)

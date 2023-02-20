@@ -135,6 +135,6 @@ gantt
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：高考加油！我在工地等你。
+- **随机毒鸡汤**：人不能低下高贵的头，但捡钱时例外。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ab3276ac-9b1b-4a8a-b210-306e5892a960)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=28c6a1bf-d27d-4183-b51f-6061b439ad88)

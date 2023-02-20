@@ -24,6 +24,6 @@ date: 2021-08-01
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
+- **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7fc753a4-fe52-44ae-bb3c-8ce9e401b849)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f0a4acb1-6aa6-4662-ad74-93586e8f15ab)

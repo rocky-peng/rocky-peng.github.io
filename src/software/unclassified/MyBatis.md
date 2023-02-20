@@ -25,6 +25,6 @@ date: 2020-05-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：见到长辈时，不是我们不想叫他，而是压根就不知道叫他什么。
+- **随机毒鸡汤**：叫醒我的不是诗和远方，也不是眼前的苟且，是快递小哥。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3c8fa2c0-76be-4fb8-820b-f36d041a2120)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0c78e04d-7c33-4706-ad04-cecd65008228)

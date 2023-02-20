@@ -8,6 +8,6 @@ icon: info
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：男生买了房就有底气结婚了，女生买了房就有底气单身了。
+- **随机毒鸡汤**：若没有身份，连吃醋都要把握好分寸。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9fd399b3-1e5e-491a-952e-e698cbead68e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=642afc28-dc30-455f-a555-1aa0d34aca08)

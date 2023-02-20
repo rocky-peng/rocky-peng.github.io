@@ -43,6 +43,6 @@ date: 2018-08-05
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：希望你以后，有酒有肉有姑娘，姑娘丑的不像样。
+- **随机毒鸡汤**：人无完人，但人会完蛋。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f9cabd64-2a73-4576-b565-a1b12071b096)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=93dba9ae-47dd-4ce2-b933-39f57eab6c1d)

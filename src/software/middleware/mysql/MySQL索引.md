@@ -144,6 +144,6 @@ InnoDB支持的索引
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：年轻时我以为钱就是一切，现在老了才知道，确实如此。
+- **随机毒鸡汤**：长大这两个字，连偏旁部首都没有，一看就很孤独。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8bd08a7f-3410-46f9-867b-47d2efa412b6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1c5644ac-ad7a-4ccb-b3ce-7cdcef7d7bd3)

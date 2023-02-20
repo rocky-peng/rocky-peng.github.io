@@ -28,6 +28,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：西游记告诉我们，有个猪一样的队友，能让团队上西天。
+- **随机毒鸡汤**：都说陪伴是最长情的告白，其实长得好看的是陪伴，长得丑的是纠缠。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=32beb2e6-1202-45cc-b1a3-21f713fc2187)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=59163703-84bd-4575-aa73-456263ee7ba7)

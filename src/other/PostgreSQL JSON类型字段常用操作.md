@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谎言与誓言的区别在于，一个是听的人当真了，一个是说的人当真了。
+- **随机毒鸡汤**：遇到喜欢的人一定要表白，你丑没关系，万一他瞎呢。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3ab441c1-1c27-445b-befa-e7f3caa48d35)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=15b46c5e-50ba-4899-ba6b-fc46d04f9ff5)

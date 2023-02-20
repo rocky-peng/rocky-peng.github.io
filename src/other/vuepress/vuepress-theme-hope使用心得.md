@@ -8,6 +8,6 @@ date: 2022-12-25
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：网名虽好，终输备注。
+- **随机毒鸡汤**：不要觉得，自己每天都没有进步，你不是越来越懒了吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=176cc0df-ab2f-40e7-85a8-eaf3760aad0c)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=17cd339f-ca7a-4922-9802-8259ffe2cfc6)

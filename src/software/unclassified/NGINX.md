@@ -67,6 +67,6 @@ cp nginx.conf  nginx.conf.bak
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候以为，自己是正义的伙伴，长大才发现是傻逼的朋友。
+- **随机毒鸡汤**：开心追剧时忽想起作业没写，可恨，现在只能焦虑地追剧了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=66d69dcc-bd3a-4fc9-a29b-85cf193de5d3)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a058581b-890c-4a2a-a53f-a2429ef62e4d)

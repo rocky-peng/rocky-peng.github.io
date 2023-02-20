@@ -17,6 +17,6 @@ date: 2017-01-03
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上帝关了你的门窗，也有可能，是因为他想开空调了。
+- **随机毒鸡汤**：你能在浪费时间中获得乐趣，就不是在浪费时间。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d843685c-11d3-4535-a37d-d4939ef6bb24)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9e090802-ca0b-4d02-967c-c8e5fb2c8c54)

@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有朋自远方来，虽远必诛。
+- **随机毒鸡汤**：为了你好，是多么可怕的道德绑架啊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9c83d767-cd89-4f33-9735-87a04158f413)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dcc46c2d-fcf7-40d2-8c30-fb4eb8e796d4)

@@ -44,6 +44,6 @@ tagline: 你可以在这里放置你的口号与标语
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：祝您踏入婚姻的坟墓后，身旁人不要诈尸，身后人不要翘坟。
+- **随机毒鸡汤**：为什么骗钱犯法，而骗感情不犯法？因为感情不值钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=325cb7d2-7ef7-45d2-bc17-75e5e53333e2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ded67684-7235-48d0-a6b0-51b0bcdbbb0b)

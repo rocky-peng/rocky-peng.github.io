@@ -111,6 +111,6 @@ import java.lang.reflect.Field;
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：害怕平凡的人，都是平凡的。
+- **随机毒鸡汤**：你怎么长得跟个二维码似的，不扫一下，都不知道你是什么东西！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1fee43ca-5c9d-4f17-86b9-4575f13fe9ad)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0d2f2bd5-08ef-4fde-b4db-1d75973ac673)

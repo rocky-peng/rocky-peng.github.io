@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要考卷还没交，你就有希望。
+- **随机毒鸡汤**：上班如上坟，别侮辱坟，上坟还有思念和敬畏之情呢。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6cac3b4a-e78e-4347-af7c-3f1e0a105451)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=44cb5e87-ce61-436d-8c7e-4954ca45a6e3)

@@ -230,6 +230,6 @@ public class AttachMain {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你感觉是错过 ，人家感觉是解脱。
+- **随机毒鸡汤**：道理懂的比谁都多，混的比谁都惨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8bbe7a15-e685-48a8-a90b-bd90dc52d9ac)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=fd615438-68fc-46c8-b526-8ff1c586a0bb)

@@ -84,6 +84,6 @@ systemctl start docker
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：好想谈一场，你妈妈拿着一千万，让我离开你的恋爱啊。
+- **随机毒鸡汤**：都说努力能变得更好，变不变得更好我不知道，说说还是可以的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2548b85a-3798-42fb-8d24-76702112e69c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=99b459b5-0271-49ed-9464-0edc0067da0f)

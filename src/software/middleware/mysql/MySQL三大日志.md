@@ -225,6 +225,6 @@ D: redo log、binlog
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你就是个黄焖鸡，又黄又闷又垃圾。
+- **随机毒鸡汤**：追我吧，追到我，我给你开追到会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a645a097-a9fb-4ddb-928d-b933457d8828)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=7f101e7c-e918-4085-8159-6bd8c1591148)
