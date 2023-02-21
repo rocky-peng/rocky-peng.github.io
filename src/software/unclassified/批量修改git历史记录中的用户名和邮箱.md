@@ -71,3 +71,9 @@ git push --force --tags origin 'refs/heads/*'
 - **随机毒鸡汤**：人不是慢慢变老的，而是一瞬间变老的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c97de48d-6bc2-4011-84ea-151a9bc0fd89)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你哪是什么朴实节俭，会过日子的人，你只是单纯的穷而已。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b2644433-ab99-4175-af56-26b21da91ade)

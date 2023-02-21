@@ -831,3 +831,9 @@ print _message
 - **随机毒鸡汤**：承诺这东西，听的人记住了，说的人早忘了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f8fc1ec-bb61-43c5-8f9c-5795427d2bf6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要说自己痴心妄想，因为只有痴心才能实现妄想。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=097bac52-0009-4e0c-bdcd-03283a34edd6)

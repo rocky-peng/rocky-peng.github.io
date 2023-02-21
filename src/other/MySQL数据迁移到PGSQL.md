@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：考个好点的大学，这样一来肯定是，捡垃圾里文化最高的。
+- **随机毒鸡汤**：人还是要有梦想的，即使是咸鱼， 也要做最咸的那一条。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9fb6b36c-4aec-43de-9931-54ec1683e333)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=28b852dd-edb8-4c84-b736-8bef6505dcda)

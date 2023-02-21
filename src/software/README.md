@@ -28,3 +28,9 @@ article: false
 - **随机毒鸡汤**：今天是除夕夜，来来来，给你夹块你最爱吃的天鹅肉。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a869d749-8b99-4743-9f4b-7d87d25d289d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果说学海无涯，那我就是这片海的，一条淡水鱼。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b66c80aa-a115-4463-bfb5-adf7ee942e14)

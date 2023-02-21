@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在知识的海洋里，你竟然是一条淡水鱼。
+- **随机毒鸡汤**：复习的意义就是，再次确认，你是真的不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d2f65b55-1a3c-4bb4-850c-469628aeb2df)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ced467d5-abbe-45d2-8037-c484643fbf8b)

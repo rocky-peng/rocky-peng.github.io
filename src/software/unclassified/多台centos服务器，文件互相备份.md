@@ -56,3 +56,9 @@ yum --enablerepo=epel install inotify-tools
 - **随机毒鸡汤**：科学家的多想点，是开启新世界，而你的多想点是想多了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5e944283-4a32-4db0-a96d-5a03529460c0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：其实你讨厌的并不是广场舞，而是广场舞大妈。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca14333c-9c57-4a91-b9e8-cfcb327b673c)

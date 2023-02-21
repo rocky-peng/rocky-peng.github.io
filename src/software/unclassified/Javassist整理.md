@@ -38,3 +38,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：没人能笑着走出男友的手机，如果能，他一定还有一部。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2ffd3d7b-f319-40d2-a2a3-63cadb793fec)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：失败乃成功之母，没人会一直失败，只是多感受了一点母爱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bbadf9e8-d10a-42e9-a029-f7208af38e86)

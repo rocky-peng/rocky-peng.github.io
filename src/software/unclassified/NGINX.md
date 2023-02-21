@@ -88,3 +88,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：被忽视是因为，自己还没有优秀到，不容忽视的地步。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4301c112-2aea-489b-94b7-451fda3e6de6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：钱其实不是被你花了，只是换一种方式陪伴你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=014501c3-a833-4c95-a305-ec1f2df74076)

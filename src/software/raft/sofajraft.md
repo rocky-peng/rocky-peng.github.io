@@ -58,3 +58,9 @@ RpcServer:
 - **随机毒鸡汤**：宅家想剪头发怎么办？打开窗户，二月春风似剪刀。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=723c8df8-d83c-4e74-b3ee-2b58cb14b73b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：表面都是心连心，背后都在玩脑筋。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca5dfeda-8ee2-4e2b-8418-6f0357de0d0c)

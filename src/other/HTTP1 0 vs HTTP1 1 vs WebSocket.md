@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在想要出国玩的，只剩下这一国了——天国。
+- **随机毒鸡汤**：我要没点自我安慰的本事，还真活不到现在。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f4b1b3c1-11f1-4649-86a0-24166858aa7c)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=97b7decc-ad1e-4b70-a9af-185d04950991)

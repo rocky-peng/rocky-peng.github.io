@@ -27,3 +27,9 @@ article: false
 - **随机毒鸡汤**：人家解衣服，那叫轻解罗裳，而你是给猪松绑。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=23d13347-8bf5-485a-a923-635017b46b87)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：拆穿多没用，我喜欢看你表演。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=66838fc6-9d74-40f3-af1d-df9e7abae76f)

@@ -129,3 +129,9 @@ ntpdate 时间服务器ip
 - **随机毒鸡汤**：一天不玩手机，人是不会死的，命还在但是魂丢啦！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=56b4368a-7c2c-4b24-86eb-76d8828a0e0a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：家，是唯一一个可以让你，丑的很舒服的地方。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=10d7d7e5-6b22-4981-ace2-1bd1a239a943)

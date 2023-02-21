@@ -27,3 +27,9 @@ article: false
 - **随机毒鸡汤**：你连几点睡觉，都控制不了，你还想控制人生？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3dd63cd2-1d1f-45a4-885c-48714384abb4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：牛人坚持不懈叫匠人，但你坚持不懈叫犟人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4ee10ad0-285a-4e65-a1d6-bad6fcd920be)

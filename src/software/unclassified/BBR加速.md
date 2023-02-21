@@ -40,3 +40,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 - **随机毒鸡汤**：以前过年就图个热闹，现在就想图个清静。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=978dfebc-bd75-4884-b2e6-31a1801b6697)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：小时候认为自己是白雪公主，现在也差不多，是白学公主。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a9bd6df1-91fe-4b13-9cd1-283d708358aa)

@@ -251,3 +251,9 @@ public class AttachMain {
 - **随机毒鸡汤**：多希望我的脂肪，能像朋友一样，不知不觉就没了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d238ad7a-d1c2-4d5f-bd9c-6a2033c90d45)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一开始担心是诈骗信息，后来想想自己的余额，放心的点开了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=df3c0e59-7a8d-4558-89e6-bdefc2bc0d90)

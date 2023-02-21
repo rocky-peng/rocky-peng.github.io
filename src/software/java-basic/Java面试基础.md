@@ -261,3 +261,9 @@ public interface Lock {
 - **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c41b5abc-09cd-4883-99ce-f893bdf6dff9)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：既然如今要在家上学，那以后，只能在学校睡觉了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=61e4bdee-8cb0-41e9-ac5b-0ee504da4efb)

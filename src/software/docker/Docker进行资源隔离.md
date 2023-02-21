@@ -232,3 +232,9 @@ CONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   
 - **随机毒鸡汤**：希望我的体重，像我的成绩一样，直线下降。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8dae4176-d39b-427b-8eec-6888611a5250)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：生活就像新闻联播，不是你换台就能逃避得了的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ee872e93-fb0c-4ce1-b33f-09da43aa00d9)

@@ -126,3 +126,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：我对你要求不高，能跟我其他对象，和睦相处就好咯。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2a08dbe9-39cd-4c9c-9751-13256d8f01ff)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别人清空购物车靠买，我清空购物车靠删。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ed60cbff-bdbf-4b14-b72c-38be5e8ca679)

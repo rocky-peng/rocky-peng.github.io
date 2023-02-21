@@ -183,3 +183,9 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 - **随机毒鸡汤**：比起被人左右情绪的生活，我更喜欢无人问津。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=89ea4409-3e52-432f-af09-7736c8b61a05)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：都说陪伴是最长情的告白，其实长得好看的是陪伴，长得丑的是纠缠。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=51d1365a-239b-4643-9ce2-8df76d55c891)

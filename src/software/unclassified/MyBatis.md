@@ -46,3 +46,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：两只小蜜蜂飞在花丛中，飞的高的对低的说，你个low bee。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4fa1e4fb-e575-484d-966b-0fe023134eea)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：肚子上的赘肉，是你向生活妥协的痕迹。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b45d35fa-765d-42ba-9db6-afed8e6bada1)

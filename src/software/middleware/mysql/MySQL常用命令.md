@@ -548,3 +548,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：你以为最酸的感觉是吃醋吗？不是，最酸的感觉是没权吃醋。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8aff22a0-5636-4eac-b2f1-e92f311ddb98)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：跟你谈钱的老板才是好人，跟你谈理想的，都TM不想给你钱！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0c168805-addb-4363-8613-28d5886aa08d)

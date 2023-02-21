@@ -41,3 +41,9 @@ Memory Analyzer TOOL
 - **随机毒鸡汤**：你不觉得每天洗澡，就像在给蚊子洗菜吗？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=aff8e49d-c85d-48f8-9f78-da5d66ba07c0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：中国为什么树少？因为作业卷子太多了！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4743173e-b8f7-4b17-abfa-326862cbe9f2)

@@ -58,3 +58,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：世界上本没有贫穷，富的人多了，我就变成了贫穷。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c73f370d-e558-4268-a61d-6e5cab15a7de)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：游戏没了可以重开，女朋友要是没了，那游戏就能一直玩下去了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e6bc9be7-d0fb-4e9a-9655-0594f1143edd)

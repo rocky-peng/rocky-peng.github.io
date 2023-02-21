@@ -29,3 +29,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：所谓陌路，就是最初不相识，最终不相认。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=48882617-5c19-46d4-aa99-d8c91e10de9b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：枕头要经常晒，因为里面装满了，心酸的累和发霉的梦。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b258bc87-25ac-4e3a-a744-eee338f8756c)

@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候认为自己是白雪公主，现在也差不多，是白学公主。
+- **随机毒鸡汤**：快乐分享错了人就成了显摆，难过分享错了人就成了矫情。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=994f90f4-77a3-418b-8b09-4c3f7197bfa6)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a460fb60-836c-4dea-b5db-af1b160f0744)

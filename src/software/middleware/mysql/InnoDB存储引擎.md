@@ -199,3 +199,9 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 - **随机毒鸡汤**：不要脸这事，如果干的好，叫心理素质过硬。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=747e7475-44ca-4304-8990-d282fc28b548)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果连我的情绪，都要我亲口告诉你，那和考试抄答案有什么区别？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f7f4d650-dfa1-4f9c-82a7-6aae745a245b)

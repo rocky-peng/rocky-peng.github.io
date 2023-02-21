@@ -246,3 +246,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：没有人能使你放弃，因为你只要努力一下，就会自己放弃了！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cc647eb5-95a3-45ba-b3bf-2f40345c47b6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：哪有那么多烦心事，还不都是自己蠢出来的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7c89b52e-22a2-4c3d-b268-bcf4ec5b580f)

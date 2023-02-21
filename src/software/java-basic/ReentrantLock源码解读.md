@@ -176,3 +176,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：你以为浪子回头金不换，其实浪子可能只是，上岸缓一缓。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=de02eca5-c3ed-4c53-9b46-6b96d28d9e57)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上没有得理不饶人的人，只有没理还缠着你不放的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f109559-5069-4d1d-8a45-84c9a143cc17)

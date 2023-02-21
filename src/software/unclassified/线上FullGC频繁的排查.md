@@ -123,3 +123,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 - **随机毒鸡汤**：有时你会觉得自己就是个SB，别灰心，至少感觉是对的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d4121c78-9af9-43b3-97e4-a8c938c3fd0d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：很多人说我减肥没瘦，减肥没瘦怎么了？你上班不也没存款吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f46d79d3-4f9a-4c74-b48b-feb258d49252)

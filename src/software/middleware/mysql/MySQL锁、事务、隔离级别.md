@@ -486,3 +486,9 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 - **随机毒鸡汤**：是好久不见，还是，视而不见。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f70210fe-70c6-4899-914c-9f52194a8b49)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有种不治之症，叫做「脑子有病」。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=03b6c7da-1e42-4dfd-9bad-d1e6f65ddf41)

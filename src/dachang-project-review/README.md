@@ -27,3 +27,9 @@ article: false
 - **随机毒鸡汤**：靠运气赚来的钱，最终都会凭实力赔走，直到财富与认知匹配为止。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d51f3c68-fba2-4af7-8e9e-b95af3a5f7ea)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我的原则是，人不犯我 我不犯人，人若犯我 我就生气！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5d837082-0453-4050-bada-a1e276e55d9d)

@@ -60,3 +60,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：对就是对，象就是象，对象是什么意思？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=adf5602c-2ccf-4aca-856b-8cb4807f5727)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：真正的勇士，敢于直面银行卡上的余额，敢于正视磅秤上的数字。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bcb6e517-9256-4c1e-a684-90df3de6154b)

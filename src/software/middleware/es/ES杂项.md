@@ -55,3 +55,9 @@ date: 2018-05-05
 - **随机毒鸡汤**：别来无恙的意思，就是你别来，我无恙。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eba022e1-75dd-4a69-86ec-bd9bf8e50fb3)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要太秀，后起之秀很多。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3bb6681b-810a-42e4-bd56-ecd4fadb693c)

@@ -26,3 +26,9 @@ date: 2017-03-17
 - **随机毒鸡汤**：握不住的手，还是趁早放开吧，那也太胖了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8d6a3a77-33c1-4352-a857-70d03d363b0a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我觉得，我是小时候兴趣班上多了，长大才没兴趣上班。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a772177a-296f-45db-84c2-bec775373733)

@@ -521,3 +521,9 @@ static final class Node {
 - **随机毒鸡汤**：由于性格太内向，一直做不出，抢着结账这种事。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=72bde5dd-6f85-4db8-ae0d-a50fba706fdb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人與人之間的差距，就是被那些看不見的自律，拉開的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=384dbd55-4051-40e5-9d64-581730ccb729)

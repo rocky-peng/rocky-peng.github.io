@@ -43,3 +43,9 @@ EOF
 - **随机毒鸡汤**：不如躺平吧，反正早晚要躺平。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4db709d6-1a7d-4287-ae9d-3a93a800ae23)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：伤你最深的人，一定是最了解你的人，毕竟曾经你们无话不说。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d2c4d4d5-788f-4fac-a8d3-e494ffc6cdd0)

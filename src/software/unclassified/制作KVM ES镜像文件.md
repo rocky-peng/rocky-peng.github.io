@@ -93,3 +93,9 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 - **随机毒鸡汤**：闯红灯的一般有两种后果，要么比别人快一分钟，要么比别人快一辈子。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a762d586-f0c0-4c98-a9af-f3aada1dff69)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：每当误会解开，冰释前嫌的时候，故事就离结束不远了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d5ae7c2e-374a-4d79-a4b0-64f6c813ca95)

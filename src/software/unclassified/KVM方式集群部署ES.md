@@ -153,3 +153,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：曾经以为三十岁很远，不料现在，十八岁已是很久以前。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5e608ddf-9247-42f4-ba5d-4993f031e291)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果这辈子你没得罪过人，那么恭喜你，说明你这辈子没干成什么事。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=51c79dc8-35b6-4ec2-85cb-f553995b6a20)

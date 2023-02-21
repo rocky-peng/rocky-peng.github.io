@@ -207,3 +207,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：只要选对了人生的方向，很容易就成功了，让我们恭喜只要和很容易。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5a6b2755-c34a-49c6-b8fa-44eebdcecb4c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：每次临时抱佛脚的时候，佛总是给我一脚。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=de283673-9949-4e79-9084-7b4a999160d4)

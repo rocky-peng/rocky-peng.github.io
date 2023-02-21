@@ -357,3 +357,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：富有的人，并没有我们想象中的快乐，而是我们想象不到的快乐。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1085a8d1-6311-4bba-a22a-575722d4d8ec)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：没有人理解你很委屈吗？数学都不被你理解，数学都不委屈。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d0981bd9-06b7-4832-8df8-add4407ce335)

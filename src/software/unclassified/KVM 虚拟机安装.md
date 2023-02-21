@@ -329,3 +329,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：不要把希望寄托在别人身上，也不要让别人，把希望寄托在你身上。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3e85ab83-b59d-4414-97f1-32692125e7e2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：幸亏长得丑，没经历过各位的爱恨情仇。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce2880ec-c3d4-4522-a56f-16d8e55df66c)

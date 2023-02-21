@@ -28,3 +28,9 @@ article: false
 - **随机毒鸡汤**：像个智者一样开导别人，像个傻子一样折磨自己。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f842e55c-b76e-4d0d-97f1-96d87a54f8e7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：从小就被教育不要乱花钱，长大后我才发现，根本没钱怎么乱花？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=38371748-3d85-41db-bf41-aa096da78980)

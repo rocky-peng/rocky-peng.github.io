@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上天不会亏待痴情人，一般都往死里整。
+- **随机毒鸡汤**：可有可无的东西，一律可无。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9d688ee1-ef9b-4408-9646-028db1c5c672)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1d06aa6a-7ee8-46cc-be6c-2ef467f55265)

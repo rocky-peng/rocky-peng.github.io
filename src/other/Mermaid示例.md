@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是因为看到了希望才坚持，而是因为坚持了，才知道没希望。
+- **随机毒鸡汤**：奈何年少没文化，一句卧槽走天下。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e1fd1ee7-1247-49d0-bf77-1a6ad4d7317b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9f3ef513-e054-4382-8275-1ad070832b88)

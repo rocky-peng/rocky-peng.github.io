@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：还好没有对象，不然这么冷的天，还要拿手机出来回信息。
+- **随机毒鸡汤**：不给别人添麻烦，就是我对这个社会，最大的贡献。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=047435ef-be6a-4aaf-80fb-3b897fe7429c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=19425dc6-5f28-4bac-a370-520f7aa993b7)

@@ -27,3 +27,9 @@ article: false
 - **随机毒鸡汤**：我不是矮，我只是离天空比较远。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6cdc4ccf-7f03-4bdb-b0ec-d4f769fe1172)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有钱人终成眷属，没钱人只能吃土。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=54f81037-0fea-41c5-b293-2d428850d40b)

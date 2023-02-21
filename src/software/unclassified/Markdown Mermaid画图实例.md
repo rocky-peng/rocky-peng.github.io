@@ -156,3 +156,9 @@ gantt
 - **随机毒鸡汤**：愚人节都没人表白，那就真的没有了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=edb52873-c524-47c4-ae1a-4aa42bcb6770)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：年轻的时候一定要敢于做梦，毕竟年龄一大，就很容易睡不着。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fedd5a8c-61f5-40e8-85a7-7acb2283e92a)

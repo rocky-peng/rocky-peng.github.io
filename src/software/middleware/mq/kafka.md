@@ -45,3 +45,9 @@ date: 2021-08-01
 - **随机毒鸡汤**：出场顺序很重要，去迟了也没关系，毕竟大Boss都是最后出场。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9af56e2d-1f37-4481-ace2-88ab2b4eb623)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：別人前途無量，我前途無亮。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1ac45bb8-b0f3-4b6f-aab4-e038083140e0)

@@ -844,3 +844,9 @@ es				1.6.0-2.1.0
 - **随机毒鸡汤**：作为失败的典型，你实在是太成功了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b350dff3-42a6-4f74-bb34-a87e09683317)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：上了那么多年班从没请过假，我怕公司发现，有没有我都一样。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8e722ed1-bc46-416e-a44b-ffbbb116c2fd)

@@ -55,3 +55,9 @@ EOF
 - **随机毒鸡汤**：穷人和普通人都叫啃老，富人叫继承家业！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=da399342-f176-4955-9992-ead30f22516b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：请不要叫我宅女，请叫我居里夫人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6b84512f-cf33-4f1d-837d-620589557ff6)

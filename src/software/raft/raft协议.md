@@ -83,3 +83,9 @@ http://thesecretlivesofdata.com/raft/
 - **随机毒鸡汤**：愚人节表白算什么，清明节表白才是王道，失败了还可以说是鬼附身了！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=327832a6-b55d-4cee-bba0-7b8d6b087116)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生就像一个茶几，上面摆满了杯具。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6fef27d0-c42b-457e-87bf-3ce3aa2f1496)

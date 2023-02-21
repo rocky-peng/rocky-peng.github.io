@@ -84,3 +84,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：女生何必勾心斗角互相攀比，反正几十年后，都要一起跳广场舞的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b284a65d-9bf9-4fe4-a5bc-24a40daaf786)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：说啥啥不听，干啥啥不行，吃啥啥不剩。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c0ddec25-f0db-484a-bf82-3cab3d3ecf4f)

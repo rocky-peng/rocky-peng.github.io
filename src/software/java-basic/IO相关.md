@@ -307,3 +307,9 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 - **随机毒鸡汤**：什么岁月静好，你特么就是懒。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=60add59a-9977-4641-a390-6c2d838f6c07)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我们之所以关系好，全是因为，我在硬撑。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=403d881d-080b-40fe-99d4-480a28bb682c)

@@ -65,3 +65,9 @@ tagline: 你可以在这里放置你的口号与标语
 - **随机毒鸡汤**：带了口罩才知道，自己的嘴有多臭。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6dac0bb5-0669-4fe8-ac83-899b867d3b14)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：2019年第一天，说出你的新年愿望，那就一定不会实现。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=3c143113-56dc-4e8b-a176-5c49af57a801)

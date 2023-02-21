@@ -121,3 +121,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 - **随机毒鸡汤**：好看的皮囊特别贵，有趣的灵魂特别丑。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2b186b9f-9318-4499-ae9a-78454d2688ac)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：为什么现代人不会写诗？因为，「文体不限诗歌除外」。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c442778f-4ee1-4e08-833a-3f085cb1d1f5)

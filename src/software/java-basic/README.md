@@ -27,3 +27,9 @@ article: false
 - **随机毒鸡汤**：忍无可忍，就重新再忍。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=201ac0d8-fd22-4091-a885-5607415b37e2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别人骂你的时候，不要理他，反正你又骂不过他。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9db8728-0e1e-4c62-97c0-c1c72e7112f2)

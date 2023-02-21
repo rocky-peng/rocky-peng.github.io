@@ -51,3 +51,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：对你竖大拇指的人，不一定是在夸你，也可能是用炮在瞄你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1c6fe887-3d78-4c33-ac99-2ab9ba226c8a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只有我不认真复习，才能说服自己，接受自己糟糕的成绩。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1ee52237-44d2-4a8d-a34b-40990e1ac366)

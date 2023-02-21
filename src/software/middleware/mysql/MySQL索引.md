@@ -165,3 +165,9 @@ InnoDB支持的索引
 - **随机毒鸡汤**：班上有位女生，至今都没有出现过，她名叫安静。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=32b1730f-0ca8-42ea-a33f-65f8ac31d1e0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：十倍速亲近你的人，会在未来某个时刻，十倍速离开你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b4b81725-5739-497d-84e5-d48c14db3b06)

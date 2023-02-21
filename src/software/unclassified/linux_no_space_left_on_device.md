@@ -70,3 +70,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：不要去追一匹马，用追马的时间种草，来年春天会有一批骏马到来。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=363312ec-649c-4f0c-962b-ea38de257ed0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你的脖子真可爱，顶着一个猪脑袋。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c4146a32-5fee-4720-a988-08a0d262db2f)

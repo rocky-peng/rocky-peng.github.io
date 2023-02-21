@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：哪有那么多烦心事，还不都是自己蠢出来的。
+- **随机毒鸡汤**：你以为你们的关系很铁，但你知道吗，铁是会生锈的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0070c25d-1b93-473b-8ac5-cb1e32d9adbc)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5843f4c2-6d1f-4efc-9e94-bbb7176d99fa)

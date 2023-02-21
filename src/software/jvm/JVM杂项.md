@@ -448,3 +448,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：不给别人添麻烦，就是我对这个社会，最大的贡献。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0c0c5efc-cd80-4a95-aebf-5aa0873506eb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：心甘情愿四个字，真是卑微又勇敢。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61bb0d97-4218-4e84-985d-1ae9230d71d8)

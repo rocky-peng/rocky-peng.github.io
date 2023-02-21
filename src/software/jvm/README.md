@@ -27,3 +27,9 @@ article: false
 - **随机毒鸡汤**：贫穷和自卑让我低下头，打开书。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e23c6bbd-6c57-4157-9ea5-12e5fb403f8e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一直对发型不满意的人，有一个共同点，不肯承认这是脸的问题。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=59f69711-0caf-4d5e-b3c4-c04f8b56f346)

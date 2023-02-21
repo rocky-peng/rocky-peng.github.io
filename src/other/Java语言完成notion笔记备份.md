@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要你想要而只要我有，不管什么，老子都不会给你。
+- **随机毒鸡汤**：人家考试跟玩一样，我考得跟玩一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bb61d6be-ca5a-445d-84f9-9ea865fbb4b4)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bb1dbdee-9d48-4c91-afe4-89da60cb5435)

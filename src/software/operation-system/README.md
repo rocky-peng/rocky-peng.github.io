@@ -28,3 +28,9 @@ article: false
 - **随机毒鸡汤**：遇到解决不了的事，先放一放，过几天就会忘记的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ec9ec332-8642-4e5a-bf0c-a26a12967831)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要一个人的起点够高，那么他就可以，用一辈子来走下坡路。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=befbe23d-d7ef-4e7f-b5de-e400c33ff406)

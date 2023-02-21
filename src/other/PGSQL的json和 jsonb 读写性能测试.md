@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：牙签放在脚指甲盖，向墙猛的踢过去，你看吧文字也能让人疼痛。
+- **随机毒鸡汤**：还好没有对象，不然这么冷的天，还要拿手机出来回信息。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3b467a8b-af56-4461-ab23-b6df7bc4ca5c)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1f68d905-647c-4225-9c9a-fff2fb9567c0)

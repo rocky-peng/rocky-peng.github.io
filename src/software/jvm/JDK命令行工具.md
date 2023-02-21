@@ -320,3 +320,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：明知不可为而为之，是我对这段感情，最大的诚意。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5527e5dd-4166-4abd-a604-17bbe1f0c876)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：清明节，应该回你的学校扫扫墓，因为那里埋葬了你的青春。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4afc681d-330d-49fc-9a20-6d402bfe3130)

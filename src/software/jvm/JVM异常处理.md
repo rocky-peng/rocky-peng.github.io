@@ -132,3 +132,9 @@ import java.lang.reflect.Field;
 - **随机毒鸡汤**：世界上本没有路痴，建的路多了，就有了路痴。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61bcee87-d9f2-41d4-b147-a40319d54f72)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你的努力永远比不上，别人的家底。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b3a58cae-8f17-4e60-9a05-6b0f30bb3bb2)

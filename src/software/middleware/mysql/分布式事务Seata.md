@@ -64,3 +64,9 @@ date: 2018-08-05
 - **随机毒鸡汤**：乖别担心，恋爱都轮不到你，肺炎怎么会轮到你？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=660a7aa9-fda9-4256-99ad-3ad65782aff1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：以前丑不好意思发自拍，现在不一样了，现在脸皮厚了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9487e75f-cb3c-4f51-b3b1-66004a384eae)

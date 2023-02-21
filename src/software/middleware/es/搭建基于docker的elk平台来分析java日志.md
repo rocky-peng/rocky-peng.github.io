@@ -549,3 +549,9 @@ sudo /etc/init.d/filebeat stop
 - **随机毒鸡汤**：因为不够幸运所以要努力，也因为不够幸运，所以努力都只是白费。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fe62b537-3202-4f80-a89b-706c911fe141)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：美貌会消逝，但蠢是永恒的~
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bae07cb4-07fa-4f55-8561-ac35b0154d54)

@@ -28,3 +28,9 @@ date: 2021-09-01
 - **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=71e4cbbd-fce8-43cc-b8b6-5c58cc03ce5d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你这么努力，忍受了这么多寂寞与痛苦，也没见你多优秀啊。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c7ec44ee-f95c-4c62-8e42-79cda40be568)
