@@ -82,3 +82,9 @@ date: 2018-08-05
 - **随机毒鸡汤**：少一句怕遗憾，多一句怕打扰。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=db485c75-c634-4b30-8fd5-21b9fd99fb6a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：对你竖大拇指的人，不一定是在夸你，也可能是用炮在瞄你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=446e71f4-eefd-4060-b9b7-815a2668f500)

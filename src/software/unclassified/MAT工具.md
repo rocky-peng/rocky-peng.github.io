@@ -59,3 +59,9 @@ Memory Analyzer TOOL
 - **随机毒鸡汤**：武则天证明了，成功和性别没关系，你证明了成功和你没关系。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ff0ea9e7-a2d6-4b5b-9a99-7c05707a1758)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别不好意思拒绝别人，反正那些好意思难为你的，也不是什么好人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d681da68-4410-4d70-8ff8-87419a528be1)

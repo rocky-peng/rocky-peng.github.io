@@ -201,3 +201,9 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 - **随机毒鸡汤**：我们之所以关系好，全是因为，我在硬撑。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bdcdde86-bec3-4884-bdec-88ad51b3b2a4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要自己躺平，就不会被任何人击倒！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=250df7a3-d5d7-4872-b994-7ecde7437573)

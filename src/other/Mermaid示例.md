@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一个人久了，突如其来的关心，都是负担。
+- **随机毒鸡汤**：生活就像新闻联播，不是你换台就能逃避得了的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0b9ec627-62b6-405b-b046-c7dcfab7d37f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ea3dbeb-ed3d-4443-8e68-d40c73a2ec79)

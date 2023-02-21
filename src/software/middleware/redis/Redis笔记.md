@@ -421,3 +421,9 @@ s
 - **随机毒鸡汤**：人家不是无趣，而是，懒得对你有趣。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=427d61d0-1276-4b99-bc8c-3ae4a9fe3ffe)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：反正明天也一樣糟，沒必要跟今天過不去。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0edd8bc6-faa3-47e1-8f13-73291dfd88b7)

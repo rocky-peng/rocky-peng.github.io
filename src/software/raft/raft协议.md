@@ -101,3 +101,9 @@ http://thesecretlivesofdata.com/raft/
 - **随机毒鸡汤**：放弃这个字，说起来简单，做起来就更简单了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8d750747-93f7-4c32-b098-d9f012bfb17c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你总说你是清醒着堕落，真的清醒了就不会堕落了，别骗自己。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7f75bf8f-2854-4b2a-8ecd-42b9ce0528c4)

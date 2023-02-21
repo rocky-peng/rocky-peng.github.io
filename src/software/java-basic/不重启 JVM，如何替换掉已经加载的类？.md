@@ -269,3 +269,9 @@ public class AttachMain {
 - **随机毒鸡汤**：付出就会有回报，比如一倍的奢望，换两倍的失望。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e00416d6-e0fd-4d01-8b00-5adfbc92ad96)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人丑就要多读书，因为只有书中，才可以体会美好的爱情。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a4f762b0-3ce4-4b4b-836b-afade8a4b692)

@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你可能不知道，这辈子有可能是你，上辈子说的下辈子。
+- **随机毒鸡汤**：表走着走着就慢了，人走着走着就散了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e90143c7-1adb-4642-8749-7192127f5ec5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5387ded6-0c08-471a-b639-2c3387c381fd)

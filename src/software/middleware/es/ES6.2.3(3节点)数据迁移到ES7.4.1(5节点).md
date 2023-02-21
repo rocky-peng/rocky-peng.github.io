@@ -439,3 +439,9 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 - **随机毒鸡汤**：人生就像拉屎，也许你努力半天，结果就出来一个屁。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bc2de498-7bb9-4a77-a4a6-616909c189ca)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：保持美丽的秘诀，以前是睡觉，现在是P图。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9005f76-6d21-4ee5-93f7-753b50ed4e7c)

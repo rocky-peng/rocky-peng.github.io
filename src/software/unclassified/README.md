@@ -46,3 +46,9 @@ article: false
 - **随机毒鸡汤**：事事如意料之外，年年有余额不足。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8107e56b-79eb-440e-a3ab-14e4c595c301)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a2798359-2574-4cf8-a8fc-937b684600fc)

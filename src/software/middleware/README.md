@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：精心制定的计划，只不过是为了安抚，自己某个时刻躁动的心。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e240c48e-8283-4d1c-955f-5a4f4f567de0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：千万别戒烟，戒了晚死好多年。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eaf51484-2d5f-403c-a43c-daf610bad386)

@@ -539,3 +539,9 @@ static final class Node {
 - **随机毒鸡汤**：让人失望这方面，我从来没让人失望过。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3e4a43eb-619c-4c73-9d32-247eaa299473)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：电影结束后，会让你带走自己的垃圾，意思是叫你别在这里滞留。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b72cd6ab-6909-48b3-95b5-ec4dc9487024)

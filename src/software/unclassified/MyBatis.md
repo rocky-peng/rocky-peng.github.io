@@ -64,3 +64,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：我可以秒回可以已读不回，也可以不读不回，都取决你是谁。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c4a2f173-e314-4dc9-8740-4b0fc3a226d4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在家宅着，圆了我当皇帝的梦，朕乃“闲疯帝”。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=810403a8-d8b2-4238-852c-7bf862de927d)

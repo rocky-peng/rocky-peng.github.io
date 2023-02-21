@@ -466,3 +466,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：每天简单生活，一切从简，始终单调。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bb692347-00e1-4bb7-a158-a2d239f85c08)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：成年人的世界只有两个字，——算了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=74a17f8c-e0bc-4a8f-b1c8-63c7e646d634)

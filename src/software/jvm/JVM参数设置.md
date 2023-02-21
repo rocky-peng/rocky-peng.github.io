@@ -292,3 +292,9 @@ Number of method invocations/branches before compiling [-client: 1,500]
 - **随机毒鸡汤**：还没有对象？要不要给你介绍，一款不错的狗粮。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9e502233-e6c5-45f7-8460-778443d5b039)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不学觉得数学没用，学完觉得自己没用。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9083c0c5-cf9c-4bff-8414-d0f272b90830)

@@ -325,3 +325,9 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 - **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=08f04b0d-3dd1-4558-b7f3-1237f391219c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果十年后，你未嫁我未娶，那我们实在是太惨了…
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b339b7a4-0e7e-4426-b902-094be27ef4a5)

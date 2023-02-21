@@ -47,3 +47,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：有钱的时候把生活过好，没钱的时候把心情过好，可是没钱心情怎么会好。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=31305cd2-62c6-42f2-b40a-07c2c700d84e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有人说我是猪，我觉得也就只有猪看人，才会像猪吧。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9b8cac7c-95fa-422e-9aa2-611275007d53)

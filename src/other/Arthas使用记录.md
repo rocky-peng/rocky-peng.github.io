@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：其实，电脑游戏从小就训练你，把Boss当作自己最大的敌人。
+- **随机毒鸡汤**：压力并不是有人比你努力，而是比你牛逼的人还在努力。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3c2520e7-5a9c-4c22-8ac9-ae40ab4891ab)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f5729fd3-9d7a-4fe5-aae4-7c6a5b3fe35a)

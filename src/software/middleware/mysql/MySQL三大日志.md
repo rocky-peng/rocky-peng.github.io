@@ -264,3 +264,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：为什么要晒这么黑？因为我不想白活一生。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8bcf0fc9-cd5c-41c6-a943-0f00100a422e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：想变美就多睡觉，睡懵了就觉得自己美了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=aec7ad3e-3230-4238-b7c0-449fbdaa8ce6)

@@ -225,3 +225,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：疫情之前 白雪公主，疫情之后 雪球公主。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f32140da-3c8e-44e5-97b5-a914c354d970)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要垂头丧气了，显矮。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=35fbd999-66e3-42ad-86fd-e73d04335f43)

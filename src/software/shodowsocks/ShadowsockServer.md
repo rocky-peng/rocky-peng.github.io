@@ -70,3 +70,9 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 - **随机毒鸡汤**：自己都是一个失败的人，还想教出成功的孩子吗？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cd414c2a-a237-4d08-951f-0293574a9501)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：虽然我学得慢，但我放弃得快。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e74172cf-1109-4a45-bcd3-92d697279db6)

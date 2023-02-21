@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？
+- **随机毒鸡汤**：垂死病中惊坐起，我还能做几道题。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2b17df95-edb6-493f-9058-b2b14ca171c5)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ef5c24d9-ef37-4e7b-9359-5016f62f1c57)

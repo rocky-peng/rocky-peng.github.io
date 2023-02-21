@@ -375,3 +375,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：听成绩一定要用右耳听，因为左耳靠近心脏，可能会悴死。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1d4847cf-0abc-4973-b99f-0674094d9e65)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：当浑浊变成了一种常态，那么清白就成了一种罪。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=03e01924-2d99-4a24-8fd8-89f861e80798)

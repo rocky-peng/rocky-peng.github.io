@@ -76,3 +76,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：年轻人总把没钱挂在嘴边，其实根本没必要，你不说别人也能看出来。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=435a6452-de6c-462a-9012-8b7cd2e2413a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：快乐分享错了人就成了显摆，难过分享错了人就成了矫情。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a93e8824-bc48-4844-a129-488cfde765b9)

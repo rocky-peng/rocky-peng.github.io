@@ -46,3 +46,9 @@ article: false
 - **随机毒鸡汤**：你的感情路顺吗？顺啊，一路都没遇到什么人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=924388e0-95e8-4f02-a12e-1aebd7a3fccc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你能在浪费时间中获得乐趣，就不是在浪费时间。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e3406d2e-7ae4-469c-b45a-710433470288)

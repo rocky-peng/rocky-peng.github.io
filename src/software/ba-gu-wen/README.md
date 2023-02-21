@@ -46,3 +46,9 @@ article: false
 - **随机毒鸡汤**：很多时候，并不是这个世界太丑，是我们想得太美。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=01d33bfc-3b3c-4647-a5cc-46bbe238503e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：饱汉不知饿汉饥，饿汉不知饱汉虚。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7a82e8d0-aa9d-46da-a487-52219fd819f8)

@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：小时候总以为大人不挑食，长大后才明白，他们不吃的东西都不买。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f75bf612-bdaf-426a-a0c9-aeee0ae8cf48)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：珍惜对你好的人，否则错过了就不知何时，才能遇到另一个瞎了眼的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f2f9db22-3065-4278-8ae3-712b88064aef)

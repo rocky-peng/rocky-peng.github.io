@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：自己都是一个失败的人，还想教出成功的孩子吗？
+- **随机毒鸡汤**：如果可以，谁不想回到过去，买房买地。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=de196318-8f3c-42d3-a288-808b0c9aa401)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=467a8954-fabe-4c31-9a17-df1f57866e77)

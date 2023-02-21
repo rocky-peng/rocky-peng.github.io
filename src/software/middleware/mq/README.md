@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：有的人呢不打不相识，但是也有人不打不识相。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=437ebbb2-b1eb-4aba-b4cd-13d27efe2088)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你遇到最歧视的事情，是什么？56个民族55个加分。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b220c2f7-07a3-4354-9a9f-e6519da012e4)

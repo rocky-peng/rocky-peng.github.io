@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：有钱的劳斯莱斯，没钱的劳死累死。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=60879d6b-6911-4b91-96e6-e625b876df7f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：生活有两大误区，一是活给别人看，二是看别人活。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eedf9216-0d93-416e-b882-7057c73c025e)

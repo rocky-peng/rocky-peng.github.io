@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世上只有骗子是真心的，因为他是真心地在骗你。
+- **随机毒鸡汤**：曾经小小少年，如今又大又圆。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61dc0e94-8bad-4d2f-ac7b-58898f57f15a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b560f274-e65e-4016-91b7-666aeb944fee)

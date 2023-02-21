@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上天给了你很多次，做傻逼的机会，你全抓住了。
+- **随机毒鸡汤**：2019年是不是感觉白过了？没关系，明年可能也是。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f29ba2dc-ec32-4407-855f-f2a0618ab4eb)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=386b94c0-da33-4ab8-8e3e-9744fd542820)

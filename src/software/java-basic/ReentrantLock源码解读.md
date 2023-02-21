@@ -194,3 +194,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：每个人都在愤世疾俗，每个人又都在同流合污。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5e0de37b-649b-46ea-af48-2facfe4451d4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我们被困在家里，已经很幸运了，而有些人被永远困在了2020。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1990b516-5a1d-4316-bb2e-69d66532580b)

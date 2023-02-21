@@ -73,3 +73,9 @@ EOF
 - **随机毒鸡汤**：你要相信，世界上真的有人，在过着你想要的生活。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8c6221be-7dc7-4184-9344-9a42fa89af8b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9147cd6b-f714-4e21-89f7-0d03995e2429)

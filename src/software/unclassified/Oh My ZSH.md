@@ -102,3 +102,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：伤害你的，不是对方的无情，而是你心存幻想的坚持。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f4a6086d-1039-4361-a07a-6e8e1faa464e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：运气这种东西，踩踩大便就来了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=325385e6-4fd0-4a2c-963e-05e4d5a3e255)

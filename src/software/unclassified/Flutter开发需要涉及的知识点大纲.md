@@ -69,3 +69,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：我把她从女孩变成了女人，她把我从男孩变成了，穷人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4dd75241-0898-4e4e-a512-ff477ada3eea)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：等我圈住你的时候，我就是猪圈。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=563e4624-7603-4c0d-8eb6-1f433ed59f4c)

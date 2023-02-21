@@ -566,3 +566,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：解决人际关系最好的办法，就是避免与人相处。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5a5eac35-6f92-45a3-8ed4-75d9dacbc21f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：书籍是进步的阶梯，手机是近视的电梯。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f74285d0-0f87-4f02-b073-166b3d73a54a)

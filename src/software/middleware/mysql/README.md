@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：人还是刚认识的时候最好，虚伪又浪漫，新鲜又热情。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=28ecd21d-5e0b-4d0a-9931-639797a481d6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：运气不好的人，越努力越信命。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ed5b7740-6f12-4e49-8163-2cfb49da97a0)

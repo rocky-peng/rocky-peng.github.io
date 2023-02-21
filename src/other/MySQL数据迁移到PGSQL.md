@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：老板用你的时候你就是人才，不用你的时候就变成裁人！
+- **随机毒鸡汤**：洗脸时不要洗到发际线，因为发际线会以为那是脸，就会往后移。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=74a9716c-eeeb-4570-b7a2-9eafd2fad2f2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=35651973-08bb-446a-b88c-2fbc85c51ab2)

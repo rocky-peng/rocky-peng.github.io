@@ -56,3 +56,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：为什么家长只关注成绩呢？那废话，他们能看得懂题吗？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c93248e4-15e9-46dc-ad08-5b3451bfb8c6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：信就信，不信就不信，还TM整个微信。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3e7509ba-5465-454d-87f1-1a9437314fab)

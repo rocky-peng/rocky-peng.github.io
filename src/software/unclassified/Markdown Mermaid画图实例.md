@@ -174,3 +174,9 @@ gantt
 - **随机毒鸡汤**：放假给我放傻了，开学之后要怎么才能，融入那个高智商的环境？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=47db9a0d-bafe-45e5-bc10-4f04db3902ca)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：真正的吃货，是可以把月供看成月饼的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d182a6db-f8c3-413d-a613-c6640ead95fa)

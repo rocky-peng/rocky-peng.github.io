@@ -46,3 +46,9 @@ date: 2021-09-01
 - **随机毒鸡汤**：本就没有感同身受，只有身受了才能感同。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bb9cdd7a-a663-4fcd-8d29-3a4830607b2f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：明明是游手好闲，就别妄称自己是文艺青年。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c53e06eb-08a1-4999-8995-739f66ab5071)

@@ -171,3 +171,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：不要以为老天在折磨你，而事实上，老天根本就不在意你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=877b7bd2-8267-4954-9f0f-c43ca3cd42f7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：做人莫过于唐僧，不管是敌是友，都想送他上西天。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=09648bd6-1250-4260-8a89-f1b8b0be1051)

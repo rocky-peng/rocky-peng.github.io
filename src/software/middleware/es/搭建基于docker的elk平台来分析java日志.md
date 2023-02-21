@@ -567,3 +567,9 @@ sudo /etc/init.d/filebeat stop
 - **随机毒鸡汤**：我可以划船没有桨，我可以扬帆没有方向，因为我这一生全靠浪。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ed52acef-82c7-4cbe-a846-4a8f7f17cf9a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果你容不下我，说明不是你的心胸太狭窄，就是我的人格太伟大。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=00c1241d-8181-48d2-b5c6-ca33cfeb67f4)

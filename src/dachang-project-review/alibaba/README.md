@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：世界上有没有纯友谊？当然有，只要长得丑 四海皆朋友。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3c0da641-10f1-4530-b5d8-f4aff4492883)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：做作业时不能抄答案，因为一但你抄了答案，你就会发现真的很快乐。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=032db485-35c7-45a4-a690-a99ca2ea6cf0)

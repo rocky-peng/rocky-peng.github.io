@@ -504,3 +504,9 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 - **随机毒鸡汤**：白天各有各的光鲜，夜晚各有各的崩溃。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=647e7a45-5b60-4425-9b85-423359327c71)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一路陪我走过来的，不是什么善良正直正能量，而是虚荣嫉妒和不甘心。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=089af52b-a50e-4e03-8c9f-99e067c7b231)

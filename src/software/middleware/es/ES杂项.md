@@ -73,3 +73,9 @@ date: 2018-05-05
 - **随机毒鸡汤**：丑人多作怪这句话不假，因为长得好看的，无理取闹叫撒娇。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f394ea48-9de1-4a2a-b4df-bdb6910e7df0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：活着就会感受到痛苦，痛苦能提醒我们还活着。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=129c8a19-03aa-4b34-9757-842fef290e21)

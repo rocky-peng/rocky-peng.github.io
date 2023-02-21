@@ -76,3 +76,9 @@ RpcServer:
 - **随机毒鸡汤**：世上没有绝望的处境，只有对处境绝望的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=86ba91ed-6a2c-44af-b1be-e9c86b56c47e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：突然发现，起床第一件事是摸手机，睡前最后一件事是放下手机。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b6b7283c-2f49-4db5-97dc-e19356c9cc8c)

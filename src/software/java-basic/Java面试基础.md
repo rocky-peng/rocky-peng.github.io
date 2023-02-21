@@ -279,3 +279,9 @@ public interface Lock {
 - **随机毒鸡汤**：有些人的存在，就是为了证明，祸害遗千年这句话有多对。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=24e0de7e-fe6c-40b6-91c7-b858db7e89b8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：好人有好报这句话不假，但老好人没有。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e6af7bdd-313d-4a72-8797-e74359aa26ec)

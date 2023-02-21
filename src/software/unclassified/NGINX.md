@@ -106,3 +106,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：现在虚伪不叫虚伪，叫情商高。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5137196c-0a9c-4c83-9821-dc86d1d403fc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：时间不能冲淡一切，比如痘印。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a1e526ca-1564-45c8-8add-d1391c1f1264)

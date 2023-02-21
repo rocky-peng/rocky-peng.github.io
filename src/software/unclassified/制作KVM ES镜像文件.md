@@ -111,3 +111,9 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 - **随机毒鸡汤**：不要踮着脚去爱一个人，重心不稳，撑不了太久。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=573bdd8e-5f3c-487b-b125-06b2b289e60b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你有什么擅长的运动吗？「逃避现实」。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9b02f24e-4615-4d54-9f69-7548c188e857)

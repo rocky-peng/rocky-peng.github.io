@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你求神说明你相信神，神不帮你，说明神相信你。
+- **随机毒鸡汤**：消极的人还在怀念国庆，积极的人已经在等待春节。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ebcfbf4b-2f81-4526-9359-e5d03f44ad95)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=57778c21-39b5-4b0d-9ead-388e1c015991)

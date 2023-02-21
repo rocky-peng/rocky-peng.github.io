@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：握不住的手，还是趁早放开吧，那也太胖了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=081744fb-fe15-4bac-89ff-b8c9a57e747d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你若帮了一急需用钱的朋友，他一定会记得你，在他下次急需用钱的时候。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ba7452b8-968a-4be9-b038-f93246d32a75)

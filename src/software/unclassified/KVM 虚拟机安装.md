@@ -347,3 +347,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：蠢萌的前提是萌，不是蠢。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=65d6c870-89ac-4045-a3b3-f69ee5419467)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：是什么让债主，比欠债的人还要卑微？是在乎。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1b48365f-2552-4458-9906-daee2693185f)

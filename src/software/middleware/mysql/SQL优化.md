@@ -862,3 +862,9 @@ es				1.6.0-2.1.0
 - **随机毒鸡汤**：只要你想要而只要我有，不管什么，老子都不会给你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1c7ee728-3da3-4c83-be1b-5f3489eba878)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在外靠朋友，在家靠沙发。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1d8ef7f4-0eb5-4009-aba7-dcbeb4212f07)

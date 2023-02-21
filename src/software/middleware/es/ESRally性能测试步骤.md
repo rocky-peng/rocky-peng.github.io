@@ -405,3 +405,9 @@ esrally race --pipeline=benchmark-only --track-path=/opt/esrally/track --target-
 - **随机毒鸡汤**：永远不要自暴自弃，一旦开始放弃，你就会发现非常开心。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=4731b8ca-f686-44f0-976f-a2f96d5a5475)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：所謂的人生就是，哭給自己聽，笑給別人看。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bc804b41-8131-448a-b81b-37d4d3bd79c6)

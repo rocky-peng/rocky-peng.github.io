@@ -123,3 +123,9 @@ systemctl start docker
 - **随机毒鸡汤**：睡觉前吃宵夜，这样才不会做饿梦。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01e738a6-1f74-4957-ab74-2943765f51a8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：被门夹过的核桃，还能补脑吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e73f3555-25b1-447c-b11a-ada0a1426876)

@@ -47,3 +47,9 @@ icon: info
 - **随机毒鸡汤**：一聊起来你就和盘托出，你以为这是健谈和热情，其实这就是孤独。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e1b1376-9869-4156-a37e-a3ae985bb029)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不期待任何人，也不想被任何人期待。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7ff0fdd6-eb47-4fa2-8f0a-1b7a85c54c10)

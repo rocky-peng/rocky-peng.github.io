@@ -338,3 +338,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：有一种悲哀叫做，这道数学题已经超出了，我的语文理解范围。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=670a5186-33bd-43cc-88f7-234f8c8174a2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：丑人多作怪这句话不假，因为长得好看的，无理取闹叫撒娇。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b73392ee-d534-4ec7-92a2-071811422c10)

@@ -83,3 +83,9 @@ tagline: 你可以在这里放置你的口号与标语
 - **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bd4d91ea-a075-45f7-8442-6c1463a45d91)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：富人孩子拼父母，穷人父母拼孩子。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=45ebebf2-5170-44ab-a27b-5f2096b7c421)

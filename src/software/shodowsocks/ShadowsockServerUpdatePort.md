@@ -61,3 +61,9 @@ EOF
 - **随机毒鸡汤**：看见别人走在成功的路上，你问问自己难道不想成为，他成功路上的绊脚石吗？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=45b17fa2-0395-4639-97a3-d2d06a532a09)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：挫折经历得太少，才会觉得鸡毛蒜皮都是烦恼！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f265f069-833a-4fe8-851a-6761acd7c6d8)

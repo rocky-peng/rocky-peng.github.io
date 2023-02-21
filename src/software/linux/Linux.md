@@ -147,3 +147,9 @@ ntpdate 时间服务器ip
 - **随机毒鸡汤**：如果我有什么，让你不喜欢的地方，麻烦你自己克服一下。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6225655a-27ca-4a34-b169-648e64fe0d12)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6044d4d0-b0d6-45c0-86a1-ba0f2c58f593)

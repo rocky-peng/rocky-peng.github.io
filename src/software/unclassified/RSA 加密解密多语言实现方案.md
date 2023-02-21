@@ -849,3 +849,9 @@ print _message
 - **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63727acf-d895-457a-9610-cbd870603ab7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我还是好喜欢你，像你妈揍你，不讲道理。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=de6d5542-83b8-47bf-ad00-541f93aac236)

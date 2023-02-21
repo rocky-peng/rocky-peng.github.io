@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是你长大变傻了，而是傻子长大了。
+- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=0194d358-a2c1-4632-af68-d116885ee67f)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=07a6fc41-aebb-4797-a41a-994a7f4d0cd2)

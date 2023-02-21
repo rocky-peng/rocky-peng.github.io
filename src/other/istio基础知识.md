@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：感觉这辈子，最深情绵长的注视，都给了手机。
+- **随机毒鸡汤**：你知道流星为啥这么快吗？因为它根本就，不想知道你的愿望。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b55a64c0-4a25-4780-85b6-06d715b94afa)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5953c50f-17ba-4ad1-89b0-73153b6bc093)

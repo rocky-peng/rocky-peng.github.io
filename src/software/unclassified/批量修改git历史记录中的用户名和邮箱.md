@@ -89,3 +89,9 @@ git push --force --tags origin 'refs/heads/*'
 - **随机毒鸡汤**：天生我材必有用，即便是废材，也能起陪衬的作用。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=039d05fc-5fca-4c39-aa1f-7ceb06c9fa9a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：都说正义会迟到但不缺席，这说明了什么，说明邪恶来的很准时。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6e726bb2-a4c9-4efe-9389-aee77bc3484f)

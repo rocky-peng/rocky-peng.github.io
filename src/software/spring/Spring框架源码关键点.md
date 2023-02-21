@@ -404,3 +404,9 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 - **随机毒鸡汤**：上海是商海北京就是背景，理想就是离乡，平民就是拼命。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=228e5bd9-bfe0-4e02-bd0a-1559df93daa7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：疫情之前 白雪公主，疫情之后 雪球公主。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7ea28766-8f45-4226-b89b-284a0af47526)

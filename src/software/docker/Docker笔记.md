@@ -99,3 +99,9 @@ docker load -i xxx.tar
 - **随机毒鸡汤**：像兰博基尼这些东西，要是出生的时候买不起，这辈子也基本买不起了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e63c5759-d474-43f0-9a75-206511b62bbf)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：掉一两根头发不要慌张，慢慢的就能，坦然面对秃头了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=df8153ae-c7cf-4775-99c9-ae41a71d8a89)

@@ -45,3 +45,9 @@ article: false
 - **随机毒鸡汤**：如果不能美得惊人，那就丑得销魂吧！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b2eb3cfc-7ffe-4069-a202-e80775164525)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我没有去过你的城市，但我刷过你那的题。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3bd49f9a-0fd0-46b5-bf72-190395dad704)

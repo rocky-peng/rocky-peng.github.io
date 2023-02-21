@@ -78,3 +78,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：屎到淋头，还想搅便。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7d309701-c1c9-47d4-9d15-5e9fcbad56d8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：海底捞的服务是真心好，上次我吃饭没带钱，还是服务员帮我报的警。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ec0e4739-120f-4964-ab32-39d7f63bb0ae)

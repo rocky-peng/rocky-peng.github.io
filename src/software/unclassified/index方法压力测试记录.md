@@ -144,3 +144,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：债主，就是那个你破了产，也不会抛弃你的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9a102565-8150-4568-a0cb-9efcd217f114)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：要不是猪不会说话，不然你都没有，存在的价值。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6cbac557-a5e9-46e3-a92b-790cc07fcdcc)

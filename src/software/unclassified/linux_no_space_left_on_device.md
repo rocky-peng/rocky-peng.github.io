@@ -88,3 +88,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：这两天雨水多，下雨记得打伞，否则脑袋容易进水。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c1718083-a268-4ba1-bd0c-f8ce01fdf0d0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在天愿做比翼鸟，在地怨为打工人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ea2426d1-43e1-444d-aa8d-99e790548639)
