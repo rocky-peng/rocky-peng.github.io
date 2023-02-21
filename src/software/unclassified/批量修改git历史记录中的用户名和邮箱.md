@@ -8,7 +8,7 @@ date: 2023-01-06
 ```shell
 #!/bin/sh
 
-git filter-branch --env-filter '
+git filter-branch -f --env-filter '
 
 OLD_EMAIL="原来的邮箱"
 CORRECT_NAME="现在的名字"
