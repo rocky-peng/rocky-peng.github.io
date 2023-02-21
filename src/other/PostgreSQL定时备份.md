@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要太过在意别人的目光，人家根本没有把你放在眼里。
+- **随机毒鸡汤**：现在不努力，以后别人壁咚的墙，都是你搬的砖。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=286b6335-6477-4145-a6e7-283992de28a0)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4dd0e7a3-9cad-4f58-9afa-450fe2c2b33e)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的不注重细节，毁了试卷好多温柔。
+- **随机毒鸡汤**：别总自称单身狗了，按年龄你是单身鳖，按智商你是单身傻狍子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bb22b11f-bed2-4401-81d4-4965c79c176f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=17cf8002-fa2e-49b1-9aa0-368ba11afd2b)

@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的未来就是个梦，更遗憾的是，这会儿还失眠。
+- **随机毒鸡汤**：女人用丝袜征服了男人，男人用丝袜征服了银行。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c7e309d1-4260-4a16-8877-a4f06da4a3d2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fe07777f-e8b1-46b7-b0c9-55b4a6d013c6)

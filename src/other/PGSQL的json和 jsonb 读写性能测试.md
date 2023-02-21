@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是路不平，而是你不行。
+- **随机毒鸡汤**：自拍最好看的方法，把脸遮住。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=88743711-abdf-47a7-819e-41c1cb88573d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=25e22d51-d148-4332-a5c9-dcb85b6129f1)

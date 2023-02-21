@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的未来是个梦，但遗憾的是，我TM失眠了。
+- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5d9d21a0-023a-4757-b928-9944bfb13111)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2331d4fd-37ef-44f4-bd1b-4bc2cedd20d1)

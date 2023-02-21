@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：婚姻是一座围城，城外的人想进去，城里的人真会玩。
+- **随机毒鸡汤**：知道为何自古红颜多薄命吗？因为没人在意丑的人活多久。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9dc5fca8-7d8f-4954-99b6-cba3931d673e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=19b7d27a-518e-45ac-babe-ce9280398e6a)

@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有些事情，只要静下心去做，就一定会睡着。
+- **随机毒鸡汤**：大概我们最默契的时候，就是我不去找你，你也不会来找我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f5efb0a3-ea39-48d9-bcab-8e8732dbe183)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9a3d246c-0139-4594-b98b-d20f1ec19876)

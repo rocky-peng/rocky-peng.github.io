@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我爱睡懒觉，如果要给这份爱一个期限，我希望是一万年。
+- **随机毒鸡汤**：只要坚持下去，总会有失败的一天。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e65a861-9e36-469d-a583-873c98743600)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=efa589e4-3eeb-4e6f-85fb-ac820d82a9c7)

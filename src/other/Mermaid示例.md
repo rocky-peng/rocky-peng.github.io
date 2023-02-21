@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：丧的人，不是对世界失去了信心，而是对自己失去了信心。
+- **随机毒鸡汤**：日久生不生情我不知道，日久生厌倒是真的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6d340b69-f874-4bb3-a44d-b546640feea3)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3f5a4ba5-4953-439f-a985-83158153bd95)

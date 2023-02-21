@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在出租车内疯狂放臭屁，可以极大的降低，司机带你绕路的概率。
+- **随机毒鸡汤**：上帝给了我脑袋，却忘了给我使用说明书。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=350d9d98-139c-4ec3-bb69-718550ce7fa6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61225829-5855-49c3-859b-052f87ca5bcb)

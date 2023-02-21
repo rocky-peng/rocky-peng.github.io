@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：是酒不香，还是烧烤不入味，你居然想减肥？
+- **随机毒鸡汤**：你我本无缘，全靠我花钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f230fee2-49e6-4a22-bad1-fe3cb2e63e78)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b45e396c-0dd5-4e91-a504-ccac19d70e4a)

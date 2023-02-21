@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在这年头，偷懒都可以不叫偷懒了，而叫佛系。
+- **随机毒鸡汤**：成功只是意外，失败才是常态。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=60392305-c3b8-4cf6-ba72-dbae9b2ef394)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63623c4b-8714-496a-87a3-19078d4ed710)
