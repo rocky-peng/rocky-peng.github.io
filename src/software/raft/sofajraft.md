@@ -70,3 +70,9 @@ RpcServer:
 - **随机毒鸡汤**：“正在输入…”，给了多少人希望，又给了多少人失望。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=06ab3478-1ded-4e30-aedb-21986bbe5286)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世上没有绝望的处境，只有对处境绝望的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=86ba91ed-6a2c-44af-b1be-e9c86b56c47e)

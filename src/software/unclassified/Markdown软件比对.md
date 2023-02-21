@@ -82,3 +82,9 @@ date: 2023-01-03
 - **随机毒鸡汤**：这年头，人宁愿说自己有病，也不愿意承认自己平凡。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=879fc5e0-ad86-4e7e-9d70-f6e9032442d4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只有你多劳，他们才能多得。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=96486e95-6485-4f6d-82bf-8ffafbeeb637)

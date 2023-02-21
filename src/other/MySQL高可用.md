@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：失败的尽头是绝望，努力的终点是过劳。
+- **随机毒鸡汤**：上天给了你很多次，做傻逼的机会，你全抓住了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ee877da9-c732-4947-944b-5fb068248d9f)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f29ba2dc-ec32-4407-855f-f2a0618ab4eb)

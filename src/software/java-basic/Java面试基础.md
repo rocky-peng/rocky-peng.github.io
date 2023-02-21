@@ -273,3 +273,9 @@ public interface Lock {
 - **随机毒鸡汤**：你骗我的样子万般投入，我又怎么舍得让你输。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=afa40957-17d7-49b3-b014-970b32648a85)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有些人的存在，就是为了证明，祸害遗千年这句话有多对。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=24e0de7e-fe6c-40b6-91c7-b858db7e89b8)

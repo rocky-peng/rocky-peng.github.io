@@ -82,3 +82,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：最烦别人问我工资多少，瞧不起我的方法有很多，为什么偏偏选这一种？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=76a6956a-1be0-4d41-a054-19d580bdc37e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：这两天雨水多，下雨记得打伞，否则脑袋容易进水。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c1718083-a268-4ba1-bd0c-f8ce01fdf0d0)

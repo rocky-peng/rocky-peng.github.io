@@ -165,3 +165,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：心有猛虎，细嗅蔷薇，蔷薇说我口气好大。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=67044a35-67e5-4326-a8c1-a077f28ce50f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不要以为老天在折磨你，而事实上，老天根本就不在意你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=877b7bd2-8267-4954-9f0f-c43ca3cd42f7)

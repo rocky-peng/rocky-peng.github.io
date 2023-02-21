@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：人本来没有高低贵贱之分，在金钱面前便有了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2b6ed845-bf16-44b2-b85a-96126bf2368d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：握不住的手，还是趁早放开吧，那也太胖了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=081744fb-fe15-4bac-89ff-b8c9a57e747d)

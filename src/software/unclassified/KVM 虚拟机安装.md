@@ -341,3 +341,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：蹦极很危险，绳子栓到腿上会肌肉拉伤，我一般都栓脖子上。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cf84b266-1c45-4b8b-86e0-513fc66b00cd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：蠢萌的前提是萌，不是蠢。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=65d6c870-89ac-4045-a3b3-f69ee5419467)

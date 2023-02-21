@@ -433,3 +433,9 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 - **随机毒鸡汤**：在楼下给你打电话，寒风中等待你的，只有外卖小哥。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d29cb496-9bfc-416a-acc1-41f5a595bdc3)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生就像拉屎，也许你努力半天，结果就出来一个屁。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bc2de498-7bb9-4a77-a4a6-616909c189ca)

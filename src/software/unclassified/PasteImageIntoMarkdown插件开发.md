@@ -72,3 +72,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：你要相信，你爱的那个人他会来的，不然怎么把你的心摔碎。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1ad51fab-7561-4943-b821-8c543abda924)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：屎到淋头，还想搅便。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7d309701-c1c9-47d4-9d15-5e9fcbad56d8)

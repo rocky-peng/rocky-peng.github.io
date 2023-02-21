@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：我有密集恐惧症，不能接触心眼多的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=238bc5eb-cbb6-4906-9965-0352272465c2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有的人呢不打不相识，但是也有人不打不识相。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=437ebbb2-b1eb-4aba-b4cd-13d27efe2088)

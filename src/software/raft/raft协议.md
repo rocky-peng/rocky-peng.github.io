@@ -95,3 +95,9 @@ http://thesecretlivesofdata.com/raft/
 - **随机毒鸡汤**：如果你容不下我，说明不是你的心胸太狭窄，就是我的人格太伟大。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=40f50c3b-33ca-4925-9818-9aa32569e260)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：放弃这个字，说起来简单，做起来就更简单了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8d750747-93f7-4c32-b098-d9f012bfb17c)

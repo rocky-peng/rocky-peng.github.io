@@ -40,3 +40,9 @@ article: false
 - **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=72f9bd9b-bb00-4c79-afbb-6bfe32ce3546)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：事事如意料之外，年年有余额不足。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8107e56b-79eb-440e-a3ab-14e4c595c301)

@@ -55,3 +55,9 @@ EOF
 - **随机毒鸡汤**：一直坚持走斑马线，不是因为我素质高，只因为斑马线上被撞赔的多。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c7472758-f13a-4b6a-9d91-e590fc4dc64a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：看见别人走在成功的路上，你问问自己难道不想成为，他成功路上的绊脚石吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=45b17fa2-0395-4639-97a3-d2d06a532a09)

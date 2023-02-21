@@ -100,3 +100,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：一日不读书没人看得出，一周不读书，智商堪比猪。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=55b75897-e371-4391-9b5e-830c75c74fca)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：现在虚伪不叫虚伪，叫情商高。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5137196c-0a9c-4c83-9821-dc86d1d403fc)

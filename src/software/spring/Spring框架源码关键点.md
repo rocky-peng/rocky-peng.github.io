@@ -398,3 +398,9 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 - **随机毒鸡汤**：我要努力变成你喜欢的样子，然后打死也不跟你在一起。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=18ecf08b-04d0-49f0-b617-86e745a317d1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：上海是商海北京就是背景，理想就是离乡，平民就是拼命。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=228e5bd9-bfe0-4e02-bd0a-1559df93daa7)

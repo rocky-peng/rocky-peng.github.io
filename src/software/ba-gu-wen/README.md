@@ -40,3 +40,9 @@ article: false
 - **随机毒鸡汤**：感情和头发一样，时间长了，都会分叉。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1f99da01-8882-469c-8644-e96b0c586f51)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：很多时候，并不是这个世界太丑，是我们想得太美。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=01d33bfc-3b3c-4647-a5cc-46bbe238503e)

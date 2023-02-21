@@ -40,3 +40,9 @@ date: 2021-09-01
 - **随机毒鸡汤**：复习的意义就是，再次确认，你是真的不会。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8833c66b-6da0-4ebe-9a04-5398f99fa030)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：本就没有感同身受，只有身受了才能感同。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bb9cdd7a-a663-4fcd-8d29-3a4830607b2f)

@@ -96,3 +96,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：钱买不到快乐是假的，你那点钱买不到快乐是真的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=024e7eeb-a622-4bb3-9f6c-3ea3ba2df43e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：伤害你的，不是对方的无情，而是你心存幻想的坚持。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f4a6086d-1039-4361-a07a-6e8e1faa464e)

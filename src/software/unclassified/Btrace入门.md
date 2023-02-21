@@ -219,3 +219,9 @@ cd /Users/xxx/Desktop/btrace_script
 - **随机毒鸡汤**：垂死病中惊坐起，我还能做几道题。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f9764b4d-52f4-4ad0-8b8b-df723427aa61)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：疫情之前 白雪公主，疫情之后 雪球公主。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f32140da-3c8e-44e5-97b5-a914c354d970)

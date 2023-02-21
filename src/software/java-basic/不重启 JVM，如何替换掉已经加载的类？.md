@@ -263,3 +263,9 @@ public class AttachMain {
 - **随机毒鸡汤**：突然发现，起床第一件事是摸手机，睡前最后一件事是放下手机。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b9d4e2f2-aa3a-48c0-8e5c-41f73ba01eac)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：付出就会有回报，比如一倍的奢望，换两倍的失望。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e00416d6-e0fd-4d01-8b00-5adfbc92ad96)

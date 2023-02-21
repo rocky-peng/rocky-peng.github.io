@@ -144,3 +144,9 @@ import java.lang.reflect.Field;
 - **随机毒鸡汤**：我挺会哄女生睡觉的，只要我一问在吗，她们就说要睡觉了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4bf55370-8c21-4ef4-8774-62fe080e78a1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在出租车内疯狂放臭屁，可以极大的降低，司机带你绕路的概率。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9e663c28-8d1c-4842-a48b-a0a3307fe08a)

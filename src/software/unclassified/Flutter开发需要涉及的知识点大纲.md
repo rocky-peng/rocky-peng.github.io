@@ -63,3 +63,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：自卑到了一定程度，就连拒绝，都害怕伤害别人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=533c87c3-5dfc-4149-9327-1aaa4541bdec)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我把她从女孩变成了女人，她把我从男孩变成了，穷人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4dd75241-0898-4e4e-a512-ff477ada3eea)

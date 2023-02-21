@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：减肥没瘦怎么了？你们上班，不是也没有存款吗？
+- **随机毒鸡汤**：你可能不知道，这辈子有可能是你，上辈子说的下辈子。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce8c4310-407f-4a69-858b-a043d48bea2f)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e90143c7-1adb-4642-8749-7192127f5ec5)

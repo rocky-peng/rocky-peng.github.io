@@ -533,3 +533,9 @@ static final class Node {
 - **随机毒鸡汤**：感情是互补的，只要你一直对他好，他就永远不会把你当回事儿。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=aac0d939-90e3-48b2-bf1b-95d7abaac524)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：让人失望这方面，我从来没让人失望过。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3e4a43eb-619c-4c73-9d32-247eaa299473)

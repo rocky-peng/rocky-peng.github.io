@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：找不到对象的原因就是，不但你自己丑，还嫌别人丑。
+- **随机毒鸡汤**：一个人久了，突如其来的关心，都是负担。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8ebae2d4-950d-425a-855a-42f68daf11cf)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0b9ec627-62b6-405b-b046-c7dcfab7d37f)

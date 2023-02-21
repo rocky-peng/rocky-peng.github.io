@@ -117,3 +117,9 @@ systemctl start docker
 - **随机毒鸡汤**：社会是有等级的，很多事不公平，别抱怨因为没有用。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=65e6a4b4-1017-455a-a729-5715f6933550)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：睡觉前吃宵夜，这样才不会做饿梦。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01e738a6-1f74-4957-ab74-2943765f51a8)

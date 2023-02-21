@@ -258,3 +258,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：媽媽今天跟我說選對象，不能只看別人的外表，也要看看自己的外表。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2487e80a-40eb-4dd3-85fd-f7c49a63bbfb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：为什么要晒这么黑？因为我不想白活一生。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8bcf0fc9-cd5c-41c6-a943-0f00100a422e)

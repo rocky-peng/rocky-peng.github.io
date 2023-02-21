@@ -70,3 +70,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：我把她从女孩变成了女人，她把我从男孩变成了，穷人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a9735d50-3710-4365-ade7-a5e99d1f46c5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：年轻人总把没钱挂在嘴边，其实根本没必要，你不说别人也能看出来。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=435a6452-de6c-462a-9012-8b7cd2e2413a)

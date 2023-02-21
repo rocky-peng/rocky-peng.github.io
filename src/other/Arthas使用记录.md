@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：都说成年人的崩溃，是从借钱开始的，更崩溃的是借不到钱！
+- **随机毒鸡汤**：其实，电脑游戏从小就训练你，把Boss当作自己最大的敌人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=af95caed-fc43-43b2-b3fe-15fc579b2c13)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3c2520e7-5a9c-4c22-8ac9-ae40ab4891ab)

@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：好人有好报这句话不假，但老好人没有。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=863b6414-f151-4203-beb3-5afb042c745d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：小时候总以为大人不挑食，长大后才明白，他们不吃的东西都不买。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f75bf612-bdaf-426a-a0c9-aeee0ae8cf48)

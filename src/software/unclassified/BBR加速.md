@@ -52,3 +52,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/ma
 - **随机毒鸡汤**：你哪是什么朴实节俭，会过日子的人，你只是单纯的穷而已。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=441c393d-9ffa-4b3f-b182-82d45c58d990)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：觉得无聊？把书拿出来，你就知道自己想玩什么了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d6c71cf5-5df0-4f5a-b917-d6fd359ef9be)

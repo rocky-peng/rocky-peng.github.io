@@ -68,3 +68,9 @@ yum --enablerepo=epel install inotify-tools
 - **随机毒鸡汤**：拆穿多没用，我喜欢看你表演。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2b10e9e3-8bd8-47e6-b85a-7d61f5c81401)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在出租车内疯狂放臭屁，可以极大的降低，司机带你绕路的概率。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c6d4a547-baba-4f62-8826-e4ff4d5aedee)

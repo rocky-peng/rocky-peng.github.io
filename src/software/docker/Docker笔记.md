@@ -93,3 +93,9 @@ docker load -i xxx.tar
 - **随机毒鸡汤**：所谓复习就是，把不会的东西再确认一遍，你确实不会。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=32a932d5-6243-46fb-83bf-c7aaacbbe76e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：像兰博基尼这些东西，要是出生的时候买不起，这辈子也基本买不起了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e63c5759-d474-43f0-9a75-206511b62bbf)

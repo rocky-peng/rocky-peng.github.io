@@ -133,3 +133,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 - **随机毒鸡汤**：天使会为了全世界抛弃你，魔鬼会为了你抛弃全世界。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f0791bc7-264b-4f3e-aaa5-8ee6ed6393ca)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：这个天气挺尴尬的，不开空调热，开空调的话还得去买一台。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bf6c096a-67a0-485b-8ca3-b5973e3bd671)

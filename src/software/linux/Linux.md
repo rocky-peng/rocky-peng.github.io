@@ -141,3 +141,9 @@ ntpdate 时间服务器ip
 - **随机毒鸡汤**：人生就像打电话，不是你先挂就是我先挂。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bc7fee2f-56b1-4945-a936-8e214b2a8434)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果我有什么，让你不喜欢的地方，麻烦你自己克服一下。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6225655a-27ca-4a34-b169-648e64fe0d12)

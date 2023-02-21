@@ -135,3 +135,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 - **随机毒鸡汤**：不明白你们遇到好事，为什么要掐腿揉眼睛，真醒了怎么办？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ae8cd824-b2d6-4866-9ee7-635f82b807e4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你复杂的五官，掩饰不了你朴素的智商。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6950a0b8-dcf9-41d5-9c5a-8798c8c71997)

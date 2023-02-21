@@ -146,3 +146,9 @@ docker run -itd --name t4 centos
 - **随机毒鸡汤**：一只猪被孤立，于是它变成了朱古力。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b4d63e79-9f1c-480f-abae-e16e34c1a75d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我并不是丑，我只是不太符合，当代人的审美。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4bed94f3-1563-4d92-bf76-0c1be56bbbf7)

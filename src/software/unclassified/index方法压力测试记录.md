@@ -138,3 +138,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：单身脱发又没钱，跑步进入中老年。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8c7f6052-3206-4e66-b16b-de8b82d13895)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：债主，就是那个你破了产，也不会抛弃你的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9a102565-8150-4568-a0cb-9efcd217f114)

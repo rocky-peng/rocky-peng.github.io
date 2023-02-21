@@ -211,3 +211,9 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 - **随机毒鸡汤**：这么多年没掉入桃色陷阱，靠的就是两个字，没钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ad1f0c4c-d3a6-4d33-bcd4-635d2db8e8ec)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：别总犯同样的错误啦，还有很多新错误，等着你去犯呢。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=66f29a21-23bd-48ab-a6f4-bf0e3e55f275)

@@ -188,3 +188,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：好朋友都这样，你跌倒时我会扶你一把，不过要先等我笑完。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=057f797a-df45-45f3-9f18-009344ac3f76)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：每个人都在愤世疾俗，每个人又都在同流合污。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5e0de37b-649b-46ea-af48-2facfe4451d4)

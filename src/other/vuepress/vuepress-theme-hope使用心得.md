@@ -41,3 +41,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：每个人都是梦想家，梦破灭之后，就只剩想家。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=39b34a1c-0eab-4f05-87fd-8e617af34110)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有钱的时候把生活过好，没钱的时候把心情过好，可是没钱心情怎么会好。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=31305cd2-62c6-42f2-b40a-07c2c700d84e)

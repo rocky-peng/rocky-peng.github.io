@@ -50,3 +50,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：总有这样的人，该干活的时候职业不起来，玩的时候又放不开。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2ebc7dd6-ce47-4e67-b82b-9810637f6413)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：为什么家长只关注成绩呢？那废话，他们能看得懂题吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c93248e4-15e9-46dc-ad08-5b3451bfb8c6)

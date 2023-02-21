@@ -843,3 +843,9 @@ print _message
 - **随机毒鸡汤**：我很饿然后我看了看镜子，我依旧很饿，果然美貌不能当饭吃。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7dfc94f7-fdf8-431e-b245-7f547bf0cbe4)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63727acf-d895-457a-9610-cbd870603ab7)

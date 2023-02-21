@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：为了变漂亮，你坚持了哪些好习惯？坚持开美颜。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6361bd8f-18b5-4a18-914a-5d5f87eddb47)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果不能美得惊人，那就丑得销魂吧！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b2eb3cfc-7ffe-4069-a202-e80775164525)

@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：你以为你缺的只是钱吗？你是不是忘了，你还缺心眼。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ff1e81fc-1ba6-4b30-922e-b2b19078cc66)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上有没有纯友谊？当然有，只要长得丑 四海皆朋友。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3c0da641-10f1-4530-b5d8-f4aff4492883)

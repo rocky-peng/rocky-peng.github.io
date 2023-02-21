@@ -177,3 +177,9 @@ InnoDB支持的索引
 - **随机毒鸡汤**：以后说话记得反着来，毕竟生活最喜欢的，就是打脸。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a3b65003-fb46-4b8e-a629-cd0be9e2e27e)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：所有的焦虑不安，都源于你的实力，配不上你的野心。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=328c39a2-d6fb-4694-b525-85ce27453709)

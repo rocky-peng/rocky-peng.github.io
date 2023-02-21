@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：平时看书是因为有求知欲，考前看书是因为有求生欲。
+- **随机毒鸡汤**：自己都是一个失败的人，还想教出成功的孩子吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=eff2fac1-f002-4701-9dd3-07e746bb9d80)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=de196318-8f3c-42d3-a288-808b0c9aa401)

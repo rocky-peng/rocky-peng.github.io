@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谁说你脑袋是空的，不信你晃晃，听见大海的声音没？
+- **随机毒鸡汤**：感觉这辈子，最深情绵长的注视，都给了手机。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f438bfad-ae8c-4e07-b6a4-b8d46e20ed26)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b55a64c0-4a25-4780-85b6-06d715b94afa)

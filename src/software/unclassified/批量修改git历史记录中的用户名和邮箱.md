@@ -83,3 +83,9 @@ git push --force --tags origin 'refs/heads/*'
 - **随机毒鸡汤**：人的一切痛苦，本质上都是，对自己无能的愤怒。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4cd45290-71bd-498c-9efb-b9a74c2c383d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：天生我材必有用，即便是废材，也能起陪衬的作用。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=039d05fc-5fca-4c39-aa1f-7ceb06c9fa9a)

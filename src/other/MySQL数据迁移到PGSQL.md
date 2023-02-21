@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：找对象还是眼光高点好，你总得为，没有人喜欢你找个借口吧。
+- **随机毒鸡汤**：老板用你的时候你就是人才，不用你的时候就变成裁人！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9f812d73-b4d0-40d9-8540-01490912b01b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=74a9716c-eeeb-4570-b7a2-9eafd2fad2f2)

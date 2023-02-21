@@ -319,3 +319,9 @@ mmap及sendfile都是操作系统实现零拷贝的方式
 - **随机毒鸡汤**：你的胃一定很好，毕竟软饭吃的多。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3f2c07fa-c564-4a9a-a6ea-820bcf192fa7)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=08f04b0d-3dd1-4558-b7f3-1237f391219c)

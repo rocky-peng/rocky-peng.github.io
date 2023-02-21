@@ -77,3 +77,9 @@ tagline: 你可以在这里放置你的口号与标语
 - **随机毒鸡汤**：那些曾经以为，自己从小爱看书的人，其实不过是以前没有手机。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=cff7cf70-c454-4a19-bfc4-ecf04c16acb1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我不说话，不是我高冷，而是怕显露我的傻逼气息。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bd4d91ea-a075-45f7-8442-6c1463a45d91)

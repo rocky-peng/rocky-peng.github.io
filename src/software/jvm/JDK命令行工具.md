@@ -332,3 +332,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：如果婚姻是爱情的坟墓，那么相亲是，为坟墓看风水！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9b7e8eec-8b93-4b89-9bb1-775c10bacd93)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有一种悲哀叫做，这道数学题已经超出了，我的语文理解范围。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=670a5186-33bd-43cc-88f7-234f8c8174a2)

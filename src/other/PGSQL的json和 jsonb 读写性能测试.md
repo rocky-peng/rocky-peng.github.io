@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：单身的原因，有对象的咱不能要，没人要的咱也不能要。
+- **随机毒鸡汤**：你求神说明你相信神，神不帮你，说明神相信你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e461fcbc-8272-4756-861b-79732bf674af)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ebcfbf4b-2f81-4526-9359-e5d03f44ad95)

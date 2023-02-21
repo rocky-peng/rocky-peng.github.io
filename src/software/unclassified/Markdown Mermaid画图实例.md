@@ -168,3 +168,9 @@ gantt
 - **随机毒鸡汤**：长得帅的踢键子都帅，长得丑的，打高尔夫都像在铲屎。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c874ba4f-58e4-4f6e-a325-9b84473da273)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：放假给我放傻了，开学之后要怎么才能，融入那个高智商的环境？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=47db9a0d-bafe-45e5-bc10-4f04db3902ca)

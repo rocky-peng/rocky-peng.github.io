@@ -64,3 +64,9 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 - **随机毒鸡汤**：看时不懂剧中人，懂时已是剧中人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2a19f5a6-0cfa-4398-b081-7faea30e8214)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：自己都是一个失败的人，还想教出成功的孩子吗？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cd414c2a-a237-4d08-951f-0293574a9501)

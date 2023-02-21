@@ -460,3 +460,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：有些事情，只要静下心去做，就一定会睡着。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f35000f4-c701-4e2e-8367-848f6d997a98)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：每天简单生活，一切从简，始终单调。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bb692347-00e1-4bb7-a158-a2d239f85c08)

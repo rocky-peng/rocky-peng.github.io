@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：爱情可以来迟，但外卖不行，毕竟我还在长身体。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1a0ff69a-a32a-49b0-9149-078a87280c52)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：洗脸时不要洗到发际线，因为发际线会以为那是脸，就会往后移。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e3a368cf-b638-4d82-ac7c-0b3987532c1e)

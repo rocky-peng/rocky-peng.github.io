@@ -40,3 +40,9 @@ article: false
 - **随机毒鸡汤**：我觉得一定有很多人暗恋我，因为这么多年了，也没有人跟我表白！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9287b9d5-0a5c-4df8-9ed8-c91a76d6fd29)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我的未来就是个梦，更遗憾的是，这会儿还失眠。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9e20aa63-ac8e-4476-808a-a6918fd7dace)

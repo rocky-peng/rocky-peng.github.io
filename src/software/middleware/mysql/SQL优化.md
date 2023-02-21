@@ -856,3 +856,9 @@ es				1.6.0-2.1.0
 - **随机毒鸡汤**：任何时候都要保持微笑，这会让你看起来，像个不好惹的神经病。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4a6c641c-93b2-4430-901e-8c018c0c622c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：只要你想要而只要我有，不管什么，老子都不会给你。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1c7ee728-3da3-4c83-be1b-5f3489eba878)

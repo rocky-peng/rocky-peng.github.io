@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你不是脾气好，是气到内出血又不敢刚。
+- **随机毒鸡汤**：世上只有骗子是真心的，因为他是真心地在骗你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1061170e-5f95-4e77-9f8b-b019c1b5e90c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61dc0e94-8bad-4d2f-ac7b-58898f57f15a)

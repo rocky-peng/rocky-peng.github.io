@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：明知山有虎，那就不要去明知山！
+- **随机毒鸡汤**：过马路不要带耳机，万一要是被车撞上，耳机不就坏了么？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f067bbc6-1603-421b-b642-fd254f17e5fb)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2b17df95-edb6-493f-9058-b2b14ca171c5)

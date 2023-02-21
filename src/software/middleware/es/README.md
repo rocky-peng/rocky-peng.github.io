@@ -39,3 +39,9 @@ article: false
 - **随机毒鸡汤**：真的会有人等着你，等着看你笑话。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4997d713-c5a6-4006-bdb9-36d85b2fe37f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有钱的劳斯莱斯，没钱的劳死累死。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=60879d6b-6911-4b91-96e6-e625b876df7f)

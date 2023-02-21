@@ -369,3 +369,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：以后说话记得反着来，毕竟生活最喜欢的，就是打脸。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c3b10ab1-f5a1-4cbf-a43f-4f8eb1bdba4a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：听成绩一定要用右耳听，因为左耳靠近心脏，可能会悴死。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1d4847cf-0abc-4973-b99f-0674094d9e65)

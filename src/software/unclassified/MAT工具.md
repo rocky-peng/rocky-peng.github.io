@@ -53,3 +53,9 @@ Memory Analyzer TOOL
 - **随机毒鸡汤**：所有人都抵不过时间，就像你偶然想起我，问我有没有钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=85cbc466-83c2-47b3-b753-cec368d3e7d0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：武则天证明了，成功和性别没关系，你证明了成功和你没关系。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ff0ea9e7-a2d6-4b5b-9a99-7c05707a1758)

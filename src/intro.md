@@ -41,3 +41,9 @@ icon: info
 - **随机毒鸡汤**：所谓成长，就是在听到波涛汹涌四个字，再也联想不到大海了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=797951b9-e424-46af-b997-10724b57310f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一聊起来你就和盘托出，你以为这是健谈和热情，其实这就是孤独。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e1b1376-9869-4156-a37e-a3ae985bb029)

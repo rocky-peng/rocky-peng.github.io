@@ -38,3 +38,9 @@ date: 2017-03-17
 - **随机毒鸡汤**：我需要你的指点，但不需要你指指点点。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eca50a2a-79ac-4b3a-9cfc-7ab8aae408ff)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我的脑子，和蝙蝠的眼睛原理相同，有但没啥用。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b27e28d6-13f3-47a7-b61e-baf6814ef268)

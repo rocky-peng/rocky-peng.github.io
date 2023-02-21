@@ -127,3 +127,9 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 - **随机毒鸡汤**：有些人考得好点就开始得瑟，不像我，从来就考不到好成绩。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4319bb5f-23c4-42f7-aa84-f710ed35ce67)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：发丝千万条 睡眠第一条，熬夜不休息 脱发两行泪。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=404f78e7-7532-4ab3-85db-abb852dc476c)

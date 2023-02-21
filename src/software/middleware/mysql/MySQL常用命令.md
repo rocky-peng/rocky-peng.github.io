@@ -560,3 +560,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：钥匙圈是非常实用的小工具，它可以让你，一次把所有钥匙都丢光。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d36aff98-b2d4-461e-8a94-7bbbd7f5f2b5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：解决人际关系最好的办法，就是避免与人相处。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5a5eac35-6f92-45a3-8ed4-75d9dacbc21f)

@@ -498,3 +498,9 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 - **随机毒鸡汤**：比起被人左右情绪的生活，我更喜欢无人问津。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ff7abd7f-35d4-4f85-ad2c-dd14d1dbd797)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：白天各有各的光鲜，夜晚各有各的崩溃。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=647e7a45-5b60-4425-9b85-423359327c71)

@@ -286,3 +286,9 @@ Number of method invocations/branches before compiling [-client: 1,500]
 - **随机毒鸡汤**：幸亏长得丑，没经历过各位的爱恨情仇。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=28f1382e-d87e-477b-a348-43eb2fb791fc)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：还没有对象？要不要给你介绍，一款不错的狗粮。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9e502233-e6c5-45f7-8460-778443d5b039)
