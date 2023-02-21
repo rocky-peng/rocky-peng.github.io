@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：压力并不是有人比你努力，而是比你牛逼的人还在努力。
+- **随机毒鸡汤**：再凶的男孩子绑鞋带，还不是要绑蝴蝶结？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f5729fd3-9d7a-4fe5-aae4-7c6a5b3fe35a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=79c363a2-8809-490e-a8ac-e513ee7fed74)

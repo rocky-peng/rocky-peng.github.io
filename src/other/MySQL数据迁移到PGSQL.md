@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：洗脸时不要洗到发际线，因为发际线会以为那是脸，就会往后移。
+- **随机毒鸡汤**：以后作业我借你抄，谁不希望高考少个对手。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=35651973-08bb-446a-b88c-2fbc85c51ab2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1667a60d-14b0-4813-aceb-90b4013cebda)

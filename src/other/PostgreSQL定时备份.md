@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：表走着走着就慢了，人走着走着就散了。
+- **随机毒鸡汤**：一晃都30多岁了，早知道就不晃了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5387ded6-0c08-471a-b639-2c3387c381fd)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d8fc4db4-4868-4474-b892-31038fa25f9e)

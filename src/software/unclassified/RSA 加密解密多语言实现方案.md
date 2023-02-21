@@ -810,48 +810,6 @@ print _message
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
+- **随机毒鸡汤**：在中国最管用的几句话，“大过年的”“给点面子”，“他还小呢”。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ed91649-87de-4fc2-a9be-2fc55f5f9025)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：我希望下辈子，我能把秒懂放在数学上。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bcbff3c3-1f1b-4718-acaa-814fb61c84de)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：当我们快乐时我们是善良的，当我们善良时，我们却未必快乐。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3f64fbae-4ce1-4807-a756-66f400e113bd)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：承诺这东西，听的人记住了，说的人早忘了。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0f8fc1ec-bb61-43c5-8f9c-5795427d2bf6)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：不要说自己痴心妄想，因为只有痴心才能实现妄想。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=097bac52-0009-4e0c-bdcd-03283a34edd6)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：我很饿然后我看了看镜子，我依旧很饿，果然美貌不能当饭吃。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7dfc94f7-fdf8-431e-b245-7f547bf0cbe4)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63727acf-d895-457a-9610-cbd870603ab7)
-<br/><br/><br/><br/><br/><br/>
----
----
-- **随机毒鸡汤**：我还是好喜欢你，像你妈揍你，不讲道理。
-<br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=de6d5542-83b8-47bf-ad00-541f93aac236)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a8576c2c-e108-4597-b29d-8b89c724914e)

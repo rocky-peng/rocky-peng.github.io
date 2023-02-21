@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：2019年是不是感觉白过了？没关系，明年可能也是。
+- **随机毒鸡汤**：你我本无缘，全靠我花钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=386b94c0-da33-4ab8-8e3e-9744fd542820)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9513c3c2-7065-4ce9-ab89-d8af9f5bb4f3)

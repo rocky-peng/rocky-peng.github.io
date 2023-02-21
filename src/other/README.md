@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：垂死病中惊坐起，我还能做几道题。
+- **随机毒鸡汤**：快乐分享给朋友快乐会加倍，痛苦分享给朋友，朋友会减半。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ef5c24d9-ef37-4e7b-9359-5016f62f1c57)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fbf03efc-fbe4-4a9e-904e-6785cfa58a02)

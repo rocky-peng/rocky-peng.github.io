@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果可以，谁不想回到过去，买房买地。
+- **随机毒鸡汤**：我让你把愿望告诉我，是因为愿望说出来，就不灵了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=467a8954-fabe-4c31-9a17-df1f57866e77)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a22f4836-7948-4e83-a13a-68621c1161f9)

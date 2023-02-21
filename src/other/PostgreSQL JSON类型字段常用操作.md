@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经小小少年，如今又大又圆。
+- **随机毒鸡汤**：冰冻三尺非一日之寒，小腹三层非一日之馋。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b560f274-e65e-4016-91b7-666aeb944fee)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=69ad8dfc-3fe0-4f55-8bfe-c2536a6e449a)

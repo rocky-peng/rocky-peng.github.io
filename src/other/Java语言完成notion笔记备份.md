@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
+- **随机毒鸡汤**：过年哪个亲戚问我成绩，我就问他年终奖金。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=07a6fc41-aebb-4797-a41a-994a7f4d0cd2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=68f476b2-b755-49e5-a5cd-c3f1c2f46096)

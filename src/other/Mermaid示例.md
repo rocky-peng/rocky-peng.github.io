@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：生活就像新闻联播，不是你换台就能逃避得了的。
+- **随机毒鸡汤**：一顿操作猛如虎，一看工资二千五。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8ea3dbeb-ed3d-4443-8e68-d40c73a2ec79)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3cd5f995-8245-4041-9c71-673dd28025c8)
