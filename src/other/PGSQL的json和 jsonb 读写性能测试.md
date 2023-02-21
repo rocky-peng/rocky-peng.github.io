@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：让你不顾一切往高处爬的人，不过是想看你摔得更惨。
+- **随机毒鸡汤**：我不是那种，落井下石的人，我是直接把井封了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=755e6698-0cd2-4dce-aa2a-f275d3b8ccc1)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4311be9e-95c5-49aa-9c9b-7b98ffb2215e)

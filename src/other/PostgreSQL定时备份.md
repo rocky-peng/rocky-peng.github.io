@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一切都会变好的，比如你已经从胖，变成了好胖。
+- **随机毒鸡汤**：2020年，连20都成双成对，而你却还在单身。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3f8e92bb-e838-4184-afe9-4acbd3bb5866)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c78f0a4d-b588-4096-a472-7e8fa5088809)

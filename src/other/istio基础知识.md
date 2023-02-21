@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：野味锅里做得好，骨灰盒中乐逍遥。
+- **随机毒鸡汤**：撞衫不可怕，可怕的是你穿着，比她丑多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=71df6e04-4dd8-4cc0-a028-f58793cfb625)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9c16ed7f-6ac5-4839-94ae-c68eefb3dcb2)

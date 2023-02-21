@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：每天叫醒我的不是闹钟，而是膀胱。
+- **随机毒鸡汤**：不要没完没了的修图，你现实中的丑，我们都知道。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ad3326f2-2905-42fe-8b8f-8167e0de7f4a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=134748af-8229-4f4e-b9bb-a7d7f7320baf)

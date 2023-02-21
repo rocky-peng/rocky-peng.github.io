@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
+- **随机毒鸡汤**：世界上最幸福的事，是你没听课，听的人也没懂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=62dbade6-5d8b-47ca-a615-c4ca35d6e473)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=689fb001-5492-43e2-b8a1-f91ee3238f7d)

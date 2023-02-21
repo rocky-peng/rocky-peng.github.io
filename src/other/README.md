@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：冰冻三尺非一日之寒，掏空钱包却一点不难。
+- **随机毒鸡汤**：请不要对我发誓，我怕你被劈死。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e9ea511-b3dd-4799-a5af-af0d3a167efb)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1ee153c2-978f-4590-bfb5-80c59929a786)

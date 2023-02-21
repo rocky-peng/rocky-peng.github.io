@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：虽然很多餐厅没有进去过，但在外卖软件里，我们都是过命的交情了。
+- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=91ab3ee9-88e1-430a-8305-e878a88c53f0)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=55d08b80-55eb-4185-9459-354f6e91a74a)

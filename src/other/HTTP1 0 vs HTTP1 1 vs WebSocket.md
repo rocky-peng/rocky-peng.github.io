@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
+- **随机毒鸡汤**：两只小蜜蜂飞在花丛中，飞的高的对低的说，你个low bee。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8efb97a6-2cf1-479d-a988-f7dc1c5484bf)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=084515c2-757b-47e7-a8a5-6877765265e7)
