@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一晃都30多岁了，早知道就不晃了。
+- **随机毒鸡汤**：虽然我学得慢，但我放弃得快。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d8fc4db4-4868-4474-b892-31038fa25f9e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c3c087a5-2a8a-4d5f-8e44-b20bf4e7e161)

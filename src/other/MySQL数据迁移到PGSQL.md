@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以后作业我借你抄，谁不希望高考少个对手。
+- **随机毒鸡汤**：成绩不代表一切，成绩只是让别人，低头弯腰而已。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1667a60d-14b0-4813-aceb-90b4013cebda)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=61cd96fb-4da3-4149-bb2a-6bdf1c7c7150)

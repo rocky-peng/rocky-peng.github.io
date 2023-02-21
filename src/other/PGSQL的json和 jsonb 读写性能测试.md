@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有些人考得好点就开始得瑟，不像我，从来就考不到好成绩。
+- **随机毒鸡汤**：世界上最让人底气十足的，不是尊重与平等，而是被偏爱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=56134d46-7315-4a67-a264-63eb389de1b8)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3d7bd1fb-3254-4c83-9a7d-9d5eea3a69bd)

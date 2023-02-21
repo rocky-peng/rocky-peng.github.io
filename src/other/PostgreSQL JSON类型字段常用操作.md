@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：冰冻三尺非一日之寒，小腹三层非一日之馋。
+- **随机毒鸡汤**：不能成为想要的自己，最终活成了，不想成为的别人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=69ad8dfc-3fe0-4f55-8bfe-c2536a6e449a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=733941e4-9774-4898-933e-26a9d160b568)

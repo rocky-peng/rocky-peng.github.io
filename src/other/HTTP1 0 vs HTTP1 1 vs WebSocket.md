@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我让你把愿望告诉我，是因为愿望说出来，就不灵了。
+- **随机毒鸡汤**：以前丑不好意思发自拍，现在不一样了，现在脸皮厚了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a22f4836-7948-4e83-a13a-68621c1161f9)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=aa9915e8-6808-4f7e-84b8-c966078a658e)

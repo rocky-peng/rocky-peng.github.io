@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一顿操作猛如虎，一看工资二千五。
+- **随机毒鸡汤**：小时候写作文都是扶老人，现在想想，我当年胆子真大啊！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3cd5f995-8245-4041-9c71-673dd28025c8)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=120d3dec-1028-4772-a235-d078d3062b81)

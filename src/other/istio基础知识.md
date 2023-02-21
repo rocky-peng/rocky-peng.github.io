@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成功的路上从不拥挤，因为坚持的人不多。
+- **随机毒鸡汤**：用疑问句回答疑问句时，一般就是说中了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=89698cc8-ef08-4755-9b60-a3cc2d99953d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cd697355-427c-4d98-9cc0-734135a54367)

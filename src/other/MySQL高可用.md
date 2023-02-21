@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你我本无缘，全靠我花钱。
+- **随机毒鸡汤**：希望我的体重，像我的成绩一样，直线下降。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9513c3c2-7065-4ce9-ab89-d8af9f5bb4f3)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=033525a1-90b2-4fbb-9c3b-61a2a8383df5)

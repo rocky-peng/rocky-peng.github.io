@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：过年哪个亲戚问我成绩，我就问他年终奖金。
+- **随机毒鸡汤**：兴趣是最好的老师，其次是耻辱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=68f476b2-b755-49e5-a5cd-c3f1c2f46096)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=55753b70-892d-4599-87a6-610c17506df9)

@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：快乐分享给朋友快乐会加倍，痛苦分享给朋友，朋友会减半。
+- **随机毒鸡汤**：不是因为看到了希望才坚持，而是因为坚持了，才知道没希望。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fbf03efc-fbe4-4a9e-904e-6785cfa58a02)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=655ea094-201c-43ac-9761-5ef9e1a1327d)
