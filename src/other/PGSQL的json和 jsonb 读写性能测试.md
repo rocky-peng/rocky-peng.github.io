@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上最让人底气十足的，不是尊重与平等，而是被偏爱。
+- **随机毒鸡汤**：不听老人言，快活好多年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3d7bd1fb-3254-4c83-9a7d-9d5eea3a69bd)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=343ef475-b029-42ed-ab55-c7055d536788)

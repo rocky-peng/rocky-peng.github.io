@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以前丑不好意思发自拍，现在不一样了，现在脸皮厚了。
+- **随机毒鸡汤**：你打起精神，3分钟就能做完的事情，打起精神就要花上3小时。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=aa9915e8-6808-4f7e-84b8-c966078a658e)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b4b8f951-ae73-4d44-9a9c-56270f18dc68)

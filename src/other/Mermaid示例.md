@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候写作文都是扶老人，现在想想，我当年胆子真大啊！
+- **随机毒鸡汤**：我曾经喜欢一个人，所以现在一直是一个人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=120d3dec-1028-4772-a235-d078d3062b81)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dbe1057d-6048-43b3-9d5a-eee2548a4568)

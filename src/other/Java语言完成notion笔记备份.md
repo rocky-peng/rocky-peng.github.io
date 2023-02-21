@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：兴趣是最好的老师，其次是耻辱。
+- **随机毒鸡汤**：在现在这个社会，想让别人记住你，只有欠钱不还。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=55753b70-892d-4599-87a6-610c17506df9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c30c463d-3326-4e7f-801f-6c8cb3b14a80)

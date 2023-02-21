@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成绩不代表一切，成绩只是让别人，低头弯腰而已。
+- **随机毒鸡汤**：只要自己躺平，就不会被任何人击倒！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=61cd96fb-4da3-4149-bb2a-6bdf1c7c7150)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4650c278-081f-461f-ba5e-3e495fc1b1c9)

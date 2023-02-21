@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：虽然我学得慢，但我放弃得快。
+- **随机毒鸡汤**：现在看来用生日做密码，还是很安全的，毕竟没有人记得你生日。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c3c087a5-2a8a-4d5f-8e44-b20bf4e7e161)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c5d408d4-8ab7-43ff-9386-241e65688c40)

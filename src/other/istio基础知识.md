@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：用疑问句回答疑问句时，一般就是说中了。
+- **随机毒鸡汤**：最近一个月，总有那么三十天很不顺。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cd697355-427c-4d98-9cc0-734135a54367)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=aef920a9-c9d3-4edf-8403-136abacac713)

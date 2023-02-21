@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不是因为看到了希望才坚持，而是因为坚持了，才知道没希望。
+- **随机毒鸡汤**：黑夜给你黑色的眼睛，你却用它来翻白眼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=655ea094-201c-43ac-9761-5ef9e1a1327d)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a9917289-f15b-416d-af16-db98a6defcac)

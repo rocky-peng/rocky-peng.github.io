@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：希望我的体重，像我的成绩一样，直线下降。
+- **随机毒鸡汤**：我从来不会脑残地，在网上晒自己买的名牌，因为我买不起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=033525a1-90b2-4fbb-9c3b-61a2a8383df5)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8e698c63-371b-404a-8a2e-c1e0f50d7d7a)

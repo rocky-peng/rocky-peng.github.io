@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你既没猪吃得多，也没狗跑得快，说白了就是猪狗不如。
+- **随机毒鸡汤**：我承受了这个年纪，不该有的饭量。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=76b93142-7b6a-49c6-8edd-e8695f0d780c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8851877b-8abc-427c-9663-1d7f246ac627)
