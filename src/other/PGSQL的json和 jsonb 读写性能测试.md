@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我不是那种，落井下石的人，我是直接把井封了。
+- **随机毒鸡汤**：不要把希望寄托在别人身上，也不要让别人，把希望寄托在你身上。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4311be9e-95c5-49aa-9c9b-7b98ffb2215e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=96d568b2-b3b2-46c4-a6f6-9a5f5e3451ff)

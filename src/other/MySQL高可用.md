@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我这人不太懂音乐，所以时而不靠谱，时而不着调。
+- **随机毒鸡汤**：早睡早起身体好，晚睡晚起心情好。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4e056211-8396-4310-b135-0179789b22e2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=600beada-456a-4cc0-b167-50db1ec9a683)

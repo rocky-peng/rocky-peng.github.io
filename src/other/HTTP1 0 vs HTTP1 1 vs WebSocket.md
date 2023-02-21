@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：两只小蜜蜂飞在花丛中，飞的高的对低的说，你个low bee。
+- **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=084515c2-757b-47e7-a8a5-6877765265e7)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1f366061-5cda-4b6b-adda-1bedbb5b8e9d)

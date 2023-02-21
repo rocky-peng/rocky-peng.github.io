@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上最幸福的事，是你没听课，听的人也没懂。
+- **随机毒鸡汤**：老乡骗老乡，两眼泪汪汪。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=689fb001-5492-43e2-b8a1-f91ee3238f7d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=96ceb069-e635-449c-8afd-980ccac2856d)

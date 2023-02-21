@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要没完没了的修图，你现实中的丑，我们都知道。
+- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=134748af-8229-4f4e-b9bb-a7d7f7320baf)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ed700c65-3afe-4501-aab8-cb20eabbf6cd)

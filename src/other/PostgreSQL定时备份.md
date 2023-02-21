@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：2020年，连20都成双成对，而你却还在单身。
+- **随机毒鸡汤**：果然爱情就像龙卷风，就比如我，这辈子都没见过龙卷风。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c78f0a4d-b588-4096-a472-7e8fa5088809)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7ede509b-c253-43f2-b925-4f132763e268)

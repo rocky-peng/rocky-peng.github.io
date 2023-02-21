@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么骗钱犯法，而骗感情不犯法？因为感情不值钱。
+- **随机毒鸡汤**：为了防止我这个月又乱花钱，我提前把钱，都花完了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f603f01c-75c1-474f-9a95-4814b0a6eb34)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2e541501-27d6-4b10-aef4-3ca8fdfc1b60)

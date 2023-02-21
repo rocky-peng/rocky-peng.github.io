@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：请不要对我发誓，我怕你被劈死。
+- **随机毒鸡汤**：我感觉我长一颗脑袋，纯粹是让自己，看起来高一点。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=1ee153c2-978f-4590-bfb5-80c59929a786)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a7881d4c-e476-4a4c-a511-e188e0654cc0)

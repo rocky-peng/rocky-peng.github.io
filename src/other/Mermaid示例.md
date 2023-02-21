@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
+- **随机毒鸡汤**：一直在人生的低谷，大概是因为我恐高。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=55d08b80-55eb-4185-9459-354f6e91a74a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7d0e0fd6-8075-4f3e-b2f7-3978653c7059)

@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你若不是可有可无，他又怎会忽冷忽热。
+- **随机毒鸡汤**：梦想要说出来，不然别人怎么嘲笑你？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=31161a42-35f7-4a18-ba66-8773e0ed6b98)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=b1407baa-5165-4474-8a32-c6831aa582cb)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：撞衫不可怕，可怕的是你穿着，比她丑多了。
+- **随机毒鸡汤**：世界上最宽广的是海洋，比海洋更宽广的是天空，比天空更宽广的是考试范围。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9c16ed7f-6ac5-4839-94ae-c68eefb3dcb2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a01f1404-743e-492c-8552-2d717fdf93c4)
