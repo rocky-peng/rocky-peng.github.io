@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我曾经喜欢一个人，所以现在一直是一个人。
+- **随机毒鸡汤**：你身上什么臭味都有，就是没有铜臭味！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dbe1057d-6048-43b3-9d5a-eee2548a4568)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dd4da389-826e-4bba-9e81-15e93da9205b)

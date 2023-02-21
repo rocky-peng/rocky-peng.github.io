@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：谁能想到貌不惊人的我，居然是龙的传人！
+- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=76249093-b643-4a15-bd5f-dcf4350e753e)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=71b0a33f-b545-49e3-9394-54ffcaa89ca6)

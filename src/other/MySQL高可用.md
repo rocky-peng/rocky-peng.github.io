@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我从来不会脑残地，在网上晒自己买的名牌，因为我买不起。
+- **随机毒鸡汤**：强者惜字如金，弱者废话连篇。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8e698c63-371b-404a-8a2e-c1e0f50d7d7a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fa8b0a63-7cbb-455b-8587-7e6c486480f1)

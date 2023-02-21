@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在看来用生日做密码，还是很安全的，毕竟没有人记得你生日。
+- **随机毒鸡汤**：想到这已经是，人类历史上最好的时代了，你是不是更绝望了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c5d408d4-8ab7-43ff-9386-241e65688c40)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=045a6289-6592-40c9-b360-772385a4bb39)

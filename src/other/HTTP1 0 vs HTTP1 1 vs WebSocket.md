@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你打起精神，3分钟就能做完的事情，打起精神就要花上3小时。
+- **随机毒鸡汤**：上天做过最公平的事，就是对每个人都不公平！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b4b8f951-ae73-4d44-9a9c-56270f18dc68)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dafa3b9f-1de5-4416-b9d2-99b6a5954db7)

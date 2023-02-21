@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不听老人言，快活好多年。
+- **随机毒鸡汤**：时间就是金钱，我在浪费时间？不～我只是在炫富！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=343ef475-b029-42ed-ab55-c7055d536788)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=01899be0-2f11-44c3-a5ad-84bbe8d8cda0)

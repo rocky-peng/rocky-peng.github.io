@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在现在这个社会，想让别人记住你，只有欠钱不还。
+- **随机毒鸡汤**：所有人都抵不过时间，就像你偶然想起我，问我有没有钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c30c463d-3326-4e7f-801f-6c8cb3b14a80)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e05639aa-a9c2-4439-9e03-647c4fe5ac74)

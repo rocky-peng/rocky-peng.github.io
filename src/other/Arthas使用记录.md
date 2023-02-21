@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我承受了这个年纪，不该有的饭量。
+- **随机毒鸡汤**：男生买了房就有底气结婚了，女生买了房就有底气单身了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=8851877b-8abc-427c-9663-1d7f246ac627)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c9dfef2a-e280-45a1-8bc2-2136793a54eb)

@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：黑夜给你黑色的眼睛，你却用它来翻白眼。
+- **随机毒鸡汤**：为什么国庆节大家都高兴？祖国母亲富强了，我就是富二代了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a9917289-f15b-416d-af16-db98a6defcac)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7e22963b-a23e-453a-984e-9a6474df1f77)

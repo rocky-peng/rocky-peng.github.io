@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：最近一个月，总有那么三十天很不顺。
+- **随机毒鸡汤**：只要你多财多亿，凭亿近人，还怕找不到女朋友吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=aef920a9-c9d3-4edf-8403-136abacac713)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=616a295d-a006-4769-82c1-7efb8da62303)

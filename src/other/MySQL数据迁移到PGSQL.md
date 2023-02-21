@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要自己躺平，就不会被任何人击倒！
+- **随机毒鸡汤**：为什么中国人结婚，都非要选个好日子呢？因为结完婚就没好日子过了！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4650c278-081f-461f-ba5e-3e495fc1b1c9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=861d1ba5-aac3-45ad-bd56-9840d7915ee5)
