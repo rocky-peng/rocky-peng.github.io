@@ -51,3 +51,9 @@ date: 2021-08-01
 - **随机毒鸡汤**：別人前途無量，我前途無亮。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1ac45bb8-b0f3-4b6f-aab4-e038083140e0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不告白不是怕你拒绝，而是怕你拒绝之后，跟别人一起嘲笑我。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=cb27844b-be52-4efa-8dee-0eca5c53f89f)

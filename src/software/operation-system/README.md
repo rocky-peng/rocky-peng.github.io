@@ -34,3 +34,9 @@ article: false
 - **随机毒鸡汤**：只要一个人的起点够高，那么他就可以，用一辈子来走下坡路。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=befbe23d-d7ef-4e7f-b5de-e400c33ff406)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不是路不平，而是你不行。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c33fc20a-c535-4863-8aa3-2a643696afae)

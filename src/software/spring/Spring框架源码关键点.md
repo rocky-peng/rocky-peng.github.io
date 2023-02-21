@@ -392,3 +392,9 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 - **随机毒鸡汤**：人生最大的耻辱是什么？考试作弊了还不及格。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=71594f74-51ed-492e-ba94-755d57a9f374)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我要努力变成你喜欢的样子，然后打死也不跟你在一起。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=18ecf08b-04d0-49f0-b617-86e745a317d1)

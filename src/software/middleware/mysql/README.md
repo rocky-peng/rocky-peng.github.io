@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：吃零食之前一定要看热量表，如果热量太高，说明很好吃。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=e7339b6b-6445-4f16-b13b-cdbe554198b6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：今天是除夕夜，来来来，给你夹块你最爱吃的天鹅肉。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=049b9069-233a-4d6e-9503-a15e87b7d070)

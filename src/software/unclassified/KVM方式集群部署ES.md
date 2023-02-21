@@ -159,3 +159,9 @@ date: 2020-04-05
 - **随机毒鸡汤**：如果这辈子你没得罪过人，那么恭喜你，说明你这辈子没干成什么事。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=51c79dc8-35b6-4ec2-85cb-f553995b6a20)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：心有猛虎，细嗅蔷薇，蔷薇说我口气好大。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=67044a35-67e5-4326-a8c1-a077f28ce50f)

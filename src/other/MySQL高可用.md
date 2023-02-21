@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你以为你们的关系很铁，但你知道吗，铁是会生锈的。
+- **随机毒鸡汤**：失败的尽头是绝望，努力的终点是过劳。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5843f4c2-6d1f-4efc-9e94-bbb7176d99fa)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ee877da9-c732-4947-944b-5fb068248d9f)

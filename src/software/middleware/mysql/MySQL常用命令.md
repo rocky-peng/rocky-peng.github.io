@@ -554,3 +554,9 @@ GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 - **随机毒鸡汤**：跟你谈钱的老板才是好人，跟你谈理想的，都TM不想给你钱！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0c168805-addb-4363-8613-28d5886aa08d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：钥匙圈是非常实用的小工具，它可以让你，一次把所有钥匙都丢光。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d36aff98-b2d4-461e-8a94-7bbbd7f5f2b5)

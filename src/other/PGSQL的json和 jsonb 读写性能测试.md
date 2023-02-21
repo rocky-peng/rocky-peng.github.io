@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：还好没有对象，不然这么冷的天，还要拿手机出来回信息。
+- **随机毒鸡汤**：单身的原因，有对象的咱不能要，没人要的咱也不能要。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1f68d905-647c-4225-9c9a-fff2fb9567c0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=e461fcbc-8272-4756-861b-79732bf674af)

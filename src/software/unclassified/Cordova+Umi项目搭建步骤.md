@@ -127,3 +127,9 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 - **随机毒鸡汤**：为什么现代人不会写诗？因为，「文体不限诗歌除外」。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c442778f-4ee1-4e08-833a-3f085cb1d1f5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：天使会为了全世界抛弃你，魔鬼会为了你抛弃全世界。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f0791bc7-264b-4f3e-aaa5-8ee6ed6393ca)

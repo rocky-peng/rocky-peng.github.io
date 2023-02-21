@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：拆穿多没用，我喜欢看你表演。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=66838fc6-9d74-40f3-af1d-df9e7abae76f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我有密集恐惧症，不能接触心眼多的人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=238bc5eb-cbb6-4906-9965-0352272465c2)

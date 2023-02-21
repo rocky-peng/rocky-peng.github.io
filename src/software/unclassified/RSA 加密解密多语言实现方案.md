@@ -837,3 +837,9 @@ print _message
 - **随机毒鸡汤**：不要说自己痴心妄想，因为只有痴心才能实现妄想。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=097bac52-0009-4e0c-bdcd-03283a34edd6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我很饿然后我看了看镜子，我依旧很饿，果然美貌不能当饭吃。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7dfc94f7-fdf8-431e-b245-7f547bf0cbe4)

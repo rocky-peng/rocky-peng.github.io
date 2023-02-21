@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：经过大家的耐心劝导，我终于接受了，自己是傻逼这个事实。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1f670eb4-8e36-4a49-a494-032b8cff64ea)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：真的会有人等着你，等着看你笑话。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4997d713-c5a6-4006-bdb9-36d85b2fe37f)

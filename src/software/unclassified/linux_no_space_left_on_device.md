@@ -76,3 +76,9 @@ date: 2019-06-10
 - **随机毒鸡汤**：你的脖子真可爱，顶着一个猪脑袋。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c4146a32-5fee-4720-a988-08a0d262db2f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：最烦别人问我工资多少，瞧不起我的方法有很多，为什么偏偏选这一种？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=76a6956a-1be0-4d41-a054-19d580bdc37e)

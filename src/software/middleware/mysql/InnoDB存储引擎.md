@@ -205,3 +205,9 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 - **随机毒鸡汤**：如果连我的情绪，都要我亲口告诉你，那和考试抄答案有什么区别？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f7f4d650-dfa1-4f9c-82a7-6aae745a245b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：这么多年没掉入桃色陷阱，靠的就是两个字，没钱。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ad1f0c4c-d3a6-4d33-bcd4-635d2db8e8ec)

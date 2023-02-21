@@ -49,3 +49,9 @@ EOF
 - **随机毒鸡汤**：伤你最深的人，一定是最了解你的人，毕竟曾经你们无话不说。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d2c4d4d5-788f-4fac-a8d3-e494ffc6cdd0)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一直坚持走斑马线，不是因为我素质高，只因为斑马线上被撞赔的多。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c7472758-f13a-4b6a-9d91-e590fc4dc64a)

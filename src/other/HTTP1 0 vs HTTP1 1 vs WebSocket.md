@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我要没点自我安慰的本事，还真活不到现在。
+- **随机毒鸡汤**：平时看书是因为有求知欲，考前看书是因为有求生欲。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=97b7decc-ad1e-4b70-a9af-185d04950991)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=eff2fac1-f002-4701-9dd3-07e746bb9d80)

@@ -32,3 +32,9 @@ date: 2017-03-17
 - **随机毒鸡汤**：我觉得，我是小时候兴趣班上多了，长大才没兴趣上班。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a772177a-296f-45db-84c2-bec775373733)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我需要你的指点，但不需要你指指点点。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=eca50a2a-79ac-4b3a-9cfc-7ab8aae408ff)

@@ -182,3 +182,9 @@ public ReentrantLock(boolean fair) {
 - **随机毒鸡汤**：世界上没有得理不饶人的人，只有没理还缠着你不放的人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6f109559-5069-4d1d-8a45-84c9a143cc17)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：好朋友都这样，你跌倒时我会扶你一把，不过要先等我笑完。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=057f797a-df45-45f3-9f18-009344ac3f76)

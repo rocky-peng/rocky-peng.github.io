@@ -280,3 +280,9 @@ Number of method invocations/branches before compiling [-client: 1,500]
 - **随机毒鸡汤**：确实已经成熟到，很多事情可以不去问了，但还没成熟到能忍住不去猜。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7ff731ab-bf22-432a-a71d-38c11a8ea4d5)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：幸亏长得丑，没经历过各位的爱恨情仇。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=28f1382e-d87e-477b-a348-43eb2fb791fc)

@@ -62,3 +62,9 @@ yum --enablerepo=epel install inotify-tools
 - **随机毒鸡汤**：其实你讨厌的并不是广场舞，而是广场舞大妈。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ca14333c-9c57-4a91-b9e8-cfcb327b673c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：拆穿多没用，我喜欢看你表演。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2b10e9e3-8bd8-47e6-b85a-7d61f5c81401)

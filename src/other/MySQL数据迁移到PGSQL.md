@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人还是要有梦想的，即使是咸鱼， 也要做最咸的那一条。
+- **随机毒鸡汤**：找对象还是眼光高点好，你总得为，没有人喜欢你找个借口吧。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=28b852dd-edb8-4c84-b736-8bef6505dcda)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9f812d73-b4d0-40d9-8540-01490912b01b)

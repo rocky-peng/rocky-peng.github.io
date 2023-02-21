@@ -257,3 +257,9 @@ public class AttachMain {
 - **随机毒鸡汤**：一开始担心是诈骗信息，后来想想自己的余额，放心的点开了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=df3c0e59-7a8d-4558-89e6-bdefc2bc0d90)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：突然发现，起床第一件事是摸手机，睡前最后一件事是放下手机。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b9d4e2f2-aa3a-48c0-8e5c-41f73ba01eac)

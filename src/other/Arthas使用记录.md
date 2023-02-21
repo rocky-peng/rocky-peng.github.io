@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：可有可无的东西，一律可无。
+- **随机毒鸡汤**：都说成年人的崩溃，是从借钱开始的，更崩溃的是借不到钱！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1d06aa6a-7ee8-46cc-be6c-2ef467f55265)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=af95caed-fc43-43b2-b3fe-15fc579b2c13)

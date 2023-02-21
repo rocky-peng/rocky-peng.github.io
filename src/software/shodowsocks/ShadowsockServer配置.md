@@ -61,3 +61,9 @@ EOF
 - **随机毒鸡汤**：请不要叫我宅女，请叫我居里夫人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6b84512f-cf33-4f1d-837d-620589557ff6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：希望你以后，有酒有肉有姑娘，姑娘丑的不像样。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=66ddf0d8-28dd-4878-b99a-6db933b293ce)

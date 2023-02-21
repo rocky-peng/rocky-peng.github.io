@@ -111,3 +111,9 @@ systemctl start docker
 - **随机毒鸡汤**：我能想到最浪漫的事，就是和你一起吃吃吃，然后你付钱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=28c2fa99-e0e6-4565-b58b-2f08ca93b8a6)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：社会是有等级的，很多事不公平，别抱怨因为没有用。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=65e6a4b4-1017-455a-a729-5715f6933550)

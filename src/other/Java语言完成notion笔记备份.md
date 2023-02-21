@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：人家考试跟玩一样，我考得跟玩一样。
+- **随机毒鸡汤**：久旱逢甘霖—一滴，他乡遇故知—债主，洞房花烛夜—隔壁。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bb1dbdee-9d48-4c91-afe4-89da60cb5435)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b20b0993-7d92-4b07-b3a7-12c8fc41f3a3)

@@ -77,3 +77,9 @@ git push --force --tags origin 'refs/heads/*'
 - **随机毒鸡汤**：你哪是什么朴实节俭，会过日子的人，你只是单纯的穷而已。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b2644433-ab99-4175-af56-26b21da91ade)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人的一切痛苦，本质上都是，对自己无能的愤怒。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=4cd45290-71bd-498c-9efb-b9a74c2c383d)

@@ -52,3 +52,9 @@ date: 2020-05-03
 - **随机毒鸡汤**：肚子上的赘肉，是你向生活妥协的痕迹。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b45d35fa-765d-42ba-9db6-afed8e6bada1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：遇到喜欢的人一定要表白，你丑没关系，万一他瞎呢。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ded6794d-39bc-43c9-83f8-a66a1a9870ec)

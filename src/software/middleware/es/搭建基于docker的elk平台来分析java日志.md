@@ -555,3 +555,9 @@ sudo /etc/init.d/filebeat stop
 - **随机毒鸡汤**：美貌会消逝，但蠢是永恒的~
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bae07cb4-07fa-4f55-8561-ac35b0154d54)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不是因为看到了希望才坚持，而是因为坚持了，才知道没希望。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=69631e19-387c-41e7-a29c-312038b1ec09)

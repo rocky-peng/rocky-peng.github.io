@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：复习的意义就是，再次确认，你是真的不会。
+- **随机毒鸡汤**：明知山有虎，那就不要去明知山！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=ced467d5-abbe-45d2-8037-c484643fbf8b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f067bbc6-1603-421b-b642-fd254f17e5fb)

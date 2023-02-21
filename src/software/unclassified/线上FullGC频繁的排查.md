@@ -129,3 +129,9 @@ public JdbcSqlStat createSqlStat(String sql) {
 - **随机毒鸡汤**：很多人说我减肥没瘦，减肥没瘦怎么了？你上班不也没存款吗？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f46d79d3-4f9a-4c74-b48b-feb258d49252)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：不明白你们遇到好事，为什么要掐腿揉眼睛，真醒了怎么办？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ae8cd824-b2d6-4866-9ee7-635f82b807e4)

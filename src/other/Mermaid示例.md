@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：奈何年少没文化，一句卧槽走天下。
+- **随机毒鸡汤**：找不到对象的原因就是，不但你自己丑，还嫌别人丑。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9f3ef513-e054-4382-8275-1ad070832b88)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8ebae2d4-950d-425a-855a-42f68daf11cf)

@@ -171,3 +171,9 @@ InnoDB支持的索引
 - **随机毒鸡汤**：十倍速亲近你的人，会在未来某个时刻，十倍速离开你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=b4b81725-5739-497d-84e5-d48c14db3b06)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：以后说话记得反着来，毕竟生活最喜欢的，就是打脸。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a3b65003-fb46-4b8e-a629-cd0be9e2e27e)

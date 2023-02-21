@@ -34,3 +34,9 @@ article: false
 - **随机毒鸡汤**：如果过年你看到我脸色不好，别想太多，就是你忘给红包了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a3f69dcf-1779-4056-9666-552a68d06379)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：感情和头发一样，时间长了，都会分叉。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1f99da01-8882-469c-8644-e96b0c586f51)

@@ -64,3 +64,9 @@ date: 2015-07-05
 - **随机毒鸡汤**：游戏没了可以重开，女朋友要是没了，那游戏就能一直玩下去了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e6bc9be7-d0fb-4e9a-9655-0594f1143edd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我把她从女孩变成了女人，她把我从男孩变成了，穷人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a9735d50-3710-4365-ade7-a5e99d1f46c5)

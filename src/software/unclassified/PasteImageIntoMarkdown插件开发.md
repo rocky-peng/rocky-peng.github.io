@@ -66,3 +66,9 @@ github: [https://github.com/rocky-peng/PasteImageToMarkdown][https://github.com/
 - **随机毒鸡汤**：真正的勇士，敢于直面银行卡上的余额，敢于正视磅秤上的数字。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bcb6e517-9256-4c1e-a684-90df3de6154b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你要相信，你爱的那个人他会来的，不然怎么把你的心摔碎。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1ad51fab-7561-4943-b821-8c543abda924)

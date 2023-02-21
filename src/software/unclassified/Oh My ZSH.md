@@ -90,3 +90,9 @@ source ~/.zshrc
 - **随机毒鸡汤**：说啥啥不听，干啥啥不行，吃啥啥不剩。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c0ddec25-f0db-484a-bf82-3cab3d3ecf4f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：钱买不到快乐是假的，你那点钱买不到快乐是真的。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=024e7eeb-a622-4bb3-9f6c-3ea3ba2df43e)

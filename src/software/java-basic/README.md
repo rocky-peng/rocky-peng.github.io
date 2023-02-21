@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：别人骂你的时候，不要理他，反正你又骂不过他。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e9db8728-0e1e-4c62-97c0-c1c72e7112f2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：好人有好报这句话不假，但老好人没有。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=863b6414-f151-4203-beb3-5afb042c745d)

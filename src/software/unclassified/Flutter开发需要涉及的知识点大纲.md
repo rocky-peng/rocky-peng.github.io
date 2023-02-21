@@ -57,3 +57,9 @@ date: 2018-04-23
 - **随机毒鸡汤**：只有我不认真复习，才能说服自己，接受自己糟糕的成绩。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1ee52237-44d2-4a8d-a34b-40990e1ac366)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：自卑到了一定程度，就连拒绝，都害怕伤害别人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=533c87c3-5dfc-4149-9327-1aaa4541bdec)

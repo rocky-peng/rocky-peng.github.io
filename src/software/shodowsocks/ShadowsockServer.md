@@ -58,3 +58,9 @@ docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345
 - **随机毒鸡汤**：有些爱情，不是让你多喝水，就是让你早点睡。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5ac53f74-4aed-4f8f-8695-c75926c0a46d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：看时不懂剧中人，懂时已是剧中人。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2a19f5a6-0cfa-4398-b081-7faea30e8214)

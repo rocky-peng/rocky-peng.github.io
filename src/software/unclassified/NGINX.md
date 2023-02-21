@@ -94,3 +94,9 @@ cp nginx.conf  nginx.conf.bak
 - **随机毒鸡汤**：钱其实不是被你花了，只是换一种方式陪伴你。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=014501c3-a833-4c95-a305-ec1f2df74076)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一日不读书没人看得出，一周不读书，智商堪比猪。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=55b75897-e371-4391-9b5e-830c75c74fca)

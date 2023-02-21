@@ -162,3 +162,9 @@ gantt
 - **随机毒鸡汤**：年轻的时候一定要敢于做梦，毕竟年龄一大，就很容易睡不着。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=fedd5a8c-61f5-40e8-85a7-7acb2283e92a)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：长得帅的踢键子都帅，长得丑的，打高尔夫都像在铲屎。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c874ba4f-58e4-4f6e-a325-9b84473da273)

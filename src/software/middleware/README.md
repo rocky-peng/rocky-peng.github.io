@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：有钱人终成眷属，没钱人只能吃土。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=54f81037-0fea-41c5-b293-2d428850d40b)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人如果没有梦想，那跟无忧无虑有什么分别？
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5ce817bc-ce04-494c-a918-48eca0d1ce91)

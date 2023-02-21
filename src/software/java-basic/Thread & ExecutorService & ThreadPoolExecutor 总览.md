@@ -363,3 +363,9 @@ public void rejectedExecution(Runnable r, ThreadPoolExecutor e) {
 - **随机毒鸡汤**：没有人理解你很委屈吗？数学都不被你理解，数学都不委屈。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d0981bd9-06b7-4832-8df8-add4407ce335)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：以后说话记得反着来，毕竟生活最喜欢的，就是打脸。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c3b10ab1-f5a1-4cbf-a43f-4f8eb1bdba4a)

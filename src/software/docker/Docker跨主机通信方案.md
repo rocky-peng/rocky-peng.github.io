@@ -140,3 +140,9 @@ docker run -itd --name t4 centos
 - **随机毒鸡汤**：你俩看起来真般配，月老的垃圾分类，做的还挺到位。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=f45587c8-8327-49f3-8597-9499b358d327)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：一只猪被孤立，于是它变成了朱古力。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b4d63e79-9f1c-480f-abae-e16e34c1a75d)

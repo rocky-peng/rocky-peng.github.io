@@ -335,3 +335,9 @@ https://blog.csdn.net/wanglei_storage/article/details/51106096
 - **随机毒鸡汤**：幸亏长得丑，没经历过各位的爱恨情仇。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce2880ec-c3d4-4522-a56f-16d8e55df66c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：蹦极很危险，绳子栓到腿上会肌肉拉伤，我一般都栓脖子上。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=cf84b266-1c45-4b8b-86e0-513fc66b00cd)

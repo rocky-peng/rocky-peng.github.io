@@ -138,3 +138,9 @@ import java.lang.reflect.Field;
 - **随机毒鸡汤**：你的努力永远比不上，别人的家底。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b3a58cae-8f17-4e60-9a05-6b0f30bb3bb2)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：我挺会哄女生睡觉的，只要我一问在吗，她们就说要睡觉了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4bf55370-8c21-4ef4-8774-62fe080e78a1)

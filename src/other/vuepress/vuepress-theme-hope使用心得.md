@@ -35,3 +35,9 @@ date: 2022-12-25
 - **随机毒鸡汤**：枕头要经常晒，因为里面装满了，心酸的累和发霉的梦。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b258bc87-25ac-4e3a-a744-eee338f8756c)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：每个人都是梦想家，梦破灭之后，就只剩想家。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=39b34a1c-0eab-4f05-87fd-8e617af34110)

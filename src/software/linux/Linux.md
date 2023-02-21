@@ -135,3 +135,9 @@ ntpdate 时间服务器ip
 - **随机毒鸡汤**：家，是唯一一个可以让你，丑的很舒服的地方。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=10d7d7e5-6b22-4981-ace2-1bd1a239a943)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：人生就像打电话，不是你先挂就是我先挂。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=bc7fee2f-56b1-4945-a936-8e214b2a8434)

@@ -34,3 +34,9 @@ article: false
 - **随机毒鸡汤**：从小就被教育不要乱花钱，长大后我才发现，根本没钱怎么乱花？
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=38371748-3d85-41db-bf41-aa096da78980)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=72f9bd9b-bb00-4c79-afbb-6bfe32ce3546)

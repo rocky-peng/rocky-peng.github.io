@@ -850,3 +850,9 @@ es				1.6.0-2.1.0
 - **随机毒鸡汤**：上了那么多年班从没请过假，我怕公司发现，有没有我都一样。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8e722ed1-bc46-416e-a44b-ffbbb116c2fd)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：任何时候都要保持微笑，这会让你看起来，像个不好惹的神经病。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4a6c641c-93b2-4430-901e-8c018c0c622c)

@@ -267,3 +267,9 @@ public interface Lock {
 - **随机毒鸡汤**：既然如今要在家上学，那以后，只能在学校睡觉了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=61e4bdee-8cb0-41e9-ac5b-0ee504da4efb)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你骗我的样子万般投入，我又怎么舍得让你输。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=afa40957-17d7-49b3-b014-970b32648a85)

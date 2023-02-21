@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不给别人添麻烦，就是我对这个社会，最大的贡献。
+- **随机毒鸡汤**：减肥没瘦怎么了？你们上班，不是也没有存款吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=19425dc6-5f28-4bac-a370-520f7aa993b7)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ce8c4310-407f-4a69-858b-a043d48bea2f)

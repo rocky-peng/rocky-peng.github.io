@@ -252,3 +252,9 @@ D: redo log、binlog
 - **随机毒鸡汤**：哪有那么多烦心事，还不都是自己蠢出来的。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7c89b52e-22a2-4c3d-b268-bcf4ec5b580f)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：媽媽今天跟我說選對象，不能只看別人的外表，也要看看自己的外表。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2487e80a-40eb-4dd3-85fd-f7c49a63bbfb)

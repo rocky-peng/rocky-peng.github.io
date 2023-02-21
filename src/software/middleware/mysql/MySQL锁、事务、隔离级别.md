@@ -492,3 +492,9 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
 - **随机毒鸡汤**：有种不治之症，叫做「脑子有病」。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=03b6c7da-1e42-4dfd-9bad-d1e6f65ddf41)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：比起被人左右情绪的生活，我更喜欢无人问津。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ff7abd7f-35d4-4f85-ad2c-dd14d1dbd797)

@@ -34,3 +34,9 @@ date: 2021-09-01
 - **随机毒鸡汤**：你这么努力，忍受了这么多寂寞与痛苦，也没见你多优秀啊。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c7ec44ee-f95c-4c62-8e42-79cda40be568)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：复习的意义就是，再次确认，你是真的不会。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8833c66b-6da0-4ebe-9a04-5398f99fa030)

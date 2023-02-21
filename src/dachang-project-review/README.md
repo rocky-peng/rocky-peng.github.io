@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：我的原则是，人不犯我 我不犯人，人若犯我 我就生气！
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=5d837082-0453-4050-bada-a1e276e55d9d)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：为了变漂亮，你坚持了哪些好习惯？坚持开美颜。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=6361bd8f-18b5-4a18-914a-5d5f87eddb47)

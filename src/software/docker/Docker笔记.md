@@ -87,3 +87,9 @@ docker load -i xxx.tar
 - **随机毒鸡汤**：你俩看起来真般配，月老的垃圾分类，做的还挺到位。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ea8f4ffe-3bd8-4935-86bf-d57136617ac1)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：所谓复习就是，把不会的东西再确认一遍，你确实不会。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=32a932d5-6243-46fb-83bf-c7aaacbbe76e)

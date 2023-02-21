@@ -44,3 +44,9 @@ date: 2017-01-03
 - **随机毒鸡汤**：失败乃成功之母，没人会一直失败，只是多感受了一点母爱。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bbadf9e8-d10a-42e9-a029-f7208af38e86)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：总有这样的人，该干活的时候职业不起来，玩的时候又放不开。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2ebc7dd6-ce47-4e67-b82b-9810637f6413)

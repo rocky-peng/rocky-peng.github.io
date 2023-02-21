@@ -132,3 +132,9 @@ jetty异常的解释：
 - **随机毒鸡汤**：别人清空购物车靠买，我清空购物车靠删。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ed60cbff-bdbf-4b14-b72c-38be5e8ca679)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：单身脱发又没钱，跑步进入中老年。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8c7f6052-3206-4e66-b16b-de8b82d13895)

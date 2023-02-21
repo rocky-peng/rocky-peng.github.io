@@ -35,3 +35,9 @@ icon: info
 - **随机毒鸡汤**：我曾经得过人格分裂症，但现在我们已经康复了。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3af10885-1bbc-4f56-b379-d365f44dc557)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：所谓成长，就是在听到波涛汹涌四个字，再也联想不到大海了。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=797951b9-e424-46af-b997-10724b57310f)

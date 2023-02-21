@@ -427,3 +427,9 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 - **随机毒鸡汤**：你过得好我替你高兴，你过得不好，我替全世界高兴。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9b30239d-c1d5-4dfd-a552-e8ffba635132)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：在楼下给你打电话，寒风中等待你的，只有外卖小哥。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d29cb496-9bfc-416a-acc1-41f5a595bdc3)

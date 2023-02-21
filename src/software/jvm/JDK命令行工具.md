@@ -326,3 +326,9 @@ jcmd 93526 VM.version
 - **随机毒鸡汤**：清明节，应该回你的学校扫扫墓，因为那里埋葬了你的青春。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4afc681d-330d-49fc-9a20-6d402bfe3130)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：如果婚姻是爱情的坟墓，那么相亲是，为坟墓看风水！
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9b7e8eec-8b93-4b89-9bb1-775c10bacd93)

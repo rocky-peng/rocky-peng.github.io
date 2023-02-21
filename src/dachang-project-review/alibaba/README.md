@@ -33,3 +33,9 @@ article: false
 - **随机毒鸡汤**：牛人坚持不懈叫匠人，但你坚持不懈叫犟人。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4ee10ad0-285a-4e65-a1d6-bad6fcd920be)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：你以为你缺的只是钱吗？你是不是忘了，你还缺心眼。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ff1e81fc-1ba6-4b30-922e-b2b19078cc66)

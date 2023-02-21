@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：快乐分享错了人就成了显摆，难过分享错了人就成了矫情。
+- **随机毒鸡汤**：你不是脾气好，是气到内出血又不敢刚。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a460fb60-836c-4dea-b5db-af1b160f0744)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1061170e-5f95-4e77-9f8b-b019c1b5e90c)

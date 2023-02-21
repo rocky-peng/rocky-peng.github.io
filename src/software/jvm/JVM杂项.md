@@ -454,3 +454,9 @@ read,load的后一个动作就是use;
 - **随机毒鸡汤**：心甘情愿四个字，真是卑微又勇敢。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=61bb0d97-4218-4e84-985d-1ae9230d71d8)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：有些事情，只要静下心去做，就一定会睡着。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f35000f4-c701-4e2e-8367-848f6d997a98)

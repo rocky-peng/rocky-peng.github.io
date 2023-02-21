@@ -76,3 +76,9 @@ date: 2023-01-03
 - **随机毒鸡汤**：你不努力就会被社会淘汰，但只要你努力，过几年才会被社会淘汰。
 <br/><br/>
 ![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5995f344-5a86-44d2-a5c0-466391779156)
+<br/><br/><br/><br/><br/><br/>
+---
+---
+- **随机毒鸡汤**：这年头，人宁愿说自己有病，也不愿意承认自己平凡。
+<br/><br/>
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=879fc5e0-ad86-4e7e-9d70-f6e9032442d4)
