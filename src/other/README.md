@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我感觉我长一颗脑袋，纯粹是让自己，看起来高一点。
+- **随机毒鸡汤**：上海是商海北京就是背景，理想就是离乡，平民就是拼命。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a7881d4c-e476-4a4c-a511-e188e0654cc0)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d45d6c38-3e5d-433a-9ec1-797cb260f44d)

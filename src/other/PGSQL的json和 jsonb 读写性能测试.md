@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要把希望寄托在别人身上，也不要让别人，把希望寄托在你身上。
+- **随机毒鸡汤**：嘴巴那么能喷，莫非抹了开塞露。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=96d568b2-b3b2-46c4-a6f6-9a5f5e3451ff)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=60ee89c0-b380-4692-b094-20c8d4186051)

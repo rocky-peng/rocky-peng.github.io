@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：一直在人生的低谷，大概是因为我恐高。
+- **随机毒鸡汤**：有个姑娘问我借钱去整容，整的挺成功，我再没认出是谁问我借的钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7d0e0fd6-8075-4f3e-b2f7-3978653c7059)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bffc7cce-e328-40b2-bd64-7404696c13e2)

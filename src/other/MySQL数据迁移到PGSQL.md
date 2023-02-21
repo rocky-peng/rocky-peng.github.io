@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
+- **随机毒鸡汤**：为什么现代人不会写诗？因为，「文体不限诗歌除外」。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ed700c65-3afe-4501-aab8-cb20eabbf6cd)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bae22176-119b-4474-bbe2-ec8a6e112b36)

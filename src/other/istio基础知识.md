@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上最宽广的是海洋，比海洋更宽广的是天空，比天空更宽广的是考试范围。
+- **随机毒鸡汤**：狗咬吕洞宾，一定有原因。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=a01f1404-743e-492c-8552-2d717fdf93c4)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b2d59fff-b599-430a-9a38-2f39a006ad77)

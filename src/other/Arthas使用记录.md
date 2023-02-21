@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为了防止我这个月又乱花钱，我提前把钱，都花完了。
+- **随机毒鸡汤**：你既没猪吃得多，也没狗跑得快，说白了就是猪狗不如。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=2e541501-27d6-4b10-aef4-3ca8fdfc1b60)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8166173d-7a9b-46a3-9b64-1d4986a179e9)

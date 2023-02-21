@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：老乡骗老乡，两眼泪汪汪。
+- **随机毒鸡汤**：你早起，我晚起，我们早晚不在一起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=96ceb069-e635-449c-8afd-980ccac2856d)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=177faeaf-7aab-4c7d-b31f-ec7c4bb020e7)

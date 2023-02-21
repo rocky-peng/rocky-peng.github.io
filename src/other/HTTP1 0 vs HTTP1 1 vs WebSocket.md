@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：命只有一条，但要命的事，可不止一件。
+- **随机毒鸡汤**：少年不知愁苦，中年日夜劳苦，老年落寞孤苦。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1f366061-5cda-4b6b-adda-1bedbb5b8e9d)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d64606c9-8309-451e-a28f-00028799699b)

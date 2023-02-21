@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：早睡早起身体好，晚睡晚起心情好。
+- **随机毒鸡汤**：有一种思念叫望穿秋水，有一种寒冷叫忘穿秋裤。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=600beada-456a-4cc0-b167-50db1ec9a683)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d49e3626-dcfc-43fb-8488-2dc08d249ce2)

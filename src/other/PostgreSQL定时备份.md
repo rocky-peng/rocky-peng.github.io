@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：果然爱情就像龙卷风，就比如我，这辈子都没见过龙卷风。
+- **随机毒鸡汤**：看了年度账单，才知道自己居然，这么有钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=7ede509b-c253-43f2-b925-4f132763e268)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0af6e8a7-52f2-47d0-b313-96eacb3b328a)
