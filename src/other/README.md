@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
+- **随机毒鸡汤**：我爱睡懒觉，如果要给这份爱一个期限，我希望是一万年。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=675dcc98-f6b9-407c-af1a-15d03b9549d9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e65a861-9e36-469d-a583-873c98743600)

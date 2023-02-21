@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：幸亏你去年没洗头，要不然你今年，炒菜连油都没有。
+- **随机毒鸡汤**：现在这年头，偷懒都可以不叫偷懒了，而叫佛系。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0f1ac871-9c4d-4074-a507-8577d8219dc2)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=60392305-c3b8-4cf6-ba72-dbae9b2ef394)

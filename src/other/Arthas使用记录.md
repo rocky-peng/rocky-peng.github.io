@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不需要解释，理解你的人不需要，不理解你的人不配要。
+- **随机毒鸡汤**：我的未来是个梦，但遗憾的是，我TM失眠了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1ac0b900-f4a1-4323-b2aa-b7d78ed93f00)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=5d9d21a0-023a-4757-b928-9944bfb13111)

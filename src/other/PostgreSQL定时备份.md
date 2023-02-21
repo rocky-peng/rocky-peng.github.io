@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世界上哪有什么好人，只是坏的程度不一样。
+- **随机毒鸡汤**：不要太过在意别人的目光，人家根本没有把你放在眼里。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f4c8a9e0-d972-4d91-823a-ca3af93df246)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=286b6335-6477-4145-a6e7-283992de28a0)

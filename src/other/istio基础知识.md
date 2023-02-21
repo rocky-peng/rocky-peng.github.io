@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要说别人脑子有病，脑子有病的前提是，必须有个脑子。
+- **随机毒鸡汤**：婚姻是一座围城，城外的人想进去，城里的人真会玩。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=14b7b1c9-5cb6-4bb2-86d6-485ae332cd3c)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9dc5fca8-7d8f-4954-99b6-cba3931d673e)

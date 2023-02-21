@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：和你已经陌生到，连是否要点赞，都要斟酌再三的地步了。
+- **随机毒鸡汤**：我的未来就是个梦，更遗憾的是，这会儿还失眠。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9c8950b9-953b-4b65-9637-4fdb0e9c4ce8)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c7e309d1-4260-4a16-8877-a4f06da4a3d2)

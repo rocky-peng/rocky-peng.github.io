@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：期末考试不给你露一手，你还真以为你教的好啊。
+- **随机毒鸡汤**：是酒不香，还是烧烤不入味，你居然想减肥？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e92bbc8d-72a8-4412-af25-15e03f5360b0)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f230fee2-49e6-4a22-bad1-fe3cb2e63e78)

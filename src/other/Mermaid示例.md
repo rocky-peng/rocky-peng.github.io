@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：小时候我常想，长大了是上北大还是清华，现在想想原来是我想多了。
+- **随机毒鸡汤**：丧的人，不是对世界失去了信心，而是对自己失去了信心。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2c879dc7-328b-4559-b86e-f10b27866c8b)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=6d340b69-f874-4bb3-a44d-b546640feea3)

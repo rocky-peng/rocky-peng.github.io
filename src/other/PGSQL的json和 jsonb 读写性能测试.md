@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：凡事先想想自己配不配，如果配，那就是想多了。
+- **随机毒鸡汤**：不是路不平，而是你不行。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ec88b4a1-1929-474e-b740-015ff3100fdd)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=88743711-abdf-47a7-819e-41c1cb88573d)

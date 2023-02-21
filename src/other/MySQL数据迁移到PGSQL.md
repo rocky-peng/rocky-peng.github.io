@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：其實你並不討厭，就是全無用處罷了。
+- **随机毒鸡汤**：我的不注重细节，毁了试卷好多温柔。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ab278aa9-9e81-4dac-96c0-be67af1ab60c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=bb22b11f-bed2-4401-81d4-4965c79c176f)
