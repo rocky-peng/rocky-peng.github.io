@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么国庆节大家都高兴？祖国母亲富强了，我就是富二代了。
+- **随机毒鸡汤**：冰冻三尺非一日之寒，掏空钱包却一点不难。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=7e22963b-a23e-453a-984e-9a6474df1f77)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=6e9ea511-b3dd-4799-a5af-af0d3a167efb)

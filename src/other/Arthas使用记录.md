@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：男生买了房就有底气结婚了，女生买了房就有底气单身了。
+- **随机毒鸡汤**：虽然你学的慢，但是你放弃的快呀。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=c9dfef2a-e280-45a1-8bc2-2136793a54eb)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=85c370c1-9f5d-4478-ac9f-fea82a22ce20)

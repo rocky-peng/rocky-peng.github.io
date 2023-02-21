@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你身上什么臭味都有，就是没有铜臭味！
+- **随机毒鸡汤**：虽然很多餐厅没有进去过，但在外卖软件里，我们都是过命的交情了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=dd4da389-826e-4bba-9e81-15e93da9205b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=91ab3ee9-88e1-430a-8305-e878a88c53f0)

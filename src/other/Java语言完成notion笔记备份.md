@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：所有人都抵不过时间，就像你偶然想起我，问我有没有钱。
+- **随机毒鸡汤**：妹妹你坐船头，哥哥我在岸上走。看这句的99%都是唱出来的。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e05639aa-a9c2-4439-9e03-647c4fe5ac74)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=62dbade6-5d8b-47ca-a615-c4ca35d6e473)

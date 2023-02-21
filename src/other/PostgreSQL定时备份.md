@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：想到这已经是，人类历史上最好的时代了，你是不是更绝望了。
+- **随机毒鸡汤**：一切都会变好的，比如你已经从胖，变成了好胖。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=045a6289-6592-40c9-b360-772385a4bb39)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3f8e92bb-e838-4184-afe9-4acbd3bb5866)

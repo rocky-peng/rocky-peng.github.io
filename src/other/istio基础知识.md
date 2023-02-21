@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要你多财多亿，凭亿近人，还怕找不到女朋友吗？
+- **随机毒鸡汤**：野味锅里做得好，骨灰盒中乐逍遥。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=616a295d-a006-4769-82c1-7efb8da62303)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=71df6e04-4dd8-4cc0-a028-f58793cfb625)

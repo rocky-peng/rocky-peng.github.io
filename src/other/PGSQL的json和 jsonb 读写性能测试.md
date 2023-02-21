@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间就是金钱，我在浪费时间？不～我只是在炫富！
+- **随机毒鸡汤**：让你不顾一切往高处爬的人，不过是想看你摔得更惨。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=01899be0-2f11-44c3-a5ad-84bbe8d8cda0)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=755e6698-0cd2-4dce-aa2a-f275d3b8ccc1)

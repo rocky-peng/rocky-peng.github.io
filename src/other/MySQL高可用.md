@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：强者惜字如金，弱者废话连篇。
+- **随机毒鸡汤**：年轻的时候一定要敢于做梦，毕竟年龄一大，就很容易睡不着。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fa8b0a63-7cbb-455b-8587-7e6c486480f1)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=a2e1233c-e37c-4894-b080-98ef162264cc)

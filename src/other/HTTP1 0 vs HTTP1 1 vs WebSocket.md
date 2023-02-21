@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上天做过最公平的事，就是对每个人都不公平！
+- **随机毒鸡汤**：我现在无心学习，一心只想为祖国庆生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=dafa3b9f-1de5-4416-b9d2-99b6a5954db7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8efb97a6-2cf1-479d-a988-f7dc1c5484bf)

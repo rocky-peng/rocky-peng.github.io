@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：时间是最好的老师，但遗憾的是，最后它把所有学生都弄死了。
+- **随机毒鸡汤**：只要你想要而只要我有，不管什么，老子都不会给你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=71b0a33f-b545-49e3-9394-54ffcaa89ca6)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=c628d0f1-8b26-4dda-ac8a-5895ce8ff782)

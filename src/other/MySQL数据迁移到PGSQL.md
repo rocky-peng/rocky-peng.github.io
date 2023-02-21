@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么中国人结婚，都非要选个好日子呢？因为结完婚就没好日子过了！
+- **随机毒鸡汤**：每天叫醒我的不是闹钟，而是膀胱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=861d1ba5-aac3-45ad-bd56-9840d7915ee5)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ad3326f2-2905-42fe-8b8f-8167e0de7f4a)

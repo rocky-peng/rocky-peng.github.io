@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么骗钱犯法，而骗感情不犯法？因为感情不值钱。
+- **随机毒鸡汤**：玩手机时一想到下周期末考，我不由自主扇了自己一耳光，玩个手机都TM不专心！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d8036a82-6a84-4b75-ade1-726725c448b4)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ff13037d-2341-47a2-8509-c5cbcf84037f)
