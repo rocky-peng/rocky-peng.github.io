@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：看了年度账单，才知道自己居然，这么有钱。
+- **随机毒鸡汤**：世界上哪有什么好人，只是坏的程度不一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0af6e8a7-52f2-47d0-b313-96eacb3b328a)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f4c8a9e0-d972-4d91-823a-ca3af93df246)

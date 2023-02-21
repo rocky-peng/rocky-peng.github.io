@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你早起，我晚起，我们早晚不在一起。
+- **随机毒鸡汤**：和你已经陌生到，连是否要点赞，都要斟酌再三的地步了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=177faeaf-7aab-4c7d-b31f-ec7c4bb020e7)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9c8950b9-953b-4b65-9637-4fdb0e9c4ce8)

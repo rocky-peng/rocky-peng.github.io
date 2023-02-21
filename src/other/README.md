@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：上海是商海北京就是背景，理想就是离乡，平民就是拼命。
+- **随机毒鸡汤**：白天嘈杂得不愿意醒，夜晚安静得舍不得睡。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d45d6c38-3e5d-433a-9ec1-797cb260f44d)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=675dcc98-f6b9-407c-af1a-15d03b9549d9)

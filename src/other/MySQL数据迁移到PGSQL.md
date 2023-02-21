@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么现代人不会写诗？因为，「文体不限诗歌除外」。
+- **随机毒鸡汤**：其實你並不討厭，就是全無用處罷了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bae22176-119b-4474-bbe2-ec8a6e112b36)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=ab278aa9-9e81-4dac-96c0-be67af1ab60c)

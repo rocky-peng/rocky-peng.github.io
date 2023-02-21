@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你既没猪吃得多，也没狗跑得快，说白了就是猪狗不如。
+- **随机毒鸡汤**：不需要解释，理解你的人不需要，不理解你的人不配要。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8166173d-7a9b-46a3-9b64-1d4986a179e9)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=1ac0b900-f4a1-4323-b2aa-b7d78ed93f00)

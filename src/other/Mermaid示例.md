@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有个姑娘问我借钱去整容，整的挺成功，我再没认出是谁问我借的钱。
+- **随机毒鸡汤**：小时候我常想，长大了是上北大还是清华，现在想想原来是我想多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bffc7cce-e328-40b2-bd64-7404696c13e2)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2c879dc7-328b-4559-b86e-f10b27866c8b)

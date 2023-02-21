@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：可有可无的东西，一律可无。
+- **随机毒鸡汤**：只要我足够健忘，痛苦就追不上我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=49a642a7-c0d8-4af3-bfbd-a0e7699c3f25)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=64d9ca1a-19d3-4a16-b36f-8ebb144e9d0b)

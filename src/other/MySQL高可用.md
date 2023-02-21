@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：有一种思念叫望穿秋水，有一种寒冷叫忘穿秋裤。
+- **随机毒鸡汤**：幸亏你去年没洗头，要不然你今年，炒菜连油都没有。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=d49e3626-dcfc-43fb-8488-2dc08d249ce2)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0f1ac871-9c4d-4074-a507-8577d8219dc2)

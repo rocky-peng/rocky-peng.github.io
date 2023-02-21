@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：少年不知愁苦，中年日夜劳苦，老年落寞孤苦。
+- **随机毒鸡汤**：期末考试不给你露一手，你还真以为你教的好啊。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=d64606c9-8309-451e-a28f-00028799699b)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=e92bbc8d-72a8-4412-af25-15e03f5360b0)

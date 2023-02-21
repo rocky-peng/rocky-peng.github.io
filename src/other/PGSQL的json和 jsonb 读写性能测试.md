@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：嘴巴那么能喷，莫非抹了开塞露。
+- **随机毒鸡汤**：凡事先想想自己配不配，如果配，那就是想多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=60ee89c0-b380-4692-b094-20c8d4186051)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ec88b4a1-1929-474e-b740-015ff3100fdd)
