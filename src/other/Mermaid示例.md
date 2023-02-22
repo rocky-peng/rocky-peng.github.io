@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：美貌会消逝，但蠢是永恒的~
+- **随机毒鸡汤**：以不变的薪水，来应万变的物价。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=566376a3-0ce5-4c4a-a25e-9cf83e2e48fe)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=940d8cd8-8d23-4d33-91ad-64a877f7e5a9)

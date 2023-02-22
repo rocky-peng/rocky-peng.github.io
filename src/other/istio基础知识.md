@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：真希望有一天我的钱包，可以和我的脸皮一样厚。
+- **随机毒鸡汤**：古有照妖镜，今有卸妆水。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4d1d050f-3522-48a1-a073-e2e507faeacb)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=5724aba8-929f-46c0-9b40-757d98f509e8)

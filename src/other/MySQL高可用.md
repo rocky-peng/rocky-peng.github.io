@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
+- **随机毒鸡汤**：互相轻蔑却又彼此来往，这就是世上，所谓朋友的真面目。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1982119c-3b94-44dc-810c-2b3cc3f6318c)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5a79ade1-c56e-4826-a3e9-78aadb84fe40)

@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别人都用名牌包包，而你，只能用用表情包。
+- **随机毒鸡汤**：钱对你真的就那么重要吗？讲了3个多小时了，一分钱都不降。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=84da9df5-aaa2-4311-8064-a2134ecebcb0)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0bc5790d-29dc-4d6a-bd83-f8c3f653ca09)

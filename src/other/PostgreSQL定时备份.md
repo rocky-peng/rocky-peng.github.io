@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：不要总对人掏心掏肺，有的人不吃内脏。
+- **随机毒鸡汤**：我的发际线，有后移症。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=478dc56f-2fb2-408c-9b02-390f40ce9db6)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9a0e998a-4881-49be-86db-55de80fb5559)

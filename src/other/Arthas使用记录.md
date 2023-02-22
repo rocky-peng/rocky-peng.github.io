@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：生活不会放弃你，但也不会放过你。
+- **随机毒鸡汤**：你骗我的样子万般投入，我又怎么舍得让你输。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c060267a-bb15-4837-a983-aa3a19b16fd4)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0ab087e8-7bf3-44a3-aa54-cfdc1025b47b)

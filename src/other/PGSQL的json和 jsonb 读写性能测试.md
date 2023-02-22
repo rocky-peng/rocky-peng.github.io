@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：压力并不是有人比你努力，而是比你牛逼的人还在努力。
+- **随机毒鸡汤**：曾经的海枯石烂，抵不过好聚好散。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3c077fb5-1479-4509-9fd8-38d8a7477963)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=aabf8ebd-a4ee-412a-ae0b-0e189aeb2373)

@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：为什么家长只关注成绩呢？那废话，他们能看得懂题吗？
+- **随机毒鸡汤**：别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e662b93c-6ace-4462-a954-63e2b47be5f2)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=2cb19d85-8e4d-4ffc-88e3-e328d127181b)

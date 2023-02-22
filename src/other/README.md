@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：在现在这个社会，想让别人记住你，只有欠钱不还。
+- **随机毒鸡汤**：你别看我平时对你，一副漠不关心的样子，其实背地里说了你很多坏话。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d376bf4d-272d-42a7-8be7-3d0f4a23aa15)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9d43e606-375a-4eb8-9a30-bf78bb318735)

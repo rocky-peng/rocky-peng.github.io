@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
+- **随机毒鸡汤**：世间很多事没有道理可言，就是最大的道理。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0cd96e74-3be0-4c37-bf86-b8c74bfb24f6)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8b5b215a-b9dc-47c7-bb45-372edb509faa)

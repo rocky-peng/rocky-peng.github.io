@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：生命的逝去不是终点，被遗忘才是。
+- **随机毒鸡汤**：如果困难不能使我倒下，那么，钱能。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=efe4bb14-9d6f-4581-b017-da99ebd99fba)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c1cc656a-1f5b-40b9-bd62-d30c8dca3999)
