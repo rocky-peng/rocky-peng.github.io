@@ -497,9 +497,13 @@ static final class Node {
 有一对多关系的时候，比如就是就是这个AQS和ConditionObject。一个AQS实例可以new多个ConditionObject
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：世界上除了父母，对你最真心的就只有骗子，他是真心的想骗你。
+- **随机毒鸡汤**：总有一天你会遇见，你真正喜欢的人，和他的另一半。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=52098caf-1bd6-43cb-a2e0-411a826b35dc)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=6d4b2291-b46d-4fc2-ac37-33d79193f06a)

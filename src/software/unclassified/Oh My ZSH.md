@@ -60,9 +60,13 @@ export PATH=$JAVA_HOME/bin:$PATH
 source ~/.zshrc
 
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：你永远不会知道，你的哪个好友，会成为下一个微商。
+- **随机毒鸡汤**：既没有牵过手，也没有挂过科，就是所谓的无牵无挂。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b1d70008-4e9f-4106-a14d-e1d29a2c219e)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=d6145cba-4e8e-46bc-8e1a-d2554296ebb4)

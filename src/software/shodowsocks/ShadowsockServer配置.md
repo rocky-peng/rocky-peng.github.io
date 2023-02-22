@@ -31,9 +31,13 @@ EOF
 
 # ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：我又不是信佛的人，为何家里还有这难念的经。
+- **随机毒鸡汤**：再苦不能苦孩子，再穷也得穷得瑟。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b8afbf94-353b-4d44-8654-588827535861)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=dc4c93d4-efeb-48b8-8e66-90933433b6fc)

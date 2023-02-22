@@ -46,9 +46,13 @@ date: 2019-06-10
 
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：不在你左右，却被你左右。
+- **随机毒鸡汤**：其实人们并不是怕失去，只是怕失去之后，没有替代品。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=aab9a4a2-d63c-493b-853e-bc5711209a31)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=11aae9ce-e87c-41c2-b4eb-0692235ab5de)

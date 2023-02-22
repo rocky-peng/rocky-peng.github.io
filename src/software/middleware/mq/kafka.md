@@ -21,9 +21,13 @@ date: 2021-08-01
 
 ### 不配置AUTO_OFFSET_RESET_CONFIG
 第一次启动，从最新的offset开始消费。同时offset会实时更新。然后关闭，此时的offset为B。然后不改动任何代码和配置多次重启后，消费的offset不会实时更新，所以多次重启可能会重复消费
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：女生喜欢长的坏的，而不是你这种长坏了的。
+- **随机毒鸡汤**：做事一定要考虑别人的感受，千万不能让他们太开心了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ee6ab42a-ec7c-4579-a9e0-863d497393d3)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=76c27b8f-9ec3-4318-a64e-2285f37eb314)

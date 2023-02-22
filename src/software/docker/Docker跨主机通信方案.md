@@ -110,9 +110,13 @@ docker run -itd --name t4 centos
 - github地址：https://github.com/weaveworks/weave
 - 官网地址：https://www.weave.works/docs/net/latest/install/using-weave/
 - 其他博客：https://www.jianshu.com/p/b91bf21ac946
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：没有女朋友算什么，现在朋友都不好找。
+- **随机毒鸡汤**：看见别人走在成功的路上，你问问自己难道不想成为，他成功路上的绊脚石吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=45fdced1-bdc7-4643-9a3b-12b1f0e9ff38)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e3b6e99f-64e4-40dc-b820-31de940364c8)

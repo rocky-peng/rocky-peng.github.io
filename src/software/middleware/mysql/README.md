@@ -3,9 +3,13 @@ title: MySQL
 index: false
 article: false
 ---
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：能用钱解决的都不是问题，但如何有钱，才是你最大的问题。
+- **随机毒鸡汤**：你得有足够的实力，你的原则和底线，才会被人尊重。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=d6888c75-2b88-45dc-9e4f-2fb7dd6b0d5a)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=0b84000a-674b-4d71-887a-cf27b93a808f)

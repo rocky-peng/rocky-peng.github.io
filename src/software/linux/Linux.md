@@ -105,9 +105,13 @@ md5sum 文件名
 ntpdate 时间服务器ip
 
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：不要觉得自己活着很多余，你活着还有别的用处，比如凑数。
+- **随机毒鸡汤**：丑，不是你的本意，那是天意。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=bac0e375-d437-4bdf-8814-c8e152a41a0f)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=ff30aed4-b5f0-40b7-a9f6-59905549a330)

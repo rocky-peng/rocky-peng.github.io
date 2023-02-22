@@ -59,9 +59,13 @@ http://thesecretlivesofdata.com/raft/
 ```
 
 - WAL: 什么叫WAL，全称Write Ahead Log，也就是同一个事务的数据，日志的数据必须先于最终的数据落盘
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：有时候你不跟别人聊一下天，都不知道自己有多讨人厌。
+- **随机毒鸡汤**：我捡了个神灯，许愿我死前能找到女朋友，结果我获得了永生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=58b3ff20-7d4e-4474-8d55-be154c0a8e11)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=cea40d6f-ded3-4990-b988-a179fdaeb32b)

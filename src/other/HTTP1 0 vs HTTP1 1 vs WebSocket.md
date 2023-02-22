@@ -1,6 +1,9 @@
 ---
 title: HTTP1 0 vs HTTP1 1 vs WebSocket
 date: 2023-02-15
+tag:
+- http
+- websocket
 ---
 
 ## http1.0
@@ -25,9 +28,11 @@ date: 2023-02-15
 
 1. 非问答模式，服务端可以主动发送消息
 2. 属于长连接
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：如果你放弃了今天的自己，你就战胜了明天的你。
+- **随机毒鸡汤**：小时候总骗爸妈我没钱了，现在总骗爸妈，没事我还有钱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=815c50ab-97a8-40c8-a4bc-729967f894bb)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=af373d97-636e-426b-a4a2-cfd46b4def27)

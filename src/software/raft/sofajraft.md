@@ -34,9 +34,13 @@ RpcServer:
 
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：为什么在学校，一上课就想睡觉？因为学校是梦开始的地方。
+- **随机毒鸡汤**：别人都是为怎么挣钱而发愁，我却是为怎么花钱而发愁，二十块怎么能花到下月十号？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c3135b8a-86cc-40eb-bc00-8fdad08f5ce3)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=fa3cfe19-41b0-4b5a-a17a-00d8a3792bc4)

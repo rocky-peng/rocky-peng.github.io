@@ -19,9 +19,13 @@ ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
 
 EOF
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：我曾经得过精神分裂症，但现在我们已经康复了。
+- **随机毒鸡汤**：我对你要求不高，能跟我其他对象，和睦相处就好咯。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d4a48e51-6ec1-4899-ad31-6b10a089d5ff)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=6f4e3a1d-c32b-45f4-8297-1a2f2f5d6214)

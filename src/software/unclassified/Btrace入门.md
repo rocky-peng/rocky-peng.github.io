@@ -183,9 +183,13 @@ cd /Users/xxx/Desktop/btrace_script
 对Btrace的用法主要就是学习用提供的各种注解，以及com.sun.btrace.BTraceUtils类提供的各种功能。
 
 如果想要了解各个注解的文档，可以参考：https://btrace.kenai.com/javadoc/1.2/com/sun/btrace/annotations/package-summary.html
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：怎么去形容成年人的疲惫？坐着就能睡着，躺下却无法入睡。
+- **随机毒鸡汤**：再凶的男孩子绑鞋带，还不是要绑蝴蝶结？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=f5756473-7d4b-477b-960d-992a4764cd4a)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=a04702f9-d5c1-4d4e-b6cf-0c01bdbcdfb2)

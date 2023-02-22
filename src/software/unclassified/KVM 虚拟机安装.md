@@ -305,9 +305,13 @@ ONBOOT=yes
 
 https://blog.51cto.com/zero01/2083896
 https://blog.csdn.net/wanglei_storage/article/details/51106096
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：春风不度玉门关，我佛不渡铁憨憨。
+- **随机毒鸡汤**：俗话说祸不单行，可见连祸都是有伴儿的，你再看看你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=78fb3b65-77b7-4269-8d61-31657f5e5451)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=06f37058-22aa-4872-b46b-8721f70508bd)

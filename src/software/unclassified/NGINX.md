@@ -64,9 +64,13 @@ cp nginx.conf  nginx.conf.bak
 
 ![](https://cdn.justdopay.com/xiaoshujiang/1629080026033.jpg)
 ![](https://cdn.justdopay.com/xiaoshujiang/1629080008840.jpg)
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：大家都夸我贤惠，闲的什么都不会。
+- **随机毒鸡汤**：我就像是玻璃瓶里面的苍蝇，前途满眼光明，就是找不到出口。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=482b2b8f-9eaa-403c-9fdd-71c07246d3d7)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=57acc4b6-bb72-493b-b08d-de8fe02470c4)

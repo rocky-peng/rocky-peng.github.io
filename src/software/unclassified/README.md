@@ -4,9 +4,13 @@ date: 2022-05-23
 index: false
 article: false
 ---
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：世界上最大的谎言，我已阅读并同意此条款。
+- **随机毒鸡汤**：人无完人，但人会完蛋。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=208a02dc-2ffb-4ccc-a0df-de32c384eac3)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=e0fa9202-3f18-4125-a10d-db43f294d83d)

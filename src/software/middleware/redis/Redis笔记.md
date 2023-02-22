@@ -379,9 +379,13 @@ s
 1. https://blog.csdn.net/weixin_41846320/article/details/95941361
 2. https://www.jianshu.com/p/88ff90519ab1
 3. 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：过年哪个亲戚问我成绩，我就问他年终奖金。
+- **随机毒鸡汤**：为什么要晒这么黑？因为我不想白活一生。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=77b43d7d-ce6f-455a-8870-6dbbffbfacdc)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=cca95fc1-eae6-4f94-a855-26f2bcec26d2)

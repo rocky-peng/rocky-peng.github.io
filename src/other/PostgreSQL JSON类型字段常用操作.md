@@ -1,9 +1,15 @@
 ---
 title: PostgreSQL JSON类型字段常用操作
 date: 2023-01-11
+category:
+- RDB
+- PostgreSQL
+tag:
+- PostgreSQL
+- JSONB
 ---
 
-## 初始数据xxx
+## 初始数据
 
 ```sql
 insert into name_age values('{"id":1,"name":"小明", "age":18}');
@@ -104,9 +110,31 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 - **offset 从0开始**
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-af25be7103d393e043d2bfea53a1b981.png)
+
+## 其他内容
+
+1. 统计表占用空间
+    
+    ```jsx
+    SELECT table_schema || '.' || table_name                                         AS table_full_name,
+           pg_total_relation_size('"' || table_schema || '"."' || table_name || '"') AS size
+    FROM information_schema.tables
+    ORDER BY pg_total_relation_size('"' || table_schema || '"."' || table_name || '"') DESC DESC
+    ```
+    
+
+1. 
+
+---
+
+## 
+
+w
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：不管你做什么，先搞起来你就已经，干掉了50%的竞争者。
+- **随机毒鸡汤**：知道螃蟹为何一直横着走吗？因为它有钱（钳），所以它任性啊！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f093cd43-9293-49e6-be26-b6a96620c053)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=663565a7-1077-4a9e-9aa2-100ac2a62f5e)

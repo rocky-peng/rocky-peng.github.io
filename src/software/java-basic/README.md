@@ -3,9 +3,13 @@ title: JAVA基础
 index: false
 article: false
 ---
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：还没来得及去沾花惹草，就被人拔光了。
+- **随机毒鸡汤**：做好万全的准备，就是为了当机会来临时，你可以巧妙地避开它。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=833dd12b-e839-413a-b58a-493d22a46f49)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=a514903d-fb56-457f-b74f-af1c44c7c6f9)

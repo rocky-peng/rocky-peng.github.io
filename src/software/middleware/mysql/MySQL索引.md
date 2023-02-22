@@ -141,9 +141,13 @@ InnoDB支持的索引
 
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：父母说早恋会影响学业，爸妈我对不起你们，我考不过那些早恋的。
+- **随机毒鸡汤**：知道螃蟹为何一直横着走吗？因为它有钱（钳），所以它任性啊！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=52498a03-711e-41c5-9456-9fbff40ff20e)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=a9e60193-5999-4341-aa6e-0767e35b1fca)

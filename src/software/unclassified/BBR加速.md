@@ -16,9 +16,13 @@ cd /usr/src && wget -N --no-check-certificate "https://raw.githubusercontent.com
 wget -N --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/vps/master/vpstest.sh && bash vpstest.sh
 ```
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：一个人久了，煮个饺子看见两个粘在一起，也要给它分开！
+- **随机毒鸡汤**：只要对象换的快，没有悲伤只有爱。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8376f1bd-ae7c-490e-aa2f-1a0d20906f8d)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=c77543e0-474c-4638-bcc1-239162006cdf)

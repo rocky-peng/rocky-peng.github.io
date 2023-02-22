@@ -462,9 +462,13 @@ https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL%E9%AB%98%E6%80%A7%E8
     LATEST DETECTED DEADLOCK
     ------------------------ 
     ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：古有一人得道鸡犬升天，今有一人得病全家成仙。
+- **随机毒鸡汤**：每天提高的，不是我的成绩，而是我的发际线。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=8d4b4e6e-aeb2-4497-9689-9c25581d79ca)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=5d745b1d-b073-4ea6-9d1e-afda4452641e)

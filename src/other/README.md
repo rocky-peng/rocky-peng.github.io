@@ -29,9 +29,29 @@ title: 其他
 [微博关注关系如何实现](./%E5%BE%AE%E5%8D%9A%E5%85%B3%E6%B3%A8%E5%85%B3%E7%B3%BB%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0.md)
 
 [MySQL高可用](./MySQL%E9%AB%98%E5%8F%AF%E7%94%A8.md)
+
+[Cornell Notes System](./Cornell%20Notes%20System.md)
+
+[Redis高可用](./Redis%E9%AB%98%E5%8F%AF%E7%94%A8.md)
+
+[Git Merge 、Rebase](./Git%20Merge%20%E3%80%81Rebase.md)
+
+[getPath vs ****getAbsolutePath vs getCanonicalPath****](./getPath%20vs%20getAbsolutePath%20vs%20getCanonicalPath.md)
+
+[Git合并多个提交并push到远程仓库](./Git%E5%90%88%E5%B9%B6%E5%A4%9A%E4%B8%AA%E6%8F%90%E4%BA%A4%E5%B9%B6push%E5%88%B0%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.md)
+
+[Paxos算法](./Paxos%E7%AE%97%E6%B3%95.md)
+
+[PostgreSQL高可用](./PostgreSQL%E9%AB%98%E5%8F%AF%E7%94%A8.md)
+
+[MongoDB高可用](./MongoDB%E9%AB%98%E5%8F%AF%E7%94%A8.md)
+
+[Censys搜索引擎学习](./Censys%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%AD%A6%E4%B9%A0.md)
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：厉害的人太多了，我要为笨蛋争口气！
+- **随机毒鸡汤**：不告白不是怕你拒绝，而是怕你拒绝之后，跟别人一起嘲笑我。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a552d492-4a32-4344-be1b-0595a69c2929)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=ed625e2d-8242-4515-b3d6-57dfc11c26d5)

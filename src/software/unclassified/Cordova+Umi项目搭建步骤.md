@@ -97,9 +97,13 @@ cordova build android --release -- --gradleArg=-PcdvVersionCode=2
 -- --gradleArg=-PcdvVersionCode=2 --gradleArg=-PVERSION_NAME=2.2.2
 
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：没有什么过不去，只是再也回不去。
+- **随机毒鸡汤**：我用时间证明了我爱你，你用时间证明了我是个傻逼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=97f984c0-cf27-45d9-a63f-020cb105ac76)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=85411e21-0c37-4007-b686-7bd9305d3c4e)

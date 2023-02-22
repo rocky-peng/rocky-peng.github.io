@@ -250,9 +250,13 @@ Number of method invocations/branches before compiling [-client: 1,500]
 ## 其他参数
 详见：http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：每天都要有充足的睡眠，不然你的手机，连个休息时间都没有。
+- **随机毒鸡汤**：你以为你是灰姑娘吗？拜托别做梦了，她可是伯爵的女儿。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3c6e277a-eec8-4e3e-a367-ac5f1587c927)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=e4e6f541-8d57-4e5a-b160-8057a3ea502f)

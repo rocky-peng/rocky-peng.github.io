@@ -109,9 +109,13 @@ gantt
 graph TD
   Mermaid --> Diagramd
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：你把所有不一定，都变成了一定不。
+- **随机毒鸡汤**：别不好意思拒绝别人，反正那些好意思难为你的，也不是什么好人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fa71a9a-e50f-4d42-86fb-6013f131a15d)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=6bacfbe0-ac61-4e80-85c3-e534860b4164)

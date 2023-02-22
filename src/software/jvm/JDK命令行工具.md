@@ -296,9 +296,13 @@ jcmd 93526 help VM.version
 打印vm版本信息：
 jcmd 93526 VM.version 
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：很喜欢滴滴司机说的一句话，你搞清楚自己的定位没有？
+- **随机毒鸡汤**：从前车马慢一生只够爱一人，现在车马快了，一天收好几个快递。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=267335f7-7845-4a69-a083-be7b935615ba)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=c2ae01c6-f507-4860-8605-24a8967d3f2e)

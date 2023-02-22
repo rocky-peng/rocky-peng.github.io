@@ -34,9 +34,13 @@ date: 2015-07-05
     5. 根据自己情况决定是否提交到自己的远程仓库
     
     > https://segmentfault.com/q/1010000002590371
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：别去劝一个执意要吃屎的人，不然他不但不会感谢你，还会以为你要和他抢着吃。
+- **随机毒鸡汤**：对你竖大拇指的人，不一定是在夸你，也可能是用炮在瞄你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=9fc7b51c-8400-49bd-8dda-c2e82161d7d8)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=d4ee2b2a-33d2-4227-ba25-62f2585103f2)

@@ -424,9 +424,13 @@ read,load的后一个动作就是use;
 2. 本地方法栈中引用的对象
 3. 方法区中静态属性引用的对象
 4. 方法去中常量属性引用的对象
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：去年疫情学的料理，是时候复习一下了。
+- **随机毒鸡汤**：等你以后老了走不动了，我每天用轮椅推你去广场上，让你看着我和别的老头跳舞。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c9ca4212-ff48-4c12-b7de-291a98261ad6)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=1817ab57-03ff-4dc3-89c0-54121a731c15)

@@ -28,9 +28,13 @@ EOF
 docker pull oddrationale/docker-shadowsocks
 docker run -d -p 12345:12345 oddrationale/docker-shadowsocks -s 0.0.0.0 -p 12345 -k yourpassword -m aes-256-cfb
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：多喝热水，永远是人们最讨厌听，却又最喜欢说的话。
+- **随机毒鸡汤**：手机的寿命是人类的1/20，请放下身边的杂事，好好陪陪它！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=eb01e4dd-367b-4d9e-8692-8367963dc0ee)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=1a205052-189a-443c-8618-587dc258fbad)

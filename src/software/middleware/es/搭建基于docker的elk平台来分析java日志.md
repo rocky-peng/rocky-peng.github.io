@@ -525,9 +525,13 @@ sudo /etc/init.d/filebeat stop
 
 ![enter description here](https://cdn.justdopay.com/xiaoshujiang/1629081592042.jpg)
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：道理懂的比谁都多，混的比谁都惨。
+- **随机毒鸡汤**：很喜欢滴滴司机说的一句话，你搞清楚自己的定位没有？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=58098104-c0ce-4687-9bd1-5c7b2052b340)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=3deeacf8-216a-4522-9c9e-531cbdd02817)

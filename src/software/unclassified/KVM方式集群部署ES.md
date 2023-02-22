@@ -129,9 +129,13 @@ date: 2020-04-05
   
  7. 格式化并挂载新分区到目录下，这个步骤和上面的步骤一样了，不再赘述
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：有些人考得好点就开始得瑟，不像我，从来就考不到好成绩。
+- **随机毒鸡汤**：在知识的海洋里，你竟然是一条淡水鱼。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=3ab29eff-df32-4e22-a49d-fd82f56ace62)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=33a506e8-9ea4-4e10-822a-ce9ee0126bb9)

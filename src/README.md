@@ -41,9 +41,13 @@ tagline: 你可以在这里放置你的口号与标语
 
 # footer: 自定义你的页脚文字
 ---
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：如果每个人都能理解你，那你得普通成什么样子。
+- **随机毒鸡汤**：现在看来用生日做密码，还是很安全的，毕竟没有人记得你生日。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=1bf2b65a-1fe7-4fca-9be9-d74b1818676b)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=ca3e69d7-3aa1-4f58-8159-0ca2101ad6af)

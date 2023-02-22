@@ -69,9 +69,13 @@ docker run -itd -e TZ="Asia/Shanghai" --name es172_26_43_136 -h es172_26_43_136 
 ```
 
 注意：这里虽然限制了cpus为15，但是进入到容器内部执行lscpu仍然会显示40个（和宿主机一样的）
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：为什么家长只关注成绩呢？那废话，他们能看得懂题吗？
+- **随机毒鸡汤**：本就没有感同身受，只有身受了才能感同。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=58cd8b7e-3fcf-4f1c-860f-558c84d5375a)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=074f1d31-605f-40d5-9f3b-b5243cd27c0d)

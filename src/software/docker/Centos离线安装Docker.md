@@ -1,6 +1,5 @@
 ---
 title: Centos离线安装Docker
-tags: 新建,模板,小书匠
 date: 2019-11-11
 ---
 
@@ -81,9 +80,13 @@ systemctl enable docker
 //启动docker
 systemctl start docker
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：快乐分享错了人就成了显摆，难过分享错了人就成了矫情。
+- **随机毒鸡汤**：我们的欲望各不相同，但是失望的样子，却一模一样。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=bd06c61a-b348-491c-a0af-87ac8c74c14e)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=7202e054-f2a5-4907-973f-9c2fcab631cc)

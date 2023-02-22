@@ -91,9 +91,13 @@ countDown方法就是在释放共享锁，释放逻辑就是对state的值减一
 1. 解释一下 CountDownLatch 概念？
 
 2. CountDownLatch 和 CyclicBarrier 的不同之处？
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：今日不肯埋头，明日何以抬头。
+- **随机毒鸡汤**：所有的为你好，都只是为了他们心情好。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=ff0905ed-f3de-4404-9257-e7829f5b3ad3)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=142fa56d-d347-42a5-9370-8c20b9111c7a)

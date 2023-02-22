@@ -222,9 +222,13 @@ D: redo log、binlog
 
 1. https://mp.weixin.qq.com/s/KUv-Mx-FRrfQpx09Xv5Itg
 2. https://mp.weixin.qq.com/s/lnLSOPQkjTkr957ds_4ZPA
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：最烦别人问我工资多少，瞧不起我的方法有很多，为什么偏偏选这一种？
+- **随机毒鸡汤**：不要随便吃垃圾食品，否则越吃越上瘾。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=51c2ba4d-fc99-4df7-858d-576b41b40c17)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=05e42502-2f45-4172-b4ee-0d69eb970e24)

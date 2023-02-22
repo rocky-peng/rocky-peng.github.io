@@ -32,9 +32,13 @@ yum --enablerepo=epel install inotify-tools
 
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：每天睡前喝一瓶纯牛奶，你会比不喝的人，多花几块钱。
+- **随机毒鸡汤**：长胖就不高兴，不高兴就吃零食，吃零食就长胖。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=62c9b0c9-7395-4183-b686-26ecefd5120e)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=9ba57654-aa6c-41f3-8354-0c58a8653a1d)

@@ -132,9 +132,13 @@ gantt
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：爱情这种事太极端，要么一生，要么陌生。
+- **随机毒鸡汤**：想奋斗？手机能从你的手上拿下来，就算是拼搏了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=350fc42b-762a-4049-aff5-5d6681604575)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=2e0ce692-e8dc-45af-9b1a-c5dd45eec9c8)

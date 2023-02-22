@@ -362,9 +362,13 @@ public interface InstantiationAwareBeanPostProcessor extends BeanPostProcessor {
 
 }
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：即使三分钟热度，也认真了180秒。
+- **随机毒鸡汤**：看到别人家产过亿，我就五百万，还是像素。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9c06772f-72d5-4943-a83f-8a2cac0bd70d)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=5515a129-1fff-4945-976f-6c8c399d03ba)

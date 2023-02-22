@@ -397,9 +397,13 @@ docker run -d -P -h node172.18.12.7 --name node172.18.12.7 --network=mynet --ip=
 ![enter description here](https://cdn.justdopay.com/xiaoshujiang/1629082515110.png)
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：不要把银行卡密码，设成女朋友的生日，不然总要换多麻烦。
+- **随机毒鸡汤**：你早起，我晚起，我们早晚不在一起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=40351141-c552-48eb-b4ae-56eb6ed30bec)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=8955249c-4656-4e8b-bce5-ff22131053e2)

@@ -524,9 +524,13 @@ grant 权限列表 on 表名 to 用户名
 GRANT ALL PRIVILEGES ON `pms`.* TO 'pms'@'%' IDENTIFIED BY 'pms0817';
 ```
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：这年头，人宁愿说自己有病，也不愿意承认自己平凡。
+- **随机毒鸡汤**：梦想就像天上的星星，以前看得到摸不到，现在既看不到也摸不到。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0733be5e-eae5-4921-9b58-e9a64db69a4e)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=ce148a8a-a926-4cb9-8f9a-2268f076e27d)

@@ -159,9 +159,13 @@ sbrk底层是采用的是brk实现，sbrk不是一种系统调用，brk是系统
 
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：有什么都不能有病，没什么都不能没钱。
+- **随机毒鸡汤**：我真的挺羡慕你的皮肤，你说你是怎么能，把它保养的那么厚呢？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=241cdacf-3fd2-4816-96df-bf3758b64a99)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=4a2e6b32-1a01-4c9f-8133-a32bed1fa5c7)

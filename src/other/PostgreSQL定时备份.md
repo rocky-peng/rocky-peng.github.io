@@ -13,9 +13,13 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 ```
 
 命令解释：该命令是备份单个数据库，并将备份输出的**文本内容**使用gzip进行压缩存储
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：如果父母依旧辛苦，那我们长大，还有什么意义？
+- **随机毒鸡汤**：失败的尽头是绝望，努力的终点是过劳。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6bdc650e-cdba-49bc-a191-ed63796bda05)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=c4017542-9f8c-4c4e-8624-d59320b2d73c)

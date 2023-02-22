@@ -237,9 +237,13 @@ public interface Lock {
 5. AutoConfigurationImportSelector的有个方法会扫描类路径下的所有META-INF/spring.factories文件
 6. 这个文件里可以配置多个第三方类，通过这种方式类触发第三方框架集成到Spring中，包括读取自己的配置文件
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：认真读完这段话，你就会发现这段话，和你一样毫无价值和意义。
+- **随机毒鸡汤**：想要逼死一个强迫症，那实在是太简了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=b1c3c210-bb54-43c8-b6d0-806a09cbbb33)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=3589a10e-d581-4a95-ad84-c9997d3258e5)

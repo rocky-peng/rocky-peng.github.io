@@ -820,9 +820,13 @@ zookeeper   	3.4.6
 dubbo-admin  	2.5.3
 es				1.6.0-2.1.0
 ```
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：忍受孤独，比忍受傻X，简单得多。
+- **随机毒鸡汤**：所谓复习就是，把不会的东西再确认一遍，我—确实不会。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=dc046603-af9f-486b-b19d-f8e5f1530066)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=c70cca6a-23e0-4317-9cda-25fff20af036)

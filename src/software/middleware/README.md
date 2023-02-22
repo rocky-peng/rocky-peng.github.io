@@ -3,9 +3,13 @@ title: 中间件
 index: false
 article: false
 ---
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：累吗？累就对了。舒服是留给有钱人的。
+- **随机毒鸡汤**：小时候我常想，长大了是上北大还是清华，现在想想原来是我想多了。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=2d15dc16-493b-4089-a36f-9da3b187eb8b)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=210e584f-37f7-44f7-8f48-0653aec4ee38)

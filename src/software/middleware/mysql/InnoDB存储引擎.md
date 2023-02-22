@@ -175,9 +175,13 @@ Barracuda文件格式： Compressed和Dynamic两种格式
 
 
 
+
+
+
 <br/><br/><br/><br/><br/><br/>
+
 ---
 ---
-- **随机毒鸡汤**：想到这已经是，人类历史上最好的时代了，你是不是更绝望了。
+- **随机毒鸡汤**：苟富贵勿相忘，若富贵，你是谁？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=8a86bba1-0ed4-415d-9c2d-d5c26a4ab6cf)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=36508169-57a9-4f72-9c40-e4880e2b737c)
