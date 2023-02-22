@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：知道为何自古红颜多薄命吗？因为没人在意丑的人活多久。
+- **随机毒鸡汤**：真希望有一天我的钱包，可以和我的脸皮一样厚。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=19b7d27a-518e-45ac-babe-ce9280398e6a)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=4d1d050f-3522-48a1-a073-e2e507faeacb)

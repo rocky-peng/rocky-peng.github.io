@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：大概我们最默契的时候，就是我不去找你，你也不会来找我。
+- **随机毒鸡汤**：这次期末考，我会用实力告诉你，我们年级共有多少人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=9a3d246c-0139-4594-b98b-d20f1ec19876)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0cd96e74-3be0-4c37-bf86-b8c74bfb24f6)

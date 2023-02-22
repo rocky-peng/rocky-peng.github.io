@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你我本无缘，全靠我花钱。
+- **随机毒鸡汤**：别人都用名牌包包，而你，只能用用表情包。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=b45e396c-0dd5-4e91-a504-ccac19d70e4a)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=84da9df5-aaa2-4311-8064-a2134ecebcb0)

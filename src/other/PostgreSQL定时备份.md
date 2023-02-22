@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：现在不努力，以后别人壁咚的墙，都是你搬的砖。
+- **随机毒鸡汤**：不要总对人掏心掏肺，有的人不吃内脏。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=4dd0e7a3-9cad-4f58-9afa-450fe2c2b33e)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=478dc56f-2fb2-408c-9b02-390f40ce9db6)

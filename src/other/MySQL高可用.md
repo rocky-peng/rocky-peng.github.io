@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：成功只是意外，失败才是常态。
+- **随机毒鸡汤**：认识陌生人其实很麻烦，许多谎话又得重新说起。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=63623c4b-8714-496a-87a3-19078d4ed710)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=1982119c-3b94-44dc-810c-2b3cc3f6318c)

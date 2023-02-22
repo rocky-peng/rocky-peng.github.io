@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：只要坚持下去，总会有失败的一天。
+- **随机毒鸡汤**：在现在这个社会，想让别人记住你，只有欠钱不还。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=efa589e4-3eeb-4e6f-85fb-ac820d82a9c7)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=d376bf4d-272d-42a7-8be7-3d0f4a23aa15)

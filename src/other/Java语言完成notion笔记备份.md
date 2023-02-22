@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：女人用丝袜征服了男人，男人用丝袜征服了银行。
+- **随机毒鸡汤**：生命的逝去不是终点，被遗忘才是。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=fe07777f-e8b1-46b7-b0c9-55b4a6d013c6)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=efe4bb14-9d6f-4581-b017-da99ebd99fba)

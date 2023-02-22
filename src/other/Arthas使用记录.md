@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
+- **随机毒鸡汤**：生活不会放弃你，但也不会放过你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=2331d4fd-37ef-44f4-bd1b-4bc2cedd20d1)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=c060267a-bb15-4837-a983-aa3a19b16fd4)

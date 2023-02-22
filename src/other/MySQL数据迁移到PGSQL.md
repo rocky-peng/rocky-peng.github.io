@@ -6,6 +6,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：别总自称单身狗了，按年龄你是单身鳖，按智商你是单身傻狍子。
+- **随机毒鸡汤**：为什么家长只关注成绩呢？那废话，他们能看得懂题吗？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=17cf8002-fa2e-49b1-9aa0-368ba11afd2b)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e662b93c-6ace-4462-a954-63e2b47be5f2)

@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：日久生不生情我不知道，日久生厌倒是真的。
+- **随机毒鸡汤**：美貌会消逝，但蠢是永恒的~
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3f5a4ba5-4953-439f-a985-83158153bd95)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=566376a3-0ce5-4c4a-a25e-9cf83e2e48fe)
