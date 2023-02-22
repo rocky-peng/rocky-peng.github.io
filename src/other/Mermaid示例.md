@@ -112,6 +112,6 @@ graph TD
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：以不变的薪水，来应万变的物价。
+- **随机毒鸡汤**：你把所有不一定，都变成了一定不。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=940d8cd8-8d23-4d33-91ad-64a877f7e5a9)
+![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8fa71a9a-e50f-4d42-86fb-6013f131a15d)

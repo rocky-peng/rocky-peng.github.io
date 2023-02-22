@@ -160,6 +160,6 @@ public class DefaultInterceptor implements HandshakeInterceptor {
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：跟你在一起，苦一点我也愿意，苦很多就算了吧。
+- **随机毒鸡汤**：蹦极很危险，绳子栓到腿上会肌肉拉伤，我一般都栓脖子上。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=cdee36a4-f7f3-4aaa-9fe9-665500d91a1a)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=829c4a0e-1a05-4d3f-8624-7523a3eabec4)

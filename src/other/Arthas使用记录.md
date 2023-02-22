@@ -46,6 +46,6 @@ ognl '@com.xxx.SpringUtils@applicationContext'
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你骗我的样子万般投入，我又怎么舍得让你输。
+- **随机毒鸡汤**：世上没有绝望的处境，只有对处境绝望的人。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=0ab087e8-7bf3-44a3-aa54-cfdc1025b47b)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=a82b3b7e-9d3c-4bd9-853e-1a951f81922b)

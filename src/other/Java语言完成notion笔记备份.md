@@ -7,6 +7,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：如果困难不能使我倒下，那么，钱能。
+- **随机毒鸡汤**：有福同享，有肉你长。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=c1cc656a-1f5b-40b9-bd62-d30c8dca3999)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=f6d79b56-a05b-4b01-bf18-7995d07a364b)

@@ -14,6 +14,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：互相轻蔑却又彼此来往，这就是世上，所谓朋友的真面目。
+- **随机毒鸡汤**：就算believe，中间也有lie，而friend最后也是end。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=5a79ade1-c56e-4826-a3e9-78aadb84fe40)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=3bf9e504-f275-43c1-82f3-ae471fe012db)

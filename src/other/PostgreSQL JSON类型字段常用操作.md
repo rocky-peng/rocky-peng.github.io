@@ -107,6 +107,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：世间很多事没有道理可言，就是最大的道理。
+- **随机毒鸡汤**：不管你做什么，先搞起来你就已经，干掉了50%的竞争者。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=8b5b215a-b9dc-47c7-bb45-372edb509faa)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=f093cd43-9293-49e6-be26-b6a96620c053)

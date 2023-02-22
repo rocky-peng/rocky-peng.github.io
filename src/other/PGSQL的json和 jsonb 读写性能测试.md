@@ -5,6 +5,6 @@
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：曾经的海枯石烂，抵不过好聚好散。
+- **随机毒鸡汤**：连自己都不相信的人，说明有自知之明。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=aabf8ebd-a4ee-412a-ae0b-0e189aeb2373)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=0463afa4-40c3-43c8-ab1e-d96a98c21b79)

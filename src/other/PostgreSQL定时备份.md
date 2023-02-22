@@ -16,6 +16,6 @@ currTime=`date '+%Y%m%d-%H%M%S'`
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：我的发际线，有后移症。
+- **随机毒鸡汤**：如果父母依旧辛苦，那我们长大，还有什么意义？
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=9a0e998a-4881-49be-86db-55de80fb5559)
+![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=6bdc650e-cdba-49bc-a191-ed63796bda05)

@@ -32,6 +32,6 @@ title: 其他
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：你别看我平时对你，一副漠不关心的样子，其实背地里说了你很多坏话。
+- **随机毒鸡汤**：厉害的人太多了，我要为笨蛋争口气！
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9d43e606-375a-4eb8-9a30-bf78bb318735)
+![](http://api.btstu.cn/sjbz/?lx=suiji&uuid=a552d492-4a32-4344-be1b-0595a69c2929)

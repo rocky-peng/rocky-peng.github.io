@@ -28,6 +28,6 @@ date: 2023-02-15
 <br/><br/><br/><br/><br/><br/>
 ---
 ---
-- **随机毒鸡汤**：钱对你真的就那么重要吗？讲了3个多小时了，一分钱都不降。
+- **随机毒鸡汤**：如果你放弃了今天的自己，你就战胜了明天的你。
 <br/><br/>
-![](http://api.btstu.cn/sjbz/?lx=dongman&uuid=0bc5790d-29dc-4d6a-bd83-f8c3f653ca09)
+![](http://api.btstu.cn/sjbz/?lx=m_meizi&uuid=815c50ab-97a8-40c8-a4bc-729967f894bb)
