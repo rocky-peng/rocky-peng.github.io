@@ -7,7 +7,7 @@ on:
       # 确保这是你正在使用的分支名称
       - main
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "30 2/4 * * *"
 
 jobs:
   deploy-gh-pages:
