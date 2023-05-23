@@ -22,7 +22,36 @@ tag:
 
 ### 2023-05-22更新
 
-1. http://216.118.207.58:8181
+1. http://dotnet.zcu.cz:8080
+2. http://euro.zcu.cz:8080
+3. http://ieee-acm.zcu.cz:8080
+4. https://fls.nj13z.cn
+5. http://www.holo.zcu.cz:8080
+6. http://jetbrains.refix.win
+7. http://5.2.198.177:8030
+8. http://178.157.28.30:8080
+9. http://jetbrains-lic.novx.org
+10. http://in.mano100.cn:8080
+11. http://prosperita.zcu.cz:8080
+12. http://46.248.165.184:7777
+13. http://www.oot.zcu.cz:8080
+14. http://80.169.232.216:8080
+15. http://192.144.37.73:7778
+16. http://200.13.89.3:8080
+17. https://jetbrains-licx.novx.org
+18. https://jbls.production.global.tink.se
+19. http://157.143.254.66:8080
+20. http://jetbrains-licw.novx.org
+21. https://fls.kingland-apps.com
+22. http://134.53.225.196
+23. http://zu.mano100.cn:8080
+24. http://necpa.zcu.cz:8080
+25. http://147.228.63.4:8080
+26. https://jetbrainsls.k8s.cs.calvin.edu
+27. http://200.17.85.220
+28. https://jetbrains-licw.novx.org
+29. http://68.178.161.241:8080
+30. http://www.iason.zcu.cz:8080
 
 
 
