@@ -48,10 +48,12 @@ title: 其他
 
 [Censys搜索引擎学习](./Censys%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%AD%A6%E4%B9%A0.md)
 
+[是时候使用MapStruct替代BeanUtils了](./%E6%98%AF%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8MapStruct%E6%9B%BF%E4%BB%A3BeanUtils%E4%BA%86.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：不告白不是怕你拒绝，而是怕你拒绝之后，跟别人一起嘲笑我。
+- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=ed625e2d-8242-4515-b3d6-57dfc11c26d5)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=58d3746e-9f1a-4316-8c65-0174746f8ec9)
