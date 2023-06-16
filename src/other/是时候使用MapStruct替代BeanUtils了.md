@@ -159,10 +159,12 @@ public class Tests {
 }
 ```
 
+chrome://net-internals/#dns
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：教育要从娃娃抓起，因为大人已经无药可救了。
+- **随机毒鸡汤**：练瑜伽之前我是个胖子，练瑜伽之后，我是个灵活的胖子。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=76f59acd-020f-461f-8916-dd5b31c4e83d)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=fa47a1b0-5d13-40bc-8382-7c02eeb1099a)
