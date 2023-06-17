@@ -159,12 +159,10 @@ public class Tests {
 }
 ```
 
-chrome://net-internals/#dns
-
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：练瑜伽之前我是个胖子，练瑜伽之后，我是个灵活的胖子。
+- **随机毒鸡汤**：有个姑娘问我借钱去整容，整的挺成功，我再没认出是谁问我借的钱。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=fa47a1b0-5d13-40bc-8382-7c02eeb1099a)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=2399901c-8fcf-427d-bb2d-a0dd911431f4)
