@@ -75,7 +75,7 @@ export default hopeTheme({
           "<a href=\"http://www.justsoso.fun\" target=\"_blank\">技术加油站</a>&nbsp;|&nbsp;" +
           "<a href=\"http://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
           "<a href=\"http://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
-          "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>&nbsp;|&nbsp;" +
+          "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>" +
           "<!-- <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">渝ICP备2022014544号-1</a> -->" +
           "<!--&nbsp;|&nbsp; <a href=\"http://leyongjituan.com\">乐用集团</a>-->",
 
