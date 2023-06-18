@@ -29,7 +29,7 @@ export default defineUserConfig({
 
   theme,
 
-  shouldPrefetch: true,
+  shouldPrefetch: false,
   plugins: [
     searchProPlugin({
       // 配置选项
