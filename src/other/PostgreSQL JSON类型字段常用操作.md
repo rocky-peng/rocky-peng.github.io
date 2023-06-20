@@ -123,18 +123,20 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
     ```
     
 
-1. 
-
----
-
-## 
-
-w
+1. 筛选某个字段包含%的数据
+    
+    ```java
+    select * from xxxxx where aaa like '%\%%' ESCAPE '\';
+    
+    或者 
+    
+    select * from xxxxx where aaa like '%a%%' ESCAPE 'a';
+    ```
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：知道螃蟹为何一直横着走吗？因为它有钱（钳），所以它任性啊！
+- **随机毒鸡汤**：我已经闲到，开始学习了……
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=663565a7-1077-4a9e-9aa2-100ac2a62f5e)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=966209c5-ffdc-474e-9996-7f3faa54e95c)
