@@ -50,10 +50,12 @@ title: 其他
 
 [是时候使用MapStruct替代BeanUtils了](./%E6%98%AF%E6%97%B6%E5%80%99%E4%BD%BF%E7%94%A8MapStruct%E6%9B%BF%E4%BB%A3BeanUtils%E4%BA%86.md)
 
+[提取Docker镜像中的文件](./%E6%8F%90%E5%8F%96Docker%E9%95%9C%E5%83%8F%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
+- **随机毒鸡汤**：武则天证明了，成功和性别没关系，你证明了成功和你没关系。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=58d3746e-9f1a-4316-8c65-0174746f8ec9)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=70426ca4-c239-4c6c-8d2b-6348c557c948)
