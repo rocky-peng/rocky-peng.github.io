@@ -54,10 +54,12 @@ title: 其他
 
 [Lombok的`Accessors导致EasyExcel读取失败`](./Lombok%E7%9A%84Accessors%E5%AF%BC%E8%87%B4EasyExcel%E8%AF%BB%E5%8F%96%E5%A4%B1%E8%B4%A5.md)
 
+[Nacos-Spring Gateway-Spring boot无感发布](./Nacos-Spring%20Gateway-Spring%20boot%E6%97%A0%E6%84%9F%E5%8F%91%E5%B8%83.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：没钱才上班还是上班才没钱，我不明白哪个环节出了问题，难道有中间商赚差价？
+- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=e7412d86-c608-4393-b19f-ea8c0e76df05)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=cd62280e-d731-48e1-9de7-701dd8ed7a3f)
