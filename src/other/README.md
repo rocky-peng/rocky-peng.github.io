@@ -56,10 +56,12 @@ title: 其他
 
 [Nacos-Spring Gateway-Spring boot无感发布](./Nacos-Spring%20Gateway-Spring%20boot%E6%97%A0%E6%84%9F%E5%8F%91%E5%B8%83.md)
 
+[Spring Boot升级到2.6.x踩的坑](./Spring%20Boot%E5%8D%87%E7%BA%A7%E5%88%B02%206%20x%E8%B8%A9%E7%9A%84%E5%9D%91.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：不要鹤立鸡群，要试着离开那群鸡。
+- **随机毒鸡汤**：见人说人话，见鬼说鬼话，这不是虚伪而是能力。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=cd62280e-d731-48e1-9de7-701dd8ed7a3f)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=b1447552-a01b-411e-a044-7165d7b59b41)
