@@ -37,16 +37,14 @@ public class ServiceA {
 
 ## 二：url中的双斜杠出现404
 
-在升级前，如果某个接口地中中有两个双斜杠，是能正常执行的。比如
+在升级前，**代码中**如果某个接口地中中有两个双斜杠，是能正常执行的。比如代码中某个接口的url拼接起来是：/api//xxx/xxx     用api/xxx/xxx可以正常访问
 
-/api//xxx/xxx   
-
-升级到2.6.x后会返回404，导致接口异常
+升级到2.6.x后会不在代码中去掉双斜杠的情况下，用api/xxx/xxx访问就会404，导致接口异常
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：你化成灰我都认得，但是化了妆就不一定了。
+- **随机毒鸡汤**：年轻的时候一定要敢于做梦，毕竟年龄一大，就很容易睡不着。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=ed2e909d-82dc-442e-a317-76bcc7039af0)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=2ed7287b-425c-41ef-b320-a90c63ecc536)
