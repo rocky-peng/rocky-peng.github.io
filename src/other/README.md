@@ -58,10 +58,12 @@ title: 其他
 
 [Spring Boot升级到2.6.x踩的坑](./Spring%20Boot%E5%8D%87%E7%BA%A7%E5%88%B02%206%20x%E8%B8%A9%E7%9A%84%E5%9D%91.md)
 
+[来个JVM冷知识](./%E6%9D%A5%E4%B8%AAJVM%E5%86%B7%E7%9F%A5%E8%AF%86.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：见人说人话，见鬼说鬼话，这不是虚伪而是能力。
+- **随机毒鸡汤**：只要选对了人生的方向，很容易就成功了，让我们恭喜只要和很容易。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=b1447552-a01b-411e-a044-7165d7b59b41)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=6994f7a4-36aa-4d54-a89c-8d57bc454c6f)
