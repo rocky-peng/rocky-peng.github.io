@@ -41,10 +41,26 @@ public class ServiceA {
 
 升级到2.6.x后会不在代码中去掉双斜杠的情况下，用api/xxx/xxx访问就会404，导致接口异常
 
+## 三：nacos的shared-config配置不生效
+
+在spring boot 2.4.0之前采用类似下面的配置即可
+
+![Untitled](https://cdn.justdopay.com/notion/md5-47f92655d02085f5a7eb3d130366ae7a.png)
+
+但升级后2.4.0之后的版本后下面的配置是跑步起来的，会提示：
+
+![Untitled](https://cdn.justdopay.com/notion/md5-3217309c59519fe70978caaefa146023.png)
+
+**升级后正确的配置**类似下面：
+
+![Untitled](https://cdn.justdopay.com/notion/md5-91d47a5d51b8ce0f41ea139605e8edde.png)
+
+扩展看：[https://github.com/alibaba/spring-cloud-alibaba/pull/2349#top](https://github.com/alibaba/spring-cloud-alibaba/pull/2349#top)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：年轻的时候一定要敢于做梦，毕竟年龄一大，就很容易睡不着。
+- **随机毒鸡汤**：表面孤獨的人不是真的孤獨，內心強大的人，才是真的孤獨。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=2ed7287b-425c-41ef-b320-a90c63ecc536)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=8b82b7fb-272b-41b8-824e-b98e6ee045a5)
