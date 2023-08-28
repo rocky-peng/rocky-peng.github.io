@@ -10,6 +10,12 @@ title: Arthas使用记录
 3. 排查问题的时候，想知道某个方法的入参、出参，但是代码里又买有打印相关日志，怎么搞？
 4. 让运维修改了某个配置的值，但运维部署后，始终感觉有问题，感觉没有更改一样，又没有相关日志，怎么确认？
 
+## vmtool
+
+这个命令可以获取指定类的实例对象，拿到实例对象后还能执行实例方法等。通过help查看使用方法
+
+![Untitled](https://cdn.justdopay.com/notion/md5-4112d9049c217b8cd9ee1dc3457a7f4d.png)
+
 ## ognl
 
 ### 获取静态属性值
@@ -88,6 +94,6 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 ---
 ---
-- **随机毒鸡汤**：我这人吧，永远不要挑战我的底线，否则我又得修改底线。
+- **随机毒鸡汤**：认识的人越多，越知道垃圾分类的重要性。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=0df15b64-9b23-4091-9a38-24f9794224e0)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=49858b92-5225-41cd-8a66-c0fe48623504)
