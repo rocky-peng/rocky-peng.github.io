@@ -16,6 +16,8 @@ title: Arthas使用记录
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-4112d9049c217b8cd9ee1dc3457a7f4d.png)
 
+通过这个命令可以拿到指定类的实例，并执行实例的方法，查看字段值等。
+
 ## ognl
 
 ### 获取静态属性值
@@ -94,6 +96,6 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 ---
 ---
-- **随机毒鸡汤**：认识的人越多，越知道垃圾分类的重要性。
+- **随机毒鸡汤**：男女之间一定有纯友谊，每一个我认识的女生，都说最多只能跟我当朋友。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=49858b92-5225-41cd-8a66-c0fe48623504)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=9d01eabe-8e9a-4895-b6b6-eed863e10880)
