@@ -60,10 +60,12 @@ title: 其他
 
 [来个JVM冷知识](./%E6%9D%A5%E4%B8%AAJVM%E5%86%B7%E7%9F%A5%E8%AF%86.md)
 
+[前端axios下载csv文件乱码](./%E5%89%8D%E7%AB%AFaxios%E4%B8%8B%E8%BD%BDcsv%E6%96%87%E4%BB%B6%E4%B9%B1%E7%A0%81.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：只要选对了人生的方向，很容易就成功了，让我们恭喜只要和很容易。
+- **随机毒鸡汤**：我们不抄作业，我们只是答案的搬运工。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=6994f7a4-36aa-4d54-a89c-8d57bc454c6f)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=90fd3c05-e46c-4c20-8c30-f85c769ac60d)
