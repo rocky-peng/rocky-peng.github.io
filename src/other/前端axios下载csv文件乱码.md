@@ -1,4 +1,10 @@
-# 前端axios下载csv文件乱码
+---
+title: 前端axios下载csv文件乱码
+date: 2023-08-31
+tag:
+- csv乱码
+- axios 乱码
+---
 
 ## 问题
 
@@ -52,6 +58,6 @@ const blob = new Blob([resData], {
 
 ---
 ---
-- **随机毒鸡汤**：你不是独自前行的猛虎，你只是一只，被同类抛弃的牛羊。
+- **随机毒鸡汤**：路漫漫其修远兮，吾将上下而求人。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=25c63d59-1cb7-469b-b447-35b9e23ecd8e)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=b3b6db9c-5057-4e12-891c-e2fbf30cab84)

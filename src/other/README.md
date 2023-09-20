@@ -62,10 +62,12 @@ title: 其他
 
 [前端axios下载csv文件乱码](./%E5%89%8D%E7%AB%AFaxios%E4%B8%8B%E8%BD%BDcsv%E6%96%87%E4%BB%B6%E4%B9%B1%E7%A0%81.md)
 
+[你真的会拼接字符串吗？](./%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8B%BC%E6%8E%A5%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%90%97%EF%BC%9F.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：我们不抄作业，我们只是答案的搬运工。
+- **随机毒鸡汤**：我不想好好学习的原因，就是因为我知道，工地永远缺人。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=90fd3c05-e46c-4c20-8c30-f85c769ac60d)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=7c97c537-cc82-4fae-9780-962d1a064dd5)
