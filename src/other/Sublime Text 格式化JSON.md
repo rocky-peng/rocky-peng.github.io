@@ -8,7 +8,7 @@ tag:
 
 文本剪辑器有很多，个人一直喜欢用sublime.
 
-## 按照Pretty JSON插件
+## 安装Pretty JSON插件
 
 直接百度吧
 
@@ -20,16 +20,21 @@ tag:
 
 ```java
 [
-	{ "keys": ["ctrl+j"], "command": "pretty_json" }
+	{ "keys": ["ctrl+j"], "command": "pretty_json" }, //格式化
+	{ "keys": [ "ctrl+n" ], "command": "un_pretty_json" }  //压缩
 ]
 ```
 
-![Untitled](https://cdn.justdopay.com/notion/md5-2a37d7caeba5bd15650c5a22a2ff8876.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-1a8f9e01897f47f526ca2cb28d4f48d0.png)
+
+## 扩展配置
+
+[https://packagecontrol.io/packages/Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：复习要适度 ，不然你会对考试，抱有希望的。
+- **随机毒鸡汤**：等你长大成年就会发现，你不再是个傻孩子了，你是个傻子。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=26b0e3ae-4c08-47c4-9697-2566560cb3e4)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=5c7cdb3a-0574-4d5b-9494-aa5140a07ed2)
