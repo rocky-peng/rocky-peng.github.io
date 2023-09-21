@@ -64,10 +64,14 @@ title: 其他
 
 [你真的会拼接字符串吗？](./%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8B%BC%E6%8E%A5%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%90%97%EF%BC%9F.md)
 
+[Sublime Text 格式化JSON](./Sublime%20Text%20%E6%A0%BC%E5%BC%8F%E5%8C%96JSON.md)
+
+[推荐几个适用小工具](./%E6%8E%A8%E8%8D%90%E5%87%A0%E4%B8%AA%E9%80%82%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：我不想好好学习的原因，就是因为我知道，工地永远缺人。
+- **随机毒鸡汤**：曾经给我泼凉水的人，没关系的，我烧开了还会还给你的。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=7c97c537-cc82-4fae-9780-962d1a064dd5)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=9ad2dde6-04f4-43f7-87ed-b29a6d818fe7)
