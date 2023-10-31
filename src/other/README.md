@@ -68,10 +68,14 @@ title: 其他
 
 [推荐几个适用小工具](./%E6%8E%A8%E8%8D%90%E5%87%A0%E4%B8%AA%E9%80%82%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7.md)
 
+[Spring RetryTemplate](./Spring%20RetryTemplate.md)
+
+[Hadoop 一](./Hadoop%20%E4%B8%80.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：曾经给我泼凉水的人，没关系的，我烧开了还会还给你的。
+- **随机毒鸡汤**：那些说要陪你一辈子的人，现在应该，都不在你身边了吧。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=9ad2dde6-04f4-43f7-87ed-b29a6d818fe7)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=ffbbf1fa-a3b5-48a1-b6ec-b55903a0fa05)
