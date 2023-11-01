@@ -33,7 +33,11 @@ public class ServiceA {
 > Relying upon circular references is discouraged and they are prohibited by default. Update your application to remove the dependency cycle between beans. As a last resort, it may be possible to break the cycle automatically by setting spring.main.allow-circular-references to tr
 > 
 
-采用的解决方案就是，不直接注入自身，转而注入ApplicationContext，然后在使用的地方通过getBean的方式获取实例对象
+采用的解决方案就是，
+
+**方案一：**不直接注入自身，转而注入ApplicationContext，然后在使用的地方通过getBean的方式获取实例对象
+
+**方案二：**使用 `XXX xxx = (XXX)AopContext.*currentProxy*()` 这个方法会放回当前类的代理对象，内部是通过threadlocal来存储。通过这个方式也能达到相同目的
 
 ## 二：url中的双斜杠出现404
 
@@ -61,6 +65,6 @@ public class ServiceA {
 
 ---
 ---
-- **随机毒鸡汤**：表面孤獨的人不是真的孤獨，內心強大的人，才是真的孤獨。
+- **随机毒鸡汤**：天气就跟女人一样善变，天气预报就跟男人一样，不靠谱。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=8b82b7fb-272b-41b8-824e-b98e6ee045a5)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=ae47a852-ee90-4ce2-a0fc-af03937985b6)
