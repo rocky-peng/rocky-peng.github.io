@@ -72,10 +72,12 @@ title: 其他
 
 [Hadoop 一](./Hadoop%20%E4%B8%80.md)
 
+[Hbase 总览](./Hbase%20%E6%80%BB%E8%A7%88.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：那些说要陪你一辈子的人，现在应该，都不在你身边了吧。
+- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=ffbbf1fa-a3b5-48a1-b6ec-b55903a0fa05)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=1e532b18-d2dc-401c-94ad-42cc4b7fdbcc)
