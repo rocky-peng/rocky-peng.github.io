@@ -74,10 +74,12 @@ title: 其他
 
 [Hbase 总览](./Hbase%20%E6%80%BB%E8%A7%88.md)
 
+[](./Untitled.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：风光的背后，不是沧桑，就是肮脏。
+- **随机毒鸡汤**：让刻苦成为习惯，用汗水浇灌未来，然后脱水而死。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=1e532b18-d2dc-401c-94ad-42cc4b7fdbcc)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=9b270eed-8999-40d5-a7d5-597a9268972d)
