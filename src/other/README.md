@@ -74,12 +74,12 @@ title: 其他
 
 [Hbase 总览](./Hbase%20%E6%80%BB%E8%A7%88.md)
 
-[](./Untitled.md)
+[随记](./%E9%9A%8F%E8%AE%B0.md)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：让刻苦成为习惯，用汗水浇灌未来，然后脱水而死。
+- **随机毒鸡汤**：离远一看长发飘飘，走近一看虎背熊腰，转身一看卧槽黑山老妖。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=9b270eed-8999-40d5-a7d5-597a9268972d)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=02af1304-6986-4919-bc4f-40955a18747a)
