@@ -76,10 +76,12 @@ title: 其他
 
 [随记](./%E9%9A%8F%E8%AE%B0.md)
 
+[如何安装Google BBR](./%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Google%20BBR.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：离远一看长发飘飘，走近一看虎背熊腰，转身一看卧槽黑山老妖。
+- **随机毒鸡汤**：看见一个算命大师，我刚坐下他就问我，你算什么东西？
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=02af1304-6986-4919-bc4f-40955a18747a)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=6a02b099-1471-414f-87cc-436c960c7650)
