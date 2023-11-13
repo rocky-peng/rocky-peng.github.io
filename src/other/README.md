@@ -78,10 +78,12 @@ title: 其他
 
 [如何安装Google BBR](./%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Google%20BBR.md)
 
+[Linux /dev/shm目录](./Linux%20dev%20shm%E7%9B%AE%E5%BD%95.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：看见一个算命大师，我刚坐下他就问我，你算什么东西？
+- **随机毒鸡汤**：你是ETC吗？这么喜欢自动抬杠。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=6a02b099-1471-414f-87cc-436c960c7650)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=88517b00-2426-4621-bd5a-5865b2282c75)
