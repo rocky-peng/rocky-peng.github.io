@@ -45,9 +45,8 @@ tag:
     3. 主进程会把这个期间收到的写命令写入一个缓冲区（当然也会同时写到aof缓存，和之前的动作一致）
     4. 如果子进程重写失败，当前正在使用的aof文件也能正常使用，所以安全
     5. 如果重写成功，主进程会把之前累计的缓冲区内容追加到新的aof文件中，然后原子的重命名aof文件
-    
-    ![Untitled](https://cdn.justdopay.com/notion/md5-c847f7d9982385c4ec54686caf6b788f.png)
-    
+
+![Untitled](https://cdn.justdopay.com/notion/md5-c847f7d9982385c4ec54686caf6b788f.png)
 
 ## 主从架构
 
@@ -214,6 +213,6 @@ github都4年多没更新了 ，    [https://github.com/CodisLabs/codis](https:/
 
 ---
 ---
-- **随机毒鸡汤**：樹大必有枯枝，人多必有白癡。
+- **随机毒鸡汤**：如果婚姻是爱情的坟墓，那么相亲是，为坟墓看风水！
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=e1921282-fed1-40c8-9c12-d2e7843f386c)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=a4f379ee-db85-4e3a-ba0c-e3cbfbacd7e0)
