@@ -10,7 +10,7 @@ category:
 - dev: 代表device
 - shm: 代表shared memory
 
-![Untitled](https://cdn.justdopay.com/notion/md5-8a837ef1f42f1753a4d90dd06174eb04.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-d41d8cd98f00b204e9800998ecf8427e.png)
 
 1. 这个目录是用内存虚拟出来的一个目录，文件系统是tmpfs. 
 2. 其空间默认是总内存的一半
@@ -29,6 +29,6 @@ category:
 
 ---
 ---
-- **随机毒鸡汤**：看见你我就放心了，我还以为，所有人都特别努力呢。
+- **随机毒鸡汤**：算完工资的涨幅后，再算算猪肉的，就会发现自己连猪都不如。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=501d670a-0a37-46c7-af46-672b1ab799ed)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=6dc22bf6-3ace-48e4-8df5-9db7f460dd61)
