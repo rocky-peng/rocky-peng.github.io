@@ -18,6 +18,15 @@ title: Arthas使用记录
 
 通过这个命令可以拿到指定类的实例，并执行实例的方法，查看字段值等。
 
+### 调用方法时创建对象
+
+```json
+private Object getXXX(Long p1,List p2,Set p3);
+
+可以像下面这样创建对象并调用
+vmtool --action getInstances --className com.xxx.XXX --express 'instances[0].getXXX(1L,(#test1=new java.util.ArrayList(),#test1.add("test"),#test1),(#test=new java.util.HashSet(),#test.add(""),#test))'
+```
+
 ## ognl
 
 ### 获取静态属性值
@@ -96,6 +105,6 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 ---
 ---
-- **随机毒鸡汤**：男女之间一定有纯友谊，每一个我认识的女生，都说最多只能跟我当朋友。
+- **随机毒鸡汤**：感情是互补的，只要你一直对他好，他就永远不会把你当回事儿。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=9d01eabe-8e9a-4895-b6b6-eed863e10880)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=1eedf28b-3257-47b9-bf58-983163a550f7)
