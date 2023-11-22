@@ -35,7 +35,7 @@ date: 2023-03-02
 ## 副本集架构
 
 1. 有三种角色：Primary，Secondary，Arbiter（可选），下面可能会描述为主节点（Primart）、从节点（Secondary）
-2. Arbiter不储存数据，值负责投票，并且是可选配置
+2. Arbiter不储存数据，只负责投票，并且是可选配置
 3. Primary节点有且仅有一个
 4. 在某些特定场合（比如网络出现分区），Primary节点可能出现多个，但通常只有最新的primary节点能正常响应写请求
 5. Primary会把对数据的所有改动都记录在oplog日志中
@@ -80,6 +80,6 @@ date: 2023-03-02
 
 ---
 ---
-- **随机毒鸡汤**：你俩看起来真般配，月老的垃圾分类，做的还挺到位。
+- **随机毒鸡汤**：看时间不是为了起床，而是看还能睡多久。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=c305c84c-e576-4d40-bd88-7bb22bcb38a9)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=19994682-12c1-47d5-a921-72f7d1c1be06)
