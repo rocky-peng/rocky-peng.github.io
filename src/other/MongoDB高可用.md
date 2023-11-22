@@ -34,7 +34,7 @@ date: 2023-03-02
 
 ## 副本集架构
 
-1. 有三种角色：Primary，Secondary，Arbiter（可选），下面可能会描述为主节点（Primart）、从节点（Secondary）
+1. 有三种角色：Primary，Secondary，Arbiter（可选），下面可能会描述为主节点（Primary）、从节点（Secondary）
 2. Arbiter不储存数据，只负责投票，并且是可选配置
 3. Primary节点有且仅有一个
 4. 在某些特定场合（比如网络出现分区），Primary节点可能出现多个，但通常只有最新的primary节点能正常响应写请求
@@ -80,6 +80,6 @@ date: 2023-03-02
 
 ---
 ---
-- **随机毒鸡汤**：看时间不是为了起床，而是看还能睡多久。
+- **随机毒鸡汤**：别羡慕他们，他们也会分的。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=19994682-12c1-47d5-a921-72f7d1c1be06)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=068ffa26-ba76-4dce-b765-c94678443053)

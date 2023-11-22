@@ -80,10 +80,12 @@ title: 其他
 
 [Linux /dev/shm目录](./Linux%20dev%20shm%E7%9B%AE%E5%BD%95.md)
 
+[Docker隐射的端口外网不能访问](./Docker%E9%9A%90%E5%B0%84%E7%9A%84%E7%AB%AF%E5%8F%A3%E5%A4%96%E7%BD%91%E4%B8%8D%E8%83%BD%E8%AE%BF%E9%97%AE.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：你是ETC吗？这么喜欢自动抬杠。
+- **随机毒鸡汤**：没理我都要争三分，得理为什么要饶人？
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=88517b00-2426-4621-bd5a-5865b2282c75)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=0025845e-792e-4251-978e-f5fb9505e10a)
