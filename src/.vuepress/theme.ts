@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "http://justsoso.fun",
+  hostname: "http://www.justsoso.fun",
 
   author: {
     name: "技术加油站",
-    url: "http://justsoso.fun",
+    url: "http://www.justsoso.fun",
   },
 
   iconAssets: "iconfont",
@@ -103,10 +103,10 @@ export default hopeTheme({
 
   plugins: {
     sitemap:{
-      changefreq:"daily"
+      // changefreq:"daily"
     },
     seo:{
-      canonical: 'http://justsoso.fun/'
+      canonical: 'http://www.justsoso.fun/'
     },
     copyCode: {
       showInMobile:true
