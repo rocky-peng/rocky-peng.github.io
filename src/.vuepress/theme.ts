@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "http://www.justsoso.fun",
+  hostname: "https://justsoso.fun",
 
   author: {
     name: "技术加油站",
-    url: "http://www.justsoso.fun",
+    url: "https://justsoso.fun",
   },
 
   iconAssets: "iconfont",
@@ -72,9 +72,9 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       footer: "" +
-          "<a href=\"http://www.justsoso.fun\" target=\"_blank\">技术加油站</a>&nbsp;|&nbsp;" +
-          "<a href=\"http://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
-          "<a href=\"http://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
+          "<a href=\"https://justsoso.fun\" target=\"_blank\">技术加油站</a>&nbsp;|&nbsp;" +
+          "<a href=\"https://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
+          "<a href=\"https://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
           "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>" +
           "<!-- <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">渝ICP备2022014544号-1</a> -->" +
           "<!--&nbsp;|&nbsp; <a href=\"http://leyongjituan.com\">乐用集团</a>-->",
@@ -106,7 +106,7 @@ export default hopeTheme({
       changefreq:"daily"
     },
     seo:{
-      canonical: 'http://www.justsoso.fun/'
+      canonical: 'https://justsoso.fun/'
     },
     copyCode: {
       showInMobile:true
