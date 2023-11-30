@@ -7,6 +7,9 @@ import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
 import theme from "./theme.js";
 
 export default defineUserConfig({
+  head:[
+    ["meta", { name: "referrer" ,"content":"no-referrer-when-downgrade"}],
+  ],
   base: "/",
   port: 8081,
   locales: {
