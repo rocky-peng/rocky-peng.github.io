@@ -14,7 +14,7 @@ tag:
 
 ## 设置快捷键
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-30a1ea6e15847286d1155ede9b0ade55.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-30a1ea6e15847286d1155ede9b0ade55.png)
 
 在右侧输入：
 
@@ -25,7 +25,7 @@ tag:
 ]
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-1a8f9e01897f47f526ca2cb28d4f48d0.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-1a8f9e01897f47f526ca2cb28d4f48d0.png)
 
 ## 扩展配置
 
@@ -35,6 +35,6 @@ tag:
 
 ---
 ---
-- **随机毒鸡汤**：认识的人越多，越知道垃圾分类的重要性。
+- **随机毒鸡汤**：等你长大成年就会发现，你不再是个傻孩子了，你是个傻子。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=de7bd512-dd76-470d-8674-c3138344d88d)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=5c7cdb3a-0574-4d5b-9494-aa5140a07ed2)

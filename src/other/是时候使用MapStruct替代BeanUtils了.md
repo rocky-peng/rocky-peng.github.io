@@ -2,7 +2,7 @@
 
 ## 实例代码（后文有源码）
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-6585edce77eb3cab2d8293d60a1109ba.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-6585edce77eb3cab2d8293d60a1109ba.png)
 
 1. 左边一列是两个要转换的对象。
     1. 字段名相同、类型相同的
@@ -13,7 +13,7 @@
 
 看上面代码应该也能明白大概怎么使用了
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-84e3a22cb6487f76115a15e1311aa3b9.gif)
+![Untitled](https://cdn.justdopay.com/notion/md5-84e3a22cb6487f76115a15e1311aa3b9.gif)
 
 ## 源码
 
@@ -161,8 +161,9 @@ public class Tests {
 
 <br/><br/><br/><br/><br/><br/>
 
+
 ---
 ---
-- **随机毒鸡汤**：我特别想关心你，可你却不生病啊。
+- **随机毒鸡汤**：有个姑娘问我借钱去整容，整的挺成功，我再没认出是谁问我借的钱。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=b8a1e833-8bd4-4fd8-8760-45818c0c0ca4)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=2399901c-8fcf-427d-bb2d-a0dd911431f4)

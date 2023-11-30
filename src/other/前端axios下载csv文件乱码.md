@@ -37,7 +37,7 @@ public void downloadCheckResult(HttpServletResponse response, String checkResult
 
 前端代码大概这样：
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-516bea5d2551055e6fbf71d2f7fa6a42.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-516bea5d2551055e6fbf71d2f7fa6a42.png)
 
 ## 解决方法
 
@@ -52,12 +52,12 @@ const blob = new Blob([resData], {
 
 成功！！！ 关键点是在返回的data 上加上'\ufeff’
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-e65d409adbe72c698846b8b4a1876c68.gif)
+![Untitled](https://cdn.justdopay.com/notion/md5-e65d409adbe72c698846b8b4a1876c68.gif)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：想要逼死一个强迫症，那实在是太简了。
+- **随机毒鸡汤**：路漫漫其修远兮，吾将上下而求人。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=debb21fe-a944-4177-9b7f-baa95c3b99c4)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=b3b6db9c-5057-4e12-891c-e2fbf30cab84)

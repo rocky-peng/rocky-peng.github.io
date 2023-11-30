@@ -16,7 +16,7 @@ dev-pqs基于dev分支拉出，然后进行了 A B两个提交
 
 然后dev分支分支有个新的提交 M（比如是其他开发人员合并上去的），如下图
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-7ee058faf958872e49825ee139b46a85.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-7ee058faf958872e49825ee139b46a85.png)
 
 ## 把dev-pqs的代码合并到dev
 
@@ -27,7 +27,7 @@ dev-pqs基于dev分支拉出，然后进行了 A B两个提交
 
 结果如下：
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-5f76033e4a96ff5ebc4dd0889fafbe34.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-5f76033e4a96ff5ebc4dd0889fafbe34.png)
 
 ### rebase
 
@@ -36,7 +36,7 @@ dev-pqs基于dev分支拉出，然后进行了 A B两个提交
 
 rebase前，dev-pqs分支的祖先是dev那个提交，rebase后，祖先就更改为dev的最新提交，也就是m那次提交。如下图：
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-8b5ea2514439c08c59d915aeca8e72b0.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-8b5ea2514439c08c59d915aeca8e72b0.png)
 
 ## 区别
 
@@ -59,18 +59,18 @@ git pull -r 等效于 git pull -rebase 又等效于 git fetch + git rebase
 
 ## idea的rebase操作
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-cdd8d72339d573499dc776d5a970319d.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-cdd8d72339d573499dc776d5a970319d.png)
 
 点击红框”rebase dev-pqs onto dev” 就相当于在执行  git rebase dev，一样的效果。  这个”onto”感觉很形象，有点体现出以dev为基底的感觉
 
 ## idea设置
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-b558ba217c6076d0b70c8e922c37b5c7.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-b558ba217c6076d0b70c8e922c37b5c7.png)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：长大这两个字，连偏旁部首都没有，一看就很孤独。
+- **随机毒鸡汤**：我就像是玻璃瓶里面的苍蝇，前途满眼光明，就是找不到出口。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=5cc6c999-f9aa-4036-a6a8-19287e3dc579)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=92986b75-07bb-489d-a69a-dab0e6fece2c)

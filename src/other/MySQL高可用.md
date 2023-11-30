@@ -41,14 +41,14 @@ tag:
     1. 存在数据延迟问题
     2. 主从数据可能丢失，导致数据不一致
     
-    ![Untitled](https://cdn.justdopay.com/notion2/md5-1efd3893046fbfdab9a1ceee17d792e1.png)
+    ![Untitled](https://cdn.justdopay.com/notion/md5-1efd3893046fbfdab9a1ceee17d792e1.png)
     
 2. **半同步复制**
     1. 相比异步复制，减少了数据丢失的概率，但仍有可能出现（因为如果从库长时间没有返回ack，就会采用异步复制方案）
     2. 一定程度上解决了数据延迟问题
     3. 可以配合MHA实现mysql高可用
     
-    ![Untitled](https://cdn.justdopay.com/notion2/md5-e47f94a245016c73ab5d9eae6575a174.png)
+    ![Untitled](https://cdn.justdopay.com/notion/md5-e47f94a245016c73ab5d9eae6575a174.png)
     
     扩展阅读：[https://dev.mysql.com/doc/refman/8.0/en/group-replication-primary-secondary-replication.html](https://dev.mysql.com/doc/refman/8.0/en/group-replication-primary-secondary-replication.html)
     
@@ -59,7 +59,7 @@ tag:
     4. 是一种高可用方案
     5. 至少3个节点（paxos算法决定）
     
-    ![Untitled](https://cdn.justdopay.com/notion2/md5-b5f529e88bddd2faf25caa5bf2274d69.png)
+    ![Untitled](https://cdn.justdopay.com/notion/md5-b5f529e88bddd2faf25caa5bf2274d69.png)
     
     扩展阅读：[https://dev.mysql.com/doc/refman/8.0/en/group-replication-summary.html](https://dev.mysql.com/doc/refman/8.0/en/group-replication-summary.html)
     
@@ -93,6 +93,6 @@ tag:
 
 ---
 ---
-- **随机毒鸡汤**：猪跟人本质的区别在于，猪永远是猪，人有的时候不是人。
+- **随机毒鸡汤**：不要脸这事，如果干的好，叫心理素质过硬。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=1b668275-f44c-4ea0-a3aa-a0bb52a3a16e)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=7c790c68-3422-4b88-933e-915e55d7dc88)

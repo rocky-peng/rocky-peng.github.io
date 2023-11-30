@@ -23,7 +23,7 @@ insert into name_age values('{"id":8,"name":"小明8", "age":35}');
 insert into name_age values('{"id":9,"name":"小明9", "age":35}');
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-4a3de158e20935f6b916a26b4cb21a54.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-4a3de158e20935f6b916a26b4cb21a54.png)
 
 ## Where
 
@@ -33,7 +33,7 @@ insert into name_age values('{"id":9,"name":"小明9", "age":35}');
 SELECT info||'{"gender":"男"}' as a,info||'{"gender":"男"}'::jsonb as b,info as c from name_age where (info->>'id')::int4 = 2;
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-62bd7ca712b92f604a125071fc48cc45.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-62bd7ca712b92f604a125071fc48cc45.png)
 
 ---
 
@@ -41,7 +41,7 @@ SELECT info||'{"gender":"男"}' as a,info||'{"gender":"男"}'::jsonb as b,info a
 SELECT info||'{"gender":"男"}' as a,info||'{"gender":"男"}'::jsonb as b,info as c from name_age where (info->>'name') = '小明4';
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-1d441b9a2eed822cfcffa387ad17b785.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-1d441b9a2eed822cfcffa387ad17b785.png)
 
 ### 模糊匹配
 
@@ -49,7 +49,7 @@ SELECT info||'{"gender":"男"}' as a,info||'{"gender":"男"}'::jsonb as b,info a
 select * from name_age where info #>> '{name}' like '%明';
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-43f7e49091046edf383e859981ca1905.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-43f7e49091046edf383e859981ca1905.png)
 
 ---
 
@@ -57,7 +57,7 @@ select * from name_age where info #>> '{name}' like '%明';
 select * from name_age where (info->>'name') like '%4';
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-9ddfccdf3034813fc20ba24b625ad568.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-9ddfccdf3034813fc20ba24b625ad568.png)
 
 ## 排序
 
@@ -67,7 +67,7 @@ select * from name_age order by info->>'age' desc,info->'id' asc;
 select * from name_age order by info->>'age' desc,info->>'id' asc;
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-89475d6fb050cc73e3f97fc49bd03c69.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-89475d6fb050cc73e3f97fc49bd03c69.png)
 
 ## 修改
 
@@ -77,9 +77,9 @@ select * from name_age order by info->>'age' desc,info->>'id' asc;
 update name_age set info = info || '{"gender":"男"}'::jsonb  where (info->>'id')::int4 = 1;
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-6af15a340c5be493c9b8ece7d96b06e0.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-6af15a340c5be493c9b8ece7d96b06e0.png)
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-8ea2a5fac6d6e8d5cc4fa3b925805fd6.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-8ea2a5fac6d6e8d5cc4fa3b925805fd6.png)
 
 ### 删除json字段
 
@@ -87,9 +87,9 @@ update name_age set info = info || '{"gender":"男"}'::jsonb  where (info->>'id'
 update name_age set info = info-'gender' where  (info->>'id')::int4 = 1;
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-dff3c28e3b29f2f79048230c54a6dbfe.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-dff3c28e3b29f2f79048230c54a6dbfe.png)
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-5454c1282a1bd4089a55c9442657e34a.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-5454c1282a1bd4089a55c9442657e34a.png)
 
 ### 修改json字段值
 
@@ -97,9 +97,9 @@ update name_age set info = info-'gender' where  (info->>'id')::int4 = 1;
 update name_age set info = info || '{"age":16}'::jsonb  where (info->>'id')::int4 = 1;
 ```
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-e1f926e68951b3a665e46f972a174adc.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-e1f926e68951b3a665e46f972a174adc.png)
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-084eaf5e07602158aa1e5fa7f6943a6c.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-084eaf5e07602158aa1e5fa7f6943a6c.png)
 
 ## 分页
 
@@ -109,7 +109,7 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 
 - **offset 从0开始**
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-af25be7103d393e043d2bfea53a1b981.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-af25be7103d393e043d2bfea53a1b981.png)
 
 ## 其他内容
 
@@ -137,6 +137,6 @@ select * from name_age order by info->>'age' desc,info->>'id' asc  limit 2 offse
 
 ---
 ---
-- **随机毒鸡汤**：疫情之前 白雪公主，疫情之后 雪球公主。
+- **随机毒鸡汤**：我已经闲到，开始学习了……
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=837d3a0a-8ed9-4fe2-ad05-b40221ec1455)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=966209c5-ffdc-474e-9996-7f3faa54e95c)

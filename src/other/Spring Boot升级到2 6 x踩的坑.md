@@ -49,15 +49,15 @@ public class ServiceA {
 
 在spring boot 2.4.0之前采用类似下面的配置即可
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-47f92655d02085f5a7eb3d130366ae7a.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-47f92655d02085f5a7eb3d130366ae7a.png)
 
 但升级后2.4.0之后的版本后下面的配置是跑步起来的，会提示：
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-3217309c59519fe70978caaefa146023.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-3217309c59519fe70978caaefa146023.png)
 
 **升级后正确的配置**类似下面：
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-91d47a5d51b8ce0f41ea139605e8edde.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-91d47a5d51b8ce0f41ea139605e8edde.png)
 
 扩展看：[https://github.com/alibaba/spring-cloud-alibaba/pull/2349#top](https://github.com/alibaba/spring-cloud-alibaba/pull/2349#top)
 
@@ -65,6 +65,6 @@ public class ServiceA {
 
 ---
 ---
-- **随机毒鸡汤**：大多数人问你怎么了，不是想帮你或者安慰你，而是满足自己的好奇心。
+- **随机毒鸡汤**：天气就跟女人一样善变，天气预报就跟男人一样，不靠谱。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=2e782260-1cc3-4d56-a4f5-94eab4a35ace)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=ae47a852-ee90-4ce2-a0fc-af03937985b6)

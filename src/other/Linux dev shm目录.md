@@ -10,14 +10,14 @@ category:
 - dev: 代表device
 - shm: 代表shared memory
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-8a837ef1f42f1753a4d90dd06174eb04.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-8a837ef1f42f1753a4d90dd06174eb04.png)
 
 1. 这个目录是用内存虚拟出来的一个目录，文件系统是tmpfs. 
 2. 其空间默认是总内存的一半
 3. 读写这个目录下的文件其实就是在读写内存。
     1. 可以实验下，先查询现有的内存空间，然后往这个目录写入一个1g的文件，再查看内存空间。再删除
     
-    ![Untitled](https://cdn.justdopay.com/notion2/md5-e5e2006be7231387da07d1a12431e8ac.png)
+    ![Untitled](https://cdn.justdopay.com/notion/md5-e5e2006be7231387da07d1a12431e8ac.png)
     
 4. 读写改目录文件性能是非常高的，实际就是读写内存
 5. 如果这个目录下没有任何文件，则不会占用内存。
@@ -29,6 +29,6 @@ category:
 
 ---
 ---
-- **随机毒鸡汤**：承诺这东西，听的人记住了，说的人早忘了。
+- **随机毒鸡汤**：果然爱情就像龙卷风，就比如我，这辈子都没见过龙卷风。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=83b7a68d-1836-4ae3-bd7b-ffa7f36dcbd9)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=51e8f043-e01a-41f3-899f-e555a62d53e6)

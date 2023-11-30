@@ -31,7 +31,7 @@ tag:
 
 查看防火墙端口设置：
 
-![Untitled](https://cdn.justdopay.com/notion2/md5-500b800b6d84bf28a0a3c1adc4b156aa.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-500b800b6d84bf28a0a3c1adc4b156aa.png)
 
 8848端口也开了的，在服务器上执行`telnet 127.0.0.1 8848`也是通的，但执行`telnet 111.111.111.111 8848`就不通
 
@@ -84,6 +84,6 @@ sysctl -p
 
 ---
 ---
-- **随机毒鸡汤**：去年疫情学的料理，是时候复习一下了。
+- **随机毒鸡汤**：喜欢就像乘法一样，只要一方为零，结果便为零。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=e613b572-0742-4028-b38e-04c5b76b5949)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=06a9a9a5-6f4d-4d84-9963-acd8d138696e)
