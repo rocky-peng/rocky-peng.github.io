@@ -14,7 +14,7 @@ title: Arthas使用记录
 
 这个命令可以获取指定类的实例对象，拿到实例对象后还能执行实例方法等。通过help查看使用方法
 
-![Untitled](https://cdn.justdopay.com/notion/md5-4112d9049c217b8cd9ee1dc3457a7f4d.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-4112d9049c217b8cd9ee1dc3457a7f4d.png)
 
 通过这个命令可以拿到指定类的实例，并执行实例的方法，查看字段值等。
 
@@ -39,7 +39,7 @@ ognl -x 1 '@com.xxxx.SpringUtils@applicationContext'
 
 很有可能出现下面的错误
 
-![Untitled](https://cdn.justdopay.com/notion/md5-23d32f676a1fea41242ba0cdf36621a9.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-23d32f676a1fea41242ba0cdf36621a9.png)
 
 就是提示找不到这个类。这个时候需要先找到加载这个类的classloader（sc -d 类名）
 
@@ -49,7 +49,7 @@ ognl -x 1 '@com.xxxx.SpringUtils@applicationContext'
 ognl -x 1 -c '@com.xxxx.SpringUtils@applicationContext'
 ```
 
-![Untitled](https://cdn.justdopay.com/notion/md5-b204ab9cd53ca1bc1265e4d2af50900f.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-b204ab9cd53ca1bc1265e4d2af50900f.png)
 
 ### 获取普通属性值
 
@@ -79,7 +79,7 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 - 方法调用层级比较多，有问题需要排查，但又没有日志，需要查看某个中间结果的。比如想看calcCrons这个方法的返回是是什么
 
-![Untitled](https://cdn.justdopay.com/notion/md5-256041297aa45aa490eb6b0db3b27917.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-256041297aa45aa490eb6b0db3b27917.png)
 
 - 比如某个方法执行异常了，但是日志中没有打印堆栈信息，这个时候就能快速定位异常位置
 
@@ -93,7 +93,7 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 `/xxxx/xxxx/xxxx/xxxx/list`
 
-![Untitled](https://cdn.justdopay.com/notion/md5-275c78fc16854272237bb5132af5bb47.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-275c78fc16854272237bb5132af5bb47.png)
 
 ### 案例二
 
@@ -105,6 +105,6 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 ---
 ---
-- **随机毒鸡汤**：感情是互补的，只要你一直对他好，他就永远不会把你当回事儿。
+- **随机毒鸡汤**：这辈子不努力没有关系，下辈子注意就是了。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=1eedf28b-3257-47b9-bf58-983163a550f7)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=8390b3f0-8883-457b-92c9-23f18f5d7d14)

@@ -17,7 +17,7 @@ date: 2023-03-02
 
 ## 主从架构
 
-![Untitled](https://cdn.justdopay.com/notion/md5-7ab18e5340f9abb9d632acaa29767ddc.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-7ab18e5340f9abb9d632acaa29767ddc.png)
 
 特点：
 
@@ -50,15 +50,15 @@ date: 2023-03-02
 14. 下面的图全部来自于mongodb官网
 15. 
 
-![Untitled](https://cdn.justdopay.com/notion/md5-79738901ccb86d2bf9f2dc15c4d50bc0.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-79738901ccb86d2bf9f2dc15c4d50bc0.png)
 
-![Untitled](https://cdn.justdopay.com/notion/md5-6aafe4968edf1bd7b5a71787a70913a2.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-6aafe4968edf1bd7b5a71787a70913a2.png)
 
-![Untitled](https://cdn.justdopay.com/notion/md5-f432036a4148ea95e5863f4eb23fa333.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-f432036a4148ea95e5863f4eb23fa333.png)
 
-![Untitled](https://cdn.justdopay.com/notion/md5-98caa44cd14c49a05cc9b6c13d261132.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-98caa44cd14c49a05cc9b6c13d261132.png)
 
-![Untitled](https://cdn.justdopay.com/notion/md5-d0250def39e583c4b260257040ad55d7.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-d0250def39e583c4b260257040ad55d7.png)
 
 本质也是主从架构，只是增加了第三个角色：仲裁者（Arbiter），然后更换了角色名以及职责
 
@@ -80,6 +80,6 @@ date: 2023-03-02
 
 ---
 ---
-- **随机毒鸡汤**：别羡慕他们，他们也会分的。
+- **随机毒鸡汤**：人们常说，不要让青春留白，所以我把它抹黑了！
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=068ffa26-ba76-4dce-b765-c94678443053)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=e4acdcda-aaf2-40dc-ac54-466aab6489fe)

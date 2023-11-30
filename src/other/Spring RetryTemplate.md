@@ -16,7 +16,7 @@ tag:
 
 ## RetryPolicy
 
-![Untitled](https://cdn.justdopay.com/notion/md5-19c6d975b35469503fc76e09db892242.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-19c6d975b35469503fc76e09db892242.png)
 
 - SimpleRetryPolicy 默认最多重试3次
 - TimeoutRetryPolicy 默认在1秒内失败都会重试
@@ -28,7 +28,7 @@ tag:
 
 ## BackoffPolicy
 
-![Untitled](https://cdn.justdopay.com/notion/md5-614e14d24ffe43bce55b4322d1fb8d01.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-614e14d24ffe43bce55b4322d1fb8d01.png)
 
 - FixedBackOffPolicy 默认固定延迟1秒后执行下一次重试
 - ExponentialBackOffPolicy 指数递增延迟执行重试，默认初始0.1秒，系数是2，那么下次延迟0.2秒，再下次就是延迟0.4秒，如此类推，最大30秒。
@@ -40,7 +40,7 @@ tag:
 
 ## 示例
 
-![Untitled](https://cdn.justdopay.com/notion/md5-9311b7ee9c5e11088a191a3662ca7f51.png)
+![Untitled](https://cdn.justdopay.com/notion2/md5-9311b7ee9c5e11088a191a3662ca7f51.png)
 
 ```jsx
 private static final RetryTemplate RETRY_TEMPLATE;
@@ -82,6 +82,6 @@ public Object httpRemoteCall(Object... params) {
 
 ---
 ---
-- **随机毒鸡汤**：今天真是幸运的一天，终于实现了身价翻倍，因为猪价又翻了番。
+- **随机毒鸡汤**：小时候我常想，长大了是上北大还是清华，现在想想原来是我想多了。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=1f72630b-3bde-4c23-93bc-9b4501f85087)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=e2d897ba-48a1-4c3c-a898-4050af2d19cd)
