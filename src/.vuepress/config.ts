@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { componentsPlugin } from "vuepress-plugin-components";
 import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
-// import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 import theme from "./theme.js";
 
@@ -49,8 +49,8 @@ export default defineUserConfig({
       autoPushBaiduSwitch: true,
       toutiaoAutoPushId: '66b6d624306f38141d08cbfa0487891534532487b776ed3a73df815b3ed4f35cbc434964556b7d7129e9b750ed197d397efd7b0c6c715c1701396e1af40cec962b8d7c8c6655c9b00211740aa8a98e2e',
     }),
-    /*googleAnalyticsPlugin({
+    googleAnalyticsPlugin({
       id: 'G-W9Q9J76CLH',
-    }),*/
+    }),
   ],
 });
