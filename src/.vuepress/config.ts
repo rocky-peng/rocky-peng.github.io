@@ -7,9 +7,14 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  head:[
-    ["meta", { name: "referrer" ,"content":"no-referrer-when-downgrade"}],
-    ["meta", { name: "google-adsense-account" ,"content":"ca-pub-6065963683065405"}],
+  head: [
+    ["meta", {name: "referrer", content: "no-referrer-when-downgrade"}],
+    ["meta", {name: "google-adsense-account", content: "ca-pub-6065963683065405"}],
+    ["script", {
+      async: true,
+      crossOrigin: "anonymous",
+      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6065963683065405"
+    }],
   ],
   base: "/",
   port: 8081,
