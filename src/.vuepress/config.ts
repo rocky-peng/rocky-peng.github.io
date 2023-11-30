@@ -9,6 +9,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   head:[
     ["meta", { name: "referrer" ,"content":"no-referrer-when-downgrade"}],
+    ["meta", { name: "google-adsense-account" ,"content":"ca-pub-6065963683065405"}],
   ],
   base: "/",
   port: 8081,
