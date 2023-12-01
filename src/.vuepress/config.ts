@@ -15,6 +15,11 @@ export default defineUserConfig({
       crossOrigin: "anonymous",
       src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6065963683065405"
     }],
+    ["script", {
+      async: true,
+      crossOrigin: "anonymous",
+      src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+    }],
   ],
   base: "/",
   port: 8081,
