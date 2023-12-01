@@ -76,6 +76,8 @@ export default hopeTheme({
           "<a href=\"https://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
           "<a href=\"https://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
           "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>" +
+          "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>" +
+          "<span id=\"busuanzi_container_site_pv\">本站总访问量<span id=\"busuanzi_value_site_pv\"></span>次</span>" +
           "<!-- <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">渝ICP备2022014544号-1</a> -->" +
           "<!--&nbsp;|&nbsp; <a href=\"http://leyongjituan.com\">乐用集团</a>-->",
 
