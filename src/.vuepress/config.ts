@@ -18,7 +18,7 @@ export default defineUserConfig({
     ["script", {
       async: true,
       crossOrigin: "anonymous",
-      src: "//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
+      src: "//cdn.justdopay.com/scripts/busuanzi.pure.mini.js"
     }],
   ],
   base: "/",
