@@ -82,10 +82,12 @@ title: 其他
 
 [Docker隐射的端口外网不能访问](./Docker%E9%9A%90%E5%B0%84%E7%9A%84%E7%AB%AF%E5%8F%A3%E5%A4%96%E7%BD%91%E4%B8%8D%E8%83%BD%E8%AE%BF%E9%97%AE.md)
 
+[vuepress-theme-hope 添加谷歌广告](./vuepress-theme-hope%20%E6%B7%BB%E5%8A%A0%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：没理我都要争三分，得理为什么要饶人？
+- **随机毒鸡汤**：如果长得美是一种错的话，那我岂不是长对了？
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=0025845e-792e-4251-978e-f5fb9505e10a)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=7781f30e-6cc2-4ee1-8764-1b5e8b4ef0d4)
