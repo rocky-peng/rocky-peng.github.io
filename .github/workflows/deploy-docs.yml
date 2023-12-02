@@ -13,7 +13,6 @@ jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - uses: actions/setup-java@v1
         with:
           java-version: 11
@@ -54,6 +53,7 @@ jobs:
         run: |
           cd sitemap2readme
           java -jar sitemap2readme-0.0.1-SNAPSHOT.jar ../README.md ../src/.vuepress/dist/sitemap.xml
+          cat ../README.md
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
