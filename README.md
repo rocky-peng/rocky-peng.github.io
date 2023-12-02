@@ -33,6 +33,7 @@
 - [WebSocket SpringBoot Demo](https://justsoso.fun/other/WebSocket%20SpringBoot%20Demo.html)
 - [getPath vs getAbsolutePath vs getCanonicalPath](https://justsoso.fun/other/getPath%20vs%20getAbsolutePath%20vs%20getCanonicalPath.html)
 - [istio基础知识](https://justsoso.fun/other/istio%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html)
+- [vuepress-theme-hope 添加谷歌广告](https://justsoso.fun/other/vuepress-theme-hope%20%E6%B7%BB%E5%8A%A0%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A.html)
 - [你真的会拼接字符串吗？](https://justsoso.fun/other/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8B%BC%E6%8E%A5%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%90%97%EF%BC%9F.html)
 - [前端axios下载csv文件乱码](https://justsoso.fun/other/%E5%89%8D%E7%AB%AFaxios%E4%B8%8B%E8%BD%BDcsv%E6%96%87%E4%BB%B6%E4%B9%B1%E7%A0%81.html)
 - [如何安装Google BBR](https://justsoso.fun/other/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Google%20BBR.html)
