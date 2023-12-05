@@ -14,7 +14,7 @@ tag:
 
 不定时更新，如果不行，可以添加VX：WilsonPeng3 （免费帮忙找可用的LicenseServer，所以不要要求太多哦）
 
-适用于最新版，其他版本请自测
+适用于最新版，其他版本请自测(本文保留最近10日更新的信息，最早更新于：2023-03-08)
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-88a3b101bbc2401fde32d4424a84e804.png)
 
