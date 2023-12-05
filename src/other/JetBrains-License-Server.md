@@ -17,6 +17,7 @@ tag:
 适用于最新版，其他版本请自测(本文保留最近10日更新的信息，最早更新于：2023-03-08)
 
 ![Untitled](https://cdn.justdopay.com/notion/md5-88a3b101bbc2401fde32d4424a84e804.png)
+![](./JetBrains-License-Server.imgs/462981208651800.png)
 
 ## 下面是列表
 
