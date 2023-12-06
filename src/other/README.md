@@ -84,10 +84,14 @@ title: 其他
 
 [vuepress-theme-hope 添加谷歌广告](./vuepress-theme-hope%20%E6%B7%BB%E5%8A%A0%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A.md)
 
+[Nginx的双向认证配置](./Nginx%E7%9A%84%E5%8F%8C%E5%90%91%E8%AE%A4%E8%AF%81%E9%85%8D%E7%BD%AE.md)
+
+[CloudFlare 客户端证书的使用](./CloudFlare%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AF%81%E4%B9%A6%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：有些人走着走着就散了，有些答案，抄着抄着就串行了。
+- **随机毒鸡汤**：愿你们的青春，都像教堂的上空，有神经过。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=66c562b0-85a2-4383-805a-3eec498f0e26)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01579885-4535-4c87-9535-9bebe74c0c20)
