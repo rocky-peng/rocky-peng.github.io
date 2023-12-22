@@ -101,10 +101,24 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 百度搜索：SecureRandom.getInstanceStrong()    就知道具体原因
 
+## 常用命令
+
+### 查看启用端口
+
+```json
+vmtool --action getInstances --className org.springframework.context.ConfigurableApplicationContext --express 'instances[0].getEnvironment().getProperty("server.port")'
+```
+
+### 查看数据库连接
+
+```json
+vmtool --action getInstances --className com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper --express 'instances[0].basicProperties'
+```
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：感情是互补的，只要你一直对他好，他就永远不会把你当回事儿。
+- **随机毒鸡汤**：一点小事叨叨不停，我看你是亚里士多德他二姨，珍妮玛士多。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=1eedf28b-3257-47b9-bf58-983163a550f7)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=edc2f5e1-6d89-4142-a7e7-c087c186104f)
