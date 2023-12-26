@@ -88,10 +88,12 @@ title: 其他
 
 [CloudFlare 客户端证书的使用](./CloudFlare%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AF%81%E4%B9%A6%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
+[K8S常用命令](./K8S%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：愿你们的青春，都像教堂的上空，有神经过。
+- **随机毒鸡汤**：如果你容不下我，说明不是你的心胸太狭窄，就是我的人格太伟大。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=01579885-4535-4c87-9535-9bebe74c0c20)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=fa755396-8e08-4f8f-9960-35e9a3a93a7f)

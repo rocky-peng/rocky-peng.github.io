@@ -103,6 +103,15 @@ ognl -x 3 '#springContext=@com.xxxx.SpringUtils@applicationContext,#springContex
 
 ## 常用命令
 
+### 一键离线安装
+
+```json
+mkdir -p /tmp/arthas
+wget https://arthas.aliyun.com/download/latest_version?mirror=aliyun -O /tmp/arthas/arthas.zip
+unzip /tmp/arthas/arthas.zip -d /tmp/arthas/
+java -jar /tmp/arthas/arthas-boot.jar
+```
+
 ### 查看启用端口
 
 ```json
@@ -119,6 +128,6 @@ vmtool --action getInstances --className com.alibaba.druid.spring.boot.autoconfi
 
 ---
 ---
-- **随机毒鸡汤**：一点小事叨叨不停，我看你是亚里士多德他二姨，珍妮玛士多。
+- **随机毒鸡汤**：不是你哪里不好，其实你哪里都好，就是没钱这点不好。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=edc2f5e1-6d89-4142-a7e7-c087c186104f)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3bf94601-3cc7-4f0b-8a63-86c1d648da0e)
