@@ -12,6 +12,7 @@
 - [Hbase 总览](https://justsoso.fun/other/Hbase%20%E6%80%BB%E8%A7%88.html)
 - [Java语言完成notion笔记备份](https://justsoso.fun/other/Java%E8%AF%AD%E8%A8%80%E5%AE%8C%E6%88%90notion%E7%AC%94%E8%AE%B0%E5%A4%87%E4%BB%BD.html)
 - [JetBrains-License-Server](https://justsoso.fun/other/JetBrains-License-Server.html)
+- [K8S常用命令](https://justsoso.fun/other/K8S%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html)
 - [Linux dev shm目录](https://justsoso.fun/other/Linux%20dev%20shm%E7%9B%AE%E5%BD%95.html)
 - [Lombok的Accessors导致EasyExcel读取失败](https://justsoso.fun/other/Lombok%E7%9A%84Accessors%E5%AF%BC%E8%87%B4EasyExcel%E8%AF%BB%E5%8F%96%E5%A4%B1%E8%B4%A5.html)
 - [Mermaid示例](https://justsoso.fun/other/Mermaid%E7%A4%BA%E4%BE%8B.html)
