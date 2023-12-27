@@ -90,10 +90,12 @@ title: 其他
 
 [K8S常用命令](./K8S%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
+[](./Untitled.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：如果你容不下我，说明不是你的心胸太狭窄，就是我的人格太伟大。
+- **随机毒鸡汤**：青春期的爱情是精神鸦片，不管你吸没吸，背后总站着无数个林则徐。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=fa755396-8e08-4f8f-9960-35e9a3a93a7f)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=4d011900-d5e7-472a-96fe-daaee45a4a03)
