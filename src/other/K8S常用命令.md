@@ -77,10 +77,18 @@ kubectl exec -it xxx bash
 kubectl exec -it xxx sh
 ```
 
+### 查看pod最后n行日志
+
+```json
+kubectl logs -f xxxx-podname --tail=100
+
+//100就是从最后100行开始输出
+```
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：自从傻B这个词出现后，傻瓜笨蛋这些词，就被划分到了情话行列。
+- **随机毒鸡汤**：钱包里放老婆的照片，是为了提醒自己记住，钱包里的钱是怎么没的。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=8fac4936-cfeb-4ae3-a304-e20d01753ac9)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=052af8a5-4141-4076-8f7a-a2223e624d3d)

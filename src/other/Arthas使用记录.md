@@ -124,10 +124,16 @@ vmtool --action getInstances --className org.springframework.context.Configurabl
 vmtool --action getInstances --className com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceWrapper --express 'instances[0].basicProperties'
 ```
 
+### 查看contextPath
+
+```json
+vmtool --action getInstances --className org.springframework.context.ConfigurableApplicationContext --express 'instances[0].getEnvironment().getProperty("server.context-path")'
+```
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：不是你哪里不好，其实你哪里都好，就是没钱这点不好。
+- **随机毒鸡汤**：我亲眼看着你走上台，不知道你是将要献丑，还是出丑。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=3bf94601-3cc7-4f0b-8a63-86c1d648da0e)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=ff37c2e4-1352-43df-95b6-9088e410ae65)
