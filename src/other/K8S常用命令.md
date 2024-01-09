@@ -85,10 +85,17 @@ kubectl logs -f xxxx-podname --tail=100
 //100就是从最后100行开始输出
 ```
 
+### 导出yaml文件
+
+```json
+kubectl get deployment my-deployment -o yaml
+kubectl get svc xxx -o yaml
+```
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：钱包里放老婆的照片，是为了提醒自己记住，钱包里的钱是怎么没的。
+- **随机毒鸡汤**：第一个称马尾辫为马尾的人，有没有想过，马尾长在马的哪里？
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=052af8a5-4141-4076-8f7a-a2223e624d3d)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=0889578d-7b1c-487e-a511-ecc6f69f30f2)
