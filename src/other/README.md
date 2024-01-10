@@ -90,12 +90,12 @@ title: 其他
 
 [K8S常用命令](./K8S%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
-[](./Untitled.md)
+[K8S 无感发布](./K8S%20%E6%97%A0%E6%84%9F%E5%8F%91%E5%B8%83.md)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：青春期的爱情是精神鸦片，不管你吸没吸，背后总站着无数个林则徐。
+- **随机毒鸡汤**：不是你变了，不是我变了，是时间变了。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=4d011900-d5e7-472a-96fe-daaee45a4a03)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=79005565-4d0e-48c2-87fe-9b271e0d4a54)
