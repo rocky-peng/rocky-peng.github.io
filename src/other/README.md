@@ -92,10 +92,12 @@ title: 其他
 
 [K8S 无感发布](./K8S%20%E6%97%A0%E6%84%9F%E5%8F%91%E5%B8%83.md)
 
+[数据同步方案](./%E6%95%B0%E6%8D%AE%E5%90%8C%E6%AD%A5%E6%96%B9%E6%A1%88.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：不是你变了，不是我变了，是时间变了。
+- **随机毒鸡汤**：上帝给了我脑袋，却忘了给我使用说明书。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=79005565-4d0e-48c2-87fe-9b271e0d4a54)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=f7eaf64c-f41e-49a9-8b6b-e31abba3b258)
