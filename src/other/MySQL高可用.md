@@ -79,7 +79,7 @@ tag:
 
 扩展阅读：[https://helm.sh/zh/](https://helm.sh/zh/)  （k8s应用市场）
 
-扩展阅读：[RadonDB](https://xie.infoq.cn/article/ac136ed04796a3cab18db6686)
+扩展阅读：[RadonDB](https://xie.infoq.cn/article/ac136ed04796a3cab18db6686) （最后更新时间：2022-08-25）
 
 扩展阅读：[美团数据库高可用架构的演进与设想](https://tech.meituan.com/2017/06/29/database-availability-architecture.html)
 
@@ -93,6 +93,6 @@ tag:
 
 ---
 ---
-- **随机毒鸡汤**：不要脸这事，如果干的好，叫心理素质过硬。
+- **随机毒鸡汤**：我从不去想何时能成功，既然选择了远方，那就还远着呢。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=7c790c68-3422-4b88-933e-915e55d7dc88)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=4aa9f338-60e1-45af-b0c5-679ce0955bfe)
