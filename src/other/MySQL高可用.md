@@ -72,6 +72,8 @@ tag:
 2. MHA + 半同步复制（还是比较成熟，但也有3、4年没有更新MHA了）
 3. MGR （推荐mysql8.0及以上版本使用）
 4. K8S+MGR 
+5. MySQL NDB Cluster (NDB: network database)
+6. [MySQL InnoDB Cluster](https://dev.mysql.com/doc/refman/8.0/en/mysql-innodb-cluster-introduction.html)
 
 扩展阅读：[MySQL 8.0.30，一个值得上车MGR的版本](https://zhuanlan.zhihu.com/p/567939774)
 
@@ -93,6 +95,6 @@ tag:
 
 ---
 ---
-- **随机毒鸡汤**：我从不去想何时能成功，既然选择了远方，那就还远着呢。
+- **随机毒鸡汤**：上学时一个人的力气如壮牛，那是因为他，拖了全班人的后腿。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=4aa9f338-60e1-45af-b0c5-679ce0955bfe)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=8be108b7-819a-4dd3-a52c-b83f3d744ea0)
