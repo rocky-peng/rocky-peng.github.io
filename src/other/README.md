@@ -94,10 +94,12 @@ title: 其他
 
 [数据同步方案](./%E6%95%B0%E6%8D%AE%E5%90%8C%E6%AD%A5%E6%96%B9%E6%A1%88.md)
 
+[数组转树形结构只需两步](./%E6%95%B0%E7%BB%84%E8%BD%AC%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84%E5%8F%AA%E9%9C%80%E4%B8%A4%E6%AD%A5.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：上帝给了我脑袋，却忘了给我使用说明书。
+- **随机毒鸡汤**：如果一个人一直快乐，那一定是装的，一直不快乐那一定是自找的。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=f7eaf64c-f41e-49a9-8b6b-e31abba3b258)
+![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=ba8d6e6a-0fc9-4d32-ae68-e2f1498c9fa7)
