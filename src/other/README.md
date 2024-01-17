@@ -96,10 +96,12 @@ title: 其他
 
 [数组转树形结构只需两步](./%E6%95%B0%E7%BB%84%E8%BD%AC%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84%E5%8F%AA%E9%9C%80%E4%B8%A4%E6%AD%A5.md)
 
+[S**pringBoot服务在服务启动完成前被提前注册到nacos**](./SpringBoot%E6%9C%8D%E5%8A%A1%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8%E5%AE%8C%E6%88%90%E5%89%8D%E8%A2%AB%E6%8F%90%E5%89%8D%E6%B3%A8%E5%86%8C%E5%88%B0nacos.md)
+
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：如果一个人一直快乐，那一定是装的，一直不快乐那一定是自找的。
+- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=ba8d6e6a-0fc9-4d32-ae68-e2f1498c9fa7)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=0c68dc49-7ed1-47dc-a8d4-0623988481d0)
