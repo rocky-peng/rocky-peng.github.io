@@ -73,8 +73,8 @@ export default hopeTheme({
 
       footer: "" +
           "<a href=\"https://justsoso.fun\" target=\"_blank\">技术加油站</a>&nbsp;|&nbsp;" +
-          "<a href=\"https://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
-          "<a href=\"https://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
+          // "<a href=\"https://docs.justdopay.com\" target=\"_blank\">Rocky的博客</a>&nbsp;|&nbsp;" +
+          // "<a href=\"https://zy.justdopay.com\" target=\"_blank\">资源之家</a>&nbsp;|&nbsp;" +
           "<a href=\"/sitemap.xml\" target=\"_blank\">站点地图</a>&nbsp;|&nbsp;" +
           "本站总访问量<span id=\"busuanzi_value_site_pv\"></span>次&nbsp;|&nbsp;" +
           "本文总访问量<span id=\"busuanzi_value_page_pv\"></span>次&nbsp;|&nbsp;" +
