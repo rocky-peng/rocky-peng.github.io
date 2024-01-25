@@ -8,7 +8,7 @@ title: 其他
 
 [MySQL数据迁移到PGSQL](./MySQL%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E5%88%B0PGSQL.md)
 
-[PGSQL的****json和 jsonb 读写性能测试****](./PGSQL%E7%9A%84json%E5%92%8C%20jsonb%20%E8%AF%BB%E5%86%99%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.md)
+[PGSQL的**json和 jsonb 读写性能测试**](./PGSQL%E7%9A%84json%E5%92%8C%20jsonb%20%E8%AF%BB%E5%86%99%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.md)
 
 [Java语言完成notion笔记备份](./Java%E8%AF%AD%E8%A8%80%E5%AE%8C%E6%88%90notion%E7%AC%94%E8%AE%B0%E5%A4%87%E4%BB%BD.md)
 
@@ -36,7 +36,7 @@ title: 其他
 
 [Git Merge 、Rebase](./Git%20Merge%20%E3%80%81Rebase.md)
 
-[getPath vs ****getAbsolutePath vs getCanonicalPath****](./getPath%20vs%20getAbsolutePath%20vs%20getCanonicalPath.md)
+[getPath vs **getAbsolutePath vs getCanonicalPath**](./getPath%20vs%20getAbsolutePath%20vs%20getCanonicalPath.md)
 
 [Git合并多个提交并push到远程仓库](./Git%E5%90%88%E5%B9%B6%E5%A4%9A%E4%B8%AA%E6%8F%90%E4%BA%A4%E5%B9%B6push%E5%88%B0%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93.md)
 
@@ -102,6 +102,6 @@ title: 其他
 
 ---
 ---
-- **随机毒鸡汤**：你和学霸的区别就是，你所有的灵光一闪，都是他的基本题型。
+- **随机毒鸡汤**：情人节不出意外的话，一个人过，出意外的话在医院过。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=0c68dc49-7ed1-47dc-a8d4-0623988481d0)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=0e350f28-3fe2-438d-95f6-1461b143a64d)
