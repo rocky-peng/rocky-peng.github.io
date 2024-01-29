@@ -51,8 +51,8 @@ jobs:
           pnpm -v
           rm -rf node_modules
           npm cache clean --force
-          npm install
-          npm run docs:build
+          yarn install
+          yarn run docs:build
           > src/.vuepress/dist/.nojekyll
 
       - name: sitemap2readme
