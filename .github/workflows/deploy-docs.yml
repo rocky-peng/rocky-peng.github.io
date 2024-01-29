@@ -38,6 +38,11 @@ jobs:
           node-version: 16.18.1
           # cache: pnpm
 
+      - name: yarn install
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install # will run `yarn install` command
+
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
