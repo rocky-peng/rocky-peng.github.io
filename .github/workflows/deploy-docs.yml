@@ -46,6 +46,7 @@ jobs:
           node -v
           pnpm -v
           npm install --force
+          npm audit fix --force
           npm run docs:build
           > src/.vuepress/dist/.nojekyll
 
