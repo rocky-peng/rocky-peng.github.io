@@ -45,8 +45,8 @@ jobs:
         run: |-
           node -v
           pnpm -v
-          npm install --force
-          npm run docs:build
+          pnpm install --force
+          pnpm run docs:build
           > src/.vuepress/dist/.nojekyll
 
       - name: sitemap2readme
