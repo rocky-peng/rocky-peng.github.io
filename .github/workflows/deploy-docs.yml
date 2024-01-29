@@ -37,8 +37,7 @@ jobs:
         with:
           node-version: 16.18.1
           # cache: pnpm
-
-
+          
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
@@ -46,7 +45,6 @@ jobs:
           node -v
           pnpm -v
           npm install
-#          npm audit fix --force
           npm run docs:build
           > src/.vuepress/dist/.nojekyll
 
