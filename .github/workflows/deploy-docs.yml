@@ -45,7 +45,7 @@ jobs:
         run: |-
           node -v
           pnpm -v
-          npm install --legacy-peer-deps
+          npm install --force
           npm run docs:build
           > src/.vuepress/dist/.nojekyll
 
