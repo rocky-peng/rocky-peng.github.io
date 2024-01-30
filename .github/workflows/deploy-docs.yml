@@ -35,7 +35,7 @@ jobs:
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16.18.1
+          node-version: 19.1.0
           # cache: pnpm
 
 #      - name: yarn install
