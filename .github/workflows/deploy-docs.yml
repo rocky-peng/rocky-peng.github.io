@@ -38,8 +38,8 @@ jobs:
           node-version: 16.18.1
           # cache: pnpm
 
-      - name: yarn install
-        uses: borales/actions-yarn@v4
+#      - name: yarn install
+#        uses: borales/actions-yarn@v4
 #        with:
 #          cmd: install # will run `yarn install` command
 
