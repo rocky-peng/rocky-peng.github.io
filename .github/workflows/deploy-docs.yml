@@ -40,8 +40,8 @@ jobs:
 
       - name: yarn install
         uses: borales/actions-yarn@v4
-        with:
-          cmd: install # will run `yarn install` command
+#        with:
+#          cmd: install # will run `yarn install` command
 
       - name: 构建文档
         env:
@@ -51,8 +51,8 @@ jobs:
           pnpm -v
           rm -rf node_modules
           npm cache clean --force
-          yarn install
-          yarn run docs:build
+          npm install
+          npm run docs:build
           > src/.vuepress/dist/.nojekyll
 
       - name: sitemap2readme
