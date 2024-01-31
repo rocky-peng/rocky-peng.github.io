@@ -1,5 +1,6 @@
 ---
 title: GitHub Workflow突然报错
+date: 2024-01-31
 ---
 
 再github上跑了一个工作流，主要就是执行`npm install`，`npm run docs:build` 
@@ -61,12 +62,20 @@ npm ERR!     /home/runner/.npm/_logs/2024-01-29T10_29_19_566Z-debug-0.log
 Error: Process completed with exit code 1.
 ```
 
-然后本地用同样的node版本，同样的配置执行
+然后本地用同样的node版本，同样的配置执行又可以正常执行
+
+然后各种搜资料，问CHATGPT，都没能正常解决。后来无意发现package.json文件中有`^` 符合，这个符合是做一些版本兼容用的。
+
+具体来说，如果一个包的版本号是 **`^X.Y.Z`**，那么 npm 将会允许安装的版本范围包括从 **`X.Y.Z`** 到 **`X.(Y+1).0`** 的任何版本，但不包括主版本号 **`X`** 的更改
+
+这也就解释了，为什么package.json中明明没有2.0.0-rc.2版本的依赖，但错误信息却有。
+
+所以尝试着把`^` 删除，然后重试，**`成功了`**
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：果然爱情就像龙卷风，就比如我，这辈子都没见过龙卷风。
+- **随机毒鸡汤**：长胖就不高兴，不高兴就吃零食，吃零食就长胖。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9d060449-62a1-4268-9d36-244f5b9d9e12)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=5fa59fbc-4a54-41bd-a152-7859b826d615)
