@@ -27,7 +27,7 @@ dev-pqs基于dev分支拉出，然后进行了 A B两个提交
 
 结果如下：
 
-![Untitled](https://cdn.justdopay.com/notion/md5-5f76033e4a96ff5ebc4dd0889fafbe34.png)
+![Untitled](https://cdn.justdopay.com/notion/md5-56a5b9ac5432888ed74a46d01e02e953.png)
 
 ### rebase
 
@@ -71,6 +71,6 @@ git pull -r 等效于 git pull -rebase 又等效于 git fetch + git rebase
 
 ---
 ---
-- **随机毒鸡汤**：我就像是玻璃瓶里面的苍蝇，前途满眼光明，就是找不到出口。
+- **随机毒鸡汤**：以前看一个人有没有钱，看车看名牌看表，现在看带什么口罩就行了。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=92986b75-07bb-489d-a69a-dab0e6fece2c)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=1b6bc64b-5300-452b-9dcc-c0e8c2690140)
