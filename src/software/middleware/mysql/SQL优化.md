@@ -132,7 +132,7 @@ SHOW GLOBAL STATUS LIKE 'Created_tmp_disk_tables';
    > not in (select 1 where 1=0) : 返回所有数据
 6. 索引字段进行表达式或函数计算
    > 会造成全表扫描
-7. 左匹配原则
+7. 不满足左匹配原则，比如模糊查询
    > 会造成全表扫描
 8. !=（不等于）
    > 会造成全表扫描
