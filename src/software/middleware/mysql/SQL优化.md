@@ -123,7 +123,7 @@ SHOW GLOBAL STATUS LIKE 'Created_tmp_disk_tables';
 1. 是否有索引
 2. 覆盖索引
    > 可以避免回表操作
-3. 隐式的类型转换
+3. 避免隐式的类型转换
 4. 连表的两个字段必须保持相同的数据类型和字符集
    > 有可能不能使用索引，造成全表扫描
 5. not exist与not in(优先选择not exist)
@@ -171,7 +171,9 @@ https://blog.csdn.net/horses/article/details/106905110
 
 ### join的时候谁是驱动表
 
-A left join B，则左表是驱动表，即A是驱动表 A right join B，则右表是驱动表，即B是驱动表 A inner join B，MySQL会选择比较小的表为驱动表
+1. A left join B，则左表是驱动表，即A是驱动表 
+2. A right join B，则右表是驱动表，即B是驱动表 
+3. A inner join B，MySQL会选择比较小的表为驱动表
 
 ### Exsit与In
 
