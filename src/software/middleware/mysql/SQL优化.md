@@ -127,7 +127,9 @@ SHOW GLOBAL STATUS LIKE 'Created_tmp_disk_tables';
 4. 连表的两个字段必须保持相同的数据类型和字符集
    > 有可能不能使用索引，造成全表扫描
 5. not exist与not in(优先选择not exist)
-   > not in使用不当还有可能返回错误结果
+   > not in使用不当还有可能返回错误结果。 如果not in子查询包含了null，将返回空数据。 如果not in子查询返回空数据，将匹配所有行数据
+   > not in (1,null) : 返回空数据
+   > not in (select 1 where 1=0) : 返回所有数据
 6. 索引字段进行表达式或函数计算
    > 会造成全表扫描
 7. 左匹配原则
