@@ -98,12 +98,12 @@ title: 其他
 
 [S**pringBoot服务在服务启动完成前被提前注册到nacos**](./SpringBoot%E6%9C%8D%E5%8A%A1%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8%E5%AE%8C%E6%88%90%E5%89%8D%E8%A2%AB%E6%8F%90%E5%89%8D%E6%B3%A8%E5%86%8C%E5%88%B0nacos.md)
 
-[GitHub Workflow突然报错](./GitHub%20Workflow%E7%AA%81%E7%84%B6%E6%8A%A5%E9%94%99.md)
+[GitHub Workflow突然报错](././GitHub%20Workflow%E7%AA%81%E7%84%B6%E6%8A%A5%E9%94%99/README.md)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：别去打扰那些，每次很久都不回你消息的人，删除好友就行。
+- **随机毒鸡汤**：去年疫情学的料理，是时候复习一下了。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=e78d30e4-ed02-4e5f-8d0a-12757d45b057)
+![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=7f966298-d672-4fe2-98f4-5b485baa1661)
