@@ -70,12 +70,14 @@ Error: Process completed with exit code 1.
 
 这也就解释了，为什么package.json中明明没有2.0.0-rc.2版本的依赖，但错误信息却有。
 
-所以尝试着把`^` 删除，然后重试，**`成功了`**
+所以尝试着把`^` 删除，然后重试，**`成功了`** 
+
+![Untitled](https://cdn.justdopay.com/notion/md5-e23817114a2dc4f30cb612c3c699c423.svg)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：长胖就不高兴，不高兴就吃零食，吃零食就长胖。
+- **随机毒鸡汤**：懒惰，是解释自己无能的最好方式。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=5fa59fbc-4a54-41bd-a152-7859b826d615)
+![](https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=2c82d27b-d0b9-4ff7-a8fb-ae98dfd793bd)
