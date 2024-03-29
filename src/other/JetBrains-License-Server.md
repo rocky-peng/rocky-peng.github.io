@@ -23,6 +23,12 @@ tag:
 
 ## 下面是列表
 
+### 2024-03-29更新
+
+1. https://lens.cput.ac.za
+
+
+
 ### 2024-03-28更新
 
 1. http://137.125.248.1:8080
@@ -89,14 +95,6 @@ tag:
 
 1. http://193.6.57.174:8080
 2. https://jbls.production.global.tink.se
-
-
-
-### 2024-03-19更新
-
-1. http://93.51.10.249:8000
-2. http://137.125.248.1:8080
-3. https://jbls.production.global.tink.se
 
 
 
