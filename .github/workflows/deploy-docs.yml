@@ -25,11 +25,11 @@ jobs:
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-      - name: 安装 pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 7.18.2
-          run_install: false
+#      - name: 安装 pnpm
+#        uses: pnpm/action-setup@v2
+#        with:
+#          version: 7.18.2
+#          run_install: false
 
 
       - name: 设置 Node.js
@@ -48,7 +48,7 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           node -v
-          pnpm -v
+#          pnpm -v
           rm -rf node_modules
           npm cache clean --force
           npm install
