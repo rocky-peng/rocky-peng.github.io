@@ -32,8 +32,6 @@ vmtool --action getInstances -c 21b8d17c --className com.xxxxx.XXXXServiceClient
 
 vmtool 条件过滤
 trace com.xxxx.XXXXServiceImpl getXXXXConfig  -n 5 --skipJDKMethod false '"20111984".equalsIgnoreCase(params[1])'
-
-xxxxxx
 ```
 
 ## ognl
@@ -143,6 +141,6 @@ vmtool --action getInstances --className org.springframework.context.Configurabl
 
 ---
 ---
-- **随机毒鸡汤**：屎到淋头，还想搅便。
+- **随机毒鸡汤**：别低头绿帽会掉，别流泪老王会笑。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9345489a-7d09-496e-8e4d-ea6acb4c2843)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=0c5c2946-fbbe-49fd-acd9-a9f9abd7585c)
