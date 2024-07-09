@@ -25,6 +25,15 @@ private Object getXXX(Long p1,List p2,Set p3);
 
 可以像下面这样创建对象并调用
 vmtool --action getInstances --className com.xxx.XXX --express 'instances[0].getXXX(1L,(#test1=new java.util.ArrayList(),#test1.add("test"),#test1),(#test=new java.util.HashSet(),#test.add(""),#test))'
+
+如果执行vmtool提示类不存在，然后sc却能搜索到类，那么可以加上-c参数来指定类加载器。类加载器可以通过sc -d 类名来获得，例如：
+
+vmtool --action getInstances -c 21b8d17c --className com.xxxxx.XXXXServiceClientImpl --express 'instances[0].getCustomerList((#test1=new com.xxxxx.XXXXCustomerListReq(),#test1.setCreatedAtStart(1717224477),#test1.setCreatedAtEnd(1719816477),#test1.setPageNo(1),#test1.setPageSize(100),#test1),"123456")'
+
+vmtool 条件过滤
+trace com.xxxx.XXXXServiceImpl getXXXXConfig  -n 5 --skipJDKMethod false '"20111984".equalsIgnoreCase(params[1])'
+
+xxxxxx
 ```
 
 ## ognl
@@ -134,6 +143,6 @@ vmtool --action getInstances --className org.springframework.context.Configurabl
 
 ---
 ---
-- **随机毒鸡汤**：我亲眼看着你走上台，不知道你是将要献丑，还是出丑。
+- **随机毒鸡汤**：屎到淋头，还想搅便。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=dongman&type=302&uuid=ff37c2e4-1352-43df-95b6-9088e410ae65)
+![](https://api.btstu.cn/sjbz/?m_lx=suiji&uuid=9345489a-7d09-496e-8e4d-ea6acb4c2843)

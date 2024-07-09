@@ -115,7 +115,7 @@ M1表示Master，R1表示从节点，S1，S2表示两个哨兵
 
 如果quorum个哨兵都认为某个master主观宕机了，那么这个master就是客观宕机了
 
-判定过程：当某个哨兵认为某个master主观宕机后，就会~~`通过gossip协议(没验证，应该不是这个协议，应该是通过pub/sub机制来完成通知)`~~ 通知其他哨兵。当某个哨兵在一定时间内收到quorum个哨兵也认为这个master主观宕机的消息，那么就会被标记为客观宕机
+判定过程：当某个哨兵认为某个master主观宕机后，就会`~~通过gossip协议(没验证，应该不是这个协议，应该是通过pub/sub机制来完成通知)`~~ 通知其他哨兵。当某个哨兵在一定时间内收到quorum个哨兵也认为这个master主观宕机的消息，那么就会被标记为客观宕机
 
 ### 哨兵自动发现机制
 
@@ -213,6 +213,6 @@ github都4年多没更新了 ，    [https://github.com/CodisLabs/codis](https:/
 
 ---
 ---
-- **随机毒鸡汤**：如果婚姻是爱情的坟墓，那么相亲是，为坟墓看风水！
+- **随机毒鸡汤**：很多人孝敬父母的方式，都有同一个开头，——等我长大了。
 <br/><br/>
-![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=a4f379ee-db85-4e3a-ba0c-e3cbfbacd7e0)
+![](https://api.btstu.cn/sjbz/?lx=suiji&uuid=9acd1bc4-a39d-45d9-ac1b-d785f4b913e7)
