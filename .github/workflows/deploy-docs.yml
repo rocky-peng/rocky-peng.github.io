@@ -47,6 +47,7 @@ jobs:
           npm run docs:build
           > src/.vuepress/dist/.nojekyll
 
+
       - name: sitemap2readme
         run: |
           cd sitemap2readme
