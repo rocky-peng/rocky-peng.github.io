@@ -1,0 +1,67 @@
+import{_ as p,$ as t,a0 as o,a1 as n,a2 as s,a4 as c,a3 as a,w as l}from"./framework-0b697ea6.js";const i={},u=a(`<ol><li><p>top -p pid 看到某个进程占用的物理内存，以及创建的线程数，也可以通过Shift+f命令对指定列进行排序，从而找到异常线程的pid。然后可以通过jstack pid | grep 命令找到这个线程在做的事，从而进行排查。</p></li><li><p>ps axu | grep -E &#39;pid|USER&#39; 通过这个方式也能看到某个进程占用的物理内存，结果和top命令是匹配的。</p></li><li><p>-Xms300m -Xmx300m 同时设置了这两个参数并不代表jvm一启动就会向os申请300m的内存（是指不会立即占用300m内存）。同理，-XX:MaxPermSize=300m -XX: PermSize=300m也是一样的，也不会立即占用300m内存。 具体当前jvm instance占用了多少内存（这里值堆内内存），可以通过jmap -heap pid查看。</p></li><li><p>jmap -heap pid 这个命令能查看当前jvm各个堆区域使用情况，把各个区域使用空间累加便得到当前jvm程序占用了多少内存。注意是堆内内存，这个命令是不能看到jvm对堆外内存的使用情况的。比如：</p></li></ol><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>jmap <span class="token parameter variable">-heap</span> <span class="token number">3273</span>
+Attaching to process ID <span class="token number">3273</span>, please wait<span class="token punctuation">..</span>.
+Debugger attached successfully.
+Server compiler detected.
+JVM version is <span class="token number">24.80</span>-b11
+
+using thread-local object allocation.
+Parallel GC with <span class="token number">2</span> thread<span class="token punctuation">(</span>s<span class="token punctuation">)</span>
+
+Heap Configuration:
+   MinHeapFreeRatio <span class="token operator">=</span> <span class="token number">0</span>
+   MaxHeapFreeRatio <span class="token operator">=</span> <span class="token number">100</span>
+   MaxHeapSize      <span class="token operator">=</span> <span class="token number">314572800</span> <span class="token punctuation">(</span><span class="token number">300</span>.0MB<span class="token punctuation">)</span>
+   NewSize          <span class="token operator">=</span> <span class="token number">209715200</span> <span class="token punctuation">(</span><span class="token number">200</span>.0MB<span class="token punctuation">)</span>
+   MaxNewSize       <span class="token operator">=</span> <span class="token number">209715200</span> <span class="token punctuation">(</span><span class="token number">200</span>.0MB<span class="token punctuation">)</span>
+   OldSize          <span class="token operator">=</span> <span class="token number">5439488</span> <span class="token punctuation">(</span><span class="token number">5</span>.1875MB<span class="token punctuation">)</span>
+   NewRatio         <span class="token operator">=</span> <span class="token number">2</span>
+   SurvivorRatio    <span class="token operator">=</span> <span class="token number">8</span>
+   PermSize         <span class="token operator">=</span> <span class="token number">104857600</span> <span class="token punctuation">(</span><span class="token number">100</span>.0MB<span class="token punctuation">)</span>
+   MaxPermSize      <span class="token operator">=</span> <span class="token number">104857600</span> <span class="token punctuation">(</span><span class="token number">100</span>.0MB<span class="token punctuation">)</span>
+   G1HeapRegionSize <span class="token operator">=</span> <span class="token number">0</span> <span class="token punctuation">(</span><span class="token number">0</span>.0MB<span class="token punctuation">)</span>
+
+Heap Usage:
+PS Young Generation
+Eden Space:
+   capacity <span class="token operator">=</span> <span class="token number">167772160</span> <span class="token punctuation">(</span><span class="token number">160</span>.0MB<span class="token punctuation">)</span>
+   used     <span class="token operator">=</span> <span class="token number">165346688</span> <span class="token punctuation">(</span><span class="token number">157</span>.6868896484375MB<span class="token punctuation">)</span>
+   <span class="token function">free</span>     <span class="token operator">=</span> <span class="token number">2425472</span> <span class="token punctuation">(</span><span class="token number">2</span>.3131103515625MB<span class="token punctuation">)</span>
+   <span class="token number">98.55430603027344</span>% used
+From Space:
+   capacity <span class="token operator">=</span> <span class="token number">20971520</span> <span class="token punctuation">(</span><span class="token number">20</span>.0MB<span class="token punctuation">)</span>
+   used     <span class="token operator">=</span> <span class="token number">0</span> <span class="token punctuation">(</span><span class="token number">0</span>.0MB<span class="token punctuation">)</span>
+   <span class="token function">free</span>     <span class="token operator">=</span> <span class="token number">20971520</span> <span class="token punctuation">(</span><span class="token number">20</span>.0MB<span class="token punctuation">)</span>
+   <span class="token number">0.0</span>% used
+To Space:
+   capacity <span class="token operator">=</span> <span class="token number">20971520</span> <span class="token punctuation">(</span><span class="token number">20</span>.0MB<span class="token punctuation">)</span>
+   used     <span class="token operator">=</span> <span class="token number">0</span> <span class="token punctuation">(</span><span class="token number">0</span>.0MB<span class="token punctuation">)</span>
+   <span class="token function">free</span>     <span class="token operator">=</span> <span class="token number">20971520</span> <span class="token punctuation">(</span><span class="token number">20</span>.0MB<span class="token punctuation">)</span>
+   <span class="token number">0.0</span>% used
+PS Old Generation
+   capacity <span class="token operator">=</span> <span class="token number">104857600</span> <span class="token punctuation">(</span><span class="token number">100</span>.0MB<span class="token punctuation">)</span>
+   used     <span class="token operator">=</span> <span class="token number">64028920</span> <span class="token punctuation">(</span><span class="token number">61</span>.06273651123047MB<span class="token punctuation">)</span>
+   <span class="token function">free</span>     <span class="token operator">=</span> <span class="token number">40828680</span> <span class="token punctuation">(</span><span class="token number">38</span>.93726348876953MB<span class="token punctuation">)</span>
+   <span class="token number">61.06273651123047</span>% used
+PS Perm Generation
+   capacity <span class="token operator">=</span> <span class="token number">104857600</span> <span class="token punctuation">(</span><span class="token number">100</span>.0MB<span class="token punctuation">)</span>
+   used     <span class="token operator">=</span> <span class="token number">6504792</span> <span class="token punctuation">(</span><span class="token number">6</span>.203453063964844MB<span class="token punctuation">)</span>
+   <span class="token function">free</span>     <span class="token operator">=</span> <span class="token number">98352808</span> <span class="token punctuation">(</span><span class="token number">93</span>.79654693603516MB<span class="token punctuation">)</span>
+   <span class="token number">6.203453063964844</span>% used
+
+<span class="token number">3795</span> interned Strings occupying <span class="token number">301744</span> bytes.  
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>也就是说如果想知道当前jvm使用的堆内内存，只需要简单的把Heap Usage模块的相关信息累加即可，都可以不关心各个区域的配置信息。</p><p>当然也可以通过jstat -gc pid 500ms 1000来实时查看堆中各个区域的使用情况。这个方式和上面那中方法结果是一致的。</p><ol start="5"><li>查看jvm实例堆外内存的使用情况 很可惜我还没找到相关的工具可以直接查看这个信息的，但可以通过上面几个信息来得到堆外内存的使用情况。大致算法就是：堆内内存占用+堆外内存占用=总的jvm内存占用。 总的jvm内存占用：通过上面的1或2可以知道 堆内内存占用：jmap -heap pid 就可以计算出堆外内存占用情况。</li></ol><p>2022/9/7补充： 应该可以开启 -XX:NativeMemoryTracking=detail 参数，然后通过 jcmd pid VM.native_memory detail | less 来查看</p>`,6),r={start:"6"},d={href:"http://blog.csdn.net/wilsonpeng3/article/details/52576253",target:"_blank",rel:"noopener noreferrer"},k=a(`<div class="language-java line-numbers-mode" data-ext="java"><pre class="language-java"><code><span class="token keyword">import</span> <span class="token import"><span class="token namespace">com<span class="token punctuation">.</span>sun<span class="token punctuation">.</span>btrace<span class="token punctuation">.</span>annotations<span class="token punctuation">.</span></span><span class="token operator">*</span></span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token keyword">static</span> <span class="token import static"><span class="token namespace">com<span class="token punctuation">.</span>sun<span class="token punctuation">.</span>btrace<span class="token punctuation">.</span></span><span class="token class-name">BTraceUtils</span><span class="token punctuation">.</span><span class="token operator">*</span></span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token import"><span class="token namespace">java<span class="token punctuation">.</span>lang<span class="token punctuation">.</span>reflect<span class="token punctuation">.</span></span><span class="token class-name">Field</span></span><span class="token punctuation">;</span>
+
+<span class="token annotation punctuation">@BTrace</span> <span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">HelloBtrace</span> <span class="token punctuation">{</span>
+
+  <span class="token annotation punctuation">@OnMethod</span><span class="token punctuation">(</span>
+    clazz<span class="token operator">=</span><span class="token string">&quot;java.nio.ByteBuffer&quot;</span><span class="token punctuation">,</span>
+    method<span class="token operator">=</span><span class="token string">&quot;allocateDirect&quot;</span>
+  <span class="token punctuation">)</span>
+  <span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">onF1</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token function">jstack</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">println</span><span class="token punctuation">(</span><span class="token string">&quot;Hello BTrace&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>                  
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><br><br><br><br><br><br></p><hr><hr><ul><li><strong>随机毒鸡汤</strong>：不要说自己痴心妄想，因为只有痴心才能实现妄想。 <br><br><img src="https://api.btstu.cn/sjbz/?lx=suiji&amp;uuid=cb05b066-787d-4a1b-85d1-b354dc67aea7" alt="" loading="lazy"></li></ul>`,5);function m(v,b){const e=l("ExternalLinkIcon");return t(),o("div",null,[u,n("ol",r,[n("li",null,[s("堆外内存使用异常 如果发现堆外内存使用异常，先检查是否开启了-XX:+DisableExplicitGC.(开启这个会影响到jvm对堆外内存的回收，所以在频繁使用了堆外内存的情况下，建议不要开启这个选项)。 如果没有开启，那一般就是程序光申请了却没有显式的释放。这个是否如果不清楚程序哪里使用了堆外内存，可以通过btrace脚本进行跟踪来获取调用堆栈，定位代码。 jdk提供用于堆外内存分配的api最底层的应该是Unsafe#allocateMemory方法，但这个方法是native，btrace对native方法的跟踪好像有点问题。所以可以试试拦截上一层的方法， 比如：java.nio.ByteBuffer#allocateDirect方法，示例如下: 至于如何使用btrace，入门可以参考："),n("a",d,[s("http://blog.csdn.net/wilsonpeng3/article/details/52576253"),c(e)]),s(" 关于btrace的另外一些问题，就不再是本话题的讨论内容了。")])]),k])}const M=p(i,[["render",m],["__file","JVM异常处理.html.vue"]]);export{M as default};
