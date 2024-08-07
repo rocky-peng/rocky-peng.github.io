@@ -100,12 +100,12 @@ title: 其他
 
 [GitHub Workflow突然报错](./GitHub%20Workflow%E7%AA%81%E7%84%B6%E6%8A%A5%E9%94%99.md)
 
-[](./Untitled.md)
+[免费 API 每日提供摸鱼日报，自动返回无水印图片，适用于公众号和小程序](./%E5%85%8D%E8%B4%B9%20API%20%E6%AF%8F%E6%97%A5%E6%8F%90%E4%BE%9B%E6%91%B8%E9%B1%BC%E6%97%A5%E6%8A%A5%EF%BC%8C%E8%87%AA%E5%8A%A8%E8%BF%94%E5%9B%9E%E6%97%A0%E6%B0%B4%E5%8D%B0%E5%9B%BE%E7%89%87%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8E%E5%85%AC%E4%BC%97%E5%8F%B7%E5%92%8C%E5%B0%8F%E7%A8%8B%E5%BA%8F.md)
 
 <br/><br/><br/><br/><br/><br/>
 
 ---
 ---
-- **随机毒鸡汤**：闺蜜闺蜜，终归有自己的秘密。
+- **随机毒鸡汤**：你挥一挥衣袖，不带走一片云彩，只带走了我全部的积蓄。
 <br/><br/>
-![](https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=6db03130-99f2-4308-a3bb-6d2afa183e0e)
+![](https://api.btstu.cn/sjbz/?lx=dongman&uuid=b9807b00-de2b-4560-83f8-39a93b12f49e)
