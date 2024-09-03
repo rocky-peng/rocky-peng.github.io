@@ -111,6 +111,7 @@
 - [vuepress-theme-hope使用心得](https://justsoso.fun/other/vuepress/vuepress-theme-hope%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97.html)
 - [vuepress](https://justsoso.fun/other/vuepress/)
 - [WebSocket SpringBoot Demo](https://justsoso.fun/other/WebSocket%20SpringBoot%20Demo.html)
+- [XXXXX](https://justsoso.fun/other/XXXXX.html)
 - [不重启 JVM，如何替换掉已经加载的类？](https://justsoso.fun/software/java-basic/%E4%B8%8D%E9%87%8D%E5%90%AF%20JVM%EF%BC%8C%E5%A6%82%E4%BD%95%E6%9B%BF%E6%8D%A2%E6%8E%89%E5%B7%B2%E7%BB%8F%E5%8A%A0%E8%BD%BD%E7%9A%84%E7%B1%BB%EF%BC%9F.html)
 - [乱七八糟的笔记](https://justsoso.fun/software/unclassified/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84%E7%AC%94%E8%AE%B0.html)
 - [你真的会拼接字符串吗？](https://justsoso.fun/other/%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E6%8B%BC%E6%8E%A5%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%90%97%EF%BC%9F.html)
