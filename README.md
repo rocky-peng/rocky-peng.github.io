@@ -122,6 +122,7 @@
 - [前后端常用技术](https://justsoso.fun/software/unclassified/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF.html)
 - [前端axios下载csv文件乱码](https://justsoso.fun/other/%E5%89%8D%E7%AB%AFaxios%E4%B8%8B%E8%BD%BDcsv%E6%96%87%E4%BB%B6%E4%B9%B1%E7%A0%81.html)
 - [各种网关性能测试](https://justsoso.fun/software/unclassified/%E5%90%84%E7%A7%8D%E7%BD%91%E5%85%B3%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.html)
+- [哈哈哈哈](https://justsoso.fun/other/%E5%93%88%E5%93%88%E5%93%88%E5%93%88.html)
 - [多台centos服务器，文件互相备份](https://justsoso.fun/software/unclassified/%E5%A4%9A%E5%8F%B0centos%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E6%96%87%E4%BB%B6%E4%BA%92%E7%9B%B8%E5%A4%87%E4%BB%BD.html)
 - [如何安装Google BBR](https://justsoso.fun/other/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Google%20BBR.html)
 - [常用队列](https://justsoso.fun/software/java-basic/%E5%B8%B8%E7%94%A8%E9%98%9F%E5%88%97.html)
