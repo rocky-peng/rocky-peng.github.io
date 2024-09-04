@@ -1,4 +1,3 @@
-- [alibaba](https://justsoso.fun/dachang-project-review/alibaba/)
 - [AQS源码解读](https://justsoso.fun/software/java-basic/AQS%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.html)
 - [Arthas使用记录](https://justsoso.fun/other/Arthas%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95.html)
 - [ba-gu-wen](https://justsoso.fun/software/ba-gu-wen/)
@@ -10,7 +9,6 @@
 - [Cordova_Umi项目搭建步骤](https://justsoso.fun/software/unclassified/Cordova_Umi%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4.html)
 - [Cornell Notes System](https://justsoso.fun/other/Cornell%20Notes%20System.html)
 - [CountDownLatch源码解读](https://justsoso.fun/software/java-basic/CountDownLatch%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.html)
-- [dachang-project-review](https://justsoso.fun/dachang-project-review/)
 - [Docker笔记](https://justsoso.fun/software/docker/Docker%E7%AC%94%E8%AE%B0.html)
 - [Docker跨主机通信方案](https://justsoso.fun/software/docker/Docker%E8%B7%A8%E4%B8%BB%E6%9C%BA%E9%80%9A%E4%BF%A1%E6%96%B9%E6%A1%88.html)
 - [Docker进行资源隔离](https://justsoso.fun/software/docker/Docker%E8%BF%9B%E8%A1%8C%E8%B5%84%E6%BA%90%E9%9A%94%E7%A6%BB.html)
@@ -147,5 +145,4 @@
 - [表单重复提交解决方案](https://justsoso.fun/software/unclassified/%E8%A1%A8%E5%8D%95%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
 - [记一次内存泄漏](https://justsoso.fun/software/unclassified/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F.html)
 - [随机图片在线接口](https://justsoso.fun/other/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8F%A3.html)
-- [随记](https://justsoso.fun/other/%E9%9A%8F%E8%AE%B0.html)
 - [高可用通用方案](https://justsoso.fun/other/%E9%AB%98%E5%8F%AF%E7%94%A8%E9%80%9A%E7%94%A8%E6%96%B9%E6%A1%88.html)
