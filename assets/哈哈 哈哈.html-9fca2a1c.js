@@ -1,0 +1,1 @@
+import{_ as t,$ as a,a0 as _,a1 as e,a2 as s}from"./framework-3895bb24.js";const c={},o=e("h2",{id:"测试",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#测试","aria-hidden":"true"},"#"),s(" 测试")],-1),n=e("p",null,"下单法第三方",-1),r=[o,n];function d(i,l){return a(),_("div",null,r)}const f=t(c,[["render",d],["__file","哈哈 哈哈.html.vue"]]);export{f as default};
