@@ -1,0 +1,23 @@
+import{_ as t,$ as o,a0 as r,a1 as s,a3 as n,a4 as l,a5 as i,a2 as a,w as d}from"./framework-3895bb24.js";const u={},c=i(`<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>
+
+<span class="token comment">#!/usr/bin/env bash</span>
+<span class="token builtin class-name">echo</span> <span class="token variable">$1</span>
+
+sshpass <span class="token parameter variable">-p</span> <span class="token string">&quot;yourpassword&quot;</span> <span class="token function">ssh</span> root@<span class="token variable">$1</span> <span class="token operator">&lt;&lt;</span> <span class="token string">EOF
+
+yum install python-setuptools &amp;&amp; easy_install pip
+
+pip install shadowsocks
+
+sudo mkdir /etc/shadowsocks
+
+echo &#39;{&quot;server&quot;:&quot;0.0.0.0&quot;,&quot;server_port&quot;:12345,&quot;local_address&quot;: &quot;127.0.0.1&quot;,&quot;local_port&quot;:1080,&quot;password&quot;:&quot;yourpassword&quot;, &quot;timeout&quot;:1200,&quot;method&quot;:&quot;aes-256-cfb&quot;,&quot;fast_open&quot;: true,&quot;workers&quot;:3}&#39; &gt;&gt; /etc/shadowsocks/shadowsocks.json
+
+ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
+EOF</span>
+
+
+
+<span class="token function">docker</span> pull oddrationale/docker-shadowsocks
+<span class="token function">docker</span> run <span class="token parameter variable">-d</span> <span class="token parameter variable">-p</span> <span class="token number">12345</span>:12345 oddrationale/docker-shadowsocks <span class="token parameter variable">-s</span> <span class="token number">0.0</span>.0.0 <span class="token parameter variable">-p</span> <span class="token number">12345</span> <span class="token parameter variable">-k</span> yourpassword <span class="token parameter variable">-m</span> aes-256-cfb
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><br><h2 id="系统推荐" tabindex="-1"><a class="header-anchor" href="#系统推荐" aria-hidden="true">#</a> 系统推荐</h2>`,3),p=s("p",null,[s("br"),s("br"),s("br"),s("br"),s("br"),s("br")],-1),m=s("hr",null,null,-1),v=s("hr",null,null,-1),h=s("ul",null,[s("li",null,[s("strong",null,"随机毒鸡汤"),a("：你以为浪子回头金不换，其实浪子可能只是，上岸缓一缓。 "),s("br"),s("br"),s("img",{src:"https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=858f3ca5-1cef-4280-9b93-a205c164c0ac",alt:"",loading:"lazy"})])],-1);function b(k,E){const e=d("RouterLink");return o(),r("div",null,[c,s("ul",null,[s("li",null,[n(e,{to:"/software/jvm/JVM%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE.html"},{default:l(()=>[a("JVM参数设置")]),_:1})]),s("li",null,[n(e,{to:"/other/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85Google%20BBR.html"},{default:l(()=>[a("如何安装Google BBR")]),_:1})]),s("li",null,[n(e,{to:"/other/istio%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html"},{default:l(()=>[a("istio基础知识")]),_:1})]),s("li",null,[n(e,{to:"/software/java-basic/%E5%B8%B8%E7%94%A8%E9%98%9F%E5%88%97.html"},{default:l(()=>[a("常用队列")]),_:1})]),s("li",null,[n(e,{to:"/software/unclassified/PasteImageIntoMarkdown%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.html"},{default:l(()=>[a("PasteImageIntoMarkdown插件开发")]),_:1})]),s("li",null,[n(e,{to:"/software/unclassified/gperftools.html"},{default:l(()=>[a("gperftools")]),_:1})]),s("li",null,[n(e,{to:"/software/unclassified/Markdown%E8%BD%AF%E4%BB%B6%E6%AF%94%E5%AF%B9.html"},{default:l(()=>[a("Markdown软件比对")]),_:1})]),s("li",null,[n(e,{to:"/software/java-basic/ReentrantLock%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.html"},{default:l(()=>[a("ReentrantLock源码解读")]),_:1})]),s("li",null,[n(e,{to:"/intro.html"},{default:l(()=>[a("intro")]),_:1})]),s("li",null,[n(e,{to:"/other/Mermaid%E7%A4%BA%E4%BE%8B.html"},{default:l(()=>[a("Mermaid示例")]),_:1})]),s("li",null,[n(e,{to:"/other/vuepress-theme-hope%20%E6%B7%BB%E5%8A%A0%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A.html"},{default:l(()=>[a("vuepress-theme-hope 添加谷歌广告")]),_:1})]),s("li",null,[n(e,{to:"/other/Hbase%20%E6%80%BB%E8%A7%88.html"},{default:l(()=>[a("Hbase 总览")]),_:1})])]),p,m,v,h])}const f=t(u,[["render",b],["__file","ShadowsockServer.html.vue"]]);export{f as default};
