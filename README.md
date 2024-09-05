@@ -145,4 +145,5 @@
 - [表单重复提交解决方案](https://justsoso.fun/software/unclassified/%E8%A1%A8%E5%8D%95%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html)
 - [记一次内存泄漏](https://justsoso.fun/software/unclassified/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F.html)
 - [随机图片在线接口](https://justsoso.fun/other/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E5%9C%A8%E7%BA%BF%E6%8E%A5%E5%8F%A3.html)
+- [随记](https://justsoso.fun/other/%E9%9A%8F%E8%AE%B0.html)
 - [高可用通用方案](https://justsoso.fun/other/%E9%AB%98%E5%8F%AF%E7%94%A8%E9%80%9A%E7%94%A8%E6%96%B9%E6%A1%88.html)
