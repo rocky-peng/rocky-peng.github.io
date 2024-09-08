@@ -1,0 +1,23 @@
+import{_ as t,$ as o,a0 as i,a1 as s,a3 as n,a4 as l,a5 as r,a2 as e,w as d}from"./framework-58787b1c.js";const u={},c=r(`<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>
+
+<span class="token comment">#!/usr/bin/env bash</span>
+<span class="token builtin class-name">echo</span> <span class="token variable">$1</span>
+
+sshpass <span class="token parameter variable">-p</span> <span class="token string">&quot;yourpassword&quot;</span> <span class="token function">ssh</span> root@<span class="token variable">$1</span> <span class="token operator">&lt;&lt;</span> <span class="token string">EOF
+
+yum install python-setuptools &amp;&amp; easy_install pip
+
+pip install shadowsocks
+
+sudo mkdir /etc/shadowsocks
+
+echo &#39;{&quot;server&quot;:&quot;0.0.0.0&quot;,&quot;server_port&quot;:12345,&quot;local_address&quot;: &quot;127.0.0.1&quot;,&quot;local_port&quot;:1080,&quot;password&quot;:&quot;yourpassword&quot;, &quot;timeout&quot;:1200,&quot;method&quot;:&quot;aes-256-cfb&quot;,&quot;fast_open&quot;: true,&quot;workers&quot;:3}&#39; &gt;&gt; /etc/shadowsocks/shadowsocks.json
+
+ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
+EOF</span>
+
+
+
+<span class="token function">docker</span> pull oddrationale/docker-shadowsocks
+<span class="token function">docker</span> run <span class="token parameter variable">-d</span> <span class="token parameter variable">-p</span> <span class="token number">12345</span>:12345 oddrationale/docker-shadowsocks <span class="token parameter variable">-s</span> <span class="token number">0.0</span>.0.0 <span class="token parameter variable">-p</span> <span class="token number">12345</span> <span class="token parameter variable">-k</span> yourpassword <span class="token parameter variable">-m</span> aes-256-cfb
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><br><h2 id="系统推荐" tabindex="-1"><a class="header-anchor" href="#系统推荐" aria-hidden="true">#</a> 系统推荐</h2>`,3),p=s("p",null,[s("br"),s("br"),s("br"),s("br"),s("br"),s("br")],-1),m=s("hr",null,null,-1),v=s("hr",null,null,-1),h=s("ul",null,[s("li",null,[s("strong",null,"随机毒鸡汤"),e("：承蒙你的出现，够我烦心好几年。 "),s("br"),s("br"),s("img",{src:"https://tuapi.eees.cc/api.php?category=fengjing&type=302&uuid=97598391-f135-45f2-aa4f-13de4ea328df",alt:"",loading:"lazy"})])],-1);function b(f,k){const a=d("RouterLink");return o(),i("div",null,[c,s("ul",null,[s("li",null,[n(a,{to:"/software/unclassified/MAT%E5%B7%A5%E5%85%B7.html"},{default:l(()=>[e("MAT工具")]),_:1})]),s("li",null,[n(a,{to:"/other/Notion%E7%AC%94%E8%AE%B0%E5%AE%9A%E6%97%B6%E5%A4%87%E4%BB%BD.html"},{default:l(()=>[e("Notion笔记定时备份")]),_:1})]),s("li",null,[n(a,{to:"/software/unclassified/%E5%90%84%E7%A7%8D%E7%BD%91%E5%85%B3%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.html"},{default:l(()=>[e("各种网关性能测试")]),_:1})]),s("li",null,[n(a,{to:"/other/Sublime%20Text%20%E6%A0%BC%E5%BC%8F%E5%8C%96JSON.html"},{default:l(()=>[e("Sublime Text 格式化JSON")]),_:1})]),s("li",null,[n(a,{to:"/other/Spring%20RetryTemplate.html"},{default:l(()=>[e("Spring RetryTemplate")]),_:1})]),s("li",null,[n(a,{to:"/other/Redis%E9%AB%98%E5%8F%AF%E7%94%A8.html"},{default:l(()=>[e("Redis高可用")]),_:1})]),s("li",null,[n(a,{to:"/software/unclassified/gperftools.html"},{default:l(()=>[e("gperftools")]),_:1})]),s("li",null,[n(a,{to:"/software/middleware/mysql/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1Seata.html"},{default:l(()=>[e("分布式事务Seata")]),_:1})]),s("li",null,[n(a,{to:"/software/java-basic/Java%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.html"},{default:l(()=>[e("Java面试基础")]),_:1})]),s("li",null,[n(a,{to:"/software/raft/sofajraft.html"},{default:l(()=>[e("sofajraft")]),_:1})]),s("li",null,[n(a,{to:"/other/Linux%20dev%20shm%E7%9B%AE%E5%BD%95.html"},{default:l(()=>[e("Linux dev shm目录")]),_:1})]),s("li",null,[n(a,{to:"/other/WebSocket%20SpringBoot%20Demo.html"},{default:l(()=>[e("WebSocket SpringBoot Demo")]),_:1})])]),p,m,v,h])}const E=t(u,[["render",b],["__file","ShadowsockServer.html.vue"]]);export{E as default};
