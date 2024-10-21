@@ -61,6 +61,7 @@
 - [middleware](https://justsoso.fun/software/middleware/)
 - [MongoDB高可用](https://justsoso.fun/other/MongoDB%E9%AB%98%E5%8F%AF%E7%94%A8.html)
 - [mq](https://justsoso.fun/software/middleware/mq/)
+- [MyBatis xml特殊字符处理](https://justsoso.fun/other/MyBatis%20xml%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6%E5%A4%84%E7%90%86.html)
 - [MyBatis](https://justsoso.fun/software/unclassified/MyBatis.html)
 - [mysql](https://justsoso.fun/software/middleware/mysql/)
 - [MySQL三大日志](https://justsoso.fun/software/middleware/mysql/MySQL%E4%B8%89%E5%A4%A7%E6%97%A5%E5%BF%97.html)
