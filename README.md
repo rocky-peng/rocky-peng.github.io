@@ -38,6 +38,7 @@
 - [Java语言完成notion笔记备份](https://justsoso.fun/other/Java%E8%AF%AD%E8%A8%80%E5%AE%8C%E6%88%90notion%E7%AC%94%E8%AE%B0%E5%A4%87%E4%BB%BD.html)
 - [Java面试基础](https://justsoso.fun/software/java-basic/Java%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.html)
 - [JDK命令行工具](https://justsoso.fun/software/jvm/JDK%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7.html)
+- [JetBrains IDE 全破解](https://justsoso.fun/other/JetBrains%20IDE%20%E5%85%A8%E7%A0%B4%E8%A7%A3.html)
 - [JetBrains-License-Server](https://justsoso.fun/other/JetBrains-License-Server.html)
 - [jvm](https://justsoso.fun/software/jvm/)
 - [JVM参数设置](https://justsoso.fun/software/jvm/JVM%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE.html)
