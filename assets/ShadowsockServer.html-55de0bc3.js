@@ -1,0 +1,23 @@
+import{_ as t,$ as o,a0 as i,a1 as s,a3 as n,a4 as l,a5 as r,a2 as e,w as d}from"./framework-b3a0f150.js";const u={},c=r(`<div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>
+
+<span class="token comment">#!/usr/bin/env bash</span>
+<span class="token builtin class-name">echo</span> <span class="token variable">$1</span>
+
+sshpass <span class="token parameter variable">-p</span> <span class="token string">&quot;yourpassword&quot;</span> <span class="token function">ssh</span> root@<span class="token variable">$1</span> <span class="token operator">&lt;&lt;</span> <span class="token string">EOF
+
+yum install python-setuptools &amp;&amp; easy_install pip
+
+pip install shadowsocks
+
+sudo mkdir /etc/shadowsocks
+
+echo &#39;{&quot;server&quot;:&quot;0.0.0.0&quot;,&quot;server_port&quot;:12345,&quot;local_address&quot;: &quot;127.0.0.1&quot;,&quot;local_port&quot;:1080,&quot;password&quot;:&quot;yourpassword&quot;, &quot;timeout&quot;:1200,&quot;method&quot;:&quot;aes-256-cfb&quot;,&quot;fast_open&quot;: true,&quot;workers&quot;:3}&#39; &gt;&gt; /etc/shadowsocks/shadowsocks.json
+
+ssserver -c /etc/shadowsocks/shadowsocks.json -d restart
+EOF</span>
+
+
+
+<span class="token function">docker</span> pull oddrationale/docker-shadowsocks
+<span class="token function">docker</span> run <span class="token parameter variable">-d</span> <span class="token parameter variable">-p</span> <span class="token number">12345</span>:12345 oddrationale/docker-shadowsocks <span class="token parameter variable">-s</span> <span class="token number">0.0</span>.0.0 <span class="token parameter variable">-p</span> <span class="token number">12345</span> <span class="token parameter variable">-k</span> yourpassword <span class="token parameter variable">-m</span> aes-256-cfb
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><br><h2 id="系统推荐" tabindex="-1"><a class="header-anchor" href="#系统推荐" aria-hidden="true">#</a> 系统推荐</h2>`,3),p=s("p",null,[s("br"),s("br"),s("br"),s("br"),s("br"),s("br")],-1),m=s("hr",null,null,-1),v=s("hr",null,null,-1),h=s("ul",null,[s("li",null,[s("strong",null,"随机毒鸡汤"),e("：人如果不炫耀，那人与人之间，有什么区别呢？ "),s("br"),s("br"),s("img",{src:"https://tuapi.eees.cc/api.php?category=biying&type=302&uuid=f311ba78-6d03-44a3-a933-98cd81c01666",alt:"",loading:"lazy"})])],-1);function b(_,f){const a=d("RouterLink");return o(),i("div",null,[c,s("ul",null,[s("li",null,[n(a,{to:"/software/unclassified/Cordova+Umi%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4.html"},{default:l(()=>[e("Cordova+Umi项目搭建步骤")]),_:1})]),s("li",null,[n(a,{to:"/software/unclassified/Oh%20My%20ZSH.html"},{default:l(()=>[e("Oh My ZSH")]),_:1})]),s("li",null,[n(a,{to:"/software/unclassified/MAT%E5%B7%A5%E5%85%B7.html"},{default:l(()=>[e("MAT工具")]),_:1})]),s("li",null,[n(a,{to:"/other/PostgreSQL%E5%AE%9A%E6%97%B6%E5%A4%87%E4%BB%BD.html"},{default:l(()=>[e("PostgreSQL定时备份")]),_:1})]),s("li",null,[n(a,{to:"/other/MongoDB%E9%AB%98%E5%8F%AF%E7%94%A8.html"},{default:l(()=>[e("MongoDB高可用")]),_:1})]),s("li",null,[n(a,{to:"/other/Censys%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%AD%A6%E4%B9%A0.html"},{default:l(()=>[e("Censys搜索引擎学习")]),_:1})]),s("li",null,[n(a,{to:"/software/unclassified/linux_no_space_left_on_device.html"},{default:l(()=>[e("linux_no_space_left_on_device")]),_:1})]),s("li",null,[n(a,{to:"/software/unclassified/gperftools.html"},{default:l(()=>[e("gperftools")]),_:1})]),s("li",null,[n(a,{to:"/other/Spring%20Boot%E5%8D%87%E7%BA%A7%E5%88%B02%206%20x%E8%B8%A9%E7%9A%84%E5%9D%91.html"},{default:l(()=>[e("Spring Boot升级到2 6 x踩的坑")]),_:1})]),s("li",null,[n(a,{to:"/software/middleware/mysql/SQL%E4%BC%98%E5%8C%96.html"},{default:l(()=>[e("SQL优化")]),_:1})]),s("li",null,[n(a,{to:"/intro.html"},{default:l(()=>[e("intro")]),_:1})]),s("li",null,[n(a,{to:"/other/Hbase%20%E6%80%BB%E8%A7%88.html"},{default:l(()=>[e("Hbase 总览")]),_:1})])]),p,m,v,h])}const E=t(u,[["render",b],["__file","ShadowsockServer.html.vue"]]);export{E as default};
