@@ -28,6 +28,7 @@
 - [Hadoop 一](https://justsoso.fun/other/Hadoop%20%E4%B8%80.html)
 - [Hbase 总览](https://justsoso.fun/other/Hbase%20%E6%80%BB%E8%A7%88.html)
 - [HTTP1 0 vs HTTP1 1 vs WebSocket](https://justsoso.fun/other/HTTP1%200%20vs%20HTTP1%201%20vs%20WebSocket.html)
+- [https和http混用解决办法](https://justsoso.fun/other/https%E5%92%8Chttp%E6%B7%B7%E7%94%A8%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.html)
 - [index方法压力测试记录](https://justsoso.fun/software/unclassified/index%E6%96%B9%E6%B3%95%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E8%AE%B0%E5%BD%95.html)
 - [InnoDB存储引擎](https://justsoso.fun/software/middleware/mysql/InnoDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E.html)
 - [intro](https://justsoso.fun/intro.html)
