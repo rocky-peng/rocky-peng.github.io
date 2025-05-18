@@ -101,6 +101,7 @@
 - [sofajraft](https://justsoso.fun/software/raft/sofajraft.html)
 - [software](https://justsoso.fun/software/)
 - [Spring Boot升级到2 6 x踩的坑](https://justsoso.fun/other/Spring%20Boot%E5%8D%87%E7%BA%A7%E5%88%B02%206%20x%E8%B8%A9%E7%9A%84%E5%9D%91.html)
+- [Spring Cloud Gateway收到的是http请求，但schema却是https](https://justsoso.fun/other/Spring%20Cloud%20Gateway%E6%94%B6%E5%88%B0%E7%9A%84%E6%98%AFhttp%E8%AF%B7%E6%B1%82%EF%BC%8C%E4%BD%86schema%E5%8D%B4%E6%98%AFhttps.html)
 - [Spring Cloud（一）：服务治理技术概览【Finchley 版】](https://justsoso.fun/software/spring/Spring%20Cloud%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E6%8A%80%E6%9C%AF%E6%A6%82%E8%A7%88%E3%80%90Finchley%20%E7%89%88%E3%80%91.html)
 - [Spring RetryTemplate](https://justsoso.fun/other/Spring%20RetryTemplate.html)
 - [SpringBoot服务在服务启动完成前被提前注册到nacos](https://justsoso.fun/other/SpringBoot%E6%9C%8D%E5%8A%A1%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8%E5%AE%8C%E6%88%90%E5%89%8D%E8%A2%AB%E6%8F%90%E5%89%8D%E6%B3%A8%E5%86%8C%E5%88%B0nacos.html)
